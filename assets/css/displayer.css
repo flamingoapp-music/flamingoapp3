@@ -1,0 +1,412 @@
+:root {
+	--main-color: #1DB954;
+	--main-bg: #1e2a48;
+	--circle-bg: #1DB954;
+	--card-border: #1DB954;
+}
+
+body.apple_music-active {
+	--main-color: #F5F5F7;
+	--main-bg: #1e2a48;
+	--circle-bg: #F5F5F7;
+	--card-border: #F5F5F7;
+}
+
+body.youtube-active {
+	--main-color: #FF0000;
+	--main-bg: #1e2a48;
+	--circle-bg: #FF0000;
+	--card-border: #FF0000;
+}
+
+body.billboard-active {
+	--main-color: #00ff9a;
+	--main-bg: #1e2a48;
+	--circle-bg: #00ff9a;
+	--card-border: #00ff9a;
+}
+
+.section-header {
+	text-align: center;
+	margin: 2em 0 1em 0;
+}
+
+.section-header h2 {
+	font-size: 2rem;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+	color: #f1f1f1;
+}
+
+.section-header p {
+	font-size: 1rem;
+	color: #ccc;
+}
+
+
+#chart-preview {
+	background: #31394c;
+	padding: 2rem 1rem;
+	text-align: center;
+}
+
+/* === TABS === */
+.chart-toggle-buttons {
+	margin-bottom: 1rem;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.chart-tab {
+	border: 2px solid #fa709a;
+	background: transparent;
+	color: #fa709a;
+	padding: 0.5rem 1.2rem;
+	font-weight: bold;
+	cursor: pointer;
+	transition: 0.3s;
+	border-radius: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 40px;
+}
+
+.chart-tab.active {
+	background: #fa709a;
+	color: #1e2a48;
+}
+
+/* === CARDS === */
+.chart-cards {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+	flex-wrap: wrap;
+	margin-top: 2rem;
+}
+
+.chart-card {
+	background: #1d202e;
+	border-radius: 1rem;
+	width: 200px;
+	padding: 0.5rem;
+	position: relative;
+	box-shadow: 0 0 8px rgba(250, 112, 154, 0.3);
+	transition: transform 0.2s ease;
+}
+
+.chart-card:hover {
+	transform: scale(1.02);
+}
+
+.chart-img {
+	width: 100%;
+	height: auto;
+	border-radius: 1rem;
+	border: 2px solid #fa709a;
+}
+
+.chart-rank {
+	position: absolute;
+	top: -12px;
+	left: -12px;
+	background: #fa709a;
+	color: #1d202e;
+	font-weight: bold;
+	border-radius: 50%;
+	width: 28px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	font-size: 0.9rem;
+	box-shadow: 0 0 6px #fa709a;
+}
+
+.chart-title {
+	font-weight: bold;
+	margin-top: 0.5rem;
+	color: white;
+	font-size: 1.1rem;
+}
+
+.chart-artist {
+	color: #fa709a;
+	font-size: 0.9rem;
+}
+
+/* === FOOTER === */
+.chart-footer {
+	margin-top: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 2rem;
+	font-weight: bold;
+	color: #fa709a;
+}
+
+.view-all-button {
+	background: transparent;
+	color: #fa709a;
+	padding: 0.5rem 1rem;
+	border: 2px solid #fa709a;
+	text-decoration: none;
+	transition: 0.2s;
+	border-radius: 10px;
+}
+
+.view-all-button:hover {
+	background: #fa709a;
+	color: #1e2a48;
+}
+
+/* === ARTIST CARDS (YELLOW STYLE) === */
+
+.chart-tab-artist {
+	margin-top: 2em;
+	border: 2px solid #ffe680;
+	background: transparent;
+	color: #ffe680;
+	padding: 0.5rem 1.2rem;
+	font-weight: bold;
+	cursor: pointer;
+	transition: 0.3s;
+	border-radius: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 40px;
+}
+
+.chart-tab-artist.active {
+	background: #ffe680;
+	color: #1e2a48;
+}
+
+.chart-card.artist-card {
+	background: #1d202e;
+	border-radius: 1rem;
+	width: 200px;
+	padding: 0.5rem;
+	position: relative;
+	box-shadow: 0 0 8px rgba(255, 230, 100, 0.3);
+	transition: transform 0.2s ease;
+}
+
+.chart-card.artist-card:hover {
+	transform: scale(1.02);
+}
+
+.chart-card.artist-card .chart-img {
+	border: 2px solid #ffe680;
+}
+
+.chart-card.artist-card .chart-rank {
+	background: #ffe680;
+	color: #1d202e;
+	box-shadow: 0 0 6px #ffe680;
+}
+
+.chart-card.artist-card .chart-title {
+	color: white;
+	font-size: 1.1rem;
+}
+
+.chart-card.artist-card .chart-artist {
+	color: #ffe680;
+	font-size: 0.9rem;
+}
+
+.chart-footer.artist-footer {
+	color: #ffe680;
+}
+
+.view-all-button.artist-button {
+	color: #ffe680;
+	border: 2px solid #ffe680;
+	margin-bottom: 2em;
+}
+
+.view-all-button.artist-button:hover {
+	background: #ffe680;
+	color: #1e2a48;
+}
+
+/* === STREAMING CARDS (Spotify Style - standardized) === */
+.chart-tab-stream {
+	margin-top: 2em;
+	border: 2px solid var(--main-color);
+	background: transparent;
+	color: var(--main-color);
+	padding: 0.5rem 1.2rem;
+	font-weight: bold;
+	cursor: pointer;
+	transition: 0.3s;
+	border-radius: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 40px;
+}
+
+.chart-tab-stream.active {
+	background: var(--main-color);
+	color: #1e2a48;
+}
+
+.chart-card.stream-card {
+	background: #1d202e;
+	padding-top: 1.5rem;
+	border-radius: 1rem;
+	width: 200px;
+	padding: 0.5rem;
+	position: relative;
+	box-shadow: 0 0 8px rgba(26, 188, 156, 0.3);
+	transition: transform 0.2s ease;
+}
+
+.chart-card.stream-card:hover {
+	transform: scale(1.02);
+}
+
+.chart-card.stream-card .chart-img {
+	border: 2px solid var(--main-color);
+	width: 100%;
+	height: auto;
+	border-radius: 1rem;
+}
+
+.chart-card.stream-card .chart-rank {
+	background: var(--main-color);
+	color: #1d202e;
+	position: absolute;
+	top: -14px;
+	left: -14px;
+	width: 34px;
+	height: 34px;
+	line-height: 34px;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 50%;
+	box-shadow: 0 0 6px var(--main-color);
+	font-size: 1rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 2px;
+	overflow: hidden;
+}
+
+.chart-card.stream-card .chart-flag {
+	width: 20px;
+	height: 14px;
+	border-radius: 2px;
+	object-fit: cover;
+}
+
+.chart-card.stream-card .chart-title {
+	color: white;
+	font-size: 1.1rem;
+	font-weight: bold;
+	margin-top: 0.5rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	width: 100%;
+	display: block;
+}
+
+.chart-card.stream-card .chart-artist {
+	color: var(--main-color);
+	font-size: 0.9rem;
+	margin-top: 0.2rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	width: 100%;
+	display: block;
+}
+
+/* Green buttons for ranks 2-5 */
+.chart-card.stream-card .chart-others {
+	margin-top: 1rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.chart-card.stream-card .chart-others button {
+	background-color: var(--main-color);
+	color: black !important;
+	border: none;
+	padding: 0.4rem;
+	border-radius: 0.5rem;
+	cursor: default;
+	font-weight: bold;
+	white-space: normal;
+	word-break: break-word;
+	text-align: left;
+	width: 100%;
+	box-sizing: border-box;
+	font-size: 0.5rem;
+	line-height: 1.2;
+	display: flex;
+	align-items: center;
+}
+
+.view-all-button.stream-button {
+	color: var(--main-color);
+	border: 2px solid var(--main-color);
+	margin-bottom: 2em;
+}
+
+.view-all-button.stream-button:hover {
+	background: var(--main-color);
+	color: #1e2a48;
+}
+
+/* === Spotify Carousel (Arrows) === */
+.spotify-section {
+	background-color: #2c3e50;
+	padding: 2rem 1rem;
+	border-radius: 1rem;
+	margin-bottom: 2rem;
+}
+
+.spotify-carousel {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5em;
+	margin-top: 2em;
+	position: relative;
+}
+
+.chart-cards-streaming {
+	display: flex;
+	overflow-x: auto;
+	gap: 1em;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 1rem;
+}
+
+.spotify-nav {
+	background-color: var(--main-color);
+	color: white;
+	border: none;
+	padding: 0.2em 1em;
+	font-size: 0.5em;
+	cursor: pointer;
+	border-radius: 0.5em;
+	z-index: 10;
+}
+
+.spotify-nav:hover {
+	background-color: #1ea64b;
+}
+
+

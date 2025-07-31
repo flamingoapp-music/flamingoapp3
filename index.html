@@ -1,0 +1,152 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>FlamingoApp</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/displayer.css" />
+	<link rel="icon" href="images/logoo.ico" type="image/x-icon">
+	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+	<!-- Header -->
+	<header id="header" class="banner-header alt">
+		<div class="inner-header">
+			<a href="index.html" class="logo"><strong>F L A M I N G O&nbsp;&nbsp;A P P</strong></a>
+			<nav>
+				<ul class="nav-links">
+					<li class="chart-menu">
+						<a href="#">CHARTS</a>
+						<ul class="chart-submenu">
+							<li><a href="spotifycharts.html">Spotify</a></li>
+							<li><a href="applemusiccharts.html">Apple Music</a></li>
+							<li><a href="youtubecharts.html">YouTube</a></li>
+							<li><a href="billboardcharts.html">Billboard</a></li>
+						</ul>
+					</li>
+					<li><a href="topartists.html">ARTISTS</a></li>
+					<li><a href="topsongs.html">NEW MUSIC</a></li>
+					<!--<li><a href="#analytics">ANALYTICS</a></li>-->
+					<li><a href="https://phillipbr.github.io/">ABOUT US</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<!-- Banner -->
+	<section id="banner" class="major">
+		<div class="inner">
+			<header class="major">
+				<h1>FlamingoApp</h1>
+			</header>
+			<div class="content">
+				<p>Your hub for top music charts and trends</p>
+				<ul class="actions">
+					<li><a href="spotifycharts.html" class="button next scrolly">FIND CHARTS</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<!-- Chart Preview Section -->
+	<section id="chart-preview">
+		<header class="section-header">
+			<h2>Top Songs</h2>
+			<p>Discover the most trending tracks this week, month, and overall across all platforms.</p>
+		</header>
+
+		<div class="chart-toggle-buttons">
+			<button class="chart-tab active" data-chart="week">Trends of the Week</button>
+			<button class="chart-tab" data-chart="month">Trends of Month</button>
+			<button class="chart-tab" data-chart="general">Trends General</button>
+		</div>
+
+		<div class="chart-cards" id="chartCardsContainer">
+			<!-- JS will inject top 5 songs here -->
+		</div>
+
+		<div class="chart-footer">
+			<span>WEEK OF 7/30/2025</span>
+			<a id="viewAllButton" href="topsongs.html?chart=top_weekly" class="view-all-button">VIEW ALL</a>
+		</div>
+	</section>
+
+	<section id="chart-preview-artists">
+		<header class="section-header">
+			<h2>Top Artists</h2>
+			<p>Explore who’s dominating the charts now and over time, categorized by trend duration.</p>
+		</header>
+
+		<div class="chart-toggle-buttons">
+			<button class="chart-tab-artist active" data-chart="week">Trends of the Week</button>
+			<button class="chart-tab-artist" data-chart="month">Trends of Month</button>
+			<button class="chart-tab-artist" data-chart="general">Trends General</button>
+		</div>
+
+		<div class="chart-cards" id="chartCardsContainerArtists">
+			<!-- Artist cards will be injected here -->
+		</div>
+
+		<div class="chart-footer artist-footer">
+			<a id="viewAllButtonArtists" class="view-all-button artist-button">VIEW ALL</a>
+
+		</div>
+
+	</section>
+
+	<section id="chart-preview-stream">
+		<header class="section-header">
+			<h2>Streaming Platform Highlights</h2>
+			<p>Preview the current top 5 tracks from Spotify, Apple Music, YouTube, and Billboard.</p>
+		</header>
+
+
+		<div class="chart-toggle-buttons">
+			<button class="chart-tab-stream active" data-platform="spotify">Spotify</button>
+			<button class="chart-tab-stream" data-platform="apple_music">Apple Music</button>
+			<button class="chart-tab-stream" data-platform="youtubeInsights">YouTube</button>
+			<button class="chart-tab-stream" data-platform="billboard">Billboard</button>
+		</div>
+
+
+
+		<div class="spotify-carousel">
+			<button class="spotify-nav left">&#10094;</button>
+			<div class="chart-cards chart-cards-streaming" id="chartCardsContainerStreaming">
+				<!-- One card for top 1 and green list for 2–5 will be injected -->
+			</div>
+			<button class="spotify-nav right">&#10095;</button>
+		</div>
+
+		<div class="chart-footer stream-footer">
+			<a id="viewAllButtonStreaming" href="spotifycharts.html" class="view-all-button stream-button">VIEW ALL</a>
+		</div>
+
+	</section>
+
+
+
+
+
+	</section>
+
+
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/displayer.js"></script>
+
+</body>
+</html>
