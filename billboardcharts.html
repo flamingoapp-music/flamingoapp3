@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	<title>FlamingoApp</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/charts.css" />
+	<link rel="icon" href="images/logoo.ico" type="image/x-icon">
+	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+
+	<header id="header" class="banner-header alt">
+		<div class="inner-header">
+			<a href="index.html" class="logo"><strong>F L A M I N G O&nbsp;&nbsp;A P P</strong></a>
+			<nav>
+				<ul class="nav-links">
+					<li class="chart-menu">
+						<a href="#">CHARTS</a>
+						<ul class="chart-submenu">
+							<li><a href="spotifycharts.html">Spotify</a></li>
+							<li><a href="applemusiccharts.html">Apple Music</a></li>
+							<li><a href="youtubecharts.html">YouTube</a></li>
+							<li><a href="billboardcharts.html">Billboard</a></li>
+						</ul>
+					</li>
+					<li><a href="topartists.html">ARTISTS</a></li>
+					<li><a href="topsongs.html">NEW MUSIC</a></li>
+					<!--<li><a href="#analytics">ANALYTICS</a></li>-->
+					<li><a href="#aboutus">ABOUT US</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+
+
+
+
+	<div class="main-container">
+		<div class="background-image"></div>
+		<div class="content red-bordered-square">
+
+			<!-- Title Strip -->
+			<div class="strip title-strip">
+				<img id="platformLogo" src="" alt="Platform Logo" class="platform-logo" />
+				<h2 id="countryName">TOP SPOTIFY GLOBAL CHARTS</h2>
+				<img id="countryIcon" src="" alt="Country Icon" class="country-icon" />
+			</div>
+
+			<!-- Country Selection -->
+			<div class="dropdown-container">
+				<select id="chartSelect">
+					<option value="hot100" selected>Billboard Hot 100</option>
+					<option value="global200">Billboard Global 200</option>
+				</select>
+			</div>
+
+			<!-- List Section -->
+			<div class="blue-box">
+				<ul id="songList" class="song-list">
+					<!-- Dynamic list will be injected here -->
+				</ul>
+			</div>
+
+		</div>
+	</div>
+
+
+
+
+
+</div>
+</body>
+
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/charts_billboard.js"></script>
+
+
+
+</html>

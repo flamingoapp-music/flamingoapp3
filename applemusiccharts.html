@@ -1,0 +1,257 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	<title>FlamingoApp</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/charts.css" />
+	<link rel="icon" href="images/logoo.ico" type="image/x-icon">
+	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+
+	<header id="header" class="banner-header alt">
+		<div class="inner-header">
+			<a href="index.html" class="logo"><strong>F L A M I N G O&nbsp;&nbsp;A P P</strong></a>
+			<nav>
+				<ul class="nav-links">
+					<li class="chart-menu">
+						<a href="#">CHARTS</a>
+						<ul class="chart-submenu">
+							<li><a href="spotifycharts.html">Spotify</a></li>
+							<li><a href="applemusiccharts.html">Apple Music</a></li>
+							<li><a href="youtubecharts.html">YouTube</a></li>
+							<li><a href="billboardcharts.html">Billboard</a></li>
+						</ul>
+					</li>
+					<li><a href="topartists.html">ARTISTS</a></li>
+					<li><a href="topsongs.html">NEW MUSIC</a></li>
+					<!--<li><a href="#analytics">ANALYTICS</a></li>-->
+					<li><a href="https://phillipbr.github.io/">ABOUT US</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+
+
+
+	<div class="main-container">
+		<div class="background-image"></div>
+		<div class="content red-bordered-square">
+
+			<!-- Title Strip -->
+			<div class="strip title-strip">
+				<img id="platformLogo" src="" alt="Platform Logo" class="platform-logo" />
+				<h2 id="countryName">TOP SPOTIFY GLOBAL CHARTS</h2>
+				<img id="countryIcon" src="" alt="Country Icon" class="country-icon" />
+			</div>
+
+			<!-- Country Selection -->
+			<div class="dropdown-container">
+				<div class="dropdown-container">
+					<select id="countrySelect">
+
+						<optgroup label="🌍 Global">
+							<option value="global">🌍 Global</option>
+						</optgroup>
+
+						<optgroup label="🇺🇸 North America">
+							<option value="bz">🇧🇿 Belize</option>
+							<option value="ca">🇨🇦 Canada</option>
+							<option value="cr">🇨🇷 Costa Rica</option>
+							<option value="sv">🇸🇻 El Salvador</option>
+							<option value="gt">🇬🇹 Guatemala</option>
+							<option value="hn">🇭🇳 Honduras</option>
+							<option value="mx">🇲🇽 Mexico</option>
+							<option value="ni">🇳🇮 Nicaragua</option>
+							<option value="pa">🇵🇦 Panama</option>
+							<option value="us">🇺🇸 United States</option>
+						</optgroup>
+
+						<optgroup label="🌎 South America">
+							<option value="ar">🇦🇷 Argentina</option>
+							<option value="bo">🇧🇴 Bolivia</option>
+							<option value="br">🇧🇷 Brazil</option>
+							<option value="cl">🇨🇱 Chile</option>
+							<option value="co">🇨🇴 Colombia</option>
+							<option value="ec">🇪🇨 Ecuador</option>
+							<option value="gy">🇬🇾 Guyana</option>
+							<option value="py">🇵🇾 Paraguay</option>
+							<option value="pe">🇵🇪 Peru</option>
+							<option value="sr">🇸🇷 Suriname</option>
+							<option value="uy">🇺🇾 Uruguay</option>
+							<option value="ve">🇻🇪 Venezuela</option>
+						</optgroup>
+
+						<optgroup label="🇪🇺 Europe">
+							<option value="at">🇦🇹 Austria</option>
+							<option value="by">🇧🇾 Belarus</option>
+							<option value="be">🇧🇪 Belgium</option>
+							<option value="bg">🇧🇬 Bulgaria</option>
+							<option value="hr">🇭🇷 Croatia</option>
+							<option value="cy">🇨🇾 Cyprus</option>
+							<option value="cz">🇨🇿 Czech Republic</option>
+							<option value="dk">🇩🇰 Denmark</option>
+							<option value="ee">🇪🇪 Estonia</option>
+							<option value="fi">🇫🇮 Finland</option>
+							<option value="fr">🇫🇷 France</option>
+							<option value="de">🇩🇪 Germany</option>
+							<option value="gr">🇬🇷 Greece</option>
+							<option value="hu">🇭🇺 Hungary</option>
+							<option value="is">🇮🇸 Iceland</option>
+							<option value="ie">🇮🇪 Ireland</option>
+							<option value="it">🇮🇹 Italy</option>
+							<option value="lv">🇱🇻 Latvia</option>
+							<option value="lt">🇱🇹 Lithuania</option>
+							<option value="lu">🇱🇺 Luxembourg</option>
+							<option value="mt">🇲🇹 Malta</option>
+							<option value="md">🇲🇩 Moldova</option>
+							<option value="me">🇲🇪 Montenegro</option>
+							<option value="nl">🇳🇱 Netherlands</option>
+							<option value="mk">🇲🇰 North Macedonia</option>
+							<option value="no">🇳🇴 Norway</option>
+							<option value="pl">🇵🇱 Poland</option>
+							<option value="pt">🇵🇹 Portugal</option>
+							<option value="ro">🇷🇴 Romania</option>
+							<option value="ru">🇷🇺 Russia</option>
+							<option value="rs">🇷🇸 Serbia</option>
+							<option value="sk">🇸🇰 Slovakia</option>
+							<option value="si">🇸🇮 Slovenia</option>
+							<option value="es">🇪🇸 Spain</option>
+							<option value="se">🇸🇪 Sweden</option>
+							<option value="ch">🇨🇭 Switzerland</option>
+							<option value="ua">🇺🇦 Ukraine</option>
+							<option value="gb">🇬🇧 United Kingdom</option>
+						</optgroup>
+
+						<optgroup label="🌏 Asia">
+							<option value="am">🇦🇲 Armenia</option>
+							<option value="az">🇦🇿 Azerbaijan</option>
+							<option value="bh">🇧🇭 Bahrain</option>
+							<option value="bn">🇧🇳 Brunei Darussalam</option>
+							<option value="kh">🇰🇭 Cambodia</option>
+							<option value="cn">🇨🇳 China</option>
+							<option value="hk">🇭🇰 Hong Kong</option>
+							<option value="in">🇮🇳 India</option>
+							<option value="id">🇮🇩 Indonesia</option>
+							<option value="il">🇮🇱 Israel</option>
+							<option value="jp">🇯🇵 Japan</option>
+							<option value="jo">🇯🇴 Jordan</option>
+							<option value="kz">🇰🇿 Kazakhstan</option>
+							<option value="kw">🇰🇼 Kuwait</option>
+							<option value="kg">🇰🇬 Kyrgyzstan</option>
+							<option value="la">🇱🇦 Laos</option>
+							<option value="lb">🇱🇧 Lebanon</option>
+							<option value="my">🇲🇾 Malaysia</option>
+							<option value="mv">🇲🇻 Maldives</option>
+							<option value="mn">🇲🇳 Mongolia</option>
+							<option value="mm">🇲🇲 Myanmar</option>
+							<option value="np">🇳🇵 Nepal</option>
+							<option value="om">🇴🇲 Oman</option>
+							<option value="pk">🇵🇰 Pakistan</option>
+							<option value="ph">🇵🇭 Philippines</option>
+							<option value="qa">🇶🇦 Qatar</option>
+							<option value="sa">🇸🇦 Saudi Arabia</option>
+							<option value="sg">🇸🇬 Singapore</option>
+							<option value="kr">🇰🇷 South Korea</option>
+							<option value="lk">🇱🇰 Sri Lanka</option>
+							<option value="tw">🇹🇼 Taiwan</option>
+							<option value="tj">🇹🇯 Tajikistan</option>
+							<option value="th">🇹🇭 Thailand</option>
+							<option value="tr">🇹🇷 Turkey</option>
+							<option value="tm">🇹🇲 Turkmenistan</option>
+							<option value="ae">🇦🇪 United Arab Emirates</option>
+							<option value="uz">🇺🇿 Uzbekistan</option>
+							<option value="vn">🇻🇳 Vietnam</option>
+							<option value="ye">🇾🇪 Yemen</option>
+						</optgroup>
+
+						<optgroup label="🌍 Africa">
+							<option value="bj">🇧🇯 Benin</option>
+							<option value="bw">🇧🇼 Botswana</option>
+							<option value="bf">🇧🇫 Burkina Faso</option>
+							<option value="cm">🇨🇲 Cameroon</option>
+							<option value="cv">🇨🇻 Cape Verde</option>
+							<option value="eg">🇪🇬 Egypt</option>
+							<option value="gm">🇬🇲 Gambia</option>
+							<option value="gh">🇬🇭 Ghana</option>
+							<option value="gw">🇬🇼 Guinea-Bissau</option>
+							<option value="ke">🇰🇪 Kenya</option>
+							<option value="lr">🇱🇷 Liberia</option>
+							<option value="ly">🇱🇾 Libya</option>
+							<option value="mg">🇲🇬 Madagascar</option>
+							<option value="mw">🇲🇼 Malawi</option>
+							<option value="ml">🇲🇱 Mali</option>
+							<option value="mr">🇲🇷 Mauritania</option>
+							<option value="mu">🇲🇺 Mauritius</option>
+							<option value="ma">🇲🇦 Morocco</option>
+							<option value="mz">🇲🇿 Mozambique</option>
+							<option value="na">🇳🇦 Namibia</option>
+							<option value="ne">🇳🇪 Niger</option>
+							<option value="ng">🇳🇬 Nigeria</option>
+							<option value="cg">🇨🇬 Republic of the Congo</option>
+							<option value="rw">🇷🇼 Rwanda</option>
+							<option value="sn">🇸🇳 Senegal</option>
+							<option value="sc">🇸🇨 Seychelles</option>
+							<option value="sl">🇸🇱 Sierra Leone</option>
+							<option value="za">🇿🇦 South Africa</option>
+							<option value="sz">🇸🇿 Swaziland</option>
+							<option value="tz">🇹🇿 Tanzania</option>
+							<option value="tn">🇹🇳 Tunisia</option>
+							<option value="ug">🇺🇬 Uganda</option>
+							<option value="zm">🇿🇲 Zambia</option>
+							<option value="zw">🇿🇼 Zimbabwe</option>
+						</optgroup>
+
+						<optgroup label="🌊 Oceania">
+							<option value="au">🇦🇺 Australia</option>
+							<option value="fj">🇫🇯 Fiji</option>
+							<option value="fm">🇫🇲 Micronesia</option>
+							<option value="nz">🇳🇿 New Zealand</option>
+							<option value="pg">🇵🇬 Papua New Guinea</option>
+						</optgroup>
+
+					</select>
+				</div>
+
+
+			</div>
+
+			<!-- List Section -->
+			<div class="blue-box">
+				<ul id="songList" class="song-list">
+					<!-- Dynamic list will be injected here -->
+				</ul>
+			</div>
+
+		</div>
+	</div>
+
+
+
+
+
+</div>
+</body>
+
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/charts_apple.js"></script>
+
+
+
+</html>
