@@ -183,7 +183,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	};
 
 	const basePath = "DATABASES/TOP_ARTISTS/";
-	const artistFeaturesFile = basePath + "ARTIST_FEATURES_TOP.json";
+	const artistFeaturesFile = basePath + "ARTIST_FEATURES.json";
 
 	let chartKeys = ["week", "month", "general"];
 	let currentChartIndex = 0;
