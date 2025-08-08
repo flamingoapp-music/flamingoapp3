@@ -294,38 +294,23 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener("DOMContentLoaded", function () {
 	const container = document.getElementById("chartCardsContainerStreaming");
-	const leftBtn = document.querySelector(".spotify-nav.left");
-	const rightBtn = document.querySelector(".spotify-nav.right");
 	const toggleButtons = document.querySelectorAll(".chart-tab-stream");
 	const viewAllButton = document.getElementById("viewAllButtonStreaming");
 
 	const chartGroups = {
-		spotify: [
-			["us", "gb", "ca", "fr", "kr"],
-			["mx", "es", "ar", "co", "cl"]
-		],
-		apple_music: [
-			["us", "uk", "ca", "fr", "kr"],
-			["mx", "es", "ar", "co", "cl"]
-		],
-		youtubeInsights: [
-			["us", "uk", "ca", "fr", "kr"],
-			["mx", "es", "ar", "co", "cl"]
-		],
-		billboard: [
-			["hot100", "global200"]
-		]
+		spotify: [["us", "gb", "es", "mx", "kr"]],
+		apple_music: [["us", "uk", "es", "mx", "kr"]],
+		youtubeInsights: [["us", "uk", "es", "mx", "kr"]],
+		billboard: [["hot100", "global200"]]
 	};
 
 	let currentPlatform = "spotify";
-	let currentGroupIndex = 0;
 
 	toggleButtons.forEach(btn => {
 		btn.addEventListener("click", () => {
 			toggleButtons.forEach(b => b.classList.remove("active"));
 			btn.classList.add("active");
 			currentPlatform = btn.getAttribute("data-platform");
-			currentGroupIndex = 0;
 
 			document.body.classList.remove('apple_music-active', 'youtube-active', 'billboard-active');
 			document.body.classList.toggle('apple_music-active', currentPlatform === 'apple_music');
@@ -342,7 +327,7 @@ document.addEventListener("DOMContentLoaded", function () {
 				viewAllButton.href = "billboardcharts.html";
 			}
 
-			loadCharts(chartGroups[currentPlatform][currentGroupIndex], currentPlatform);
+			loadCharts(chartGroups[currentPlatform][0], currentPlatform);
 		});
 	});
 
@@ -454,21 +439,9 @@ document.addEventListener("DOMContentLoaded", function () {
 		}
 	}
 
-	function loadNextGroup() {
-		const groupList = chartGroups[currentPlatform];
-		currentGroupIndex = (currentGroupIndex + 1) % groupList.length;
-		loadCharts(groupList[currentGroupIndex], currentPlatform);
-	}
 
-	function loadPrevGroup() {
-		const groupList = chartGroups[currentPlatform];
-		currentGroupIndex = (currentGroupIndex - 1 + groupList.length) % groupList.length;
-		loadCharts(groupList[currentGroupIndex], currentPlatform);
-	}
 
-	leftBtn.addEventListener("click", loadPrevGroup);
-	rightBtn.addEventListener("click", loadNextGroup);
 
-	loadCharts(chartGroups[currentPlatform][currentGroupIndex], currentPlatform);
-	setInterval(loadNextGroup, 30000);
+	// Initial load with static group (no auto-scroll or arrows)
+	loadCharts(chartGroups[currentPlatform][0], currentPlatform);
 });
