@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "Artist": "Gunna",
+    "ArtistID": 14,
+    "Number of hits": 272,
+    "Position": 1
+  },
+  {
+    "Artist": "Chappell Roan",
+    "ArtistID": 3915,
+    "Number of hits": 62,
+    "Position": 2
+  },
+  {
+    "Artist": "Kidd Voodoo",
+    "ArtistID": 1255,
+    "Number of hits": 15,
+    "Position": 3
+  },
+  {
+    "Artist": "Rema",
+    "ArtistID": 51,
+    "Number of hits": 14,
+    "Position": 4
+  },
+  {
+    "Artist": "GIMS",
+    "ArtistID": 1985,
+    "Number of hits": 12,
+    "Position": 5
+  },
+  {
+    "Artist": "Ayetian",
+    "ArtistID": 42290,
+    "Number of hits": 11,
+    "Position": 6
+  },
+  {
+    "Artist": "Govana",
+    "ArtistID": 42326,
+    "Number of hits": 11,
+    "Position": 7
+  },
+  {
+    "Artist": "Nvtzz",
+    "ArtistID": null,
+    "Number of hits": 11,
+    "Position": 8
+  },
+  {
+    "Artist": "Ivan Greko",
+    "ArtistID": 2606,
+    "Number of hits": 9,
+    "Position": 9
+  },
+  {
+    "Artist": "T-Fest",
+    "ArtistID": 21357,
+    "Number of hits": 9,
+    "Position": 10
+  },
+  {
+    "Artist": "Kris R.",
+    "ArtistID": 9234,
+    "Number of hits": 8,
+    "Position": 11
+  },
+  {
+    "Artist": "Lil Poppa",
+    "ArtistID": null,
+    "Number of hits": 9,
+    "Position": 12
+  },
+  {
+    "Artist": "Osher Cohen",
+    "ArtistID": 4255,
+    "Number of hits": 6,
+    "Position": 13
+  },
+  {
+    "Artist": "Jul",
+    "ArtistID": 1432,
+    "Number of hits": 6,
+    "Position": 14
+  },
+  {
+    "Artist": "reezy",
+    "ArtistID": 1431,
+    "Number of hits": 10,
+    "Position": 15
+  },
+  {
+    "Artist": "Karan Aujla",
+    "ArtistID": 1745,
+    "Number of hits": 5,
+    "Position": 16
+  },
+  {
+    "Artist": "Anirudh Ravichander",
+    "ArtistID": 554,
+    "Number of hits": 5,
+    "Position": 17
+  },
+  {
+    "Artist": "Heisenberg",
+    "ArtistID": null,
+    "Number of hits": 5,
+    "Position": 18
+  },
+  {
+    "Artist": "Gradur",
+    "ArtistID": 5154,
+    "Number of hits": 5,
+    "Position": 19
+  },
+  {
+    "Artist": "Jazzworx",
+    "ArtistID": 31701,
+    "Number of hits": 5,
+    "Position": 20
+  },
+  {
+    "Artist": "Thukuthela",
+    "ArtistID": 65387,
+    "Number of hits": 5,
+    "Position": 21
+  },
+  {
+    "Artist": "Babalwa M",
+    "ArtistID": 5702,
+    "Number of hits": 5,
+    "Position": 22
+  },
+  {
+    "Artist": "Shatta Wale",
+    "ArtistID": 10488,
+    "Number of hits": 5,
+    "Position": 23
+  },
+  {
+    "Artist": "BeTaf Beats",
+    "ArtistID": 9405,
+    "Number of hits": 3,
+    "Position": 24
+  },
+  {
+    "Artist": "Galena",
+    "ArtistID": 13949,
+    "Number of hits": 3,
+    "Position": 25
+  },
+  {
+    "Artist": "Tsvetelina Yaneva",
+    "ArtistID": 50368,
+    "Number of hits": 3,
+    "Position": 26
+  },
+  {
+    "Artist": "Demi Lovato",
+    "ArtistID": 793,
+    "Number of hits": 3,
+    "Position": 27
+  },
+  {
+    "Artist": "Egor Kreed",
+    "ArtistID": 50558,
+    "Number of hits": 3,
+    "Position": 28
+  },
+  {
+    "Artist": "Sicario",
+    "ArtistID": 2849,
+    "Number of hits": 3,
+    "Position": 29
+  },
+  {
+    "Artist": "Max Korzh",
+    "ArtistID": 50492,
+    "Number of hits": 4,
+    "Position": 30
+  },
+  {
+    "Artist": "Lvbel C5",
+    "ArtistID": 544,
+    "Number of hits": 3,
+    "Position": 31
+  },
+  {
+    "Artist": "Ed Sheeran",
+    "ArtistID": 92,
+    "Number of hits": 4,
+    "Position": 32
+  },
+  {
+    "Artist": "Maline Aura",
+    "ArtistID": null,
+    "Number of hits": 3,
+    "Position": 33
+  },
+  {
+    "Artist": "Drega",
+    "ArtistID": null,
+    "Number of hits": 3,
+    "Position": 34
+  },
+  {
+    "Artist": "MDU aka TRP",
+    "ArtistID": 65535,
+    "Number of hits": 3,
+    "Position": 35
+  },
+  {
+    "Artist": "Chino Pacas",
+    "ArtistID": 143,
+    "Number of hits": 3,
+    "Position": 36
+  },
+  {
+    "Artist": "Yeat",
+    "ArtistID": 49,
+    "Number of hits": 4,
+    "Position": 37
+  },
+  {
+    "Artist": "Oge",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 38
+  },
+  {
+    "Artist": "JID",
+    "ArtistID": 27,
+    "Number of hits": 4,
+    "Position": 39
+  },
+  {
+    "Artist": "Bích Phương",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 40
+  },
+  {
+    "Artist": "Juky San",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 41
+  },
+  {
+    "Artist": "LAMOON",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 42
+  },
+  {
+    "Artist": "Mỹ Mỹ",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 43
+  },
+  {
+    "Artist": "키키",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 44
+  },
+  {
+    "Artist": "Sanko",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 45
+  },
+  {
+    "Artist": "Krisko",
+    "ArtistID": 12989,
+    "Number of hits": 2,
+    "Position": 46
+  },
+  {
+    "Artist": "Laufey",
+    "ArtistID": 198,
+    "Number of hits": 2,
+    "Position": 47
+  },
+  {
+    "Artist": "Armanii",
+    "ArtistID": 11269,
+    "Number of hits": 2,
+    "Position": 48
+  },
+  {
+    "Artist": "Malie Donn",
+    "ArtistID": 27064,
+    "Number of hits": 2,
+    "Position": 49
+  },
+  {
+    "Artist": "IDK",
+    "ArtistID": 13157,
+    "Number of hits": 2,
+    "Position": 50
+  },
+  {
+    "Artist": "$uicideboy$",
+    "ArtistID": 665,
+    "Number of hits": 2,
+    "Position": 51
+  },
+  {
+    "Artist": "Kamelon Officiel",
+    "ArtistID": 65667,
+    "Number of hits": 2,
+    "Position": 52
+  },
+  {
+    "Artist": "Dei V",
+    "ArtistID": 587,
+    "Number of hits": 2,
+    "Position": 53
+  },
+  {
+    "Artist": "Keshi",
+    "ArtistID": null,
+    "Number of hits": 3,
+    "Position": 54
+  },
+  {
+    "Artist": "Luciano",
+    "ArtistID": 36904,
+    "Number of hits": 3,
+    "Position": 55
+  },
+  {
+    "Artist": "THIZZY52",
+    "ArtistID": 10496,
+    "Number of hits": 3,
+    "Position": 56
+  },
+  {
+    "Artist": "Ryan Castro",
+    "ArtistID": 37000,
+    "Number of hits": 2,
+    "Position": 57
+  },
+  {
+    "Artist": "Sean Rii",
+    "ArtistID": 10094,
+    "Number of hits": 2,
+    "Position": 58
+  },
+  {
+    "Artist": "Siddharth Basrur",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 59
+  },
+  {
+    "Artist": "Lâm Bảo Ngọc",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 60
+  },
+  {
+    "Artist": "Phương Mỹ Chi",
+    "ArtistID": 25434,
+    "Number of hits": 2,
+    "Position": 61
+  },
+  {
+    "Artist": "Pháo",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 62
+  },
+  {
+    "Artist": "Saabirose",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 63
+  },
+  {
+    "Artist": "Didi B",
+    "ArtistID": 9444,
+    "Number of hits": 2,
+    "Position": 64
+  },
+  {
+    "Artist": "RICTA",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 65
+  },
+  {
+    "Artist": "Sam Barber",
+    "ArtistID": 48575,
+    "Number of hits": 2,
+    "Position": 66
+  },
+  {
+    "Artist": "BILLA JOE",
+    "ArtistID": 49588,
+    "Number of hits": 2,
+    "Position": 67
+  },
+  {
+    "Artist": "Kali",
+    "ArtistID": 7339,
+    "Number of hits": 2,
+    "Position": 68
+  },
+  {
+    "Artist": "Peter Pann",
+    "ArtistID": 15866,
+    "Number of hits": 2,
+    "Position": 69
+  },
+  {
+    "Artist": "Alan Murin",
+    "ArtistID": 15636,
+    "Number of hits": 2,
+    "Position": 70
+  },
+  {
+    "Artist": "한로로",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 71
+  },
+  {
+    "Artist": "Djadja & Dinaz",
+    "ArtistID": 3392,
+    "Number of hits": 2,
+    "Position": 72
+  },
+  {
+    "Artist": "Shekhinah",
+    "ArtistID": 20313,
+    "Number of hits": 4,
+    "Position": 73
+  },
+  {
+    "Artist": "Eyal Golan",
+    "ArtistID": 36787,
+    "Number of hits": 2,
+    "Position": 74
+  },
+  {
+    "Artist": "落日飛車",
+    "ArtistID": 10413,
+    "Number of hits": 2,
+    "Position": 75
+  },
+  {
+    "Artist": "Thaman S.",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 76
+  },
+  {
+    "Artist": "STR",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 77
+  },
+  {
+    "Artist": "Raja Kumari",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 78
+  },
+  {
+    "Artist": "Deepak Blue",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 79
+  },
+  {
+    "Artist": "AJ Tracey",
+    "ArtistID": null,
+    "Number of hits": 2,
+    "Position": 80
+  },
+  {
+    "Artist": "Jer 柳應廷",
+    "ArtistID": 35186,
+    "Number of hits": 2,
+    "Position": 81
+  },
+  {
+    "Artist": "Elji Beatzkilla",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 82
+  },
+  {
+    "Artist": "Young BG",
+    "ArtistID": 32769,
+    "Number of hits": 1,
+    "Position": 83
+  },
+  {
+    "Artist": "Arab",
+    "ArtistID": 36701,
+    "Number of hits": 1,
+    "Position": 84
+  },
+  {
+    "Artist": "Bausa",
+    "ArtistID": 3996,
+    "Number of hits": 2,
+    "Position": 85
+  },
+  {
+    "Artist": "Official髭男dism",
+    "ArtistID": 2327,
+    "Number of hits": 1,
+    "Position": 86
+  },
+  {
+    "Artist": "Sexmane",
+    "ArtistID": 4077,
+    "Number of hits": 1,
+    "Position": 87
+  },
+  {
+    "Artist": "Yacou B OG",
+    "ArtistID": 64639,
+    "Number of hits": 1,
+    "Position": 88
+  },
+  {
+    "Artist": "Kidd",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 89
+  },
+  {
+    "Artist": "Bailey Zimmerman",
+    "ArtistID": 36717,
+    "Number of hits": 1,
+    "Position": 90
+  },
+  {
+    "Artist": "Blessd",
+    "ArtistID": 642,
+    "Number of hits": 1,
+    "Position": 91
+  },
+  {
+    "Artist": "Asok",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 92
+  },
+  {
+    "Artist": "Simge",
+    "ArtistID": 1577,
+    "Number of hits": 1,
+    "Position": 93
+  },
+  {
+    "Artist": "Real Reel",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 94
+  },
+  {
+    "Artist": "Zach Top",
+    "ArtistID": 9266,
+    "Number of hits": 1,
+    "Position": 95
+  },
+  {
+    "Artist": "Levianth",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 96
+  },
+  {
+    "Artist": "Chase Matthew",
+    "ArtistID": 59305,
+    "Number of hits": 1,
+    "Position": 97
+  },
+  {
+    "Artist": "HARDY",
+    "ArtistID": 49472,
+    "Number of hits": 1,
+    "Position": 98
+  },
+  {
+    "Artist": "Afra",
+    "ArtistID": 9257,
+    "Number of hits": 1,
+    "Position": 99
+  },
+  {
+    "Artist": "Lege-Cy",
+    "ArtistID": null,
+    "Number of hits": 1,
+    "Position": 100
+  }
+]
