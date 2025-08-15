@@ -170,20 +170,18 @@ document.addEventListener("DOMContentLoaded", function () {
 	loadChart("week");
 });
 
-
 document.addEventListener("DOMContentLoaded", function () {
 	const chartTabs = document.querySelectorAll(".chart-tab-artist");
 	const container = document.getElementById("chartCardsContainerArtists");
 	const viewAllBtn = document.getElementById("viewAllButtonArtists");
 
 	const chartMap = {
-		week: "artists_weekly.json",
-		month: "artists_monthly.json",
-		general: "artists_general.json"
+		week: "artists_weekly_top15.json",
+		month: "artists_monthly_top15.json",
+		general: "artists_general_top15.json"
 	};
 
 	const basePath = "DATABASES/TOP_ARTISTS/";
-	const artistFeaturesFile = basePath + "ARTIST_FEATURES.json";
 
 	let chartKeys = ["week", "month", "general"];
 	let currentChartIndex = 0;
@@ -191,23 +189,18 @@ document.addEventListener("DOMContentLoaded", function () {
 	function loadChart(chartKey) {
 		const dataFile = basePath + chartMap[chartKey];
 
-		Promise.all([
-			fetch(dataFile).then(r => r.json()),
-			fetch(artistFeaturesFile).then(r => r.json())
-		])
-			.then(([rankingData, artistFeatures]) => {
-				const artistMap = Object.fromEntries(artistFeatures.map(a => [String(a.ArtistID), a]));
-
-				const top5 = rankingData
+		fetch(dataFile)
+			.then(response => response.json())
+			.then(data => {
+				const top5 = data
 					.sort((a, b) => a.Position - b.Position)
 					.slice(0, 5)
 					.map(entry => {
-						const artistObj = artistMap[String(entry.ArtistID)] || {};
 						return {
 							rank: entry.Position,
 							name: entry.Artist,
-							image: artistObj.SpotifyImageURL || "images/default_cover.jpg",
-							url: artistObj.SpotifyURL || null,
+							image: entry.SpotifyImageURL || "images/default_cover.jpg",
+							url: entry.SpotifyURL || null,
 							hits: entry["Number of hits"] || "?"
 						};
 					});
@@ -275,7 +268,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		}
 	}
 
-
 	chartTabs.forEach(tab => {
 		tab.addEventListener("click", () => {
 			const key = tab.getAttribute("data-chart");
@@ -291,6 +283,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	loadChart("week");
 });
+
 
 document.addEventListener("DOMContentLoaded", function () {
 	const container = document.getElementById("chartCardsContainerStreaming");
