@@ -170,55 +170,46 @@ document.addEventListener("DOMContentLoaded", function () {
 	loadChart("week");
 });
 
-
 document.addEventListener("DOMContentLoaded", function () {
 	const chartTabs = document.querySelectorAll(".chart-tab-artist");
 	const container = document.getElementById("chartCardsContainerArtists");
 	const viewAllBtn = document.getElementById("viewAllButtonArtists");
 
+	// Read ONLY the enriched Top-15 files
 	const chartMap = {
-		week: "artists_weekly.json",
-		month: "artists_monthly.json",
-		general: "artists_general.json"
+		week: "artists_top15_daily.json",
+		month: "artist_top15_monthly.json",
+		general: "artist_top15_general.json"
 	};
 
 	const basePath = "DATABASES/TOP_ARTISTS/";
-	const artistFeaturesFile = basePath + "ARTIST_FEATURES.json";
 
 	let chartKeys = ["week", "month", "general"];
 	let currentChartIndex = 0;
 
-	function loadChart(chartKey) {
+	async function loadChart(chartKey) {
 		const dataFile = basePath + chartMap[chartKey];
 
-		Promise.all([
-			fetch(dataFile).then(r => r.json()),
-			fetch(artistFeaturesFile).then(r => r.json())
-		])
-			.then(([rankingData, artistFeatures]) => {
-				const artistMap = Object.fromEntries(artistFeatures.map(a => [String(a.ArtistID), a]));
+		try {
+			const rankingData = await fetch(dataFile).then(r => r.json());
 
-				const top5 = rankingData
-					.sort((a, b) => a.Position - b.Position)
-					.slice(0, 5)
-					.map(entry => {
-						const artistObj = artistMap[String(entry.ArtistID)] || {};
-						return {
-							rank: entry.Position,
-							name: entry.Artist,
-							image: artistObj.SpotifyImageURL || "images/default_cover.jpg",
-							url: artistObj.SpotifyURL || null,
-							hits: entry["Number of hits"] || "?"
-						};
-					});
+			const top15 = rankingData
+				.sort((a, b) => a.Position - b.Position)
+				.slice(0, 5)
+				.map(entry => ({
+					rank: entry.Position,
+					name: entry.Artist,
+					image: entry.SpotifyImageURL || "images/default_cover.jpg",
+					url: entry.SpotifyURL || null,
+					hits: entry["Number of hits"] ?? "?"
+				}));
 
-				updateTabs(chartKey);
-				updateViewAllButton(chartKey);
-				renderCards(top5);
-			})
-			.catch(err => {
-				console.error("Error loading artist data:", err);
-			});
+			updateTabs(chartKey);
+			updateViewAllButton(chartKey);
+			renderCards(top15);
+		} catch (err) {
+			console.error("Error loading artist data:", err);
+		}
 	}
 
 	function renderCards(artists) {
@@ -274,7 +265,6 @@ document.addEventListener("DOMContentLoaded", function () {
 			viewAllBtn.href = `topartists.html?chart=${keyMap[activeKey]}`;
 		}
 	}
-
 
 	chartTabs.forEach(tab => {
 		tab.addEventListener("click", () => {
