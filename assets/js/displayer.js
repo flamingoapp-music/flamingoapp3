@@ -1,76 +1,50 @@
+
 document.addEventListener("DOMContentLoaded", function () {
 	const chartTabs = document.querySelectorAll(".chart-tab");
 	const container = document.getElementById("chartCardsContainer");
 	const viewAllBtn = document.getElementById("viewAllButton");
 
+	// ahora usamos los top_15_*.json
 	const chartMap = {
-		week: "top_weekly.json",
-		month: "top_monthly.json",
-		general: "top_general.json"
+		week: "top_15_weekly.json",
+		month: "top_15_monthly.json",
+		general: "top_15_general.json"
 	};
 
-	const platformFolder = "DATABASES/TOP_SONGS/";
-	const siFile = platformFolder + "SI.json";
-	const tsFile = platformFolder + "TS.json";
-	const spFile = platformFolder + "SP.json";
-	const artistFeaturesFile = platformFolder + "ARTIST_FEATURES.json";
+	const basePath = "DATABASES/TOP_SONGS/";
 
 	let chartKeys = ["week", "month", "general"];
 	let currentChartIndex = 0;
 
-	function loadChart(chartKey) {
-		const topFile = platformFolder + chartMap[chartKey];
+	async function loadChart(chartKey) {
+		const topFile = basePath + chartMap[chartKey];
 
-		Promise.all([
-			fetch(topFile).then(r => r.json()),
-			fetch(siFile).then(r => r.json()),
-			fetch(tsFile).then(r => r.json()),
-			fetch(spFile).then(r => r.json()),
-			fetch(artistFeaturesFile).then(r => r.json())
-		])
-			.then(([topData, siData, tsData, spData, artistData]) => {
-				const siMap = Object.fromEntries(siData.map(d => [d.SongID, d]));
-				const tsMap = Object.fromEntries(tsData.map(d => [d.SongID, d]));
-				const spMap = Object.fromEntries(spData.map(d => [d.SongID, d.Spotify_URL]));
-				const artistMap = Object.fromEntries(artistData.map(d => [String(d.ArtistID), d]));
+		try {
+			// SOLO leemos el archivo enriquecido
+			const top15 = await fetch(topFile).then(r => r.json());
 
-				const top5 = topData
-					.sort((a, b) => a.Position - b.Position)
-					.slice(0, 5)
-					.map(entry => {
-						const songID = entry.SongID;
-						const si = siMap[songID] || {};
-						const ts = tsMap[songID] || {};
-						const spotifyURL = spMap[songID] || null;
-						const artistIDs = (si.ArtistID || "").split(",").map(a => a.trim());
+			// usamos solo los 5 primeros para las cards de portada
+			const top5 = top15
+				.sort((a, b) => a.Position - b.Position)
+				.slice(0, 5)
+				.map(entry => ({
+					rank: entry.Position,
+					title: entry.Title || "Unknown Title",
+					// `Artists` ya viene como array [{Artist, SpotifyURL, ...}]
+					artists: (entry.Artists || []).map(a => ({
+						name: a.Artist || "Unknown",
+						url: a.SpotifyURL || null
+					})),
+					image: entry.CoverImage || "images/default_cover.jpg",
+					spotifyURL: entry.SpotifyURL || null
+				}));
 
-						const artistLinks = artistIDs.map(id => {
-							const artist = artistMap[id];
-							if (artist) {
-								return {
-									name: artist.Artist,
-									url: artist.SpotifyURL || null
-								};
-							}
-							return {name: "Unknown", url: null};
-						});
-
-						return {
-							rank: entry.Position,
-							title: si.Title || "Unknown Title",
-							artists: artistLinks,
-							image: ts.CoverImage || "images/default_cover.jpg",
-							spotifyURL: spotifyURL
-						};
-					});
-
-				updateTabs(chartKey);
-				updateViewAllButton(chartKey);
-				renderCards(top5);
-			})
-			.catch(err => {
-				console.error("Failed to load chart data:", err);
-			});
+			updateTabs(chartKey);
+			updateViewAllButton(chartKey);
+			renderCards(top5);
+		} catch (err) {
+			console.error("Failed to load chart data:", err);
+		}
 	}
 
 	function renderCards(songs) {
@@ -131,15 +105,12 @@ document.addEventListener("DOMContentLoaded", function () {
 	function updateTabs(activeKey) {
 		chartTabs.forEach(tab => {
 			const key = tab.getAttribute("data-chart");
-			if (key === activeKey) {
-				tab.classList.add("active");
-			} else {
-				tab.classList.remove("active");
-			}
+			tab.classList.toggle("active", key === activeKey);
 		});
 	}
 
 	function updateViewAllButton(activeKey) {
+		// si tu topsongs.html espera los nombres antiguos, puedes dejarlos igual
 		const keyMap = {
 			week: "top_weekly",
 			month: "top_monthly",
@@ -150,8 +121,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		}
 	}
 
-
-	// Setup manual switching
+	// tabs manuales
 	chartTabs.forEach(tab => {
 		tab.addEventListener("click", () => {
 			const key = tab.getAttribute("data-chart");
@@ -160,15 +130,16 @@ document.addEventListener("DOMContentLoaded", function () {
 		});
 	});
 
-	// Auto-scroll every 10 seconds
+	// auto-rotación
 	setInterval(() => {
 		currentChartIndex = (currentChartIndex + 1) % chartKeys.length;
 		loadChart(chartKeys[currentChartIndex]);
 	}, 10000);
 
-	// Initial load
+	// carga inicial
 	loadChart("week");
 });
+
 
 document.addEventListener("DOMContentLoaded", function () {
 	const chartTabs = document.querySelectorAll(".chart-tab-artist");
@@ -428,8 +399,6 @@ document.addEventListener("DOMContentLoaded", function () {
 			}
 		}
 	}
-
-
 
 
 	// Initial load with static group (no auto-scroll or arrows)
