@@ -168,3 +168,113 @@
     width: 77px;
     height: 77px;
 }
+
+/* ===== Mobile tweaks ===== */
+
+/* Slightly fluid sizes for all screens */
+.song-info-list .song-title { font-size: clamp(16px, 4.5vw, 30px); }
+.song-info-list .song-artist { font-size: clamp(12px, 3.8vw, 24px); }
+.song-rank { font-size: clamp(12px, 3.6vw, 22px); }
+#countryName { font-size: clamp(18px, 5.5vw, 2em); }
+#platformLogo { max-height: clamp(22px, 5vh, 40px); max-width: clamp(22px, 12vw, 160px); }
+#countryIcon  { max-height: clamp(18px, 4.5vh, 36px); max-width: clamp(18px, 10vw, 120px); }
+
+/* Phones & small devices */
+@media (max-width: 768px) {
+
+    .main-container {
+        padding: 16px 0;
+    }
+
+    .content {
+        width: 94%;
+        padding: 12px;
+        border-radius: 8px;
+    }
+
+    .strip {
+        height: 44px;
+        font-size: 16px;
+    }
+    .title-strip { border-bottom-width: 1px; }
+
+    .blue-box {
+        margin: 12px auto;
+        padding: 12px;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+    }
+
+    .song-list { margin-top: 12px; }
+
+    .song-list li {
+        padding: 8px 10px;
+        margin-bottom: 8px;
+        border-radius: 8px;
+    }
+
+    .song-list li img {
+        width: 44px;
+        height: 44px;
+        border-width: 2px;
+        margin-right: 10px;
+    }
+
+    .song-info-list {
+        gap: 8px;
+    }
+
+    .song-info-list .song-title {
+        margin-right: 6px;
+        line-height: 1.2;
+    }
+
+    .song-info-list .song-artist {
+        line-height: 1.2;
+    }
+
+    .song-rank {
+        margin-right: 10px;
+    }
+
+    /* Selected state on mobile: subtler bump */
+    .song-list li.selected {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-width: 2px;
+        box-shadow: 0 0 8px #ff69b4;
+    }
+    .song-list li.selected .song-title { font-size: clamp(18px, 5.2vw, 28px); }
+    .song-list li.selected .song-artist { font-size: clamp(14px, 4.5vw, 22px); }
+    .song-list li.selected img { width: 54px; height: 54px; }
+}
+
+/* Very small phones */
+@media (max-width: 420px) {
+
+    .strip { height: 40px; font-size: 14px; }
+
+    .song-list li { padding: 8px; }
+    .song-list li img { width: 40px; height: 40px; }
+
+    /* Allow long titles to wrap nicely */
+    .song-info-list {
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+    }
+
+    .song-rank { margin: 0 0 6px 0; }
+
+    /* Optional: clamp line lengths to avoid overflow */
+    .song-info-list .song-title,
+    .song-info-list .song-artist {
+        max-width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;   /* change to 2 if you prefer two lines */
+        -webkit-box-orient: vertical;
+        white-space: normal;
+    }
+}

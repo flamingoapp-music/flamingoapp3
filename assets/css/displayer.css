@@ -6,10 +6,10 @@
 }
 
 body.apple_music-active {
-	--main-color: #F5F5F7;
+	--main-color: #FF0436;
 	--main-bg: #1e2a48;
-	--circle-bg: #F5F5F7;
-	--card-border: #F5F5F7;
+	--circle-bg: #FF0436;
+	--card-border: #FF0436;
 }
 
 body.youtube-active {
