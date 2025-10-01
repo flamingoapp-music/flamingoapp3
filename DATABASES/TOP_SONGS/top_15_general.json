@@ -85,20 +85,6 @@
   },
   {
     "Position": 7,
-    "SongID": 12959,
-    "Title": "WILDFLOWER",
-    "Artists": [
-      {
-        "ArtistID": 8,
-        "Artist": "Billie Eilish",
-        "SpotifyURL": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
-    "SpotifyURL": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-  },
-  {
-    "Position": 8,
     "SongID": 1238047,
     "Title": "Man I Need",
     "Artists": [
@@ -110,6 +96,20 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27382c975519014aff63b10a4bd",
     "SpotifyURL": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+  },
+  {
+    "Position": 8,
+    "SongID": 12959,
+    "Title": "WILDFLOWER",
+    "Artists": [
+      {
+        "ArtistID": 8,
+        "Artist": "Billie Eilish",
+        "SpotifyURL": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "SpotifyURL": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
   },
   {
     "Position": 9,
@@ -127,6 +127,14 @@
   },
   {
     "Position": 10,
+    "SongID": 1228590,
+    "Title": "Unknown Title",
+    "Artists": [],
+    "CoverImage": "images/default_cover.jpg",
+    "SpotifyURL": null
+  },
+  {
+    "Position": 11,
     "SongID": 1227659,
     "Title": "Just Keep Watching",
     "Artists": [
@@ -140,7 +148,7 @@
     "SpotifyURL": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
   },
   {
-    "Position": 11,
+    "Position": 12,
     "SongID": 1227639,
     "Title": "What It Sounds Like",
     "Artists": [
@@ -154,7 +162,7 @@
     "SpotifyURL": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
   },
   {
-    "Position": 12,
+    "Position": 13,
     "SongID": 1226430,
     "Title": "Gabriela",
     "Artists": [
@@ -168,7 +176,15 @@
     "SpotifyURL": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
   },
   {
-    "Position": 13,
+    "Position": 14,
+    "SongID": 1246478,
+    "Title": "Unknown Title",
+    "Artists": [],
+    "CoverImage": "images/default_cover.jpg",
+    "SpotifyURL": null
+  },
+  {
+    "Position": 15,
     "SongID": 1227658,
     "Title": "Free",
     "Artists": [
@@ -180,33 +196,5 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
     "SpotifyURL": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
-  },
-  {
-    "Position": 14,
-    "SongID": 12451,
-    "Title": "BIRDS OF A FEATHER",
-    "Artists": [
-      {
-        "ArtistID": 8,
-        "Artist": "Billie Eilish",
-        "SpotifyURL": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
-    "SpotifyURL": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-  },
-  {
-    "Position": 15,
-    "SongID": 1228140,
-    "Title": "Manchild",
-    "Artists": [
-      {
-        "ArtistID": 102,
-        "Artist": "Sabrina Carpenter",
-        "SpotifyURL": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b",
-    "SpotifyURL": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
   }
 ]
