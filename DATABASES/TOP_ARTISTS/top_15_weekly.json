@@ -1,6 +1,34 @@
 [
   {
     "Position": 1,
+    "SongID": 1246478,
+    "Title": "TIT FOR TAT",
+    "Artists": [
+      {
+        "ArtistID": 115,
+        "Artist": "Tate McRae",
+        "SpotifyURL": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a8c77f8a83844a458d2692e3",
+    "SpotifyURL": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+  },
+  {
+    "Position": 2,
+    "SongID": 1245419,
+    "Title": "WHERE IS MY HUSBAND!",
+    "Artists": [
+      {
+        "ArtistID": 232,
+        "Artist": "RAYE",
+        "SpotifyURL": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737cc8cee5c81409833e540974",
+    "SpotifyURL": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+  },
+  {
+    "Position": 3,
     "SongID": 1243423,
     "Title": "The Dead Dance",
     "Artists": [
@@ -14,7 +42,119 @@
     "SpotifyURL": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
   },
   {
-    "Position": 2,
+    "Position": 4,
+    "SongID": 1246499,
+    "Title": "So Easy (To Fall In Love)",
+    "Artists": [
+      {
+        "ArtistID": 9883,
+        "Artist": "Olivia Dean",
+        "SpotifyURL": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393039b56e5e297857512674b",
+    "SpotifyURL": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+  },
+  {
+    "Position": 5,
+    "SongID": 1246480,
+    "Title": "Dracula",
+    "Artists": [
+      {
+        "ArtistID": 309,
+        "Artist": "Tame Impala",
+        "SpotifyURL": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27378009881b6815a7efe6d7b35",
+    "SpotifyURL": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+  },
+  {
+    "Position": 6,
+    "SongID": 1245657,
+    "Title": "Safe",
+    "Artists": [
+      {
+        "ArtistID": 722,
+        "Artist": "Cardi B",
+        "SpotifyURL": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+    "SpotifyURL": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
+  },
+  {
+    "Position": 7,
+    "SongID": 1246481,
+    "Title": "Niño",
+    "Artists": [
+      {
+        "ArtistID": 49407,
+        "Artist": "Milo j",
+        "SpotifyURL": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379e82b54941037330473fe67",
+    "SpotifyURL": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
+  },
+  {
+    "Position": 8,
+    "SongID": 1246482,
+    "Title": "Gil",
+    "Artists": [
+      {
+        "ArtistID": 49407,
+        "Artist": "Milo j",
+        "SpotifyURL": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c32f2068524563984cf0cb69",
+    "SpotifyURL": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
+  },
+  {
+    "Position": 9,
+    "SongID": 1245852,
+    "Title": "NOW OR NEVER",
+    "Artists": [
+      {
+        "ArtistID": 73943,
+        "Artist": "Tkandz",
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739a6178c1a91168e2e63bbc76",
+    "SpotifyURL": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+  },
+  {
+    "Position": 10,
+    "SongID": 1246503,
+    "Title": "Sale état",
+    "Artists": [
+      {
+        "ArtistID": 18253,
+        "Artist": "RK",
+        "SpotifyURL": "https://open.spotify.com/artist/0NEEjsgvnvFDjWh0DGe5rq"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737218226cfcc36ce034560fb7",
+    "SpotifyURL": "https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3"
+  },
+  {
+    "Position": 11,
+    "SongID": 1245661,
+    "Title": "Pretty & Petty",
+    "Artists": [
+      {
+        "ArtistID": 722,
+        "Artist": "Cardi B",
+        "SpotifyURL": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
+    "SpotifyURL": "https://open.spotify.com/track/2wn0AYkmcF0Cm7PmvA7hJ7"
+  },
+  {
+    "Position": 12,
     "SongID": 1244791,
     "Title": "IRIS OUT",
     "Artists": [
@@ -28,125 +168,45 @@
     "SpotifyURL": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
   },
   {
-    "Position": 3,
-    "SongID": 1243762,
-    "Title": "Rich Man",
+    "Position": 13,
+    "SongID": 1245660,
+    "Title": "Magnet",
     "Artists": [
       {
-        "ArtistID": 174,
-        "Artist": "aespa",
-        "SpotifyURL": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        "ArtistID": 722,
+        "Artist": "Cardi B",
+        "SpotifyURL": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f26e3693011a75c41a1d9697",
-    "SpotifyURL": "https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732fa2de79bd9fee046085ea72",
+    "SpotifyURL": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
   },
   {
-    "Position": 4,
-    "SongID": 1244701,
-    "Title": "Camera",
+    "Position": 14,
+    "SongID": 1246500,
+    "Title": "Gorgeous",
     "Artists": [
       {
-        "ArtistID": 92,
-        "Artist": "Ed Sheeran",
-        "SpotifyURL": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        "ArtistID": 6,
+        "Artist": "Doja Cat",
+        "SpotifyURL": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273785c806e8c949b49757c4936",
-    "SpotifyURL": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f99c9248388dd77f24276a7c",
+    "SpotifyURL": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
   },
   {
-    "Position": 5,
-    "SongID": 1243723,
-    "Title": "SPEED DEMON",
+    "Position": 15,
+    "SongID": 1245969,
+    "Title": "What's Goin On (feat. Lizzo)",
     "Artists": [
       {
-        "ArtistID": 258,
-        "Artist": "Justin Bieber",
-        "SpotifyURL": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        "ArtistID": 722,
+        "Artist": "Cardi B",
+        "SpotifyURL": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273239851044d4fffe6fe8a7215",
-    "SpotifyURL": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
-  },
-  {
-    "Position": 6,
-    "SongID": 1243711,
-    "Title": "PERDE",
-    "Artists": [
-      {
-        "ArtistID": 11761,
-        "Artist": "Poizi",
-        "SpotifyURL": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d6ea5517624ec7a6058650a1",
-    "SpotifyURL": "https://open.spotify.com/track/7xYtgtwlgXvpiTnXUAkceF"
-  },
-  {
-    "Position": 7,
-    "SongID": 1244200,
-    "Title": "DOG HOUSE",
-    "Artists": [
-      {
-        "ArtistID": 37,
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "ArtistID": null,
-        "Artist": "Unknown",
-        "SpotifyURL": null
-      },
-      {
-        "ArtistID": null,
-        "Artist": "Unknown",
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739c2ab979bbe25f3d9e21f698",
-    "SpotifyURL": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
-  },
-  {
-    "Position": 8,
-    "SongID": 1244686,
-    "Title": "City Walls",
-    "Artists": [
-      {
-        "ArtistID": 202,
-        "Artist": "twenty one pilots",
-        "SpotifyURL": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed",
-    "SpotifyURL": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
-  },
-  {
-    "Position": 9,
-    "SongID": 1245710,
-    "Title": "Charlie",
-    "Artists": [
-      {
-        "ArtistID": 4918,
-        "Artist": "Tom MacDonald",
-        "SpotifyURL": "https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273871afba6d47d4f2c0ca0e6bd",
-    "SpotifyURL": null
-  },
-  {
-    "Position": 10,
-    "SongID": 1245711,
-    "Title": "How Far Does A Goodbye Go",
-    "Artists": [
-      {
-        "ArtistID": 1009,
-        "Artist": "Jason Aldean",
-        "SpotifyURL": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273205cbaa5da736e4465309a19",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733e5a1515b5f85c7b45619273",
     "SpotifyURL": null
   }
 ]
