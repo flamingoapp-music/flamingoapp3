@@ -1,6 +1,48 @@
 [
   {
     "Position": 1,
+    "SongID": 1247691,
+    "Title": "The Fate of Ophelia",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
+  },
+  {
+    "Position": 2,
+    "SongID": 1247692,
+    "Title": "Opalite",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/67osB3wmJVTFzKhWqPb1Hm"
+  },
+  {
+    "Position": 3,
+    "SongID": 1247693,
+    "Title": "Elizabeth Taylor",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/1A2vZKJZovt4828jwLgiB3"
+  },
+  {
+    "Position": 4,
     "SongID": 1245419,
     "Title": "WHERE IS MY HUSBAND!",
     "Artists": [
@@ -14,21 +56,7 @@
     "SpotifyURL": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
   },
   {
-    "Position": 2,
-    "SongID": 1246478,
-    "Title": "TIT FOR TAT",
-    "Artists": [
-      {
-        "ArtistID": 115,
-        "Artist": "Tate McRae",
-        "SpotifyURL": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a8c77f8a83844a458d2692e3",
-    "SpotifyURL": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
-  },
-  {
-    "Position": 3,
+    "Position": 5,
     "SongID": 1246499,
     "Title": "So Easy (To Fall In Love)",
     "Artists": [
@@ -42,35 +70,91 @@
     "SpotifyURL": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
   },
   {
-    "Position": 4,
-    "SongID": 1245852,
-    "Title": "NOW OR NEVER",
-    "Artists": [
-      {
-        "ArtistID": 73943,
-        "Artist": "Tkandz",
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739a6178c1a91168e2e63bbc76",
-    "SpotifyURL": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
-  },
-  {
-    "Position": 5,
-    "SongID": 1246481,
-    "Title": "Niño",
-    "Artists": [
-      {
-        "ArtistID": 49407,
-        "Artist": "Milo j",
-        "SpotifyURL": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379e82b54941037330473fe67",
-    "SpotifyURL": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
-  },
-  {
     "Position": 6,
+    "SongID": 1247695,
+    "Title": "Father Figure",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/1lD0oPIfSYid1LhPvgrz10"
+  },
+  {
+    "Position": 7,
+    "SongID": 1247696,
+    "Title": "Wi$h Li$t",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733d29cbdaf500d735492c693b",
+    "SpotifyURL": "https://open.spotify.com/track/3Qeh4z08FfDBRfQMfDv83f"
+  },
+  {
+    "Position": 8,
+    "SongID": 1247694,
+    "Title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733d29cbdaf500d735492c693b",
+    "SpotifyURL": "https://open.spotify.com/track/243KxZULAjWO3KREpVHgOH"
+  },
+  {
+    "Position": 9,
+    "SongID": 1247701,
+    "Title": "CANCELLED!",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/3FzJDGVjRGNc7KrkabU5N0"
+  },
+  {
+    "Position": 10,
+    "SongID": 1247697,
+    "Title": "Wood",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733d29cbdaf500d735492c693b",
+    "SpotifyURL": "https://open.spotify.com/track/0129EujhGkwtwTFADGem5P"
+  },
+  {
+    "Position": 11,
+    "SongID": 1247699,
+    "Title": "Eldest Daughter",
+    "Artists": [
+      {
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/6iC3L3YmAkGucvJbXKDanA"
+  },
+  {
+    "Position": 12,
     "SongID": 1246480,
     "Title": "Dracula",
     "Artists": [
@@ -84,129 +168,45 @@
     "SpotifyURL": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
   },
   {
-    "Position": 7,
-    "SongID": 1244791,
-    "Title": "IRIS OUT",
-    "Artists": [
-      {
-        "ArtistID": 49468,
-        "Artist": "Kenshi Yonezu",
-        "SpotifyURL": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730256acb207c703b79f16016e",
-    "SpotifyURL": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
-  },
-  {
-    "Position": 8,
-    "SongID": 1246482,
-    "Title": "Gil",
-    "Artists": [
-      {
-        "ArtistID": 49407,
-        "Artist": "Milo j",
-        "SpotifyURL": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c32f2068524563984cf0cb69",
-    "SpotifyURL": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
-  },
-  {
-    "Position": 9,
-    "SongID": 1246503,
-    "Title": "Sale état",
-    "Artists": [
-      {
-        "ArtistID": 18253,
-        "Artist": "RK",
-        "SpotifyURL": "https://open.spotify.com/artist/0NEEjsgvnvFDjWh0DGe5rq"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737218226cfcc36ce034560fb7",
-    "SpotifyURL": "https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3"
-  },
-  {
-    "Position": 10,
-    "SongID": 1244128,
-    "Title": "FaSHioN",
-    "Artists": [
-      {
-        "ArtistID": 73441,
-        "Artist": "CORTIS",
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b56a34b0c2b3798fd46f855",
-    "SpotifyURL": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
-  },
-  {
-    "Position": 11,
-    "SongID": 1243756,
-    "Title": "FUN",
-    "Artists": [
-      {
-        "ArtistID": 51,
-        "Artist": "Rema",
-        "SpotifyURL": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27366e58284256f704decf7be28",
-    "SpotifyURL": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
-  },
-  {
-    "Position": 12,
-    "SongID": 1246502,
-    "Title": "Let Alone The One You Love",
-    "Artists": [
-      {
-        "ArtistID": 9883,
-        "Artist": "Olivia Dean",
-        "SpotifyURL": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393039b56e5e297857512674b",
-    "SpotifyURL": "https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi"
-  },
-  {
     "Position": 13,
-    "SongID": 1246599,
-    "Title": "Baby Steps",
+    "SongID": 1247698,
+    "Title": "Actually Romantic",
     "Artists": [
       {
-        "ArtistID": 9883,
-        "Artist": "Olivia Dean",
-        "SpotifyURL": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393039b56e5e297857512674b",
-    "SpotifyURL": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/6ZSxG2QvGmwXbTfn7iDq7a"
   },
   {
     "Position": 14,
-    "SongID": 1245696,
-    "Title": "JANE DOE",
+    "SongID": 1248212,
+    "Title": "EYES CLOSED",
     "Artists": [
       {
-        "ArtistID": 49468,
-        "Artist": "Kenshi Yonezu",
-        "SpotifyURL": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        "ArtistID": 1214,
+        "Artist": "JISOO",
+        "SpotifyURL": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739399e4b976573264f67279b0",
-    "SpotifyURL": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738af5b74e90634123d95fe5fa",
+    "SpotifyURL": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
   },
   {
     "Position": 15,
-    "SongID": 1244687,
-    "Title": "Un monde à l'autre",
+    "SongID": 1247700,
+    "Title": "Ruin The Friendship",
     "Artists": [
       {
-        "ArtistID": 73551,
-        "Artist": "GP Explorer",
-        "SpotifyURL": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        "ArtistID": 1,
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273387935d4b38e2ad48c64916d",
-    "SpotifyURL": "https://open.spotify.com/track/0DAhk47iSMkfPKm5MDW17x"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733d29cbdaf500d735492c693b",
+    "SpotifyURL": "https://open.spotify.com/track/34xxPZWbEyg5iDKEBqdsBZ"
   }
 ]
