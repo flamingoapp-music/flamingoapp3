@@ -1,23 +1,5 @@
 [
   {
-    "ArtistID": 5629,
-    "Artist": "Alex Warren",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe5547931c7f652c2ece8b76c",
-    "SpotifyURL": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-  },
-  {
-    "ArtistID": 1038,
-    "Artist": "Ayra Starr",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc78ac932c7498e12e742bfc1",
-    "SpotifyURL": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-  },
-  {
-    "ArtistID": 269,
-    "Artist": "BABYMONSTER",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb419d66ef21661311c806bfe",
-    "SpotifyURL": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-  },
-  {
     "ArtistID": 16,
     "Artist": "Bad Bunny",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
@@ -36,6 +18,12 @@
     "SpotifyURL": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
   },
   {
+    "ArtistID": 26,
+    "Artist": "Bizarrap",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb14add0d3419426b84158b913",
+    "SpotifyURL": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+  },
+  {
     "ArtistID": 14206,
     "Artist": "Björk",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8885fa2ceadc7658d65e1121",
@@ -48,16 +36,16 @@
     "SpotifyURL": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
   },
   {
-    "ArtistID": 1105,
-    "Artist": "Cheema Y",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8acd9439506d057719cb4446",
-    "SpotifyURL": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
-  },
-  {
     "ArtistID": 48568,
     "Artist": "Dave",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd03e9ecf77419871b96daee1",
     "SpotifyURL": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+  },
+  {
+    "ArtistID": 37,
+    "Artist": "Drake",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+    "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
   },
   {
     "ArtistID": 19,
@@ -72,22 +60,10 @@
     "SpotifyURL": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
   },
   {
-    "ArtistID": 26523,
-    "Artist": "Icegergert",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb37fb6ab20c3ca6ff1d645741",
-    "SpotifyURL": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
-  },
-  {
-    "ArtistID": 73656,
-    "Artist": "JAZZWRLD",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8665a17f908fbe85342b16b5",
-    "SpotifyURL": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-  },
-  {
-    "ArtistID": 1214,
-    "Artist": "JISOO",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9e33dd3ae51452774a133e1f",
-    "SpotifyURL": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+    "ArtistID": 12939,
+    "Artist": "Himra",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc35eda06cefddc1b9f24522f",
+    "SpotifyURL": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
   },
   {
     "ArtistID": 2047,
@@ -96,22 +72,10 @@
     "SpotifyURL": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
   },
   {
-    "ArtistID": 376,
-    "Artist": "KAROL G",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
-    "SpotifyURL": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-  },
-  {
     "ArtistID": 67,
     "Artist": "LE SSERAFIM",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb593f35db6f6837e1047a5e33",
     "SpotifyURL": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-  },
-  {
-    "ArtistID": 340,
-    "Artist": "Lady Gaga",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-    "SpotifyURL": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
   },
   {
     "ArtistID": 2145,
@@ -120,16 +84,16 @@
     "SpotifyURL": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
   },
   {
+    "ArtistID": 57709,
+    "Artist": "Mia Guisse",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2731275783ad84176485ebccb61",
+    "SpotifyURL": "https://open.spotify.com/artist/0S17uH3c9zczQrichFl24S"
+  },
+  {
     "ArtistID": 49407,
     "Artist": "Milo j",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5b2ed98931971ce81f0f22e7",
     "SpotifyURL": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-  },
-  {
-    "ArtistID": 1571,
-    "Artist": "Ninho",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb791b1ecfe6f3101115430fb5",
-    "SpotifyURL": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
   },
   {
     "ArtistID": 9883,
@@ -138,16 +102,16 @@
     "SpotifyURL": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
   },
   {
+    "ArtistID": 4149,
+    "Artist": "Orelsan",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb32086a424e6f1e499e347cde",
+    "SpotifyURL": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+  },
+  {
     "ArtistID": 13182,
     "Artist": "P T K",
     "SpotifyImageURL": null,
     "SpotifyURL": null
-  },
-  {
-    "ArtistID": 19817,
-    "Artist": "Pezet",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb68b2e8e77d8c13f1d5c1bde",
-    "SpotifyURL": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
   },
   {
     "ArtistID": 27210,
@@ -156,16 +120,28 @@
     "SpotifyURL": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
   },
   {
-    "ArtistID": 232,
-    "Artist": "RAYE",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5e4949a1e3073b5a34b9d938",
-    "SpotifyURL": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-  },
-  {
     "ArtistID": 53,
     "Artist": "ROSALÍA",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49",
     "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+  },
+  {
+    "ArtistID": 54,
+    "Artist": "Rauw Alejandro",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5b50fae60980240b4ebd7808",
+    "SpotifyURL": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+  },
+  {
+    "ArtistID": 27374,
+    "Artist": "RnBoi",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8503443a55a2dd1e98ee3eb4",
+    "SpotifyURL": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+  },
+  {
+    "ArtistID": 7944,
+    "Artist": "Rsko",
+    "SpotifyImageURL": null,
+    "SpotifyURL": null
   },
   {
     "ArtistID": 102,
@@ -178,12 +154,6 @@
     "Artist": "Saja Boys",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe97701e53e1a2b8af6ba2195",
     "SpotifyURL": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
-  },
-  {
-    "ArtistID": 4992,
-    "Artist": "Sosa La M",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb006490c76897affe62bb662a",
-    "SpotifyURL": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
   },
   {
     "ArtistID": 309,
@@ -208,6 +178,12 @@
     "Artist": "The Weeknd",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
     "SpotifyURL": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+  },
+  {
+    "ArtistID": 1069,
+    "Artist": "Tyla",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273dfa39d3f7d3d3230101e4f96",
+    "SpotifyURL": "https://open.spotify.com/artist/5V0h1vN2Kayj07snZ9i7r9"
   },
   {
     "ArtistID": 12993,
