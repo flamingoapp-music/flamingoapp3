@@ -1,174 +1,30 @@
 [
   {
     "Position": 1,
-    "SongID": 1261361,
-    "Title": "The Fate of Ophelia (Alone In My Tower Acoustic Version)",
+    "SongID": 1250409,
+    "Title": "Berghain",
     "Artists": [
       {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        "ArtistID": 53,
+        "Artist": "ROSALÍA",
+        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+      },
+      {
+        "ArtistID": null,
+        "Artist": "Unknown",
+        "SpotifyURL": null
+      },
+      {
+        "ArtistID": null,
+        "Artist": "Unknown",
+        "SpotifyURL": null
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    "CoverImage": "",
+    "SpotifyURL": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
   },
   {
     "Position": 2,
-    "SongID": 1247692,
-    "Title": "Opalite",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-  },
-  {
-    "Position": 3,
-    "SongID": 1247693,
-    "Title": "Elizabeth Taylor",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
-  },
-  {
-    "Position": 4,
-    "SongID": 1247695,
-    "Title": "Father Figure",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
-  },
-  {
-    "Position": 5,
-    "SongID": 1247696,
-    "Title": "Wi$h Li$t",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
-  },
-  {
-    "Position": 6,
-    "SongID": 1247694,
-    "Title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
-  },
-  {
-    "Position": 7,
-    "SongID": 1247697,
-    "Title": "Wood",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"
-  },
-  {
-    "Position": 8,
-    "SongID": 1247699,
-    "Title": "Eldest Daughter",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
-  },
-  {
-    "Position": 9,
-    "SongID": 1247701,
-    "Title": "CANCELLED!",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
-  },
-  {
-    "Position": 10,
-    "SongID": 1247700,
-    "Title": "Ruin The Friendship",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
-  },
-  {
-    "Position": 11,
-    "SongID": 1247698,
-    "Title": "Actually Romantic",
-    "Artists": [
-      {
-        "ArtistID": 1,
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
-  },
-  {
-    "Position": 12,
-    "SongID": 1259777,
-    "Title": "SPAGHETTI (Member ver.)",
-    "Artists": [
-      {
-        "ArtistID": 67,
-        "Artist": "LE SSERAFIM",
-        "SpotifyURL": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736c4a726c271daf4a4b97e35b",
-    "SpotifyURL": "https://open.spotify.com/track/07ZkZzMHE6EEbHD50WUrgk"
-  },
-  {
-    "Position": 13,
     "SongID": 1250335,
     "Title": "CHANEL",
     "Artists": [
@@ -182,7 +38,21 @@
     "SpotifyURL": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
   },
   {
-    "Position": 14,
+    "Position": 3,
+    "SongID": 1259777,
+    "Title": "SPAGHETTI (Member ver.)",
+    "Artists": [
+      {
+        "ArtistID": 67,
+        "Artist": "LE SSERAFIM",
+        "SpotifyURL": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736c4a726c271daf4a4b97e35b",
+    "SpotifyURL": "https://open.spotify.com/track/07ZkZzMHE6EEbHD50WUrgk"
+  },
+  {
+    "Position": 4,
     "SongID": 1249905,
     "Title": "MON BÉBÉ",
     "Artists": [
@@ -196,7 +66,7 @@
     "SpotifyURL": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
   },
   {
-    "Position": 15,
+    "Position": 5,
     "SongID": 1261789,
     "Title": "Raindance",
     "Artists": [
@@ -213,5 +83,150 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fecaa7826bb0cbe139a8cb83",
     "SpotifyURL": null
+  },
+  {
+    "Position": 6,
+    "SongID": 1267881,
+    "Title": "Berghain",
+    "Artists": [
+      {
+        "ArtistID": 53,
+        "Artist": "ROSALÍA",
+        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27308256748d3e6c3ed016cab16",
+    "SpotifyURL": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+  },
+  {
+    "Position": 7,
+    "SongID": 1248946,
+    "Title": "bittersweet",
+    "Artists": [
+      {
+        "ArtistID": 1450,
+        "Artist": "Madison Beer",
+        "SpotifyURL": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732fb3d517253228abf2468f74",
+    "SpotifyURL": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+  },
+  {
+    "Position": 8,
+    "SongID": 1248478,
+    "Title": "WE GO UP",
+    "Artists": [
+      {
+        "ArtistID": 269,
+        "Artist": "BABYMONSTER",
+        "SpotifyURL": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738fbb6ffdf0fad1623c8e95f8",
+    "SpotifyURL": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
+  },
+  {
+    "Position": 9,
+    "SongID": 1249904,
+    "Title": "YAMA",
+    "Artists": [
+      {
+        "ArtistID": 65127,
+        "Artist": "DYSTINCT",
+        "SpotifyURL": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a3ecf5c72b31ca2508bb4ad4",
+    "SpotifyURL": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
+  },
+  {
+    "Position": 10,
+    "SongID": 1250405,
+    "Title": "Жиганская",
+    "Artists": [
+      {
+        "ArtistID": 7639,
+        "Artist": "Jakone",
+        "SpotifyURL": "https://open.spotify.com/artist/0Kwx9LPnkelacgHzRI8vxl"
+      },
+      {
+        "ArtistID": null,
+        "Artist": "Unknown",
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27381611b153105dc8e4f3aa429",
+    "SpotifyURL": "https://open.spotify.com/track/6SRDVREmu0HVDX5R9wSKeZ"
+  },
+  {
+    "Position": 11,
+    "SongID": 1250413,
+    "Title": "B.B.B. (Snapchat)",
+    "Artists": [
+      {
+        "ArtistID": 11269,
+        "Artist": "Armanii",
+        "SpotifyURL": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eb6ea7332ca475d3655f798f",
+    "SpotifyURL": null
+  },
+  {
+    "Position": 12,
+    "SongID": 1250188,
+    "Title": "BODY (danz)",
+    "Artists": [
+      {
+        "ArtistID": 696,
+        "Artist": "CKay",
+        "SpotifyURL": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737767b24c4297d8a5b92c3209",
+    "SpotifyURL": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
+  },
+  {
+    "Position": 13,
+    "SongID": 1249978,
+    "Title": "175 Months",
+    "Artists": [
+      {
+        "ArtistID": 48568,
+        "Artist": "Dave",
+        "SpotifyURL": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fecaa7826bb0cbe139a8cb83",
+    "SpotifyURL": "https://open.spotify.com/track/7HkOwm4wmvTsKbe405RhE3"
+  },
+  {
+    "Position": 14,
+    "SongID": 1258102,
+    "Title": "Skywalker Haze - A COLORS SHOW",
+    "Artists": [
+      {
+        "ArtistID": 1571,
+        "Artist": "Ninho",
+        "SpotifyURL": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b5f3c09461c9701467609fcf",
+    "SpotifyURL": "https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq"
+  },
+  {
+    "Position": 15,
+    "SongID": 1249359,
+    "Title": "Blue Valentine",
+    "Artists": [
+      {
+        "ArtistID": 1403,
+        "Artist": "NMIXX",
+        "SpotifyURL": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ee26bd5ae483fc54e6ef9e74",
+    "SpotifyURL": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
   }
 ]

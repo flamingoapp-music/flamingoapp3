@@ -10,32 +10,32 @@
         "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
       },
       {
-        "ArtistID": 14206,
-        "Artist": "Björk",
-        "SpotifyURL": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        "ArtistID": null,
+        "Artist": "Unknown",
+        "SpotifyURL": null
       },
       {
-        "ArtistID": 68101,
-        "Artist": "Yves Tumor",
-        "SpotifyURL": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        "ArtistID": null,
+        "Artist": "Unknown",
+        "SpotifyURL": null
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27308256748d3e6c3ed016cab16",
+    "CoverImage": "",
     "SpotifyURL": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
   },
   {
     "Position": 2,
-    "SongID": 1264450,
-    "Title": "La Perla",
+    "SongID": 1264420,
+    "Title": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
     "Artists": [
       {
-        "ArtistID": 53,
-        "Artist": "ROSALÍA",
-        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        "ArtistID": 26,
+        "Artist": "Bizarrap",
+        "SpotifyURL": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273256e4fd17616bfe624911861",
+    "SpotifyURL": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
   },
   {
     "Position": 3,
@@ -53,6 +53,39 @@
   },
   {
     "Position": 4,
+    "SongID": 1250335,
+    "Title": "CHANEL",
+    "Artists": [
+      {
+        "ArtistID": 1069,
+        "Artist": "Tyla",
+        "SpotifyURL": "https://open.spotify.com/artist/5V0h1vN2Kayj07snZ9i7r9"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7c3bef89364a9d6d9d7d78b",
+    "SpotifyURL": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+  },
+  {
+    "Position": 5,
+    "SongID": 1269414,
+    "Title": "La Perla",
+    "Artists": [
+      {
+        "ArtistID": 53,
+        "Artist": "ROSALÍA",
+        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+      },
+      {
+        "ArtistID": null,
+        "Artist": "Unknown",
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "",
+    "SpotifyURL": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+  },
+  {
+    "Position": 6,
     "SongID": 1264445,
     "Title": "Sexo, Violencia y Llantas",
     "Artists": [
@@ -66,105 +99,7 @@
     "SpotifyURL": "https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA"
   },
   {
-    "Position": 5,
-    "SongID": 1264448,
-    "Title": "Divinize",
-    "Artists": [
-      {
-        "ArtistID": 53,
-        "Artist": "ROSALÍA",
-        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1"
-  },
-  {
-    "Position": 6,
-    "SongID": 1264449,
-    "Title": "Porcelana",
-    "Artists": [
-      {
-        "ArtistID": 53,
-        "Artist": "ROSALÍA",
-        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs"
-  },
-  {
     "Position": 7,
-    "SongID": 1264420,
-    "Title": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-    "Artists": [
-      {
-        "ArtistID": 26,
-        "Artist": "Bizarrap",
-        "SpotifyURL": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273256e4fd17616bfe624911861",
-    "SpotifyURL": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
-  },
-  {
-    "Position": 8,
-    "SongID": 1264527,
-    "Title": "Mio Cristo Piange Diamanti",
-    "Artists": [
-      {
-        "ArtistID": 53,
-        "Artist": "ROSALÍA",
-        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/0hVZnH3f3xmudcfCFLdw1V"
-  },
-  {
-    "Position": 9,
-    "SongID": 1264528,
-    "Title": "De Madrugá",
-    "Artists": [
-      {
-        "ArtistID": 53,
-        "Artist": "ROSALÍA",
-        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
-  },
-  {
-    "Position": 10,
-    "SongID": 1264529,
-    "Title": "Dios Es Un Stalker",
-    "Artists": [
-      {
-        "ArtistID": 53,
-        "Artist": "ROSALÍA",
-        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
-  },
-  {
-    "Position": 11,
-    "SongID": 1264530,
-    "Title": "La Yugular",
-    "Artists": [
-      {
-        "ArtistID": 53,
-        "Artist": "ROSALÍA",
-        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/7JKpS5rKsKWeVPZ0ojBqv9"
-  },
-  {
-    "Position": 12,
     "SongID": 1259777,
     "Title": "SPAGHETTI (Member ver.)",
     "Artists": [
@@ -178,9 +113,23 @@
     "SpotifyURL": "https://open.spotify.com/track/07ZkZzMHE6EEbHD50WUrgk"
   },
   {
-    "Position": 13,
-    "SongID": 1264531,
-    "Title": "Mundo Nuevo",
+    "Position": 8,
+    "SongID": 1249905,
+    "Title": "MON BÉBÉ",
+    "Artists": [
+      {
+        "ArtistID": 27374,
+        "Artist": "RnBoi",
+        "SpotifyURL": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273deb7071c9722a7c10a26ed6b",
+    "SpotifyURL": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+  },
+  {
+    "Position": 9,
+    "SongID": 1264450,
+    "Title": "La Perla",
     "Artists": [
       {
         "ArtistID": 53,
@@ -189,39 +138,100 @@
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2"
+    "SpotifyURL": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+  },
+  {
+    "Position": 10,
+    "SongID": 1267881,
+    "Title": "Berghain",
+    "Artists": [
+      {
+        "ArtistID": 53,
+        "Artist": "ROSALÍA",
+        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27308256748d3e6c3ed016cab16",
+    "SpotifyURL": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+  },
+  {
+    "Position": 11,
+    "SongID": 1269704,
+    "Title": "FEAR",
+    "Artists": [
+      {
+        "ArtistID": 1298,
+        "Artist": "NF",
+        "SpotifyURL": "https://open.spotify.com/artist/0WjcdSKSTiNtfM4uQDIPDm"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27392640546d2877fe762c0f050",
+    "SpotifyURL": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
+  },
+  {
+    "Position": 12,
+    "SongID": 1261789,
+    "Title": "Raindance",
+    "Artists": [
+      {
+        "ArtistID": 48568,
+        "Artist": "Dave",
+        "SpotifyURL": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+      },
+      {
+        "ArtistID": 281,
+        "Artist": "Tems",
+        "SpotifyURL": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fecaa7826bb0cbe139a8cb83",
+    "SpotifyURL": null
+  },
+  {
+    "Position": 13,
+    "SongID": 1270019,
+    "Title": "Robbed You",
+    "Artists": [
+      {
+        "ArtistID": 553,
+        "Artist": "Summer Walker",
+        "SpotifyURL": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+      },
+      {
+        "ArtistID": 8902,
+        "Artist": "Mariah the Scientist",
+        "SpotifyURL": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273868c0ad9578da22988849c77",
+    "SpotifyURL": null
   },
   {
     "Position": 14,
-    "SongID": 1264532,
-    "Title": "La Rumba Del Perdón",
+    "SongID": 1264448,
+    "Title": "Divinize",
     "Artists": [
       {
         "ArtistID": 53,
         "Artist": "ROSALÍA",
         "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-      },
-      {
-        "ArtistID": 75054,
-        "Artist": "Sílvia Pérez Cruz",
-        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/7o76sIawH9bRWsltcWfQfd"
+    "SpotifyURL": "https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1"
   },
   {
     "Position": 15,
-    "SongID": 1264533,
-    "Title": "Sauvignon Blanc",
+    "SongID": 1270020,
+    "Title": "FMT",
     "Artists": [
       {
-        "ArtistID": 53,
-        "Artist": "ROSALÍA",
-        "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        "ArtistID": 553,
+        "Artist": "Summer Walker",
+        "SpotifyURL": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
-    "SpotifyURL": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273868c0ad9578da22988849c77",
+    "SpotifyURL": null
   }
 ]
