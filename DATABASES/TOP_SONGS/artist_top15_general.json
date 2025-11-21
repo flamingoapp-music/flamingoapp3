@@ -3,7 +3,7 @@
     "Position": 1,
     "ArtistID": 1,
     "Artist": "Taylor Swift",
-    "Number of hits": 38,
+    "Number of hits": 36,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676",
     "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
   },
@@ -11,12 +11,20 @@
     "Position": 2,
     "ArtistID": 16,
     "Artist": "Bad Bunny",
-    "Number of hits": 71,
+    "Number of hits": 80,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
     "SpotifyURL": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
   },
   {
     "Position": 3,
+    "ArtistID": 9883,
+    "Artist": "Olivia Dean",
+    "Number of hits": 17,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6e938c6cd78d705571ba9e7e",
+    "SpotifyURL": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+  },
+  {
+    "Position": 4,
     "ArtistID": 53,
     "Artist": "ROSALÍA",
     "Number of hits": 21,
@@ -24,28 +32,20 @@
     "SpotifyURL": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
   },
   {
-    "Position": 4,
-    "ArtistID": 9883,
-    "Artist": "Olivia Dean",
-    "Number of hits": 15,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6e938c6cd78d705571ba9e7e",
-    "SpotifyURL": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-  },
-  {
     "Position": 5,
-    "ArtistID": 48811,
-    "Artist": "HUNTR/X",
-    "Number of hits": 10,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2736c1334650ced0e28f0b2e13f",
-    "SpotifyURL": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+    "ArtistID": 8,
+    "Artist": "Billie Eilish",
+    "Number of hits": 18,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
+    "SpotifyURL": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
   },
   {
     "Position": 6,
-    "ArtistID": 8,
-    "Artist": "Billie Eilish",
-    "Number of hits": 15,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
-    "SpotifyURL": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+    "ArtistID": 48811,
+    "Artist": "HUNTR/X",
+    "Number of hits": 9,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2736c1334650ced0e28f0b2e13f",
+    "SpotifyURL": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
   },
   {
     "Position": 7,
@@ -57,6 +57,14 @@
   },
   {
     "Position": 8,
+    "ArtistID": 115,
+    "Artist": "Tate McRae",
+    "Number of hits": 14,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb590259e859082dc3b661b8ac",
+    "SpotifyURL": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+  },
+  {
+    "Position": 9,
     "ArtistID": 102,
     "Artist": "Sabrina Carpenter",
     "Number of hits": 15,
@@ -64,59 +72,51 @@
     "SpotifyURL": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
   },
   {
-    "Position": 9,
+    "Position": 10,
+    "ArtistID": 37,
+    "Artist": "Drake",
+    "Number of hits": 57,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+    "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+  },
+  {
+    "Position": 11,
     "ArtistID": 5768,
     "Artist": "Beéle",
-    "Number of hits": 18,
+    "Number of hits": 19,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8e10d05db45e77a86256fc5d",
     "SpotifyURL": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
   },
   {
-    "Position": 10,
-    "ArtistID": 115,
-    "Artist": "Tate McRae",
-    "Number of hits": 9,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb590259e859082dc3b661b8ac",
-    "SpotifyURL": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-  },
-  {
-    "Position": 11,
+    "Position": 12,
     "ArtistID": 19,
     "Artist": "Fuerza Regida",
-    "Number of hits": 34,
+    "Number of hits": 32,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb158a3d24a31166b983e26325",
     "SpotifyURL": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
   },
   {
-    "Position": 12,
+    "Position": 13,
+    "ArtistID": 12939,
+    "Artist": "Himra",
+    "Number of hits": 61,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc35eda06cefddc1b9f24522f",
+    "SpotifyURL": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+  },
+  {
+    "Position": 14,
     "ArtistID": 10857,
     "Artist": "sombr",
-    "Number of hits": 3,
+    "Number of hits": 4,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2550006e2746e5af5b2e0545",
     "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
   },
   {
-    "Position": 13,
-    "ArtistID": 64914,
-    "Artist": "Saja Boys",
-    "Number of hits": 8,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe97701e53e1a2b8af6ba2195",
-    "SpotifyURL": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
-  },
-  {
-    "Position": 14,
-    "ArtistID": null,
-    "Artist": "KPop Demon Hunters Cast",
-    "Number of hits": 11,
-    "SpotifyImageURL": null,
-    "SpotifyURL": null
-  },
-  {
     "Position": 15,
-    "ArtistID": 37,
-    "Artist": "Drake",
-    "Number of hits": 34,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-    "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    "ArtistID": 54,
+    "Artist": "Rauw Alejandro",
+    "Number of hits": 20,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5b50fae60980240b4ebd7808",
+    "SpotifyURL": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
   }
 ]
