@@ -2,6 +2,9 @@ document.addEventListener("DOMContentLoaded", function () {
 	const basePath = "DATABASES/TOP_ARTISTS/";
 	const artistFeaturesFile = basePath + "ARTIST_FEATURES.json";
 
+	// ✅ Fallback cover (ruta web relativa, NO ruta Windows)
+	const DEFAULT_COVER = "images/backgroundlogo.png";
+
 	const topListSelect = document.getElementById("topListSelect");
 	const listName = document.getElementById("listName");
 	const songList = document.getElementById("songList");
@@ -13,14 +16,24 @@ document.addEventListener("DOMContentLoaded", function () {
 			fetch(artistFeaturesFile).then(r => r.json())
 		])
 			.then(([rankingData, artistFeatures]) => {
-				const artistMap = Object.fromEntries(artistFeatures.map(a => [String(a.ArtistID), a]));
+				const artistMap = Object.fromEntries(
+					(Array.isArray(artistFeatures) ? artistFeatures : []).map(a => [String(a.ArtistID), a])
+				);
 
-				const merged = rankingData.map(entry => {
+				const merged = (Array.isArray(rankingData) ? rankingData : []).map(entry => {
 					const artistObj = artistMap[String(entry.ArtistID)] || {};
+
+					// ✅ imagen robusta: si falta/está vacía -> DEFAULT_COVER
+					const imgCandidate = artistObj.SpotifyImageURL;
+					const finalImg =
+						typeof imgCandidate === "string" && imgCandidate.trim() !== ""
+							? imgCandidate
+							: DEFAULT_COVER;
+
 					return {
 						Position: entry.Position,
 						Artist: entry.Artist,
-						Image: artistObj.SpotifyImageURL || "images/default_cover.jpg",
+						Image: finalImg,
 						URL: artistObj.SpotifyURL || null,
 						Hits: entry["Number of hits"]
 					};
@@ -45,8 +58,13 @@ document.addEventListener("DOMContentLoaded", function () {
 			rank.textContent = `${artist.Position}.`;
 
 			const img = document.createElement("img");
-			img.src = artist.Image;
+			img.src = artist.Image || DEFAULT_COVER;
 			img.alt = `${artist.Artist} Image`;
+
+			// ✅ fallback si la imagen falla al cargar
+			img.onerror = () => {
+				img.src = DEFAULT_COVER;
+			};
 
 			const info = document.createElement("div");
 			info.className = "song-info-list";
@@ -102,11 +120,10 @@ document.addEventListener("DOMContentLoaded", function () {
 	const urlParams = new URLSearchParams(window.location.search);
 	const chartParam = urlParams.get("chart") || "artists_weekly";
 
-// Update list name title
+	// Update list name title
 	listName.textContent = `TOP ARTISTS - ${chartParam.replace("artists_", "").toUpperCase()}`;
 	platformLogo.src = "images/logo.png";
 
-// Load chart
+	// Load chart
 	loadArtistData(chartParam);
-
 });

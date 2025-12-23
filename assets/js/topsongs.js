@@ -1,6 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
 	const selectedPlatform = "topsongs";
 
+	// ✅ Fallback cover (ruta web relativa, NO ruta Windows)
+	const DEFAULT_COVER = "images/backgroundlogo.png";
+
 	const platformOptions = {
 		topsongs: "DATABASES/TOP_SONGS/"
 	};
@@ -39,7 +42,8 @@ document.addEventListener("DOMContentLoaded", function () {
 	function loadTopData(topType) {
 		const dataFile = `${platformOptions[selectedPlatform]}${topType}.json`;
 
-		document.getElementById("listName").textContent = `${platformNameMap[selectedPlatform].toUpperCase()} - ${topType.replace("top_", "").toUpperCase()}`;
+		document.getElementById("listName").textContent =
+			`${platformNameMap[selectedPlatform].toUpperCase()} - ${topType.replace("top_", "").toUpperCase()}`;
 		document.getElementById("platformLogo").src = platformLogos[selectedPlatform];
 
 		const fetches = [
@@ -52,16 +56,22 @@ document.addEventListener("DOMContentLoaded", function () {
 
 		Promise.all(fetches)
 			.then(([data, siData, tsData, spData, artistFeatures]) => {
-				const spMap = Object.fromEntries(spData.map(d => [d.SongID, d.Spotify_URL]));
-				const siMap = Object.fromEntries(siData.map(d => [d.SongID, d]));
-				const tsMap = Object.fromEntries(tsData.map(d => [d.SongID, d]));
-				const artistMapByID = Object.fromEntries(artistFeatures.map(a => [String(a.ArtistID), a]));
+				const spMap = Object.fromEntries((Array.isArray(spData) ? spData : []).map(d => [d.SongID, d.Spotify_URL]));
+				const siMap = Object.fromEntries((Array.isArray(siData) ? siData : []).map(d => [d.SongID, d]));
+				const tsMap = Object.fromEntries((Array.isArray(tsData) ? tsData : []).map(d => [d.SongID, d]));
+				const artistMapByID = Object.fromEntries(
+					(Array.isArray(artistFeatures) ? artistFeatures : []).map(a => [String(a.ArtistID), a])
+				);
 
-				const merged = data.map(entry => {
+				const merged = (Array.isArray(data) ? data : []).map(entry => {
 					const id = entry.SongID;
-					const artistIDs = (siMap[id]?.ArtistID || "").split(",").map(x => x.trim()).filter(Boolean);
-					const artistLinks = [];
 
+					const artistIDs = (siMap[id]?.ArtistID || "")
+						.split(",")
+						.map(x => x.trim())
+						.filter(Boolean);
+
+					const artistLinks = [];
 					artistIDs.forEach(aid => {
 						const artistObj = artistMapByID[aid];
 						if (artistObj) {
@@ -72,12 +82,19 @@ document.addEventListener("DOMContentLoaded", function () {
 						}
 					});
 
+					// ✅ Cover image robust: si no existe / vacío -> DEFAULT_COVER
+					const coverCandidate = tsMap[id]?.CoverImage;
+					const finalCover =
+						typeof coverCandidate === "string" && coverCandidate.trim() !== ""
+							? coverCandidate
+							: DEFAULT_COVER;
+
 					return {
 						SongID: id,
 						Position: entry.Position,
 						Title: siMap[id]?.Title || "Unknown Title",
 						ArtistNames: artistLinks,
-						CoverImage: tsMap[id]?.CoverImage || "images/default_cover.jpg",
+						CoverImage: finalCover,
 						SpotifyURL: spMap[id] || null
 					};
 				});
@@ -102,8 +119,13 @@ document.addEventListener("DOMContentLoaded", function () {
 			rank.textContent = `${song.Position}.`;
 
 			const img = document.createElement("img");
-			img.src = song.CoverImage;
+			img.src = song.CoverImage || DEFAULT_COVER;
 			img.alt = `${song.Title} Cover`;
+
+			// ✅ fallback si la imagen falla al cargar
+			img.onerror = () => {
+				img.src = DEFAULT_COVER;
+			};
 
 			const info = document.createElement("div");
 			info.className = "song-info-list";

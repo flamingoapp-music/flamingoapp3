@@ -1,6 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
 	const selectedPlatform = "appleMusic";
 
+	// ✅ Fallback cover (ruta web relativa, NO ruta Windows)
+	const DEFAULT_COVER = "images/backgroundlogo.png";
+
 	const platformOptions = {
 		appleMusic: "DATABASES/ALL_JSON/apple_music_"
 	};
@@ -18,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	};
 
 	const platformLogos = {
-		appleMusic: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg'
+		appleMusic: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
 	};
 
 	const { si, ts, sp } = siTsFiles[selectedPlatform];
@@ -59,7 +62,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
 				const merged = data.map(entry => {
 					const id = entry.SongID;
-					const artistIDs = (siMap[id]?.ArtistID || "").split(",").map(x => x.trim()).filter(Boolean);
+
+					const artistIDs = (siMap[id]?.ArtistID || "")
+						.split(",")
+						.map(x => x.trim())
+						.filter(Boolean);
 
 					const artistLinks = [];
 					artistIDs.forEach(aid => {
@@ -72,12 +79,19 @@ document.addEventListener("DOMContentLoaded", function () {
 						}
 					});
 
+					// ✅ Cover image robust: si no existe / vacío -> DEFAULT_COVER
+					const coverCandidate = tsMap[id]?.CoverImage;
+					const finalCover =
+						typeof coverCandidate === "string" && coverCandidate.trim() !== ""
+							? coverCandidate
+							: DEFAULT_COVER;
+
 					return {
 						SongID: id,
 						Position: entry.Position,
 						Title: siMap[id]?.Title || "Unknown Title",
 						ArtistNames: artistLinks,
-						CoverImage: tsMap[id]?.CoverImage || "images/default_cover.jpg",
+						CoverImage: finalCover,
 						SpotifyURL: spMap[id] || null
 					};
 				});
@@ -86,7 +100,8 @@ document.addEventListener("DOMContentLoaded", function () {
 			})
 			.catch(err => {
 				console.error("Error loading data:", err);
-				document.getElementById("songList").innerHTML = `<li>Error loading ${countryCode.toUpperCase()} data.</li>`;
+				document.getElementById("songList").innerHTML =
+					`<li>Error loading ${countryCode.toUpperCase()} data.</li>`;
 			});
 	}
 
@@ -113,6 +128,11 @@ document.addEventListener("DOMContentLoaded", function () {
 			const img = document.createElement("img");
 			img.src = song.CoverImage;
 			img.alt = `${song.Title} Cover`;
+
+			// ✅ Si la imagen falla al cargar, usa fallback
+			img.onerror = () => {
+				img.src = DEFAULT_COVER;
+			};
 
 			const info = document.createElement("div");
 			info.className = "song-info-list";

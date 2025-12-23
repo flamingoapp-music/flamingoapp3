@@ -1,6 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
 	const selectedPlatform = "spotifyWeekly";
 
+	// ✅ Fallback cover (ruta web relativa, NO ruta Windows)
+	const DEFAULT_COVER = "images/backgroundlogo.png";
+
 	const platformOptions = {
 		spotifyWeekly: "DATABASES/ALL_JSON//SP_"
 	};
@@ -18,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	};
 
 	const platformLogos = {
-		spotifyWeekly: 'https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png'
+		spotifyWeekly: "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"
 	};
 
 	const { si, ts, sp } = siTsFiles[selectedPlatform];
@@ -59,15 +62,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
 				const merged = data.map(entry => {
 					const id = entry.SongID;
-					const artistIDs = (siMap[id]?.ArtistID || "").split(",").map(x => x.trim()).filter(Boolean);
 
-					const artistNames = [];
+					const artistIDs = (siMap[id]?.ArtistID || "")
+						.split(",")
+						.map(x => x.trim())
+						.filter(Boolean);
+
 					const artistLinks = [];
-
 					artistIDs.forEach(aid => {
 						const artistObj = artistMapByID[aid];
 						if (artistObj) {
-							artistNames.push(artistObj.Artist);
 							artistLinks.push({
 								name: artistObj.Artist,
 								url: artistObj.SpotifyURL || null
@@ -75,12 +79,19 @@ document.addEventListener("DOMContentLoaded", function () {
 						}
 					});
 
+					// ✅ Cover image robust: si no existe / vacío -> DEFAULT_COVER
+					const coverCandidate = tsMap[id]?.CoverImage;
+					const finalCover =
+						typeof coverCandidate === "string" && coverCandidate.trim() !== ""
+							? coverCandidate
+							: DEFAULT_COVER;
+
 					return {
 						SongID: id,
 						Position: entry.Position,
 						Title: siMap[id]?.Title || "Unknown Title",
 						ArtistNames: artistLinks,
-						CoverImage: tsMap[id]?.CoverImage || "images/default_cover.jpg",
+						CoverImage: finalCover,
 						SpotifyURL: spMap[id] || null
 					};
 				});
@@ -89,7 +100,8 @@ document.addEventListener("DOMContentLoaded", function () {
 			})
 			.catch(err => {
 				console.error("Error loading data:", err);
-				document.getElementById("songList").innerHTML = `<li>Error loading ${countryCode.toUpperCase()} data.</li>`;
+				document.getElementById("songList").innerHTML =
+					`<li>Error loading ${countryCode.toUpperCase()} data.</li>`;
 			});
 	}
 
@@ -116,6 +128,11 @@ document.addEventListener("DOMContentLoaded", function () {
 			const img = document.createElement("img");
 			img.src = song.CoverImage;
 			img.alt = `${song.Title} Cover`;
+
+			// ✅ Si la imagen falla al cargar, usa fallback
+			img.onerror = () => {
+				img.src = DEFAULT_COVER;
+			};
 
 			const info = document.createElement("div");
 			info.className = "song-info-list";
