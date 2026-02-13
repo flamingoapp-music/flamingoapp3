@@ -1,6 +1,14 @@
 [
   {
     "Position": 1,
+    "ArtistID": 132,
+    "Artist": "Don Toliver",
+    "Number of hits": 27,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb62d52993e245cb161f89b01c",
+    "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+  },
+  {
+    "Position": 2,
     "ArtistID": 113,
     "Artist": "Bruno Mars",
     "Number of hits": 24,
@@ -8,7 +16,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
   },
   {
-    "Position": 2,
+    "Position": 3,
     "ArtistID": 50,
     "Artist": "Harry Styles",
     "Number of hits": 6,
@@ -16,39 +24,47 @@
     "SpotifyURL": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
   },
   {
-    "Position": 3,
+    "Position": 4,
     "ArtistID": 5360,
     "Artist": "Rawayana",
-    "Number of hits": 54,
+    "Number of hits": 51,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb5c14a2ec63ac237caab6593",
     "SpotifyURL": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
   },
   {
-    "Position": 4,
+    "Position": 5,
+    "ArtistID": 5601,
+    "Artist": "Kid Yugi",
+    "Number of hits": 31,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5a8302b17dee9e56ad89f199",
+    "SpotifyURL": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+  },
+  {
+    "Position": 6,
     "ArtistID": 1377,
     "Artist": "Geolier",
-    "Number of hits": 23,
+    "Number of hits": 22,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe697a78a7bdec1ffc38680a4",
     "SpotifyURL": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
   },
   {
-    "Position": 5,
-    "ArtistID": 132,
-    "Artist": "Don Toliver",
-    "Number of hits": 26,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb62d52993e245cb161f89b01c",
-    "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+    "Position": 7,
+    "ArtistID": 235,
+    "Artist": "Noah Kahan",
+    "Number of hits": 6,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8c52b10e110f62fe45761590",
+    "SpotifyURL": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
   },
   {
-    "Position": 6,
-    "ArtistID": null,
+    "Position": 8,
+    "ArtistID": 86264,
     "Artist": "LNGSHOT",
     "Number of hits": 4,
-    "SpotifyImageURL": null,
-    "SpotifyURL": null
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2da5a5cd00c31be7c50cd6af",
+    "SpotifyURL": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
   },
   {
-    "Position": 7,
+    "Position": 9,
     "ArtistID": 4253,
     "Artist": "Trannos",
     "Number of hits": 30,
@@ -56,7 +72,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
   },
   {
-    "Position": 8,
+    "Position": 10,
     "ArtistID": 48961,
     "Artist": "KiiiKiii",
     "Number of hits": 6,
@@ -64,7 +80,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
   },
   {
-    "Position": 9,
+    "Position": 11,
     "ArtistID": 118,
     "Artist": "Wizkid",
     "Number of hits": 31,
@@ -72,7 +88,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
   },
   {
-    "Position": 10,
+    "Position": 12,
     "ArtistID": 5238,
     "Artist": "Ares",
     "Number of hits": 21,
@@ -80,7 +96,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/3L7L7o7SKkWI8wsU43ycRl"
   },
   {
-    "Position": 11,
+    "Position": 13,
     "ArtistID": 48570,
     "Artist": "Zach Bryan",
     "Number of hits": 16,
@@ -88,7 +104,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
   },
   {
-    "Position": 12,
+    "Position": 14,
     "ArtistID": 27374,
     "Artist": "RnBoi",
     "Number of hits": 10,
@@ -96,27 +112,11 @@
     "SpotifyURL": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
   },
   {
-    "Position": 13,
+    "Position": 15,
     "ArtistID": 1720,
     "Artist": "YOVNGCHIMI",
     "Number of hits": 7,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb91953ff5e13763598d52866c",
     "SpotifyURL": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-  },
-  {
-    "Position": 14,
-    "ArtistID": 9208,
-    "Artist": "Clarent",
-    "Number of hits": 11,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb821e4eec4f0df126301b3a3b",
-    "SpotifyURL": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-  },
-  {
-    "Position": 15,
-    "ArtistID": 307,
-    "Artist": "i-dle",
-    "Number of hits": 3,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb732a090e736faef27779d24e",
-    "SpotifyURL": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
   }
 ]
