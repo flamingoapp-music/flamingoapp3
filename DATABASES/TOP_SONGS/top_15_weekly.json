@@ -1,6 +1,34 @@
 [
   {
     "Position": 1,
+    "SongID": 1291145,
+    "Title": "Homewrecker",
+    "Artists": [
+      {
+        "ArtistID": 10857,
+        "Artist": "sombr",
+        "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739a8d41dca4c7d0ef23d76dd7",
+    "SpotifyURL": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+  },
+  {
+    "Position": 2,
+    "SongID": 1295366,
+    "Title": "White Feather Hawk Tail Deer Hunter",
+    "Artists": [
+      {
+        "ArtistID": 104,
+        "Artist": "Lana Del Rey",
+        "SpotifyURL": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735137f42d1cbb2a831d56ff3f",
+    "SpotifyURL": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
+  },
+  {
+    "Position": 3,
     "SongID": 1289669,
     "Title": "Aperture",
     "Artists": [
@@ -14,21 +42,64 @@
     "SpotifyURL": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
   },
   {
-    "Position": 2,
-    "SongID": 1291141,
-    "Title": "Body",
+    "Position": 4,
+    "SongID": 1295561,
+    "Title": "ROSITA",
     "Artists": [
       {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        "ArtistID": 79,
+        "Artist": "Tainy",
+        "SpotifyURL": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+      },
+      {
+        "ArtistID": 54,
+        "Artist": "Rauw Alejandro",
+        "SpotifyURL": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+      },
+      {
+        "ArtistID": 65192,
+        "Artist": "JHAYCO",
+        "SpotifyURL": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273edf05d743b5e3cda31c1f18c",
+    "SpotifyURL": null
   },
   {
-    "Position": 3,
+    "Position": 5,
+    "SongID": 1293788,
+    "Title": "BANG BANG",
+    "Artists": [
+      {
+        "ArtistID": 602,
+        "Artist": "IVE",
+        "SpotifyURL": "https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273775cb67ad6f1aa320a8cb945",
+    "SpotifyURL": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
+  },
+  {
+    "Position": 6,
+    "SongID": 1295562,
+    "Title": "FOREVER TU GANTEL",
+    "Artists": [
+      {
+        "ArtistID": 7865,
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+      },
+      {
+        "ArtistID": 379,
+        "Artist": "Ñengo Flow",
+        "SpotifyURL": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390af5246adcaa93acb721c17",
+    "SpotifyURL": null
+  },
+  {
+    "Position": 7,
     "SongID": 1291144,
     "Title": "E85",
     "Artists": [
@@ -42,79 +113,42 @@
     "SpotifyURL": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
   },
   {
-    "Position": 4,
-    "SongID": 1291156,
-    "Title": "The Great Divide",
-    "Artists": [
-      {
-        "ArtistID": 235,
-        "Artist": "Noah Kahan",
-        "SpotifyURL": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a47374027a9f559917ba66ba",
-    "SpotifyURL": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-  },
-  {
-    "Position": 5,
-    "SongID": 1289668,
-    "Title": "ATM",
-    "Artists": [
-      {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730228270d62beed7dd50c8811",
-    "SpotifyURL": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH"
-  },
-  {
-    "Position": 6,
-    "SongID": 1291477,
-    "Title": "Call Back",
-    "Artists": [
-      {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7"
-  },
-  {
-    "Position": 7,
-    "SongID": 1291479,
-    "Title": "Gemstone",
-    "Artists": [
-      {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/6d9Cs2D2RSIl9c0ulgnFe8"
-  },
-  {
     "Position": 8,
-    "SongID": 1291532,
-    "Title": "Dandelion",
+    "SongID": 1295563,
+    "Title": "OUTRO",
     "Artists": [
       {
-        "ArtistID": 9116,
-        "Artist": "Ella Langley",
-        "SpotifyURL": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        "ArtistID": 7865,
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738c4aa8e46455efcaa08c4085",
-    "SpotifyURL": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390af5246adcaa93acb721c17",
+    "SpotifyURL": null
   },
   {
     "Position": 9,
-    "SongID": 1291534,
-    "Title": "Excavator",
+    "SongID": 1295568,
+    "Title": "WO OH OH",
+    "Artists": [
+      {
+        "ArtistID": 7865,
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+      },
+      {
+        "ArtistID": 65325,
+        "Artist": "ROA",
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c17e79edabf562f0fa919b9c",
+    "SpotifyURL": null
+  },
+  {
+    "Position": 10,
+    "SongID": 1291141,
+    "Title": "Body",
     "Artists": [
       {
         "ArtistID": 132,
@@ -123,105 +157,91 @@
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
-  },
-  {
-    "Position": 10,
-    "SongID": 1290123,
-    "Title": "LET 'EM KNOW",
-    "Artists": [
-      {
-        "ArtistID": 1347,
-        "Artist": "T.I.",
-        "SpotifyURL": "https://open.spotify.com/artist/5XPrniVXXXD0021qH0ed6b"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b4019f6b27b37d6b47af6b9",
-    "SpotifyURL": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
+    "SpotifyURL": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
   },
   {
     "Position": 11,
-    "SongID": 1292786,
-    "Title": "Rendezvous",
+    "SongID": 1295564,
+    "Title": "L a k e n o s h i",
     "Artists": [
       {
-        "ArtistID": 86236,
-        "Artist": "Don ToliverFeaturing Yeat",
-        "SpotifyURL": null
+        "ArtistID": 7865,
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390af5246adcaa93acb721c17",
     "SpotifyURL": null
   },
   {
     "Position": 12,
-    "SongID": 1291536,
-    "Title": "OPPOSITE",
+    "SongID": 1295566,
+    "Title": "VAMOaCOCHI",
     "Artists": [
       {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        "ArtistID": 7865,
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/3Y1ZpXS4HETFHDdBNfNU0I"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390af5246adcaa93acb721c17",
+    "SpotifyURL": null
   },
   {
     "Position": 13,
-    "SongID": 1292788,
-    "Title": "Rosary",
+    "SongID": 1295567,
+    "Title": "WHAT U NEED? (SexPlaylist 2)",
     "Artists": [
       {
-        "ArtistID": 86239,
-        "Artist": "Don ToliverFeaturingTravis Scott",
-        "SpotifyURL": null
+        "ArtistID": 7865,
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+      },
+      {
+        "ArtistID": 3,
+        "Artist": "Myke Towers",
+        "SpotifyURL": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390af5246adcaa93acb721c17",
     "SpotifyURL": null
   },
   {
     "Position": 14,
-    "SongID": 1292800,
-    "Title": "McArthur",
+    "SongID": 1295565,
+    "Title": "$UELTA GATITA $UELTA",
     "Artists": [
       {
-        "ArtistID": 49472,
-        "Artist": "HARDY",
-        "SpotifyURL": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        "ArtistID": 7865,
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
       },
       {
-        "ArtistID": 1515,
-        "Artist": "Eric Church",
-        "SpotifyURL": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        "ArtistID": 587,
+        "Artist": "Dei V",
+        "SpotifyURL": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
       },
       {
-        "ArtistID": 135,
-        "Artist": "Morgan Wallen",
-        "SpotifyURL": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-      },
-      {
-        "ArtistID": 2484,
-        "Artist": "Tim McGraw",
-        "SpotifyURL": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        "ArtistID": 9208,
+        "Artist": "Clarent",
+        "SpotifyURL": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733095a6008ce338cea3d13fff",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e4033c9472181b67f27f6bbe",
     "SpotifyURL": null
   },
   {
     "Position": 15,
-    "SongID": 1290110,
-    "Title": "POP DAT THANG",
+    "SongID": 1295570,
+    "Title": "SIRENA",
     "Artists": [
       {
-        "ArtistID": 342,
-        "Artist": "DaBaby",
-        "SpotifyURL": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        "ArtistID": 7865,
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e154030833dbe4ff814fdb9d",
-    "SpotifyURL": "https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390af5246adcaa93acb721c17",
+    "SpotifyURL": null
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
     "Position": 1,
-    "SongID": 1288574,
-    "Title": "I Just Might",
+    "SongID": 1291145,
+    "Title": "Homewrecker",
     "Artists": [
       {
-        "ArtistID": 113,
-        "Artist": "Bruno Mars",
-        "SpotifyURL": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        "ArtistID": 10857,
+        "Artist": "sombr",
+        "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e2887a1b6b98fc6c73bab12b",
-    "SpotifyURL": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739a8d41dca4c7d0ef23d76dd7",
+    "SpotifyURL": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
   },
   {
     "Position": 2,
@@ -29,20 +29,6 @@
   },
   {
     "Position": 3,
-    "SongID": 1291141,
-    "Title": "Body",
-    "Artists": [
-      {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
-  },
-  {
-    "Position": 4,
     "SongID": 1291144,
     "Title": "E85",
     "Artists": [
@@ -56,7 +42,35 @@
     "SpotifyURL": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
   },
   {
+    "Position": 4,
+    "SongID": 1291141,
+    "Title": "Body",
+    "Artists": [
+      {
+        "ArtistID": 132,
+        "Artist": "Don Toliver",
+        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "SpotifyURL": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+  },
+  {
     "Position": 5,
+    "SongID": 1291149,
+    "Title": "Secondhand",
+    "Artists": [
+      {
+        "ArtistID": 132,
+        "Artist": "Don Toliver",
+        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "SpotifyURL": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+  },
+  {
+    "Position": 6,
     "SongID": 1291156,
     "Title": "The Great Divide",
     "Artists": [
@@ -70,7 +84,49 @@
     "SpotifyURL": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
   },
   {
-    "Position": 6,
+    "Position": 7,
+    "SongID": 1292999,
+    "Title": "CHÉVERE (joesón_type_beat)",
+    "Artists": [
+      {
+        "ArtistID": 86204,
+        "Artist": "ARIA VEGA",
+        "SpotifyURL": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a041d1e4024bed274b48d393",
+    "SpotifyURL": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
+  },
+  {
+    "Position": 8,
+    "SongID": 1289869,
+    "Title": "iloveitiloveitiloveit",
+    "Artists": [
+      {
+        "ArtistID": 65680,
+        "Artist": "Bella Kay",
+        "SpotifyURL": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ce4abadeadb4f56458cc6390",
+    "SpotifyURL": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+  },
+  {
+    "Position": 9,
+    "SongID": 1291150,
+    "Title": "Two Six",
+    "Artists": [
+      {
+        "ArtistID": 49351,
+        "Artist": "J. Cole",
+        "SpotifyURL": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3",
+    "SpotifyURL": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
+  },
+  {
+    "Position": 10,
     "SongID": 1289668,
     "Title": "ATM",
     "Artists": [
@@ -84,129 +140,73 @@
     "SpotifyURL": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH"
   },
   {
-    "Position": 7,
-    "SongID": 1288580,
-    "Title": "Sleepless in a Hotel Room",
-    "Artists": [
-      {
-        "ArtistID": 77,
-        "Artist": "Luke Combs",
-        "SpotifyURL": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731040d6c19f908bda1fb5948b",
-    "SpotifyURL": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
-  },
-  {
-    "Position": 8,
-    "SongID": 1288682,
-    "Title": "AIZO",
-    "Artists": [
-      {
-        "ArtistID": 736,
-        "Artist": "King Gnu",
-        "SpotifyURL": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273120734724ff398a2d812f982",
-    "SpotifyURL": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
-  },
-  {
-    "Position": 9,
-    "SongID": 1288578,
-    "Title": "Plastic Cigarette",
-    "Artists": [
-      {
-        "ArtistID": 48570,
-        "Artist": "Zach Bryan",
-        "SpotifyURL": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273459f61f8bbf10c91f24d5e6a",
-    "SpotifyURL": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
-  },
-  {
-    "Position": 10,
-    "SongID": 1291477,
-    "Title": "Call Back",
-    "Artists": [
-      {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/16yVaWo0Gmvs2wlnmJbcH7"
-  },
-  {
     "Position": 11,
-    "SongID": 1288726,
-    "Title": "lulu.",
+    "SongID": 1293787,
+    "Title": "404 (New Era)",
     "Artists": [
       {
-        "ArtistID": 1635,
-        "Artist": "Mrs. GREEN APPLE",
-        "SpotifyURL": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        "ArtistID": 48961,
+        "Artist": "KiiiKiii",
+        "SpotifyURL": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739f3b4070433475c017120dec",
-    "SpotifyURL": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730cc65398388cbc486fa4fff7",
+    "SpotifyURL": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
   },
   {
     "Position": 12,
-    "SongID": 1291479,
-    "Title": "Gemstone",
+    "SongID": 1293815,
+    "Title": "MVLAN",
     "Artists": [
       {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        "ArtistID": 1720,
+        "Artist": "YOVNGCHIMI",
+        "SpotifyURL": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/6d9Cs2D2RSIl9c0ulgnFe8"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737eeacca84b273aea7b257b96",
+    "SpotifyURL": "https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k"
   },
   {
     "Position": 13,
-    "SongID": 1291532,
-    "Title": "Dandelion",
+    "SongID": 1293839,
+    "Title": "AVEC MOI",
     "Artists": [
       {
-        "ArtistID": 9116,
-        "Artist": "Ella Langley",
-        "SpotifyURL": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        "ArtistID": 27374,
+        "Artist": "RnBoi",
+        "SpotifyURL": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738c4aa8e46455efcaa08c4085",
-    "SpotifyURL": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f13bbf1185519819dd715326",
+    "SpotifyURL": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
   },
   {
     "Position": 14,
-    "SongID": 1291534,
-    "Title": "Excavator",
+    "SongID": 1289521,
+    "Title": "Moonwalkin'",
     "Artists": [
       {
-        "ArtistID": 132,
-        "Artist": "Don Toliver",
-        "SpotifyURL": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        "ArtistID": 86264,
+        "Artist": "LNGSHOT",
+        "SpotifyURL": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-    "SpotifyURL": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739ae175cd44e09688bb7c0f4f",
+    "SpotifyURL": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
   },
   {
     "Position": 15,
-    "SongID": 1288603,
-    "Title": "Say Why",
+    "SongID": 1293486,
+    "Title": "4x4",
     "Artists": [
       {
-        "ArtistID": 48570,
-        "Artist": "Zach Bryan",
-        "SpotifyURL": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        "ArtistID": 64960,
+        "Artist": "Omar Camacho",
+        "SpotifyURL": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273459f61f8bbf10c91f24d5e6a",
-    "SpotifyURL": "https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ac8c116bb192da362d2b5152",
+    "SpotifyURL": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
   }
 ]
