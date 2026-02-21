@@ -1,23 +1,38 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // =========================
+  // CONFIG
+  // =========================
   const selectedPlatform = "youtubeInsights";
 
-  // ✅ Fallback cover (ruta web relativa, NO ruta Windows)
+  // Fallback cover (ruta web relativa, NO ruta Windows)
   const DEFAULT_COVER = "images/backgroundlogo.png";
 
-  // ✅ Debe coincidir con tu export del extractor:
-  // yt_insights_<cc>.json  (ej: yt_insights_us.json)
+  // ✅ Country JSON naming produced by your extractor:
+  // yt_insights_<cc>.json  (ex: yt_insights_us.json)
   const platformOptions = {
     youtubeInsights: "DATABASES/ALL_JSON/yt_insights_"
   };
 
-  // ✅ Debe coincidir con los JSON que exporta YOUTUBE_NEWEXTRACT:
-  // YOUTUBE_SI.json / YOUTUBE_TS.json / YOUTUBE_SP.json / YOUTUBE_ARTIST_FEATURES.json
+  // ✅ IMPORTANT:
+  // Many times your web has SI.json / TS.json / SP.json / ARTIST_FEATURES.json
+  // while the extractor may create YOUTUBE_SI.json / YOUTUBE_TS.json / etc.
+  //
+  // This code AUTO-FALLBACKS:
+  // - First tries YOUTUBE_*.json
+  // - If 404, falls back to the generic ones: SI.json / TS.json / SP.json / ARTIST_FEATURES.json
   const siTsFiles = {
     youtubeInsights: {
-      si: "DATABASES/ALL_JSON/YOUTUBE_SI.json",
-      ts: "DATABASES/ALL_JSON/YOUTUBE_TS.json",
-      sp: "DATABASES/ALL_JSON/YOUTUBE_SP.json",
-      af: "DATABASES/ALL_JSON/YOUTUBE_ARTIST_FEATURES.json"
+      // prefer youtube-specific
+      siPrimary: "DATABASES/ALL_JSON/YOUTUBE_SI.json",
+      tsPrimary: "DATABASES/ALL_JSON/YOUTUBE_TS.json",
+      spPrimary: "DATABASES/ALL_JSON/YOUTUBE_SP.json",
+      afPrimary: "DATABASES/ALL_JSON/YOUTUBE_ARTIST_FEATURES.json",
+
+      // fallback to shared/global
+      siFallback: "DATABASES/ALL_JSON/SI.json",
+      tsFallback: "DATABASES/ALL_JSON/TS.json",
+      spFallback: "DATABASES/ALL_JSON/SP.json",
+      afFallback: "DATABASES/ALL_JSON/ARTIST_FEATURES.json"
     }
   };
 
@@ -30,122 +45,157 @@ document.addEventListener("DOMContentLoaded", function () {
       "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
   };
 
-  const { si, ts, sp, af } = siTsFiles[selectedPlatform];
+  // =========================
+  // HELPERS
+  // =========================
+  const fetchJSONStrict = (url) =>
+    fetch(url).then((r) => {
+      if (!r.ok) throw new Error(`Fetch failed ${r.status} for ${url}`);
+      return r.json();
+    });
 
-  function loadCountryData(countryCode) {
+  // Tries primary; if fails (404 etc) uses fallback.
+  const fetchJSONWithFallback = async (primaryUrl, fallbackUrl, fallbackValue = []) => {
+    try {
+      return await fetchJSONStrict(primaryUrl);
+    } catch (e1) {
+      console.warn("[FALLBACK]", e1.message);
+      try {
+        return await fetchJSONStrict(fallbackUrl);
+      } catch (e2) {
+        console.warn("[FALLBACK FAILED]", e2.message);
+        return fallbackValue;
+      }
+    }
+  };
+
+  const normalizeStr = (v) => (v === null || v === undefined ? "" : String(v));
+
+  function setHeader(countryCode) {
+    const nameEl = document.getElementById("countryName");
+    const logoEl = document.getElementById("platformLogo");
+    const iconEl = document.getElementById("countryIcon");
+
+    if (nameEl) {
+      nameEl.textContent = `${platformNameMap[selectedPlatform].toUpperCase()} ${countryCode.toUpperCase()}`;
+    }
+    if (logoEl) {
+      logoEl.src = platformLogos[selectedPlatform];
+      logoEl.alt = platformNameMap[selectedPlatform];
+    }
+    if (iconEl) {
+      if (countryCode.toLowerCase() === "us") {
+        iconEl.style.display = "none";
+      } else {
+        iconEl.src = `https://flagcdn.com/w40/${countryCode.toLowerCase()}.png`;
+        iconEl.style.display = "inline";
+      }
+    }
+  }
+
+  // =========================
+  // MAIN LOADER
+  // =========================
+  async function loadCountryData(countryCode) {
     const dataFile = `${platformOptions[selectedPlatform]}${countryCode}.json`;
 
+    const cfg = siTsFiles[selectedPlatform];
+
     console.log("[LOAD] dataFile:", dataFile);
-    console.log("[LOAD] si/ts/sp/af:", si, ts, sp, af);
+    console.log("[LOAD] primary:", cfg.siPrimary, cfg.tsPrimary, cfg.spPrimary, cfg.afPrimary);
+    console.log("[LOAD] fallback:", cfg.siFallback, cfg.tsFallback, cfg.spFallback, cfg.afFallback);
 
-    document.getElementById("countryName").textContent =
-      `${platformNameMap[selectedPlatform].toUpperCase()} ${countryCode.toUpperCase()}`;
-    document.getElementById("platformLogo").src = platformLogos[selectedPlatform];
-    document.getElementById("platformLogo").alt = platformNameMap[selectedPlatform];
+    setHeader(countryCode);
 
-    const icon = document.getElementById("countryIcon");
-    if (countryCode.toLowerCase() === "us") {
-      icon.style.display = "none";
-    } else {
-      icon.src = `https://flagcdn.com/w40/${countryCode.toLowerCase()}.png`;
-      icon.style.display = "inline";
-    }
+    try {
+      // 1) fetch country data (must exist)
+      const data = await fetchJSONStrict(dataFile);
 
-    const fetchJSON = (url) =>
-      fetch(url).then((r) => {
-        if (!r.ok) {
-          throw new Error(`Fetch failed ${r.status} for ${url}`);
-        }
-        return r.json();
-      });
+      // 2) fetch SI/TS/SP/AF with fallback logic
+      const [siData, tsData, spData, artistFeatures] = await Promise.all([
+        fetchJSONWithFallback(cfg.siPrimary, cfg.siFallback, []),
+        fetchJSONWithFallback(cfg.tsPrimary, cfg.tsFallback, []),
+        fetchJSONWithFallback(cfg.spPrimary, cfg.spFallback, []),
+        fetchJSONWithFallback(cfg.afPrimary, cfg.afFallback, [])
+      ]);
 
-    const fetches = [
-      fetchJSON(dataFile),
-      fetchJSON(si),
-      fetchJSON(ts),
-      fetchJSON(sp),
-      fetchJSON(af)
-    ];
+      // Normalize keys to string to avoid number vs string mismatches
+      const spMap = Object.fromEntries(
+        (spData || []).map((d) => [normalizeStr(d.SongID), d.Spotify_URL || d.SpotifyURL || null])
+      );
+      const siMap = Object.fromEntries(
+        (siData || []).map((d) => [normalizeStr(d.SongID), d])
+      );
+      const tsMap = Object.fromEntries(
+        (tsData || []).map((d) => [normalizeStr(d.SongID), d])
+      );
 
-    Promise.all(fetches)
-      .then(([data, siData, tsData, spData, artistFeatures]) => {
-        // ✅ Normaliza claves a string para evitar mismatch (number vs string)
-        const spMap = Object.fromEntries(
-          (spData || []).map((d) => [String(d.SongID), d.Spotify_URL])
-        );
-        const siMap = Object.fromEntries(
-          (siData || []).map((d) => [String(d.SongID), d])
-        );
-        const tsMap = Object.fromEntries(
-          (tsData || []).map((d) => [String(d.SongID), d])
-        );
+      // Artist map by ArtistID (string)
+      const artistMapByID = Object.fromEntries(
+        (artistFeatures || []).map((a) => [normalizeStr(a.ArtistID), a])
+      );
 
-        const artistMapByID = Object.fromEntries(
-          (artistFeatures || []).map((a) => [String(a.ArtistID), a])
-        );
+      // Merge rows
+      const merged = (data || []).map((entry) => {
+        const id = normalizeStr(entry.SongID);
 
-        const merged = (data || []).map((entry) => {
-          const id = String(entry.SongID);
+        // ArtistIDs from SI (comma-separated)
+        const artistIDs = normalizeStr(siMap[id]?.ArtistID)
+          .split(",")
+          .map((x) => x.trim())
+          .filter(Boolean);
 
-          const artistIDs = (siMap[id]?.ArtistID || "")
-            .split(",")
-            .map((x) => x.trim())
-            .filter(Boolean);
-
-          const artistLinks = [];
-          artistIDs.forEach((aid) => {
-            const artistObj = artistMapByID[aid];
-            if (artistObj) {
-              artistLinks.push({
-                name: artistObj.Artist,
-                url: artistObj.SpotifyURL || null
-              });
-            }
-          });
-
-          const coverCandidate = tsMap[id]?.CoverImage;
-          const finalCover =
-            typeof coverCandidate === "string" && coverCandidate.trim() !== ""
-              ? coverCandidate
-              : DEFAULT_COVER;
-
-          return {
-            SongID: id,
-            Position: Number(entry.Position ?? 0),
-            Title: siMap[id]?.Title || "Unknown Title",
-            ArtistNames: artistLinks.length ? artistLinks : [{ name: siMap[id]?.Artist || "Unknown Artist", url: null }],
-            CoverImage: finalCover,
-            SpotifyURL: spMap[id] || null
-          };
+        // Build artist links
+        const artistLinks = [];
+        artistIDs.forEach((aid) => {
+          const artistObj = artistMapByID[aid];
+          if (artistObj) {
+            artistLinks.push({
+              name: artistObj.Artist || "Unknown Artist",
+              url: artistObj.SpotifyURL || null
+            });
+          }
         });
 
-        const finalList = merged
-          .sort((a, b) => a.Position - b.Position)
-          .slice(0, 100);
+        // Fallback: if no ArtistID mapping, show SI Artist
+        const fallbackArtist = normalizeStr(siMap[id]?.Artist) || "Unknown Artist";
 
-        updateSongListUI(finalList);
-      })
-      .catch((err) => {
-        console.error("Error loading data:", err);
-        const el = document.getElementById("songList");
-        if (el) {
-          el.innerHTML = `<li>Error loading ${countryCode.toUpperCase()} data.<br>${String(
-            err.message || err
-          )}</li>`;
-        }
+        // Cover image robust fallback
+        const coverCandidate = tsMap[id]?.CoverImage;
+        const finalCover =
+          typeof coverCandidate === "string" && coverCandidate.trim() !== ""
+            ? coverCandidate
+            : DEFAULT_COVER;
+
+        return {
+          SongID: id,
+          Position: Number(entry.Position ?? 0),
+          Title: normalizeStr(siMap[id]?.Title) || "Unknown Title",
+          ArtistNames: artistLinks.length ? artistLinks : [{ name: fallbackArtist, url: null }],
+          CoverImage: finalCover,
+          SpotifyURL: spMap[id] || null
+        };
       });
+
+      const finalList = merged
+        .sort((a, b) => a.Position - b.Position)
+        .slice(0, 100);
+
+      updateSongListUI(finalList);
+    } catch (err) {
+      console.error("Error loading data:", err);
+      const el = document.getElementById("songList");
+      if (el) {
+        el.innerHTML = `<li>Error loading ${countryCode.toUpperCase()} data.<br>${String(
+          err.message || err
+        )}</li>`;
+      }
+    }
   }
 
-  const countrySelect = document.getElementById("countrySelect");
-  if (countrySelect) {
-    countrySelect.addEventListener("change", function () {
-      loadCountryData(this.value);
-    });
-  }
-
-  // ✅ Default
-  loadCountryData("us");
-
+  // =========================
+  // UI RENDER
+  // =========================
   function updateSongListUI(songs) {
     const songList = document.getElementById("songList");
     if (!songList) return;
@@ -163,7 +213,7 @@ document.addEventListener("DOMContentLoaded", function () {
       img.src = song.CoverImage;
       img.alt = `${song.Title} Cover`;
 
-      // ✅ Si la imagen falla al cargar, usa fallback
+      // If image fails -> fallback
       img.onerror = () => {
         img.src = DEFAULT_COVER;
       };
@@ -206,6 +256,7 @@ document.addEventListener("DOMContentLoaded", function () {
       li.appendChild(img);
       li.appendChild(info);
 
+      // Click selects row
       li.addEventListener("click", () => {
         document
           .querySelectorAll(".song-list li")
@@ -213,7 +264,7 @@ document.addEventListener("DOMContentLoaded", function () {
         li.classList.add("selected");
       });
 
-      // ✅ Click en cover: si ya está seleccionado, abre Spotify URL
+      // Cover click: first selects, second opens Spotify URL (if exists)
       if (song.SpotifyURL) {
         img.style.cursor = "pointer";
         img.addEventListener("click", () => {
@@ -232,4 +283,17 @@ document.addEventListener("DOMContentLoaded", function () {
       songList.appendChild(li);
     });
   }
+
+  // =========================
+  // EVENTS
+  // =========================
+  const countrySelect = document.getElementById("countrySelect");
+  if (countrySelect) {
+    countrySelect.addEventListener("change", function () {
+      loadCountryData(this.value);
+    });
+  }
+
+  // Default load
+  loadCountryData("us");
 });
