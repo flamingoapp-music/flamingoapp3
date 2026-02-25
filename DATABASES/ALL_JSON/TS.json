@@ -135,6 +135,15 @@
     "Genre": "pop"
   },
   {
+    "SongID": 81,
+    "Album": "SOS",
+    "Duration": "03:21",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1",
+    "Popularity": 91,
+    "ReleaseDate": "2022-12-09",
+    "Genre": "pop, r&b, rap"
+  },
+  {
     "SongID": 82,
     "Album": "Petals to Thorns",
     "Duration": "04:02",
@@ -3672,15 +3681,6 @@
     "Genre": "puerto rican pop, reggaeton, trap latino, urbano latino"
   },
   {
-    "SongID": 5104,
-    "Album": "Snooze (Acoustic) (feat. Justin Bieber)",
-    "Duration": "03:10",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734f68e7b4b983953a0f188447",
-    "Popularity": 75,
-    "ReleaseDate": "2023-09-15",
-    "Genre": "pop, r&b, rap"
-  },
-  {
     "SongID": 5115,
     "Album": "Carré",
     "Duration": "02:42",
@@ -5290,6 +5290,15 @@
     "Popularity": 67,
     "ReleaseDate": "2023-05-12",
     "Genre": "danish hip hop, danish pop"
+  },
+  {
+    "SongID": 12521,
+    "Album": "A Bar Song (Tipsy)",
+    "Duration": "02:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2",
+    "Popularity": 96,
+    "ReleaseDate": "2024-04-12",
+    "Genre": "pop rap"
   },
   {
     "SongID": 12528,
@@ -23868,15 +23877,6 @@
     "Genre": "canadian hip hop, canadian pop, hip hop, pop rap, rap"
   },
   {
-    "SongID": 540771,
-    "Album": "A Bar Song (Tipsy) [Remix]",
-    "Duration": "02:43",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e410d07dbb39fc12b55f8458",
-    "Popularity": 66,
-    "ReleaseDate": "2024-04-14",
-    "Genre": "modern country pop, pop rap"
-  },
-  {
     "SongID": 540954,
     "Album": "The Great American Bar Scene",
     "Duration": "03:49",
@@ -39258,6 +39258,15 @@
     "Genre": "indie, indie rock"
   },
   {
+    "SongID": 1259871,
+    "Album": "Gone Gone Gone",
+    "Duration": "03:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dff5897733ec36cdb24db9a2",
+    "Popularity": 80,
+    "ReleaseDate": "2025-10-10",
+    "Genre": "edm"
+  },
+  {
     "SongID": 1260243,
     "Album": "AW",
     "Duration": "02:39",
@@ -41514,7 +41523,7 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ae318205b51b71541a2df121",
     "Popularity": 80,
     "ReleaseDate": "2025-06-20",
-    "Genre": ""
+    "Genre": "alternative, indie"
   },
   {
     "SongID": 1272854,
@@ -54187,15 +54196,6 @@
     "Popularity": 74,
     "ReleaseDate": "2025-08-22",
     "Genre": "alternative r&b"
-  },
-  {
-    "SongID": 1287722,
-    "Album": "Gone Gone Gone",
-    "Duration": "03:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dff5897733ec36cdb24db9a2",
-    "Popularity": 82,
-    "ReleaseDate": "2025-10-10",
-    "Genre": "edm"
   },
   {
     "SongID": 1287725,
@@ -85023,15 +85023,6 @@
     "Genre": "art pop, pop"
   },
   {
-    "SongID": 1272926,
-    "Album": "Gone Gone Gone",
-    "Duration": "03:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dff5897733ec36cdb24db9a2",
-    "Popularity": 81,
-    "ReleaseDate": "2025-10-10",
-    "Genre": "edm"
-  },
-  {
     "SongID": 1272955,
     "Album": "Налей",
     "Duration": "02:43",
@@ -88441,15 +88432,6 @@
     "Popularity": 51,
     "ReleaseDate": "2025-12-11",
     "Genre": "disco polo"
-  },
-  {
-    "SongID": 1287718,
-    "Album": "The Last Wun",
-    "Duration": "03:04",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737fd9dc3a93bd4fa2be8ed715",
-    "Popularity": 81,
-    "ReleaseDate": "2025-08-08",
-    "Genre": "melodic rap"
   },
   {
     "SongID": 1287829,
@@ -93258,15 +93240,6 @@
     "Genre": "k-pop"
   },
   {
-    "SongID": 1274797265,
-    "Album": "Primary And The Messengers LP",
-    "Duration": "03:14",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27330b6adc29d752c16f25ff834",
-    "Popularity": 55,
-    "ReleaseDate": "2012-10-31",
-    "Genre": "k-rap"
-  },
-  {
     "SongID": 1274797266,
     "Album": "ВАТ ИЗ ЛАВ",
     "Duration": "02:25",
@@ -93373,6 +93346,15 @@
     "Popularity": 30,
     "ReleaseDate": "2026-01-27",
     "Genre": ""
+  },
+  {
+    "SongID": 1274797279,
+    "Album": "Primary And The Messengers LP",
+    "Duration": "03:14",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27330b6adc29d752c16f25ff834",
+    "Popularity": 55,
+    "ReleaseDate": "2012-10-31",
+    "Genre": "k-rap"
   },
   {
     "SongID": 827,
@@ -94038,15 +94020,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27392dce06ade8b5abb24e41e22",
     "Popularity": 22,
     "ReleaseDate": "2025-02-13",
-    "Genre": ""
-  },
-  {
-    "SongID": 1054091,
-    "Album": "People Watching",
-    "Duration": "05:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737670dfe5d87c5e3197ae9b2f",
-    "Popularity": 0,
-    "ReleaseDate": "2025-02-21",
     "Genre": ""
   },
   {
@@ -96669,6 +96642,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1177791,
+    "Album": "Morgan Wallen & Post Malone I Ain't Coming Back",
+    "Duration": "02:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fcd90db6eb97508ab08000ae",
+    "Popularity": 74,
+    "ReleaseDate": "2025-04-18",
+    "Genre": "country, country pop"
+  },
+  {
     "SongID": 1227592,
     "Album": "Hurry Up Tomorrow",
     "Duration": "04:16",
@@ -96687,13 +96669,31 @@
     "Genre": ""
   },
   {
-    "SongID": 1234850,
-    "Album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-    "Duration": "03:36",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735901aaa980d3e714bf01171c",
-    "Popularity": 66,
-    "ReleaseDate": "1993-11-09",
-    "Genre": "old school hip hop, east coast hip hop, hip hop, gangster rap, hardcore hip hop"
+    "SongID": 1231636,
+    "Album": "Take Care (Deluxe)",
+    "Duration": "04:32",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+    "Popularity": 77,
+    "ReleaseDate": "2011-11-15",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1233469,
+    "Album": "It Depends (feat. Bryson Tiller)",
+    "Duration": "04:31",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27326327a7efee05c281278d9b8",
+    "Popularity": 43,
+    "ReleaseDate": "2025-07-25",
+    "Genre": "r&b"
+  },
+  {
+    "SongID": 1243653,
+    "Album": "Hell At Night (feat. Ella Langley)",
+    "Duration": "02:59",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273911cda459bd531ddc3888236",
+    "Popularity": 78,
+    "ReleaseDate": "2025-08-08",
+    "Genre": "southern hip hop"
   },
   {
     "SongID": 1245711,
@@ -96721,15 +96721,6 @@
     "Popularity": 86,
     "ReleaseDate": "2025-09-11",
     "Genre": "brazilian funk, trap funk, funk consciente"
-  },
-  {
-    "SongID": 1267156,
-    "Album": "(When You Gonna) Give It up to Me (feat. Keyshia Cole)",
-    "Duration": "04:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737fb4621c091347123be1d632",
-    "Popularity": 76,
-    "ReleaseDate": "2006-09-30",
-    "Genre": ""
   },
   {
     "SongID": 1282786,
@@ -96777,15 +96768,6 @@
     "Genre": "bedroom pop"
   },
   {
-    "SongID": 1292785,
-    "Album": "Ryde Or Die Vol. II",
-    "Duration": "05:15",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737ef1c25dc565338e95e03b3a",
-    "Popularity": 48,
-    "ReleaseDate": "2000-01-01",
-    "Genre": "east coast hip hop, old school hip hop"
-  },
-  {
     "SongID": 1292786,
     "Album": "OCTANE",
     "Duration": "02:26",
@@ -96829,24 +96811,6 @@
     "Popularity": 33,
     "ReleaseDate": "2024-08-16",
     "Genre": ""
-  },
-  {
-    "SongID": 1292805,
-    "Album": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
-    "Duration": "04:54",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f4345dc54d4ade65121a4e39",
-    "Popularity": 60,
-    "ReleaseDate": "2025-10-17",
-    "Genre": "r&b"
-  },
-  {
-    "SongID": 1292809,
-    "Album": "Black Market Militia",
-    "Duration": "02:48",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ebad209dedb4cf434b042ba8",
-    "Popularity": 3,
-    "ReleaseDate": "2005-03-22",
-    "Genre": "east coast hip hop, underground hip hop"
   },
   {
     "SongID": 1293752,
@@ -96919,14 +96883,5 @@
     "Popularity": 10,
     "ReleaseDate": "2024-05-04",
     "Genre": ""
-  },
-  {
-    "SongID": 1274797278,
-    "Album": "War & Peace Vol. 2 (The Peace Disc)",
-    "Duration": "04:19",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27317bf7f81b1a61b828c786857",
-    "Popularity": 68,
-    "ReleaseDate": "2000-02-29",
-    "Genre": "old school hip hop, gangster rap, west coast hip hop, g-funk, hip hop"
   }
 ]
