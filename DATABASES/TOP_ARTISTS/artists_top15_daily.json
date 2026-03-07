@@ -3,7 +3,7 @@
     "Position": 1,
     "ArtistID": 7865,
     "Artist": "Omar Courtz",
-    "Number of hits": 35,
+    "Number of hits": 34,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6270ba142ce97c0b644024e9",
     "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
   },
@@ -11,12 +11,20 @@
     "Position": 2,
     "ArtistID": 113,
     "Artist": "Bruno Mars",
-    "Number of hits": 21,
+    "Number of hits": 22,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
     "SpotifyURL": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
   },
   {
     "Position": 3,
+    "ArtistID": 50,
+    "Artist": "Harry Styles",
+    "Number of hits": 16,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
+    "SpotifyURL": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+  },
+  {
+    "Position": 4,
     "ArtistID": 742,
     "Artist": "BLACKPINK",
     "Number of hits": 12,
@@ -24,7 +32,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
   },
   {
-    "Position": 4,
+    "Position": 5,
     "ArtistID": 5629,
     "Artist": "Alex Warren",
     "Number of hits": 6,
@@ -32,7 +40,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
   },
   {
-    "Position": 5,
+    "Position": 6,
     "ArtistID": 10857,
     "Artist": "sombr",
     "Number of hits": 4,
@@ -40,34 +48,26 @@
     "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
   },
   {
-    "Position": 6,
-    "ArtistID": 36891,
-    "Artist": "Lil Kleine",
-    "Number of hits": 23,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb75d6618888bd4f7e84529b1f",
-    "SpotifyURL": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-  },
-  {
     "Position": 7,
     "ArtistID": 50101,
     "Artist": "Omer Adam",
-    "Number of hits": 39,
+    "Number of hits": 42,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb9dc71ce711a1a831623b92f",
     "SpotifyURL": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
   },
   {
     "Position": 8,
-    "ArtistID": 20,
-    "Artist": "Peso Pluma",
-    "Number of hits": 34,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
-    "SpotifyURL": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+    "ArtistID": 36891,
+    "Artist": "Lil Kleine",
+    "Number of hits": 22,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb75d6618888bd4f7e84529b1f",
+    "SpotifyURL": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
   },
   {
     "Position": 9,
     "ArtistID": 379,
     "Artist": "Ñengo Flow",
-    "Number of hits": 7,
+    "Number of hits": 6,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebda3f48cf2309aacaab0edce2",
     "SpotifyURL": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
   },
@@ -81,6 +81,14 @@
   },
   {
     "Position": 11,
+    "ArtistID": 20,
+    "Artist": "Peso Pluma",
+    "Number of hits": 37,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
+    "SpotifyURL": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+  },
+  {
+    "Position": 12,
     "ArtistID": 602,
     "Artist": "IVE",
     "Number of hits": 9,
@@ -88,35 +96,27 @@
     "SpotifyURL": "https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe"
   },
   {
-    "Position": 12,
-    "ArtistID": 15107,
-    "Artist": "Ethismos",
-    "Number of hits": 10,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb11aac4cfbf2145b2b48da92b",
-    "SpotifyURL": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
-  },
-  {
     "Position": 13,
-    "ArtistID": 469,
-    "Artist": "Baby Keem",
-    "Number of hits": 10,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd6f2323c1971fd5a70cd0255",
-    "SpotifyURL": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+    "ArtistID": 49343,
+    "Artist": "Junior H",
+    "Number of hits": 30,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb50998d90507d8c1603b2530b",
+    "SpotifyURL": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
   },
   {
     "Position": 14,
-    "ArtistID": 48835,
-    "Artist": "Hearts2Hearts",
-    "Number of hits": 7,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8cea93875821c49d9c942130",
-    "SpotifyURL": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-  },
-  {
-    "Position": 15,
     "ArtistID": 12475,
     "Artist": "Beton.Hofi",
     "Number of hits": 26,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb695d822040ce391de6eb9684",
     "SpotifyURL": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+  },
+  {
+    "Position": 15,
+    "ArtistID": 469,
+    "Artist": "Baby Keem",
+    "Number of hits": 10,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd6f2323c1971fd5a70cd0255",
+    "SpotifyURL": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
   }
 ]
