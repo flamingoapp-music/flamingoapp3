@@ -27,7 +27,7 @@
     "Position": 4,
     "ArtistID": 113,
     "Artist": "Bruno Mars",
-    "Number of hits": 19,
+    "Number of hits": 17,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
     "SpotifyURL": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
   },
@@ -65,6 +65,14 @@
   },
   {
     "Position": 9,
+    "ArtistID": 74097,
+    "Artist": "Oli",
+    "Number of hits": 13,
+    "SpotifyImageURL": null,
+    "SpotifyURL": null
+  },
+  {
+    "Position": 10,
     "ArtistID": 379,
     "Artist": "Ñengo Flow",
     "Number of hits": 5,
@@ -72,7 +80,7 @@
     "SpotifyURL": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
   },
   {
-    "Position": 10,
+    "Position": 11,
     "ArtistID": 65381,
     "Artist": "TOQUEL",
     "Number of hits": 38,
@@ -80,18 +88,10 @@
     "SpotifyURL": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
   },
   {
-    "Position": 11,
+    "Position": 12,
     "ArtistID": 65325,
     "Artist": "ROA",
     "Number of hits": 9,
-    "SpotifyImageURL": null,
-    "SpotifyURL": null
-  },
-  {
-    "Position": 12,
-    "ArtistID": 74097,
-    "Artist": "Oli",
-    "Number of hits": 13,
     "SpotifyImageURL": null,
     "SpotifyURL": null
   },
@@ -105,18 +105,18 @@
   },
   {
     "Position": 14,
-    "ArtistID": 235,
-    "Artist": "Noah Kahan",
-    "Number of hits": 7,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8c52b10e110f62fe45761590",
-    "SpotifyURL": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-  },
-  {
-    "Position": 15,
     "ArtistID": null,
     "Artist": "Bigflo",
     "Number of hits": 12,
     "SpotifyImageURL": null,
     "SpotifyURL": null
+  },
+  {
+    "Position": 15,
+    "ArtistID": 235,
+    "Artist": "Noah Kahan",
+    "Number of hits": 6,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8c52b10e110f62fe45761590",
+    "SpotifyURL": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
   }
 ]
