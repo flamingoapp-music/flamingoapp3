@@ -8,9 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const DEFAULT_COVER = "images/backgroundlogo.png";
 
   // ✅ Country JSON naming produced by your extractor:
-  // yt_insights_<cc>.json  (ex: yt_insights_us.json)
+  // yt_<cc>.json  (ex: yt_us.json)
   const platformOptions = {
-    youtubeInsights: "DATABASES/ALL_JSON/yt_insights_"
+    youtubeInsights: "DATABASES/ALL_JSON/yt_"
   };
 
   // ✅ IMPORTANT:
