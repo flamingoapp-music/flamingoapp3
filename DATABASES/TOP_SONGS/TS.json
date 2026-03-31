@@ -1,23 +1,5 @@
 [
   {
-    "SongID": 4,
-    "Album": "GOLDEN",
-    "Duration": "03:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316",
-    "Popularity": 83,
-    "ReleaseDate": "2023-11-03",
-    "Genre": "k-pop"
-  },
-  {
-    "SongID": 9,
-    "Album": "LUNA",
-    "Duration": "03:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f15db0c65204049050ebba9d",
-    "Popularity": 48,
-    "ReleaseDate": "2024-03-01",
-    "Genre": "reggaeton, urbano latino"
-  },
-  {
     "SongID": 64,
     "Album": "I Love You.",
     "Duration": "04:00",
@@ -25,15 +7,6 @@
     "Popularity": 91,
     "ReleaseDate": "2013-04-19",
     "Genre": "modern alternative rock, modern rock, pop"
-  },
-  {
-    "SongID": 249,
-    "Album": "2000",
-    "Duration": "02:42",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c9f744b0d62da795bc21d04a",
-    "Popularity": 79,
-    "ReleaseDate": "2023-03-17",
-    "Genre": ""
   },
   {
     "SongID": 406,
@@ -63,33 +36,6 @@
     "Genre": "neo mellow, permanent wave, pop rock, post-grunge"
   },
   {
-    "SongID": 501,
-    "Album": "Demon Days",
-    "Duration": "03:42",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
-    "Popularity": 85,
-    "ReleaseDate": "2005-05-23",
-    "Genre": "alternative hip hop, modern rock, rock"
-  },
-  {
-    "SongID": 638,
-    "Album": "House of Pleasure",
-    "Duration": "03:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732bf273f977582e8f890192fe",
-    "Popularity": 85,
-    "ReleaseDate": "2010-07-20",
-    "Genre": "reggaeton, trap latino, urbano latino"
-  },
-  {
-    "SongID": 868,
-    "Album": "Meet The Orphans",
-    "Duration": "03:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
-    "Popularity": 83,
-    "ReleaseDate": "2010-01-01",
-    "Genre": "latin hip hop, puerto rican pop, reggaeton, trap latino, urbano latino"
-  },
-  {
     "SongID": 1593,
     "Album": "Lush Life",
     "Duration": "03:21",
@@ -99,13 +45,13 @@
     "Genre": ""
   },
   {
-    "SongID": 2670,
-    "Album": "I've Tried Everything But Therapy (Part 1)",
-    "Duration": "03:30",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c",
-    "Popularity": 89,
-    "ReleaseDate": "2023-09-15",
-    "Genre": ""
+    "SongID": 12447,
+    "Album": "Espresso",
+    "Duration": "02:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
+    "Popularity": 100,
+    "ReleaseDate": "2024-04-12",
+    "Genre": "pop"
   },
   {
     "SongID": 12451,
@@ -124,6 +70,15 @@
     "Popularity": 89,
     "ReleaseDate": "2022-09-16",
     "Genre": ""
+  },
+  {
+    "SongID": 12959,
+    "Album": "HIT ME HARD AND SOFT",
+    "Duration": "04:21",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "Popularity": 90,
+    "ReleaseDate": "2024-05-17",
+    "Genre": "art pop, pop"
   },
   {
     "SongID": 118677,
@@ -207,15 +162,6 @@
     "Genre": "reggaeton"
   },
   {
-    "SongID": 1227537,
-    "Album": "Riptide",
-    "Duration": "03:24",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736df56a03f7f09b64eb9a5a9e",
-    "Popularity": 55,
-    "ReleaseDate": "2013-05-21",
-    "Genre": "folk pop"
-  },
-  {
     "SongID": 1227566,
     "Album": "Top canciones de San Valentín",
     "Duration": "03:00",
@@ -241,15 +187,6 @@
     "Popularity": 89,
     "ReleaseDate": "2024-09-26",
     "Genre": null
-  },
-  {
-    "SongID": 1228274,
-    "Album": "BORONDO",
-    "Duration": "02:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a346fc13b57ac8af62b59c0a",
-    "Popularity": 88,
-    "ReleaseDate": "2025-05-15",
-    "Genre": "latin afrobeats, pop urbano, reggaeton"
   },
   {
     "SongID": 1228384,
@@ -297,15 +234,6 @@
     "Genre": "bedroom pop"
   },
   {
-    "SongID": 1249892,
-    "Album": "The Boy Who Played the Harp",
-    "Duration": "03:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fecaa7826bb0cbe139a8cb83",
-    "Popularity": 73,
-    "ReleaseDate": "2025-10-23",
-    "Genre": "grime, uk grime, uk drill, drill"
-  },
-  {
     "SongID": 1251220,
     "Album": "NO BATIDÃO",
     "Duration": "01:47",
@@ -342,15 +270,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1272635,
-    "Album": "undressed",
-    "Duration": "03:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dad39d4906f76b7c176effb1",
-    "Popularity": 84,
-    "ReleaseDate": "2025-03-21",
-    "Genre": ""
-  },
-  {
     "SongID": 1272642,
     "Album": "Just Keep Watching (From F1® The Movie)",
     "Duration": "02:22",
@@ -369,13 +288,13 @@
     "Genre": "pop"
   },
   {
-    "SongID": 1272646,
-    "Album": "Gabriela",
-    "Duration": "03:17",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29",
-    "Popularity": 93,
-    "ReleaseDate": "2025-06-20",
-    "Genre": "k-pop"
+    "SongID": 1272647,
+    "Album": "Folded",
+    "Duration": "03:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141",
+    "Popularity": 89,
+    "ReleaseDate": "2025-06-11",
+    "Genre": ""
   },
   {
     "SongID": 1272648,
@@ -513,15 +432,6 @@
     "Genre": "latin afrobeats, reggaeton, pop urbano"
   },
   {
-    "SongID": 1272769,
-    "Album": "YOGURCITO REMIX (feat. Kris R., ROA)",
-    "Duration": "06:15",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a12acd5e9f8c12c2fc6a1e44",
-    "Popularity": 87,
-    "ReleaseDate": "2025-08-26",
-    "Genre": "reggaeton, urbano latino"
-  },
-  {
     "SongID": 1272927,
     "Album": "Die On This Hill",
     "Duration": "03:37",
@@ -538,15 +448,6 @@
     "Popularity": 91,
     "ReleaseDate": "1983-06-17",
     "Genre": ""
-  },
-  {
-    "SongID": 1287557,
-    "Album": "HOPI SENDÉ",
-    "Duration": "03:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27399cc7985e1aed6b8dff13e06",
-    "Popularity": 76,
-    "ReleaseDate": "2025-10-23",
-    "Genre": "reggaeton"
   },
   {
     "SongID": 1287705,
@@ -585,6 +486,15 @@
     "Genre": "neo-psychedelic, indie"
   },
   {
+    "SongID": 1291144,
+    "Album": "OCTANE",
+    "Duration": "02:33",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+    "Popularity": 85,
+    "ReleaseDate": "2026-01-30",
+    "Genre": ""
+  },
+  {
     "SongID": 1291145,
     "Album": "Homewrecker",
     "Duration": "03:29",
@@ -594,31 +504,13 @@
     "Genre": ""
   },
   {
-    "SongID": 1292803,
-    "Album": "MALA MÍA",
-    "Duration": "04:01",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27304874856f3c501181d060128",
-    "Popularity": 89,
-    "ReleaseDate": "2024-12-19",
-    "Genre": "corrido, corridos tumbados, corridos bélicos, sierreño, música mexicana, banda, sad sierreño, electro corridos"
-  },
-  {
-    "SongID": 1293610,
-    "Album": "Diles",
-    "Duration": "04:46",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f62aa1dd0b43f583418cd018",
-    "Popularity": 87,
-    "ReleaseDate": "2016-08-26",
-    "Genre": "reggaeton, trap latino, latin, urbano latino"
-  },
-  {
-    "SongID": 1294003,
-    "Album": "54+1",
+    "SongID": 1293940,
+    "Album": "Deadbeat",
     "Duration": "03:25",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
-    "Popularity": 85,
-    "ReleaseDate": "2019-03-22",
-    "Genre": "reggaeton"
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+    "Popularity": 84,
+    "ReleaseDate": "2025-10-17",
+    "Genre": "neo-psychedelic, indie"
   },
   {
     "SongID": 1295619,
@@ -630,13 +522,13 @@
     "Genre": ""
   },
   {
-    "SongID": 1295620,
-    "Album": "POR SI MAÑANA NO ESTOY",
-    "Duration": "04:24",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390af5246adcaa93acb721c17",
-    "Popularity": 0,
-    "ReleaseDate": "2026-02-19",
-    "Genre": ""
+    "SongID": 1295966,
+    "Album": "LET ME BE",
+    "Duration": "3:09",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a7f35412a7d98bc08b2289fc",
+    "Popularity": 74,
+    "ReleaseDate": "2026-01-25",
+    "Genre": null
   },
   {
     "SongID": 1274799549,
@@ -783,20 +675,20 @@
     "Genre": ""
   },
   {
+    "SongID": 1274807780,
+    "Album": "BULLY",
+    "Duration": "03:49",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
     "SongID": 1274808100,
     "Album": "BULLY",
     "Duration": "3:49",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
     "Popularity": 80,
-    "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274808102,
-    "Album": "BULLY",
-    "Duration": "2:27",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 76,
     "ReleaseDate": "2026-03-28",
     "Genre": null
   },
@@ -810,38 +702,11 @@
     "Genre": null
   },
   {
-    "SongID": 1274808106,
-    "Album": "BULLY",
-    "Duration": "1:51",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 76,
-    "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274808107,
-    "Album": "BULLY",
-    "Duration": "2:07",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 75,
-    "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
     "SongID": 1274808108,
     "Album": "BULLY",
     "Duration": "2:06",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
     "Popularity": 78,
-    "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274808110,
-    "Album": "BULLY",
-    "Duration": "2:34",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 76,
     "ReleaseDate": "2026-03-28",
     "Genre": null
   },
@@ -864,30 +729,165 @@
     "Genre": null
   },
   {
-    "SongID": 1274808113,
-    "Album": "BULLY",
-    "Duration": "2:46",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 75,
-    "ReleaseDate": "2026-03-28",
+    "SongID": 1758,
+    "Album": "Good Days",
+    "Duration": "04:39",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733097b1375ab17ae5bf302a0a",
+    "Popularity": 81,
+    "ReleaseDate": "2020-12-25",
+    "Genre": "pop, r&b, rap"
+  },
+  {
+    "SongID": 1274806256,
+    "Album": "Dracula (Remix)",
+    "Duration": "3:29",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c7c031ce9d06b131f8563676",
+    "Popularity": 91,
+    "ReleaseDate": "2026-02-06",
     "Genre": null
   },
   {
-    "SongID": 1274808114,
+    "SongID": 1274807779,
     "Album": "BULLY",
-    "Duration": "1:26",
+    "Duration": "02:49",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 77,
+    "Popularity": 0,
     "ReleaseDate": "2026-03-28",
-    "Genre": null
+    "Genre": "rap"
   },
   {
-    "SongID": 1274808116,
+    "SongID": 1274807781,
     "Album": "BULLY",
-    "Duration": "1:59",
+    "Duration": "02:06",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 76,
+    "Popularity": 0,
     "ReleaseDate": "2026-03-28",
-    "Genre": null
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807782,
+    "Album": "BULLY",
+    "Duration": "01:48",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807783,
+    "Album": "BULLY",
+    "Duration": "01:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807784,
+    "Album": "BULLY",
+    "Duration": "01:59",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807785,
+    "Album": "BULLY",
+    "Duration": "02:34",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807786,
+    "Album": "BULLY",
+    "Duration": "02:27",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807787,
+    "Album": "BULLY",
+    "Duration": "01:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807788,
+    "Album": "BULLY",
+    "Duration": "02:46",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807789,
+    "Album": "BULLY",
+    "Duration": "02:07",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807790,
+    "Album": "BULLY",
+    "Duration": "02:10",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807791,
+    "Album": "BULLY",
+    "Duration": "01:31",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807812,
+    "Album": "BULLY",
+    "Duration": "01:45",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807813,
+    "Album": "BULLY",
+    "Duration": "03:06",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807814,
+    "Album": "BULLY",
+    "Duration": "03:01",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
+  },
+  {
+    "SongID": 1274807815,
+    "Album": "BULLY",
+    "Duration": "02:02",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-03-28",
+    "Genre": "rap"
   }
 ]
