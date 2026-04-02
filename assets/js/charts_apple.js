@@ -1,11 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
 	const selectedPlatform = "appleMusic";
 
-	// ✅ Fallback cover (ruta web relativa, NO ruta Windows)
 	const DEFAULT_COVER = "images/backgroundlogo.png";
 
 	const platformOptions = {
-		appleMusic: "DATABASES/ALL_JSON/apple_music_"
+		appleMusic: "DATABASES/ALL_JSON/am_"
 	};
 
 	const siTsFiles = {
@@ -25,6 +24,16 @@ document.addEventListener("DOMContentLoaded", function () {
 	};
 
 	const { si, ts, sp } = siTsFiles[selectedPlatform];
+
+	// 🔥 CONTROL SCROLL
+	let allSongs = [];
+	let visibleCount = 0;
+	const batchSize = 25;
+	let isLoading = false;
+
+	function delay(ms) {
+		return new Promise(resolve => setTimeout(resolve, ms));
+	}
 
 	function loadCountryData(countryCode) {
 		const dataFile = `${platformOptions[selectedPlatform]}${countryCode}.json`;
@@ -52,6 +61,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 		Promise.all(fetches)
 			.then(([data, siData, tsData, spData, artistFeatures]) => {
+
 				const spMap = Object.fromEntries(spData.map(d => [d.SongID, d.Spotify_URL]));
 				const siMap = Object.fromEntries(siData.map(d => [d.SongID, d]));
 				const tsMap = Object.fromEntries(tsData.map(d => [d.SongID, d]));
@@ -60,7 +70,7 @@ document.addEventListener("DOMContentLoaded", function () {
 					artistFeatures.map(a => [String(a.ArtistID), a])
 				);
 
-				const merged = data.map(entry => {
+				allSongs = data.map(entry => {
 					const id = entry.SongID;
 
 					const artistIDs = (siMap[id]?.ArtistID || "")
@@ -79,7 +89,6 @@ document.addEventListener("DOMContentLoaded", function () {
 						}
 					});
 
-					// ✅ Cover image robust: si no existe / vacío -> DEFAULT_COVER
 					const coverCandidate = tsMap[id]?.CoverImage;
 					const finalCover =
 						typeof coverCandidate === "string" && coverCandidate.trim() !== ""
@@ -94,9 +103,14 @@ document.addEventListener("DOMContentLoaded", function () {
 						CoverImage: finalCover,
 						SpotifyURL: spMap[id] || null
 					};
-				});
+				}).sort((a, b) => a.Position - b.Position);
 
-				updateSongListUI(merged.sort((a, b) => a.Position - b.Position).slice(0, 100));
+				const songList = document.getElementById("songList");
+				songList.innerHTML = "";
+
+				visibleCount = 0;
+
+				loadMoreSongs(); // primera carga
 			})
 			.catch(err => {
 				console.error("Error loading data:", err);
@@ -104,6 +118,124 @@ document.addEventListener("DOMContentLoaded", function () {
 					`<li>Error loading ${countryCode.toUpperCase()} data.</li>`;
 			});
 	}
+
+	async function loadMoreSongs() {
+		if (isLoading) return;
+
+		isLoading = true;
+
+		const nextBatch = allSongs.slice(visibleCount, visibleCount + batchSize);
+
+		if (nextBatch.length === 0) {
+			isLoading = false;
+			return;
+		}
+
+		for (let song of nextBatch) {
+			appendSong(song);
+			await delay(5); // 🔥 efecto aparición suave
+		}
+
+		visibleCount += batchSize;
+
+		isLoading = false;
+
+		// 🔥 delay visual entre bloques (no bloquea scroll)
+		setTimeout(() => {}, 500);
+	}
+
+	function appendSong(song) {
+		const songList = document.getElementById("songList");
+
+		const li = document.createElement("li");
+
+		const rank = document.createElement("div");
+		rank.className = "song-rank";
+		rank.textContent = `${song.Position}.`;
+
+		const img = document.createElement("img");
+		img.src = song.CoverImage;
+		img.alt = `${song.Title} Cover`;
+
+		img.onerror = () => {
+			img.src = DEFAULT_COVER;
+		};
+
+		const info = document.createElement("div");
+		info.className = "song-info-list";
+
+		const title = document.createElement("span");
+		title.className = "song-title";
+		title.textContent = song.Title;
+
+		const artistContainer = document.createElement("div");
+		artistContainer.className = "song-artist";
+
+		song.ArtistNames.forEach((artistObj, index) => {
+			if (artistObj.url) {
+				const link = document.createElement("a");
+				link.href = artistObj.url;
+				link.textContent = artistObj.name;
+				link.target = "_blank";
+				link.rel = "noopener noreferrer";
+
+				// ✅ ESTILO ORIGINAL CONSERVADO
+				link.style.color = "#3498db";
+				link.style.textDecoration = "underline";
+
+				artistContainer.appendChild(link);
+			} else {
+				const span = document.createElement("span");
+				span.textContent = artistObj.name;
+				artistContainer.appendChild(span);
+			}
+
+			if (index < song.ArtistNames.length - 1) {
+				artistContainer.appendChild(document.createTextNode(", "));
+			}
+		});
+
+		info.appendChild(title);
+		info.appendChild(artistContainer);
+
+		li.appendChild(rank);
+		li.appendChild(img);
+		li.appendChild(info);
+
+		li.addEventListener("click", () => {
+			document.querySelectorAll(".song-list li").forEach(el => el.classList.remove("selected"));
+			li.classList.add("selected");
+		});
+
+		if (song.SpotifyURL) {
+			img.style.cursor = "pointer";
+			img.addEventListener("click", () => {
+				const isSelected = li.classList.contains("selected");
+
+				if (!isSelected) {
+					document.querySelectorAll(".song-list li").forEach(el => el.classList.remove("selected"));
+					li.classList.add("selected");
+				} else {
+					window.open(song.SpotifyURL, "_blank");
+				}
+			});
+		}
+
+		songList.appendChild(li);
+	}
+
+	// 🔥 SCROLL INTELIGENTE (clave para no quedarse en 50)
+	window.addEventListener("scroll", () => {
+		const scrollTop = window.scrollY;
+		const windowHeight = window.innerHeight;
+		const docHeight = document.body.offsetHeight;
+
+		if (scrollTop + windowHeight >= docHeight - 400) {
+			if (visibleCount < allSongs.length) {
+				loadMoreSongs();
+			}
+		}
+	});
 
 	const countrySelect = document.getElementById("countrySelect");
 	if (countrySelect) {
@@ -113,82 +245,4 @@ document.addEventListener("DOMContentLoaded", function () {
 	}
 
 	loadCountryData("us");
-
-	function updateSongListUI(songs) {
-		const songList = document.getElementById("songList");
-		songList.innerHTML = "";
-
-		songs.forEach(song => {
-			const li = document.createElement("li");
-
-			const rank = document.createElement("div");
-			rank.className = "song-rank";
-			rank.textContent = `${song.Position}.`;
-
-			const img = document.createElement("img");
-			img.src = song.CoverImage;
-			img.alt = `${song.Title} Cover`;
-
-			// ✅ Si la imagen falla al cargar, usa fallback
-			img.onerror = () => {
-				img.src = DEFAULT_COVER;
-			};
-
-			const info = document.createElement("div");
-			info.className = "song-info-list";
-
-			const title = document.createElement("span");
-			title.className = "song-title";
-			title.textContent = song.Title;
-
-			const artistContainer = document.createElement("div");
-			artistContainer.className = "song-artist";
-
-			song.ArtistNames.forEach((artistObj, index) => {
-				if (artistObj.url) {
-					const link = document.createElement("a");
-					link.href = artistObj.url;
-					link.textContent = artistObj.name;
-					link.target = "_blank";
-					link.rel = "noopener noreferrer";
-					link.style.color = "#3498db";
-					link.style.textDecoration = "underline";
-					artistContainer.appendChild(link);
-				} else {
-					const span = document.createElement("span");
-					span.textContent = artistObj.name;
-					artistContainer.appendChild(span);
-				}
-				if (index < song.ArtistNames.length - 1) {
-					artistContainer.appendChild(document.createTextNode(", "));
-				}
-			});
-
-			info.appendChild(title);
-			info.appendChild(artistContainer);
-			li.appendChild(rank);
-			li.appendChild(img);
-			li.appendChild(info);
-
-			li.addEventListener("click", () => {
-				document.querySelectorAll(".song-list li").forEach(el => el.classList.remove("selected"));
-				li.classList.add("selected");
-			});
-
-			if (song.SpotifyURL) {
-				img.style.cursor = "pointer";
-				img.addEventListener("click", () => {
-					const isSelected = li.classList.contains("selected");
-					if (!isSelected) {
-						document.querySelectorAll(".song-list li").forEach(el => el.classList.remove("selected"));
-						li.classList.add("selected");
-					} else {
-						window.open(song.SpotifyURL, "_blank");
-					}
-				});
-			}
-
-			songList.appendChild(li);
-		});
-	}
 });

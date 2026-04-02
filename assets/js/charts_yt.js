@@ -3,32 +3,19 @@ document.addEventListener("DOMContentLoaded", function () {
   // CONFIG
   // =========================
   const selectedPlatform = "youtubeInsights";
-
-  // Fallback cover (ruta web relativa, NO ruta Windows)
   const DEFAULT_COVER = "images/backgroundlogo.png";
 
-  // ✅ Country JSON naming produced by your extractor:
-  // yt_<cc>.json  (ex: yt_us.json)
   const platformOptions = {
     youtubeInsights: "DATABASES/ALL_JSON/yt_"
   };
 
-  // ✅ IMPORTANT:
-  // Many times your web has SI.json / TS.json / SP.json / ARTIST_FEATURES.json
-  // while the extractor may create YOUTUBE_SI.json / YOUTUBE_TS.json / etc.
-  //
-  // This code AUTO-FALLBACKS:
-  // - First tries YOUTUBE_*.json
-  // - If 404, falls back to the generic ones: SI.json / TS.json / SP.json / ARTIST_FEATURES.json
   const siTsFiles = {
     youtubeInsights: {
-      // prefer youtube-specific
       siPrimary: "DATABASES/ALL_JSON/YOUTUBE_SI.json",
       tsPrimary: "DATABASES/ALL_JSON/YOUTUBE_TS.json",
       spPrimary: "DATABASES/ALL_JSON/YOUTUBE_SP.json",
       afPrimary: "DATABASES/ALL_JSON/YOUTUBE_ARTIST_FEATURES.json",
 
-      // fallback to shared/global
       siFallback: "DATABASES/ALL_JSON/SI.json",
       tsFallback: "DATABASES/ALL_JSON/TS.json",
       spFallback: "DATABASES/ALL_JSON/SP.json",
@@ -46,15 +33,26 @@ document.addEventListener("DOMContentLoaded", function () {
   };
 
   // =========================
+  // GLOBAL CONTROL
+  // =========================
+  let allSongs = [];
+  let visibleCount = 0;
+  const batchSize = 25;
+  let isLoading = false;
+
+  // =========================
   // HELPERS
   // =========================
+  function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
   const fetchJSONStrict = (url) =>
     fetch(url).then((r) => {
       if (!r.ok) throw new Error(`Fetch failed ${r.status} for ${url}`);
       return r.json();
     });
 
-  // Tries primary; if fails (404 etc) uses fallback.
   const fetchJSONWithFallback = async (primaryUrl, fallbackUrl, fallbackValue = []) => {
     try {
       return await fetchJSONStrict(primaryUrl);
@@ -79,10 +77,12 @@ document.addEventListener("DOMContentLoaded", function () {
     if (nameEl) {
       nameEl.textContent = `${platformNameMap[selectedPlatform].toUpperCase()} ${countryCode.toUpperCase()}`;
     }
+
     if (logoEl) {
       logoEl.src = platformLogos[selectedPlatform];
       logoEl.alt = platformNameMap[selectedPlatform];
     }
+
     if (iconEl) {
       if (countryCode.toLowerCase() === "us") {
         iconEl.style.display = "none";
@@ -98,7 +98,6 @@ document.addEventListener("DOMContentLoaded", function () {
   // =========================
   async function loadCountryData(countryCode) {
     const dataFile = `${platformOptions[selectedPlatform]}${countryCode}.json`;
-
     const cfg = siTsFiles[selectedPlatform];
 
     console.log("[LOAD] dataFile:", dataFile);
@@ -108,10 +107,8 @@ document.addEventListener("DOMContentLoaded", function () {
     setHeader(countryCode);
 
     try {
-      // 1) fetch country data (must exist)
       const data = await fetchJSONStrict(dataFile);
 
-      // 2) fetch SI/TS/SP/AF with fallback logic
       const [siData, tsData, spData, artistFeatures] = await Promise.all([
         fetchJSONWithFallback(cfg.siPrimary, cfg.siFallback, []),
         fetchJSONWithFallback(cfg.tsPrimary, cfg.tsFallback, []),
@@ -119,69 +116,70 @@ document.addEventListener("DOMContentLoaded", function () {
         fetchJSONWithFallback(cfg.afPrimary, cfg.afFallback, [])
       ]);
 
-      // Normalize keys to string to avoid number vs string mismatches
       const spMap = Object.fromEntries(
         (spData || []).map((d) => [normalizeStr(d.SongID), d.Spotify_URL || d.SpotifyURL || null])
       );
+
       const siMap = Object.fromEntries(
         (siData || []).map((d) => [normalizeStr(d.SongID), d])
       );
+
       const tsMap = Object.fromEntries(
         (tsData || []).map((d) => [normalizeStr(d.SongID), d])
       );
 
-      // Artist map by ArtistID (string)
       const artistMapByID = Object.fromEntries(
         (artistFeatures || []).map((a) => [normalizeStr(a.ArtistID), a])
       );
 
-      // Merge rows
-      const merged = (data || []).map((entry) => {
-        const id = normalizeStr(entry.SongID);
+      allSongs = (data || [])
+        .map((entry) => {
+          const id = normalizeStr(entry.SongID);
 
-        // ArtistIDs from SI (comma-separated)
-        const artistIDs = normalizeStr(siMap[id]?.ArtistID)
-          .split(",")
-          .map((x) => x.trim())
-          .filter(Boolean);
+          const artistIDs = normalizeStr(siMap[id]?.ArtistID)
+            .split(",")
+            .map((x) => x.trim())
+            .filter(Boolean);
 
-        // Build artist links
-        const artistLinks = [];
-        artistIDs.forEach((aid) => {
-          const artistObj = artistMapByID[aid];
-          if (artistObj) {
-            artistLinks.push({
-              name: artistObj.Artist || "Unknown Artist",
-              url: artistObj.SpotifyURL || null
-            });
-          }
-        });
+          const artistLinks = [];
+          artistIDs.forEach((aid) => {
+            const artistObj = artistMapByID[aid];
+            if (artistObj) {
+              artistLinks.push({
+                name: artistObj.Artist || "Unknown Artist",
+                url: artistObj.SpotifyURL || null
+              });
+            }
+          });
 
-        // Fallback: if no ArtistID mapping, show SI Artist
-        const fallbackArtist = normalizeStr(siMap[id]?.Artist) || "Unknown Artist";
+          const fallbackArtist = normalizeStr(siMap[id]?.Artist) || "Unknown Artist";
 
-        // Cover image robust fallback
-        const coverCandidate = tsMap[id]?.CoverImage;
-        const finalCover =
-          typeof coverCandidate === "string" && coverCandidate.trim() !== ""
-            ? coverCandidate
-            : DEFAULT_COVER;
+          const coverCandidate = tsMap[id]?.CoverImage;
+          const finalCover =
+            typeof coverCandidate === "string" && coverCandidate.trim() !== ""
+              ? coverCandidate
+              : DEFAULT_COVER;
 
-        return {
-          SongID: id,
-          Position: Number(entry.Position ?? 0),
-          Title: normalizeStr(siMap[id]?.Title) || "Unknown Title",
-          ArtistNames: artistLinks.length ? artistLinks : [{ name: fallbackArtist, url: null }],
-          CoverImage: finalCover,
-          SpotifyURL: spMap[id] || null
-        };
-      });
+          return {
+            SongID: id,
+            Position: Number(entry.Position ?? 0),
+            Title: normalizeStr(siMap[id]?.Title) || "Unknown Title",
+            ArtistNames: artistLinks.length ? artistLinks : [{ name: fallbackArtist, url: null }],
+            CoverImage: finalCover,
+            SpotifyURL: spMap[id] || null
+          };
+        })
+        .sort((a, b) => a.Position - b.Position);
 
-      const finalList = merged
-        .sort((a, b) => a.Position - b.Position)
-        .slice(0, 100);
+      const songList = document.getElementById("songList");
+      if (songList) {
+        songList.innerHTML = "";
+      }
 
-      updateSongListUI(finalList);
+      visibleCount = 0;
+      isLoading = false;
+
+      loadMoreSongs();
     } catch (err) {
       console.error("Error loading data:", err);
       const el = document.getElementById("songList");
@@ -194,99 +192,131 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // =========================
+  // BATCH LOADER
+  // =========================
+  async function loadMoreSongs() {
+    if (isLoading) return;
+
+    isLoading = true;
+
+    const nextBatch = allSongs.slice(visibleCount, visibleCount + batchSize);
+
+    if (nextBatch.length === 0) {
+      isLoading = false;
+      return;
+    }
+
+    for (const song of nextBatch) {
+      appendSong(song);
+      await delay(5);
+    }
+
+    visibleCount += batchSize;
+    isLoading = false;
+
+    setTimeout(() => {}, 500);
+  }
+
+  // =========================
   // UI RENDER
   // =========================
-  function updateSongListUI(songs) {
+  function appendSong(song) {
     const songList = document.getElementById("songList");
     if (!songList) return;
 
-    songList.innerHTML = "";
+    const li = document.createElement("li");
 
-    songs.forEach((song) => {
-      const li = document.createElement("li");
+    const rank = document.createElement("div");
+    rank.className = "song-rank";
+    rank.textContent = `${song.Position}.`;
 
-      const rank = document.createElement("div");
-      rank.className = "song-rank";
-      rank.textContent = `${song.Position}.`;
+    const img = document.createElement("img");
+    img.src = song.CoverImage;
+    img.alt = `${song.Title} Cover`;
 
-      const img = document.createElement("img");
-      img.src = song.CoverImage;
-      img.alt = `${song.Title} Cover`;
+    img.onerror = () => {
+      img.src = DEFAULT_COVER;
+    };
 
-      // If image fails -> fallback
-      img.onerror = () => {
-        img.src = DEFAULT_COVER;
-      };
+    const info = document.createElement("div");
+    info.className = "song-info-list";
 
-      const info = document.createElement("div");
-      info.className = "song-info-list";
+    const title = document.createElement("span");
+    title.className = "song-title";
+    title.textContent = song.Title;
 
-      const title = document.createElement("span");
-      title.className = "song-title";
-      title.textContent = song.Title;
+    const artistContainer = document.createElement("div");
+    artistContainer.className = "song-artist";
 
-      const artistContainer = document.createElement("div");
-      artistContainer.className = "song-artist";
-
-      (song.ArtistNames || []).forEach((artistObj, index) => {
-        if (artistObj.url) {
-          const link = document.createElement("a");
-          link.href = artistObj.url;
-          link.textContent = artistObj.name;
-          link.target = "_blank";
-          link.rel = "noopener noreferrer";
-          link.style.color = "#3498db";
-          link.style.textDecoration = "underline";
-          artistContainer.appendChild(link);
-        } else {
-          const span = document.createElement("span");
-          span.textContent = artistObj.name;
-          artistContainer.appendChild(span);
-        }
-
-        if (index < song.ArtistNames.length - 1) {
-          artistContainer.appendChild(document.createTextNode(", "));
-        }
-      });
-
-      info.appendChild(title);
-      info.appendChild(artistContainer);
-
-      li.appendChild(rank);
-      li.appendChild(img);
-      li.appendChild(info);
-
-      // Click selects row
-      li.addEventListener("click", () => {
-        document
-          .querySelectorAll(".song-list li")
-          .forEach((el) => el.classList.remove("selected"));
-        li.classList.add("selected");
-      });
-
-      // Cover click: first selects, second opens Spotify URL (if exists)
-      if (song.SpotifyURL) {
-        img.style.cursor = "pointer";
-        img.addEventListener("click", () => {
-          const isSelected = li.classList.contains("selected");
-          if (!isSelected) {
-            document
-              .querySelectorAll(".song-list li")
-              .forEach((el) => el.classList.remove("selected"));
-            li.classList.add("selected");
-          } else {
-            window.open(song.SpotifyURL, "_blank");
-          }
-        });
+    (song.ArtistNames || []).forEach((artistObj, index) => {
+      if (artistObj.url) {
+        const link = document.createElement("a");
+        link.href = artistObj.url;
+        link.textContent = artistObj.name;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.style.color = "#3498db";
+        link.style.textDecoration = "underline";
+        artistContainer.appendChild(link);
+      } else {
+        const span = document.createElement("span");
+        span.textContent = artistObj.name;
+        artistContainer.appendChild(span);
       }
 
-      songList.appendChild(li);
+      if (index < song.ArtistNames.length - 1) {
+        artistContainer.appendChild(document.createTextNode(", "));
+      }
     });
+
+    info.appendChild(title);
+    info.appendChild(artistContainer);
+
+    li.appendChild(rank);
+    li.appendChild(img);
+    li.appendChild(info);
+
+    li.addEventListener("click", () => {
+      document
+        .querySelectorAll(".song-list li")
+        .forEach((el) => el.classList.remove("selected"));
+      li.classList.add("selected");
+    });
+
+    if (song.SpotifyURL) {
+      img.style.cursor = "pointer";
+      img.addEventListener("click", () => {
+        const isSelected = li.classList.contains("selected");
+
+        if (!isSelected) {
+          document
+            .querySelectorAll(".song-list li")
+            .forEach((el) => el.classList.remove("selected"));
+          li.classList.add("selected");
+        } else {
+          window.open(song.SpotifyURL, "_blank");
+        }
+      });
+    }
+
+    songList.appendChild(li);
   }
 
   // =========================
   // EVENTS
   // =========================
+  window.addEventListener("scroll", () => {
+    const scrollTop = window.scrollY;
+    const windowHeight = window.innerHeight;
+    const docHeight = document.body.offsetHeight;
+
+    if (scrollTop + windowHeight >= docHeight - 400) {
+      if (visibleCount < allSongs.length) {
+        loadMoreSongs();
+      }
+    }
+  });
+
   const countrySelect = document.getElementById("countrySelect");
   if (countrySelect) {
     countrySelect.addEventListener("change", function () {
@@ -294,6 +324,5 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // Default load
   loadCountryData("us");
 });

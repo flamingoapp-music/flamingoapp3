@@ -277,30 +277,40 @@
 //   Dropdown "CHARTS" (mejora: inicia oculto + toggle)
 // =====================================================
 $(function () {
-	const $chartsItem = $('nav ul li:contains("CHARTS")');
-	const $chartsLink = $chartsItem.children('a');
-	const $chartsDropdown = $chartsItem.children('ul');
+	const $chartsItem = $('.chart-menu').first();
+	const $chartsLink = $chartsItem.children('a').first();
+	const $chartsDropdown = $chartsItem.children('ul.chart-submenu').first();
 
-	let chartsOpen = false;
+	if (!$chartsItem.length || !$chartsDropdown.length) return;
 
-	// Oculto inicialmente
+	const isTouchDevice =
+		('ontouchstart' in window) ||
+		(navigator.maxTouchPoints > 0) ||
+		window.matchMedia('(hover: none)').matches;
+
+	// En desktop no tocamos el dropdown:
+	// lo maneja el CSS con :hover / :focus-within
+	if (!isTouchDevice) {
+		$chartsDropdown.removeAttr('style');
+		return;
+	}
+
+	// En touch/mobile sí usamos click
 	$chartsDropdown.hide();
 
 	$chartsLink.on('click', function (e) {
 		e.preventDefault();
-		chartsOpen = !chartsOpen;
-		if (chartsOpen) {
-			$chartsDropdown.stop(true, true).slideDown(200);
-		} else {
-			$chartsDropdown.stop(true, true).slideUp(200);
-		}
+		e.stopPropagation();
+		$chartsDropdown.stop(true, true).slideToggle(200);
 	});
 
-	// Cerrar si se hace clic fuera del menú
+	$chartsDropdown.on('click', function (e) {
+		e.stopPropagation();
+	});
+
 	$(document).on('click', function (e) {
 		if (!$chartsItem.is(e.target) && $chartsItem.has(e.target).length === 0) {
 			$chartsDropdown.stop(true, true).slideUp(200);
-			chartsOpen = false;
 		}
 	});
 });
