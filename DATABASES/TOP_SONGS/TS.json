@@ -1,5 +1,14 @@
 [
   {
+    "SongID": 4,
+    "Album": "GOLDEN",
+    "Duration": "03:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316",
+    "Popularity": 83,
+    "ReleaseDate": "2023-11-03",
+    "Genre": "k-pop"
+  },
+  {
     "SongID": 64,
     "Album": "I Love You.",
     "Duration": "04:00",
@@ -45,6 +54,15 @@
     "Genre": ""
   },
   {
+    "SongID": 2670,
+    "Album": "I've Tried Everything But Therapy (Part 1)",
+    "Duration": "03:30",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c",
+    "Popularity": 89,
+    "ReleaseDate": "2023-09-15",
+    "Genre": ""
+  },
+  {
     "SongID": 12447,
     "Album": "Espresso",
     "Duration": "02:55",
@@ -79,6 +97,15 @@
     "Popularity": 90,
     "ReleaseDate": "2024-05-17",
     "Genre": "art pop, pop"
+  },
+  {
+    "SongID": 113593,
+    "Album": "After Hours",
+    "Duration": "03:20",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "Popularity": 89,
+    "ReleaseDate": "2020-03-20",
+    "Genre": "canadian contemporary r&b, canadian pop, pop"
   },
   {
     "SongID": 118677,
@@ -135,6 +162,15 @@
     "Genre": "k-pop"
   },
   {
+    "SongID": 600128,
+    "Album": "The Secret of Us (Deluxe)",
+    "Duration": "02:46",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+    "Popularity": 84,
+    "ReleaseDate": "2024-10-18",
+    "Genre": "alt z"
+  },
+  {
     "SongID": 800002,
     "Album": "The Romantic",
     "Duration": "3:24",
@@ -160,6 +196,15 @@
     "Popularity": 80,
     "ReleaseDate": "2025-02-19",
     "Genre": "reggaeton"
+  },
+  {
+    "SongID": 1227537,
+    "Album": "Riptide",
+    "Duration": "03:24",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736df56a03f7f09b64eb9a5a9e",
+    "Popularity": 55,
+    "ReleaseDate": "2013-05-21",
+    "Genre": "folk pop"
   },
   {
     "SongID": 1227566,
@@ -198,6 +243,15 @@
     "Genre": "reggaeton, latin, urbano latino"
   },
   {
+    "SongID": 1238785,
+    "Album": "Hybrid Theory (20th Anniversary Edition)",
+    "Duration": "03:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f1a378f8bcaa4be358f02ca2",
+    "Popularity": 50,
+    "ReleaseDate": "2020-10-09",
+    "Genre": "nu metal, rap metal, rock, alternative metal"
+  },
+  {
     "SongID": 1238969,
     "Album": "Walking On A Dream (10th Anniversary Edition)",
     "Duration": "04:27",
@@ -207,22 +261,13 @@
     "Genre": ""
   },
   {
-    "SongID": 1245708,
-    "Album": "Cosa Nuestra",
-    "Duration": "03:11",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856",
-    "Popularity": 86,
-    "ReleaseDate": "2024-11-15",
-    "Genre": "reggaeton, urbano latino, trap latino, latin"
-  },
-  {
-    "SongID": 1246480,
-    "Album": "Dracula",
-    "Duration": "03:25",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734806a1c10aa685b1b936158b",
-    "Popularity": 86,
-    "ReleaseDate": "2025-09-26",
-    "Genre": "neo-psychedelic, indie"
+    "SongID": 1239705,
+    "Album": "Harry Styles",
+    "Duration": "05:40",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859",
+    "Popularity": 84,
+    "ReleaseDate": "2017-05-12",
+    "Genre": ""
   },
   {
     "SongID": 1249039,
@@ -232,6 +277,15 @@
     "Popularity": 70,
     "ReleaseDate": "2025-05-09",
     "Genre": "bedroom pop"
+  },
+  {
+    "SongID": 1249892,
+    "Album": "The Boy Who Played the Harp",
+    "Duration": "03:39",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fecaa7826bb0cbe139a8cb83",
+    "Popularity": 85,
+    "ReleaseDate": "2025-10-23",
+    "Genre": "grime, uk grime, uk drill, drill"
   },
   {
     "SongID": 1251220,
@@ -423,15 +477,6 @@
     "Genre": "reggaeton, trap latino, urbano latino, latin"
   },
   {
-    "SongID": 1272738,
-    "Album": "BORONDO",
-    "Duration": "02:38",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732feb67a486bcf117e7fb15b0",
-    "Popularity": 88,
-    "ReleaseDate": "2025-05-15",
-    "Genre": "latin afrobeats, reggaeton, pop urbano"
-  },
-  {
     "SongID": 1272927,
     "Album": "Die On This Hill",
     "Duration": "03:37",
@@ -450,15 +495,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1287705,
-    "Album": "The Boy Who Played the Harp",
-    "Duration": "03:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fecaa7826bb0cbe139a8cb83",
-    "Popularity": 89,
-    "ReleaseDate": "2025-10-23",
-    "Genre": "grime, uk grime, uk drill, drill"
-  },
-  {
     "SongID": 1288574,
     "Album": "I Just Might",
     "Duration": "03:32",
@@ -475,6 +511,15 @@
     "Popularity": 75,
     "ReleaseDate": "2026-01-11",
     "Genre": ""
+  },
+  {
+    "SongID": 1291010,
+    "Album": "The Last Wun",
+    "Duration": "03:04",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737fd9dc3a93bd4fa2be8ed715",
+    "Popularity": 81,
+    "ReleaseDate": "2025-08-08",
+    "Genre": "melodic rap"
   },
   {
     "SongID": 1291143,
@@ -684,15 +729,6 @@
     "Genre": "rap"
   },
   {
-    "SongID": 1274808100,
-    "Album": "BULLY",
-    "Duration": "3:49",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 80,
-    "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
     "SongID": 1274808105,
     "Album": "BULLY",
     "Duration": "2:49",
@@ -702,29 +738,11 @@
     "Genre": null
   },
   {
-    "SongID": 1274808108,
-    "Album": "BULLY",
-    "Duration": "2:06",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 78,
-    "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
     "SongID": 1274808111,
     "Album": "BULLY",
     "Duration": "3:01",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
     "Popularity": 74,
-    "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274808112,
-    "Album": "BULLY",
-    "Duration": "1:48",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 77,
     "ReleaseDate": "2026-03-28",
     "Genre": null
   },
@@ -742,7 +760,7 @@
     "Album": "Dracula (Remix)",
     "Duration": "3:29",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c7c031ce9d06b131f8563676",
-    "Popularity": 91,
+    "Popularity": 92,
     "ReleaseDate": "2026-02-06",
     "Genre": null
   },
@@ -855,15 +873,6 @@
     "Genre": "rap"
   },
   {
-    "SongID": 1274807812,
-    "Album": "BULLY",
-    "Duration": "01:45",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 0,
-    "ReleaseDate": "2026-03-28",
-    "Genre": "rap"
-  },
-  {
     "SongID": 1274807813,
     "Album": "BULLY",
     "Duration": "03:06",
@@ -873,21 +882,12 @@
     "Genre": "rap"
   },
   {
-    "SongID": 1274807814,
-    "Album": "BULLY",
-    "Duration": "03:01",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 0,
-    "ReleaseDate": "2026-03-28",
-    "Genre": "rap"
-  },
-  {
-    "SongID": 1274807815,
-    "Album": "BULLY",
-    "Duration": "02:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "Popularity": 0,
-    "ReleaseDate": "2026-03-28",
-    "Genre": "rap"
+    "SongID": 1274810171,
+    "Album": "Fancy That",
+    "Duration": "2:48",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+    "Popularity": 78,
+    "ReleaseDate": "2025-05-09",
+    "Genre": null
   }
 ]

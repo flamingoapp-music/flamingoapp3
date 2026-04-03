@@ -4,207 +4,309 @@
     "SongID": 1274799562,
     "Title": "SWIM",
     "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
     "SpotifyURL": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
-    "TotalScore": 380877.57443,
-    "SpotifyScore": 169596.561134,
-    "AppleScore": 196143.643765,
-    "YouTubeScore": 35251.509376,
+    "TotalScore": 811615.819008,
+    "SpotifyScore": 354454.521118,
+    "AppleScore": 254622.551722,
+    "YouTubeScore": 131462.295423,
     "BillboardScore": 1019.0,
     "PlatformCount": 4
   },
   {
     "Position": 2,
-    "SongID": 1287705,
+    "SongID": 1249892,
     "Title": "Raindance",
-    "Artist": "Dave&Tems",
+    "Artist": "Dave, Tems",
+    "Artists": [
+      {
+        "Artist": "Dave",
+        "SpotifyURL": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+      },
+      {
+        "Artist": "Tems",
+        "SpotifyURL": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+      }
+    ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fecaa7826bb0cbe139a8cb83",
     "SpotifyURL": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
-    "TotalScore": 262730.802958,
-    "SpotifyScore": 76361.906607,
-    "AppleScore": 205947.884835,
-    "YouTubeScore": 0.0,
+    "TotalScore": 520327.149006,
+    "SpotifyScore": 142135.047767,
+    "AppleScore": 263085.580932,
+    "YouTubeScore": 37005.311608,
     "BillboardScore": 821.5,
-    "PlatformCount": 3
+    "PlatformCount": 4
   },
   {
     "Position": 3,
     "SongID": 1274799551,
     "Title": "Body to Body",
     "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
     "SpotifyURL": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6",
-    "TotalScore": 262325.152417,
-    "SpotifyScore": 126235.32604,
-    "AppleScore": 148839.880397,
-    "YouTubeScore": 995.930547,
+    "TotalScore": 514555.852778,
+    "SpotifyScore": 260466.283214,
+    "AppleScore": 193604.765258,
+    "YouTubeScore": 1279.552347,
     "BillboardScore": 956.5,
     "PlatformCount": 4
   },
   {
     "Position": 4,
+    "SongID": 1272690,
+    "Title": "The Fate of Ophelia",
+    "Artist": "Taylor Swift",
+    "Artists": [
+      {
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
+    "TotalScore": 402449.268865,
+    "SpotifyScore": 146730.96682,
+    "AppleScore": 181245.105362,
+    "YouTubeScore": 19913.542183,
+    "BillboardScore": 951.5,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 5,
+    "SongID": 1274807780,
+    "Title": "ALL THE LOVE",
+    "Artist": "Kanye West & Andre Troutman",
+    "Artists": [
+      {
+        "Artist": "Kanye West",
+        "SpotifyURL": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "Artist": "Andre Troutman",
+        "SpotifyURL": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "SpotifyURL": null,
+    "TotalScore": 372601.546806,
+    "SpotifyScore": 78727.943072,
+    "AppleScore": 226041.233641,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "PlatformCount": 2
+  },
+  {
+    "Position": 6,
+    "SongID": 435,
+    "Title": "Babydoll",
+    "Artist": "Dominic Fike",
+    "Artists": [
+      {
+        "Artist": "Dominic Fike",
+        "SpotifyURL": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+    "SpotifyURL": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+    "TotalScore": 370145.393687,
+    "SpotifyScore": 277192.105238,
+    "AppleScore": 65107.257823,
+    "YouTubeScore": 7504.26661,
+    "BillboardScore": 954.0,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 7,
+    "SongID": 1274799549,
+    "Title": "2.0",
+    "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
+    "SpotifyURL": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc",
+    "TotalScore": 351743.868137,
+    "SpotifyScore": 119063.095322,
+    "AppleScore": 122732.43574,
+    "YouTubeScore": 75825.05932,
+    "BillboardScore": 879.0,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 8,
     "SongID": 1274799553,
     "Title": "Hooligan",
     "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
     "SpotifyURL": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
-    "TotalScore": 197594.253074,
-    "SpotifyScore": 86145.853146,
-    "AppleScore": 122559.555475,
+    "TotalScore": 333592.831985,
+    "SpotifyScore": 161339.876502,
+    "AppleScore": 131621.658064,
     "YouTubeScore": 0.0,
     "BillboardScore": 929.0,
     "PlatformCount": 3
   },
   {
-    "Position": 5,
-    "SongID": 1272690,
-    "Title": "The Fate of Ophelia",
-    "Artist": "Taylor Swift",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
-    "TotalScore": 195878.977204,
-    "SpotifyScore": 78674.31134,
-    "AppleScore": 118283.35866,
-    "YouTubeScore": 10071.413758,
-    "BillboardScore": 951.5,
-    "PlatformCount": 4
-  },
-  {
-    "Position": 6,
-    "SongID": 1274799558,
-    "Title": "NORMAL",
-    "Artist": "BTS",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-    "SpotifyURL": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5",
-    "TotalScore": 190298.263184,
-    "SpotifyScore": 82215.116324,
-    "AppleScore": 118847.052066,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 909.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 7,
-    "SongID": 1274799552,
-    "Title": "FYA",
-    "Artist": "BTS",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-    "SpotifyURL": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv",
-    "TotalScore": 189857.506073,
-    "SpotifyScore": 83222.026311,
-    "AppleScore": 117218.533069,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 924.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 8,
+    "Position": 9,
     "SongID": 1272717,
     "Title": "DtMF",
     "Artist": "Bad Bunny",
+    "Artists": [
+      {
+        "Artist": "Bad Bunny",
+        "SpotifyURL": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      }
+    ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
     "SpotifyURL": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-    "TotalScore": 183612.92999,
-    "SpotifyScore": 99917.053373,
-    "AppleScore": 91740.08513,
+    "TotalScore": 330050.988541,
+    "SpotifyScore": 181256.700297,
+    "AppleScore": 113588.06788,
     "YouTubeScore": 0.0,
     "BillboardScore": 916.5,
     "PlatformCount": 3
   },
   {
-    "Position": 9,
-    "SongID": 435,
-    "Title": "Babydoll",
-    "Artist": "Dominic Fike",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-    "SpotifyURL": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-    "TotalScore": 180400.739502,
-    "SpotifyScore": 133565.685839,
-    "AppleScore": 48465.972133,
-    "YouTubeScore": 2137.767098,
-    "BillboardScore": 954.0,
-    "PlatformCount": 4
+    "Position": 10,
+    "SongID": 1274807779,
+    "Title": "FATHER",
+    "Artist": "Kanye West & Travis Scott",
+    "Artists": [
+      {
+        "Artist": "Kanye West",
+        "SpotifyURL": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "Artist": "Travis Scott",
+        "SpotifyURL": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+    "SpotifyURL": null,
+    "TotalScore": 322579.996626,
+    "SpotifyScore": 0.0,
+    "AppleScore": 247096.427363,
+    "YouTubeScore": 1404.88532,
+    "BillboardScore": 0.0,
+    "PlatformCount": 2
   },
   {
-    "Position": 10,
+    "Position": 11,
+    "SongID": 1274799558,
+    "Title": "NORMAL",
+    "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
+    "SpotifyURL": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5",
+    "TotalScore": 316979.060349,
+    "SpotifyScore": 151693.390729,
+    "AppleScore": 126280.668938,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 909.0,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 12,
+    "SongID": 1274799552,
+    "Title": "FYA",
+    "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
+    "SpotifyURL": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv",
+    "TotalScore": 315108.112764,
+    "SpotifyScore": 141680.816457,
+    "AppleScore": 132529.612544,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 924.0,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 13,
     "SongID": 1274799555,
     "Title": "Like Animals",
     "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
     "SpotifyURL": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP",
-    "TotalScore": 171290.771664,
-    "SpotifyScore": 75347.6873,
-    "AppleScore": 105404.760404,
+    "TotalScore": 274634.746903,
+    "SpotifyScore": 128306.799107,
+    "AppleScore": 111730.11369,
     "YouTubeScore": 0.0,
     "BillboardScore": 874.0,
     "PlatformCount": 3
   },
   {
-    "Position": 11,
-    "SongID": 1274807779,
-    "Title": "FATHER",
-    "Artist": "Kanye West & Travis Scott",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "SpotifyURL": null,
-    "TotalScore": 169440.977226,
-    "SpotifyScore": 0.0,
-    "AppleScore": 188256.641362,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "PlatformCount": 1
-  },
-  {
-    "Position": 12,
-    "SongID": 1274799549,
-    "Title": "2.0",
-    "Artist": "BTS",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-    "SpotifyURL": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc",
-    "TotalScore": 166051.225543,
-    "SpotifyScore": 68238.097982,
-    "AppleScore": 107475.919512,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 879.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 13,
+    "Position": 14,
     "SongID": 1274799550,
     "Title": "Aliens",
     "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
     "SpotifyURL": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ",
-    "TotalScore": 161101.244533,
-    "SpotifyScore": 69761.359775,
-    "AppleScore": 100266.760842,
+    "TotalScore": 266766.753924,
+    "SpotifyScore": 117267.582945,
+    "AppleScore": 114153.362292,
     "YouTubeScore": 0.0,
     "BillboardScore": 891.5,
     "PlatformCount": 3
-  },
-  {
-    "Position": 14,
-    "SongID": 1274807780,
-    "Title": "ALL THE LOVE",
-    "Artist": "Kanye West & Andre Troutman",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-    "SpotifyURL": null,
-    "TotalScore": 155316.443655,
-    "SpotifyScore": 1532.033285,
-    "AppleScore": 170849.344856,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "PlatformCount": 2
   },
   {
     "Position": 15,
     "SongID": 1274799563,
     "Title": "they don’t know ’bout us",
     "Artist": "BTS",
+    "Artists": [
+      {
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      }
+    ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
     "SpotifyURL": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9",
-    "TotalScore": 150876.846712,
-    "SpotifyScore": 67722.087412,
-    "AppleScore": 91218.843667,
+    "TotalScore": 248567.668234,
+    "SpotifyScore": 116477.323599,
+    "AppleScore": 100794.265104,
     "YouTubeScore": 0.0,
     "BillboardScore": 856.5,
     "PlatformCount": 3
