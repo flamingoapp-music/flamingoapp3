@@ -146,11 +146,11 @@
   {
     "SongID": 276,
     "Album": "Hot Fuss",
-    "Duration": "03:42",
+    "Duration": "3:42",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
-    "Popularity": 8,
-    "ReleaseDate": "2004-06-15",
-    "Genre": ""
+    "Popularity": 93,
+    "ReleaseDate": "2004",
+    "Genre": null
   },
   {
     "SongID": 300,
@@ -173,11 +173,11 @@
   {
     "SongID": 322,
     "Album": "Loose",
-    "Duration": "04:02",
+    "Duration": "4:02",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
-    "Popularity": 87,
+    "Popularity": 89,
     "ReleaseDate": "2006-01-01",
-    "Genre": "canadian latin, canadian pop, dance pop, pop"
+    "Genre": null
   },
   {
     "SongID": 332,
@@ -200,11 +200,11 @@
   {
     "SongID": 399,
     "Album": "Encore",
-    "Duration": "03:25",
+    "Duration": "3:25",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc",
-    "Popularity": 87,
+    "Popularity": 91,
     "ReleaseDate": "2016-08-05",
-    "Genre": ""
+    "Genre": null
   },
   {
     "SongID": 406,
@@ -227,11 +227,11 @@
   {
     "SongID": 435,
     "Album": "Don't Forget About Me, Demos",
-    "Duration": "01:37",
+    "Duration": "1:37",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-    "Popularity": 86,
+    "Popularity": 100,
     "ReleaseDate": "2018-10-16",
-    "Genre": "alternative pop rock, pov: indie"
+    "Genre": null
   },
   {
     "SongID": 443,
@@ -405,6 +405,15 @@
     "Genre": ""
   },
   {
+    "SongID": 3454,
+    "Album": "Believe",
+    "Duration": "2:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
+    "Popularity": 80,
+    "ReleaseDate": "2012-01-01",
+    "Genre": null
+  },
+  {
     "SongID": 3475,
     "Album": "ANTI (Deluxe)",
     "Duration": "4:13",
@@ -519,6 +528,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616",
     "Popularity": 79,
     "ReleaseDate": "2012-03-12",
+    "Genre": null
+  },
+  {
+    "SongID": 108652,
+    "Album": "Believe (Deluxe Edition)",
+    "Duration": "3:47",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736c20c4638a558132ba95bc39",
+    "Popularity": 91,
+    "ReleaseDate": "2012-06-15",
     "Genre": null
   },
   {
@@ -865,12 +883,12 @@
   },
   {
     "SongID": 1227593,
-    "Album": "Chemistry",
-    "Duration": "03:31",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736e6cda81261c6763fd7857b8",
-    "Popularity": 56,
-    "ReleaseDate": "2025-02-28",
-    "Genre": ""
+    "Album": "At The Beach, In Every Life",
+    "Duration": "3:31",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27349c26270052e1671add569c1",
+    "Popularity": 89,
+    "ReleaseDate": "2025-04-25",
+    "Genre": null
   },
   {
     "SongID": 1227607,
@@ -901,12 +919,12 @@
   },
   {
     "SongID": 1228160,
-    "Album": "Pendulum",
-    "Duration": "02:40",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739b7a4a59ac03447db7491f37",
-    "Popularity": 71,
+    "Album": "Pendulum (Expanded Edition)",
+    "Duration": "2:40",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
+    "Popularity": 89,
     "ReleaseDate": "1970-12-07",
-    "Genre": "classic rock, southern rock, country rock"
+    "Genre": null
   },
   {
     "SongID": 1228384,
@@ -1009,12 +1027,12 @@
   },
   {
     "SongID": 1249039,
-    "Album": "Fancy That",
-    "Duration": "02:48",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e",
-    "Popularity": 70,
-    "ReleaseDate": "2025-05-09",
-    "Genre": "bedroom pop"
+    "Album": "Fancy Some More?",
+    "Duration": "3:04",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
+    "Popularity": 97,
+    "ReleaseDate": "2025-10-10",
+    "Genre": null
   },
   {
     "SongID": 1249892,
@@ -1190,11 +1208,11 @@
   {
     "SongID": 1272678,
     "Album": "WHERE IS MY HUSBAND!",
-    "Duration": "03:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737cc8cee5c81409833e540974",
+    "Duration": "3:17",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736ac3c7938191585c53c8180d",
     "Popularity": 94,
     "ReleaseDate": "2025-09-19",
-    "Genre": ""
+    "Genre": null
   },
   {
     "SongID": 1272684,
@@ -1361,11 +1379,11 @@
   {
     "SongID": 1273949,
     "Album": "Synchronicity (Remastered 2003)",
-    "Duration": "04:13",
+    "Duration": "4:13",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-    "Popularity": 91,
+    "Popularity": 93,
     "ReleaseDate": "1983-06-17",
-    "Genre": ""
+    "Genre": null
   },
   {
     "SongID": 1274094,
@@ -1495,11 +1513,11 @@
   },
   {
     "SongID": 1290110,
-    "Album": "POP DAT THANG",
+    "Album": "BE MORE GRATEFUL",
     "Duration": "2:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e154030833dbe4ff814fdb9d",
-    "Popularity": 78,
-    "ReleaseDate": "2026-01-23",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b8bf88c15a2d8282477f7844",
+    "Popularity": 80,
+    "ReleaseDate": "2026-01-30",
     "Genre": null
   },
   {
@@ -1818,6 +1836,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274801803,
+    "Album": "My World 2.0",
+    "Duration": "3:34",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
+    "Popularity": 93,
+    "ReleaseDate": "2010-01-01",
+    "Genre": null
+  },
+  {
     "SongID": 1274801871,
     "Album": "Woman",
     "Duration": "2:46",
@@ -1885,7 +1912,7 @@
     "Album": "Don't Mind If I Do",
     "Duration": "3:19",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732df2fe0ef24de5b3fe14731d",
-    "Popularity": 74,
+    "Popularity": 75,
     "ReleaseDate": "2024-10-18",
     "Genre": null
   },
