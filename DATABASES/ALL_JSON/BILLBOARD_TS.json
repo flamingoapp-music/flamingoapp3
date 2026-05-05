@@ -63,6 +63,15 @@
     "Genre": null
   },
   {
+    "SongID": 97,
+    "Album": "Long Way Down (Expanded Edition)",
+    "Duration": "4:04",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739adb17697c5a5bb02b5cebb7",
+    "Popularity": 67,
+    "ReleaseDate": "2013-06-24",
+    "Genre": null
+  },
+  {
     "SongID": 106,
     "Album": "÷ (Deluxe)",
     "Duration": "4:23",
@@ -171,15 +180,6 @@
     "Genre": "indie folk, modern rock, stomp and holler"
   },
   {
-    "SongID": 322,
-    "Album": "Loose",
-    "Duration": "4:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
-    "Popularity": 89,
-    "ReleaseDate": "2006-01-01",
-    "Genre": null
-  },
-  {
     "SongID": 332,
     "Album": "Rumours (Super Deluxe)",
     "Duration": "04:17",
@@ -189,12 +189,12 @@
     "Genre": "album rock, classic rock, rock, soft rock, yacht rock"
   },
   {
-    "SongID": 397,
-    "Album": "ANTI (Deluxe)",
-    "Duration": "3:44",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de",
+    "SongID": 398,
+    "Album": "Closer",
+    "Duration": "4:04",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453",
     "Popularity": 89,
-    "ReleaseDate": "2016-01-28",
+    "ReleaseDate": "2016-07-29",
     "Genre": null
   },
   {
@@ -205,15 +205,6 @@
     "Popularity": 91,
     "ReleaseDate": "2016-08-05",
     "Genre": null
-  },
-  {
-    "SongID": 406,
-    "Album": "OASIS",
-    "Duration": "04:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
-    "Popularity": 86,
-    "ReleaseDate": "2019-06-28",
-    "Genre": "reggaeton, latin, trap"
   },
   {
     "SongID": 411,
@@ -306,6 +297,15 @@
     "Genre": null
   },
   {
+    "SongID": 658,
+    "Album": "Oral Fixation, Vol. 2 (Expanded Edition)",
+    "Duration": "03:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa",
+    "Popularity": 85,
+    "ReleaseDate": "2005-11-28",
+    "Genre": "colombian pop, dance pop, latin pop, pop"
+  },
+  {
     "SongID": 672,
     "Album": "Only By The Night",
     "Duration": "03:23",
@@ -330,15 +330,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
     "Popularity": 86,
     "ReleaseDate": "2010-01-01",
-    "Genre": null
-  },
-  {
-    "SongID": 876,
-    "Album": "Californication (Deluxe Edition)",
-    "Duration": "3:35",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
-    "Popularity": 89,
-    "ReleaseDate": "1999-06-08",
     "Genre": null
   },
   {
@@ -441,6 +432,15 @@
     "Genre": "canadian pop, pop"
   },
   {
+    "SongID": 11607,
+    "Album": "One More Love",
+    "Duration": "03:30",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736ef5a9483c49f0d1d0b96368",
+    "Popularity": 63,
+    "ReleaseDate": "2010-11-22",
+    "Genre": ""
+  },
+  {
     "SongID": 12447,
     "Album": "Short n' Sweet",
     "Duration": "2:55",
@@ -540,12 +540,30 @@
     "Genre": null
   },
   {
+    "SongID": 108656,
+    "Album": "Purpose (Deluxe)",
+    "Duration": "3:28",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+    "Popularity": 82,
+    "ReleaseDate": "2015-11-13",
+    "Genre": null
+  },
+  {
     "SongID": 108947,
     "Album": "Hollywood's Bleeding",
     "Duration": "2:37",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
     "Popularity": 85,
     "ReleaseDate": "2019-09-06",
+    "Genre": null
+  },
+  {
+    "SongID": 111524,
+    "Album": "By the Way (Deluxe Edition)",
+    "Duration": "4:29",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4",
+    "Popularity": 90,
+    "ReleaseDate": "2002-07-09",
     "Genre": null
   },
   {
@@ -729,6 +747,15 @@
     "Genre": "modern country pop"
   },
   {
+    "SongID": 605288,
+    "Album": "The Heist",
+    "Duration": "04:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d",
+    "Popularity": 82,
+    "ReleaseDate": "2012-10-09",
+    "Genre": "pop rap, seattle hip hop"
+  },
+  {
     "SongID": 800002,
     "Album": "The Romantic",
     "Duration": "3:24",
@@ -756,15 +783,6 @@
     "Genre": null
   },
   {
-    "SongID": 800046,
-    "Album": "The Visitor",
-    "Duration": "3:48",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732211aea789b9010379e43726",
-    "Popularity": 85,
-    "ReleaseDate": "2026-03-13",
-    "Genre": null
-  },
-  {
     "SongID": 800202,
     "Album": "Dry Spell",
     "Duration": "03:17",
@@ -772,6 +790,15 @@
     "Popularity": 68,
     "ReleaseDate": "2026-03-11",
     "Genre": ""
+  },
+  {
+    "SongID": 800286,
+    "Album": "White Trails (Expanded)",
+    "Duration": "4:15",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27338da9fe40c158965ee7183cd",
+    "Popularity": 77,
+    "ReleaseDate": "1979-01-01",
+    "Genre": null
   },
   {
     "SongID": 802525,
@@ -834,6 +861,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
     "Popularity": 74,
     "ReleaseDate": "2025-05-16",
+    "Genre": null
+  },
+  {
+    "SongID": 1164922,
+    "Album": "Sweet Boy",
+    "Duration": "3:00",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+    "Popularity": 86,
+    "ReleaseDate": "2024-04-05",
     "Genre": null
   },
   {
@@ -936,6 +972,15 @@
     "Genre": null
   },
   {
+    "SongID": 1238335,
+    "Album": "Thriller",
+    "Duration": "4:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+    "Popularity": 86,
+    "ReleaseDate": "1982-11-30",
+    "Genre": null
+  },
+  {
     "SongID": 1238473,
     "Album": "Toto IV",
     "Duration": "04:55",
@@ -1008,15 +1053,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1245708,
-    "Album": "Cosa Nuestra",
-    "Duration": "03:11",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856",
-    "Popularity": 86,
-    "ReleaseDate": "2024-11-15",
-    "Genre": "reggaeton, urbano latino, trap latino, latin"
-  },
-  {
     "SongID": 1247693,
     "Album": "The Life of a Showgirl",
     "Duration": "03:28",
@@ -1078,15 +1114,6 @@
     "Popularity": 91,
     "ReleaseDate": "2024-09-26",
     "Genre": ""
-  },
-  {
-    "SongID": 1272633,
-    "Album": "Ruby",
-    "Duration": "2:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
-    "Popularity": 89,
-    "ReleaseDate": "2025-03-07",
-    "Genre": null
   },
   {
     "SongID": 1272635,
@@ -1186,15 +1213,6 @@
     "Popularity": 96,
     "ReleaseDate": "2025-08-15",
     "Genre": "pop soul"
-  },
-  {
-    "SongID": 1272670,
-    "Album": "Man’s Best Friend",
-    "Duration": "2:40",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
-    "Popularity": 88,
-    "ReleaseDate": "2025-08-29",
-    "Genre": null
   },
   {
     "SongID": 1272672,
@@ -1325,11 +1343,11 @@
   {
     "SongID": 1272899,
     "Album": "Midnight Sun",
-    "Duration": "03:09",
+    "Duration": "3:09",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27339905bfc6729b13ec7a7fead",
-    "Popularity": 75,
+    "Popularity": 84,
     "ReleaseDate": "2025-06-13",
-    "Genre": ""
+    "Genre": null
   },
   {
     "SongID": 1272927,
@@ -1356,6 +1374,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
     "Popularity": 88,
     "ReleaseDate": "2025-05-16",
+    "Genre": null
+  },
+  {
+    "SongID": 1273307,
+    "Album": "Jungle Rules",
+    "Duration": "3:53",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738a31195a371b2233456f6c07",
+    "Popularity": 89,
+    "ReleaseDate": "2017-07-14",
     "Genre": null
   },
   {
@@ -1494,15 +1521,6 @@
     "Genre": null
   },
   {
-    "SongID": 1289669,
-    "Album": "Kiss All The Time. Disco, Occasionally.",
-    "Duration": "5:11",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
-    "Popularity": 88,
-    "ReleaseDate": "2026-03-06",
-    "Genre": null
-  },
-  {
     "SongID": 1289869,
     "Album": "iloveitiloveitiloveit",
     "Duration": "03:03",
@@ -1593,6 +1611,15 @@
     "Genre": "corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño, sierreño, banda"
   },
   {
+    "SongID": 1292803,
+    "Album": "MALA MÍA",
+    "Duration": "04:01",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27304874856f3c501181d060128",
+    "Popularity": 89,
+    "ReleaseDate": "2024-12-19",
+    "Genre": "corrido, corridos tumbados, corridos bélicos, sierreño, música mexicana, banda, sad sierreño, electro corridos"
+  },
+  {
     "SongID": 1292912,
     "Album": "Be By You",
     "Duration": "3:17",
@@ -1669,7 +1696,7 @@
     "Album": "Cuando No Era Cantante (Remix)",
     "Duration": "5:27",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27376ca2bb969e79a911090df63",
-    "Popularity": 90,
+    "Popularity": 89,
     "ReleaseDate": "2025-12-10",
     "Genre": null
   },
@@ -1890,15 +1917,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274803681,
-    "Album": "DINASTÍA (DELUXE)",
-    "Duration": "2:41",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738ff0dc6e03af2b4b83e9e274",
-    "Popularity": 85,
-    "ReleaseDate": "2026-02-26",
-    "Genre": null
-  },
-  {
     "SongID": 1274803769,
     "Album": "FDO",
     "Duration": "5:19",
@@ -1932,6 +1950,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b7129146f87f5f22b8154bee",
     "Popularity": 74,
     "ReleaseDate": "2026-03-11",
+    "Genre": null
+  },
+  {
+    "SongID": 1274807039,
+    "Album": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+    "Duration": "2:47",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e43a5a0d757a4f6fc0f19069",
+    "Popularity": 80,
+    "ReleaseDate": "2026-03-27",
     "Genre": null
   },
   {
@@ -1971,6 +1998,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274814803,
+    "Album": "SWAG II",
+    "Duration": "3:31",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a958d093e94944dd0e7258b2",
+    "Popularity": 74,
+    "ReleaseDate": "2025-09-05",
+    "Genre": null
+  },
+  {
     "SongID": 1274816123,
     "Album": "Dandelion",
     "Duration": "3:19",
@@ -1998,60 +2034,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274816126,
-    "Album": "Dandelion",
-    "Duration": "2:21",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
-    "Popularity": 64,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816127,
-    "Album": "Dandelion",
-    "Duration": "3:23",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
-    "Popularity": 64,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816128,
-    "Album": "Dandelion",
-    "Duration": "3:31",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
-    "Popularity": 64,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816129,
-    "Album": "Dandelion",
-    "Duration": "3:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
-    "Popularity": 66,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816130,
-    "Album": "Dandelion",
-    "Duration": "3:27",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
-    "Popularity": 64,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816131,
-    "Album": "Dandelion",
-    "Duration": "4:23",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
-    "Popularity": 65,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
     "SongID": 1274816132,
     "Album": "Dandelion",
     "Duration": "3:06",
@@ -2067,6 +2049,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
     "Popularity": 66,
     "ReleaseDate": "2026-04-10",
+    "Genre": null
+  },
+  {
+    "SongID": 1274816203,
+    "Album": "stardust",
+    "Duration": "2:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b1dca715942a5394f43b256e",
+    "Popularity": 74,
+    "ReleaseDate": "2026-02-04",
     "Genre": null
   },
   {
@@ -2091,8 +2082,8 @@
     "SongID": 1274816475,
     "Album": "RUNWAY",
     "Duration": "2:51",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735024578acf565bcb96bfcf04",
-    "Popularity": 78,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273848b466bd71bcaa46cb20030",
+    "Popularity": 84,
     "ReleaseDate": "2026-04-10",
     "Genre": null
   },
@@ -2124,6 +2115,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274819671,
+    "Album": "FERRARI",
+    "Duration": "2:14",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e77d3253aab699be45f2d2e9",
+    "Popularity": 77,
+    "ReleaseDate": "2026-04-15",
+    "Genre": null
+  },
+  {
     "SongID": 1274819986,
     "Album": "Jamaican (Bam Bam)",
     "Duration": "2:36",
@@ -2142,12 +2142,39 @@
     "Genre": null
   },
   {
-    "SongID": 1274820550,
-    "Album": "Caligo Pt.2",
-    "Duration": "2:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273437229303d7b43cf30d06718",
-    "Popularity": 41,
-    "ReleaseDate": "2026-04-13",
+    "SongID": 1274820113,
+    "Album": "My World",
+    "Duration": "3:49",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737c3bb9f74a98f60bdda6c9a7",
+    "Popularity": 80,
+    "ReleaseDate": "2009-01-01",
+    "Genre": null
+  },
+  {
+    "SongID": 1274820114,
+    "Album": "My World",
+    "Duration": "3:35",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737c3bb9f74a98f60bdda6c9a7",
+    "Popularity": 82,
+    "ReleaseDate": "2009-01-01",
+    "Genre": null
+  },
+  {
+    "SongID": 1274820501,
+    "Album": "drop dead",
+    "Duration": "3:44",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c25b53f0a34aa1bb4f77cb3e",
+    "Popularity": 0,
+    "ReleaseDate": "2026-04-17",
+    "Genre": null
+  },
+  {
+    "SongID": 1274823351,
+    "Album": "I Want You",
+    "Duration": "3:10",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273992b41b178c83a9333268b62",
+    "Popularity": 65,
+    "ReleaseDate": "2026-04-17",
     "Genre": null
   },
   {
@@ -2157,6 +2184,33 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d68bb10e9180bf94e9cb661e",
     "Popularity": 66,
     "ReleaseDate": "2026-02-27",
+    "Genre": null
+  },
+  {
+    "SongID": 1274824581,
+    "Album": "My Way",
+    "Duration": "4:02",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27310826dcb26320c49a6cb71b6",
+    "Popularity": 64,
+    "ReleaseDate": "2026-04-17",
+    "Genre": null
+  },
+  {
+    "SongID": 1274827296,
+    "Album": "Potential",
+    "Duration": "4:02",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273268a4941736e3d24630266e9",
+    "Popularity": 83,
+    "ReleaseDate": "2026-04-16",
+    "Genre": null
+  },
+  {
+    "SongID": 1274829052,
+    "Album": "Empty Words",
+    "Duration": "2:32",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27314f7271bd293388661c55dcb",
+    "Popularity": 73,
+    "ReleaseDate": "2026-02-20",
     "Genre": null
   }
 ]
