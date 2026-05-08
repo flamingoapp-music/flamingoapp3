@@ -171,6 +171,15 @@
     "Genre": "electronica argentina, latin alternative, latin rock, pop electronico, rock en espanol"
   },
   {
+    "SongID": 12521,
+    "Album": "A Bar Song (Tipsy)",
+    "Duration": "02:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2",
+    "Popularity": 96,
+    "ReleaseDate": "2024-04-12",
+    "Genre": "pop rap"
+  },
+  {
     "SongID": 13371,
     "Album": "El Club de la Pelea I",
     "Duration": "04:59",
@@ -189,24 +198,6 @@
     "Genre": "c-pop, mandopop, taiwan pop, zhongguo feng"
   },
   {
-    "SongID": 18801,
-    "Album": "Vete",
-    "Duration": "03:09",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731105df95c28ca728e374074e",
-    "Popularity": 62,
-    "ReleaseDate": "2023-08-17",
-    "Genre": "colombian pop, musica popular colombiana"
-  },
-  {
-    "SongID": 18863,
-    "Album": "El Comienzo",
-    "Duration": "02:45",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27382ce4c7bbf861185252e82ae",
-    "Popularity": 84,
-    "ReleaseDate": "2023-08-25",
-    "Genre": "musica chihuahuense"
-  },
-  {
     "SongID": 19918,
     "Album": "Born In The Echoes",
     "Duration": "04:20",
@@ -216,13 +207,22 @@
     "Genre": "alternative dance, big beat, breakbeat, electronica, rave, trip hop"
   },
   {
-    "SongID": 31714,
-    "Album": "Iš Lėto Leidžiasi Saulė",
-    "Duration": "02:41",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737f1d0a650aaa66e0bee33e12",
-    "Popularity": 54,
-    "ReleaseDate": "2023-06-23",
-    "Genre": "lithuanian edm, lithuanian pop"
+    "SongID": 23767,
+    "Album": "Bạn Đời",
+    "Duration": "05:00",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737d405a233dff5392665e5a61",
+    "Popularity": 58,
+    "ReleaseDate": "2023-10-04",
+    "Genre": "v-pop, vietnamese hip hop"
+  },
+  {
+    "SongID": 26553,
+    "Album": "Brick na brick",
+    "Duration": "02:53",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c7c6a28cca1a8dc6c8041c47",
+    "Popularity": 59,
+    "ReleaseDate": "2023-09-06",
+    "Genre": "czech hip hop, czsk hip hop"
   },
   {
     "SongID": 37612,
@@ -232,15 +232,6 @@
     "Popularity": 79,
     "ReleaseDate": "2024-04-11",
     "Genre": "anime rock, j-pop, j-rock"
-  },
-  {
-    "SongID": 53303,
-    "Album": "Vidēji Glīts",
-    "Duration": "02:53",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27363001a4ba930ebfe4b0bce10",
-    "Popularity": 42,
-    "ReleaseDate": "2022-05-26",
-    "Genre": "latvian pop"
   },
   {
     "SongID": 108650,
@@ -351,15 +342,6 @@
     "Genre": "polish viral pop"
   },
   {
-    "SongID": 187351,
-    "Album": "All Of You",
-    "Duration": "04:34",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d6aea053edd7e3d555018e5c",
-    "Popularity": 49,
-    "ReleaseDate": "1990-05-15",
-    "Genre": "new jack smooth, new jack swing"
-  },
-  {
     "SongID": 197542,
     "Album": "Enemigos",
     "Duration": "03:16",
@@ -367,24 +349,6 @@
     "Popularity": 45,
     "ReleaseDate": "2023-05-31",
     "Genre": "cumbia pop"
-  },
-  {
-    "SongID": 198399,
-    "Album": "No Love",
-    "Duration": "03:08",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730082080c9c2010039fdc8700",
-    "Popularity": 66,
-    "ReleaseDate": "2023-01-20",
-    "Genre": ""
-  },
-  {
-    "SongID": 205070,
-    "Album": "CAVALINHO",
-    "Duration": "02:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27305b5217b67f8a2aa672d99eb",
-    "Popularity": 69,
-    "ReleaseDate": "2024-01-25",
-    "Genre": "funk carioca, funk rj"
   },
   {
     "SongID": 213302,
@@ -432,15 +396,6 @@
     "Genre": "rap maroc"
   },
   {
-    "SongID": 242159,
-    "Album": "Puul",
-    "Duration": "02:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731ef3b342bc1fca0105e12b11",
-    "Popularity": 56,
-    "ReleaseDate": "2024-02-13",
-    "Genre": "ghanaian pop"
-  },
-  {
     "SongID": 242926,
     "Album": "Superhelten Bjørnis",
     "Duration": "03:26",
@@ -477,15 +432,6 @@
     "Genre": "v-pop"
   },
   {
-    "SongID": 314922,
-    "Album": "Seasons of Sartaaj",
-    "Duration": "05:42",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27333dfd8d5678bed894b8a30e7",
-    "Popularity": 60,
-    "ReleaseDate": "2018-11-29",
-    "Genre": "punjabi pop, sufi"
-  },
-  {
     "SongID": 501280,
     "Album": "Die With A Smile",
     "Duration": "04:11",
@@ -495,22 +441,22 @@
     "Genre": "art pop, dance pop, pop"
   },
   {
-    "SongID": 502364,
-    "Album": "Lūpų Saldumo",
-    "Duration": "02:59",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739d211c9018286544b928a6a6",
-    "Popularity": 46,
-    "ReleaseDate": "2024-07-19",
-    "Genre": "lithuanian pop"
+    "SongID": 502232,
+    "Album": "Per due come noi",
+    "Duration": "03:32",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273417f9f3cff9f6d139a092ded",
+    "Popularity": 64,
+    "ReleaseDate": "2024-09-06",
+    "Genre": "italian pop, pop virale italiano, rap genovese"
   },
   {
-    "SongID": 502378,
-    "Album": "Saule Aust",
-    "Duration": "02:31",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737c7f09a79dff24303e1991d6",
-    "Popularity": 46,
-    "ReleaseDate": "2024-07-29",
-    "Genre": "latvian hip hop"
+    "SongID": 504962,
+    "Album": "OBSESIF",
+    "Duration": "02:52",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738f9028a4726d40fb8c8e0b44",
+    "Popularity": 64,
+    "ReleaseDate": "2024-09-13",
+    "Genre": "turkce drill"
   },
   {
     "SongID": 532271,
@@ -531,13 +477,22 @@
     "Genre": ""
   },
   {
-    "SongID": 537451,
-    "Album": "Debut",
-    "Duration": "02:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ae7a2d2a713dccb83c86b263",
-    "Popularity": 75,
-    "ReleaseDate": "2024-06-28",
-    "Genre": "5th gen k-pop"
+    "SongID": 532777,
+    "Album": "Toma Essa Verdade (Ao Vivo)",
+    "Duration": "2:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730d5f00c853be5debb5eba851",
+    "Popularity": 81,
+    "ReleaseDate": "2024-08-09",
+    "Genre": null
+  },
+  {
+    "SongID": 535821,
+    "Album": "Koleksi Lagu Lagu Terbaik",
+    "Duration": "04:37",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27389bc3d2926d8903688d805dd",
+    "Popularity": 58,
+    "ReleaseDate": "2014-07-24",
+    "Genre": "rock kapak"
   },
   {
     "SongID": 537502,
@@ -558,15 +513,6 @@
     "Genre": ""
   },
   {
-    "SongID": 538907,
-    "Album": "No Hay Problema",
-    "Duration": "02:57",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738430098e50c36b23ce347188",
-    "Popularity": 46,
-    "ReleaseDate": "2008-08-29",
-    "Genre": ""
-  },
-  {
     "SongID": 539122,
     "Album": "Amar Pela Metade / Aimer À Moitié",
     "Duration": "03:06",
@@ -574,6 +520,15 @@
     "Popularity": 54,
     "ReleaseDate": "2024-09-20",
     "Genre": "musica santomense, portuguese pop"
+  },
+  {
+    "SongID": 539197,
+    "Album": "Баяғыдай",
+    "Duration": "03:21",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733a77ca42c562e962f51084ce",
+    "Popularity": 41,
+    "ReleaseDate": "2024-06-19",
+    "Genre": "kazakh pop"
   },
   {
     "SongID": 539661,
@@ -765,15 +720,6 @@
     "Genre": "shatta, soca, kompa, zouk"
   },
   {
-    "SongID": 779151,
-    "Album": "Dalev",
-    "Duration": "02:30",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27366f3eb6a83dd8c25128ccf72",
-    "Popularity": 29,
-    "ReleaseDate": "2025-08-10",
-    "Genre": ""
-  },
-  {
     "SongID": 779156,
     "Album": "Ice Cold Michelada",
     "Duration": "02:23",
@@ -817,15 +763,6 @@
     "Popularity": 78,
     "ReleaseDate": "2016-10-14",
     "Genre": null
-  },
-  {
-    "SongID": 801071,
-    "Album": "Corpo Nu (Ao Vivo)",
-    "Duration": "03:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eba409657c9ae5d8e1c821d6",
-    "Popularity": 60,
-    "ReleaseDate": "2026-03-12",
-    "Genre": "sertanejo, sertanejo universitário"
   },
   {
     "SongID": 801143,
@@ -888,6 +825,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273419ba9b3ce79a0d64722ad90",
     "Popularity": 54,
     "ReleaseDate": "2026-02-25",
+    "Genre": ""
+  },
+  {
+    "SongID": 801744,
+    "Album": "Blink Til Mig",
+    "Duration": "03:24",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a03553f577ef5bf474958477",
+    "Popularity": 47,
+    "ReleaseDate": "2026-02-13",
     "Genre": ""
   },
   {
@@ -960,6 +906,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bdf887604f469f74779299d6",
     "Popularity": 53,
     "ReleaseDate": "2026-03-17",
+    "Genre": ""
+  },
+  {
+    "SongID": 802969,
+    "Album": "TAKE YOUR TIME",
+    "Duration": "02:21",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f2c12b0c0e3a2e4543be499b",
+    "Popularity": 35,
+    "ReleaseDate": "2026-03-03",
     "Genre": ""
   },
   {
@@ -1179,13 +1134,13 @@
     "Genre": "cumbia, cuarteto"
   },
   {
-    "SongID": 974673,
-    "Album": "Apotheosis",
-    "Duration": "12:06",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a83515097b3003d3dab0c51f",
-    "Popularity": 1,
-    "ReleaseDate": "2024-06-24",
-    "Genre": ""
+    "SongID": 974310,
+    "Album": "Lord I'm Amazed",
+    "Duration": "02:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27330eda9fa617ac94fed4fdc35",
+    "Popularity": 60,
+    "ReleaseDate": "2025-01-14",
+    "Genre": "asakaa, hiplife, afrobeats, afrobeat, afropop, afroswing"
   },
   {
     "SongID": 975145,
@@ -1584,13 +1539,13 @@
     "Genre": "amapiano, private school piano, 3 step, gqom"
   },
   {
-    "SongID": 1227415,
-    "Album": "Yerinde Dur",
-    "Duration": "02:28",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fa5c2988b56c8405129b8d9a",
-    "Popularity": 73,
+    "SongID": 1227419,
+    "Album": "Bir Çift Göz",
+    "Duration": "03:27",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273797411dbb298590123b7d7b6",
+    "Popularity": 64,
     "ReleaseDate": "2025-06-27",
-    "Genre": "turkish hip hop, turkish pop"
+    "Genre": "turkish hip hop"
   },
   {
     "SongID": 1227535,
@@ -1701,15 +1656,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1228477,
-    "Album": "ダーリン",
-    "Duration": "04:40",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e4f0c38eb31799e13fe2adaa",
-    "Popularity": 78,
-    "ReleaseDate": "2025-01-19",
-    "Genre": "j-pop, anime, j-rock"
-  },
-  {
     "SongID": 1228565,
     "Album": "London Calling (Remastered)",
     "Duration": "03:20",
@@ -1717,6 +1663,15 @@
     "Popularity": 73,
     "ReleaseDate": "1979",
     "Genre": "punk"
+  },
+  {
+    "SongID": 1228694,
+    "Album": "XWRA TOU POTE",
+    "Duration": "02:34",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730471ea9139c3181fee0bd25c",
+    "Popularity": 49,
+    "ReleaseDate": "2025-07-01",
+    "Genre": "laïko"
   },
   {
     "SongID": 1228729,
@@ -1762,15 +1717,6 @@
     "Popularity": 49,
     "ReleaseDate": "2025-07-10",
     "Genre": "taiwanese pop"
-  },
-  {
-    "SongID": 1231067,
-    "Album": "Chiquilla Bonita",
-    "Duration": "04:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731d99ac70646daae75c4c03a6",
-    "Popularity": 27,
-    "ReleaseDate": "2025-06-17",
-    "Genre": "bachata"
   },
   {
     "SongID": 1231765,
@@ -2007,6 +1953,15 @@
     "Genre": "southern thai music, luk thung"
   },
   {
+    "SongID": 1245664,
+    "Album": "La Casa De La Cumbia vol.1",
+    "Duration": "03:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732ebfc87b2a923a16c3fc9dc5",
+    "Popularity": 45,
+    "ReleaseDate": "2025-09-18",
+    "Genre": "cumbia, rkt, cuarteto, turreo"
+  },
+  {
     "SongID": 1245669,
     "Album": "uValo (feat. Dlala Thukzin)",
     "Duration": "06:08",
@@ -2097,6 +2052,15 @@
     "Genre": "k-pop"
   },
   {
+    "SongID": 1250155,
+    "Album": "TIME CAPSULE",
+    "Duration": "04:12",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27342f191e863eb9f2c9325a6e6",
+    "Popularity": 50,
+    "ReleaseDate": "2025-10-16",
+    "Genre": "k-ballad, soundtrack, k-pop"
+  },
+  {
     "SongID": 1250159,
     "Album": "Čempionai",
     "Duration": "03:30",
@@ -2131,6 +2095,15 @@
     "Popularity": 69,
     "ReleaseDate": "2025-02-14",
     "Genre": "opm, pinoy indie, harana"
+  },
+  {
+    "SongID": 1250232,
+    "Album": "Plan B",
+    "Duration": "03:12",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735f02116d55c94a08808ce2e8",
+    "Popularity": 66,
+    "ReleaseDate": "2025-10-17",
+    "Genre": ""
   },
   {
     "SongID": 1250298,
@@ -2266,15 +2239,6 @@
     "Popularity": 39,
     "ReleaseDate": "2024-04-15",
     "Genre": "huayno, cumbia, chicha, tropical music"
-  },
-  {
-    "SongID": 1269462,
-    "Album": "Perdóname",
-    "Duration": "4:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736d9bcccc95b3f44a1d6f77c4",
-    "Popularity": 69,
-    "ReleaseDate": "2009-03-16",
-    "Genre": null
   },
   {
     "SongID": 1269971,
@@ -2419,6 +2383,15 @@
     "Popularity": 75,
     "ReleaseDate": "2025-04-24",
     "Genre": null
+  },
+  {
+    "SongID": 1272738,
+    "Album": "BORONDO",
+    "Duration": "02:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732feb67a486bcf117e7fb15b0",
+    "Popularity": 88,
+    "ReleaseDate": "2025-05-15",
+    "Genre": "latin afrobeats, reggaeton, pop urbano"
   },
   {
     "SongID": 1272739,
@@ -2601,15 +2574,6 @@
     "Genre": "latin afrobeats, reggaeton, pop urbano"
   },
   {
-    "SongID": 1273056,
-    "Album": "Insuperable",
-    "Duration": "02:51",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a70488265af31c1b980ea13c",
-    "Popularity": 55,
-    "ReleaseDate": "2025-07-08",
-    "Genre": "ranchera, cumbia norteña"
-  },
-  {
     "SongID": 1273057,
     "Album": "La revancha",
     "Duration": "03:08",
@@ -2619,13 +2583,13 @@
     "Genre": "chicha, cumbia"
   },
   {
-    "SongID": 1273137,
-    "Album": "Eu Me Apaixonei",
-    "Duration": "03:25",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273781def2b7594a2cd1bf123b7",
-    "Popularity": 85,
-    "ReleaseDate": "2025-02-27",
-    "Genre": "piseiro, forró, arrocha, seresta, sertanejo, brega"
+    "SongID": 1273084,
+    "Album": "Tubarões (Ao Vivo)",
+    "Duration": "02:42",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27319253d686d90dda9f8da689f",
+    "Popularity": 82,
+    "ReleaseDate": "2025-02-13",
+    "Genre": "sertanejo, sertanejo universitário, arrocha, agronejo, piseiro"
   },
   {
     "SongID": 1273142,
@@ -2718,15 +2682,6 @@
     "Genre": null
   },
   {
-    "SongID": 1273559,
-    "Album": "Kogeplade",
-    "Duration": "02:36",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730874d87142ec8d9e4466febc",
-    "Popularity": 61,
-    "ReleaseDate": "2025-05-16",
-    "Genre": "dansk pop"
-  },
-  {
     "SongID": 1273578,
     "Album": "Vil du noget?",
     "Duration": "3:05",
@@ -2745,15 +2700,6 @@
     "Genre": null
   },
   {
-    "SongID": 1273675,
-    "Album": "parasiit",
-    "Duration": "03:22",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e6df02d178653e73cee74197",
-    "Popularity": 46,
-    "ReleaseDate": "2025-05-23",
-    "Genre": ""
-  },
-  {
     "SongID": 1273678,
     "Album": "SUPERSUURE HOOLEGA.",
     "Duration": "02:59",
@@ -2769,6 +2715,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730dca6e2f45ab7d14ed2b6cbb",
     "Popularity": 45,
     "ReleaseDate": "2025-09-24",
+    "Genre": ""
+  },
+  {
+    "SongID": 1273685,
+    "Album": "Helesinises taevas on triibud",
+    "Duration": "02:42",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736b8f3e7374f5db059988f290",
+    "Popularity": 42,
+    "ReleaseDate": "2025-07-18",
     "Genre": ""
   },
   {
@@ -2835,15 +2790,6 @@
     "Genre": "mahraganat, egyptian pop, egyptian shaabi, khaleeji"
   },
   {
-    "SongID": 1273790,
-    "Album": "كله قالي اشمعنا هو",
-    "Duration": "02:54",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736fe73a476f1b3d1637258b37",
-    "Popularity": 65,
-    "ReleaseDate": "2025-08-31",
-    "Genre": "egyptian pop, mahraganat"
-  },
-  {
     "SongID": 1273839,
     "Album": "CUARTO AZUL",
     "Duration": "03:03",
@@ -2869,6 +2815,15 @@
     "Popularity": 53,
     "ReleaseDate": "2025-03-20",
     "Genre": null
+  },
+  {
+    "SongID": 1273902,
+    "Album": "10 000 tuntii",
+    "Duration": "02:15",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736b90699aefc5cd24b192cf8e",
+    "Popularity": 53,
+    "ReleaseDate": "2025-03-14",
+    "Genre": "finnish pop, iskelmä, finnish hip hop"
   },
   {
     "SongID": 1273933,
@@ -2913,15 +2868,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a2e90fbdec84b25e46573469",
     "Popularity": 85,
     "ReleaseDate": "2025-05-02",
-    "Genre": null
-  },
-  {
-    "SongID": 1274227,
-    "Album": "POR SUS BESOS",
-    "Duration": "3:06",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730072b075cd6ba3f7d6944c62",
-    "Popularity": 88,
-    "ReleaseDate": "2025-07-11",
     "Genre": null
   },
   {
@@ -2986,6 +2932,15 @@
     "Popularity": 71,
     "ReleaseDate": "2025-10-08",
     "Genre": "indonesian pop, indonesian indie"
+  },
+  {
+    "SongID": 1274627,
+    "Album": "TUTTA VITA (SEMPRE)",
+    "Duration": "03:17",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
+    "Popularity": 70,
+    "ReleaseDate": "2025-09-26",
+    "Genre": ""
   },
   {
     "SongID": 1274658,
@@ -3132,24 +3087,6 @@
     "Genre": "t-pop, thai pop, luk thung"
   },
   {
-    "SongID": 1279524,
-    "Album": "Halo tu Londyn",
-    "Duration": "02:59",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27316427cf79f12e02b11166e08",
-    "Popularity": 50,
-    "ReleaseDate": "2025-11-20",
-    "Genre": "disco polo, disco"
-  },
-  {
-    "SongID": 1280337,
-    "Album": "Aladam",
-    "Duration": "02:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735ea38d0f9c02008452d1f0b6",
-    "Popularity": 0,
-    "ReleaseDate": "2025-12-13",
-    "Genre": "manele"
-  },
-  {
     "SongID": 1281164,
     "Album": "Pažįstamas Jausmas",
     "Duration": "02:39",
@@ -3285,13 +3222,13 @@
     "Genre": "indonesian pop, lagu timur"
   },
   {
-    "SongID": 1286722,
-    "Album": "Cuidado Que Te Supero",
-    "Duration": "02:48",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273165a2277ea5959b5f325cce8",
-    "Popularity": 68,
-    "ReleaseDate": "2024-01-20",
-    "Genre": "cuarteto, cumbia"
+    "SongID": 1286845,
+    "Album": "Napoleon",
+    "Duration": "03:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27359ea06af85cc3d3ec799013a",
+    "Popularity": 50,
+    "ReleaseDate": "2025-10-24",
+    "Genre": ""
   },
   {
     "SongID": 1287433,
@@ -3384,13 +3321,13 @@
     "Genre": "vallenato"
   },
   {
-    "SongID": 1287629,
-    "Album": "SNOKONOKO",
-    "Duration": "06:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732ed23aa19b4ba07ecc398d67",
-    "Popularity": 76,
-    "ReleaseDate": "2025-11-28",
-    "Genre": "amapiano, gqom, 3 step, afropiano"
+    "SongID": 1287591,
+    "Album": "Kontra Paidi",
+    "Duration": "02:41",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738fda07ff2a2e65a66ebbe710",
+    "Popularity": 56,
+    "ReleaseDate": "2025-03-31",
+    "Genre": "laïko"
   },
   {
     "SongID": 1287633,
@@ -3409,6 +3346,15 @@
     "Popularity": 51,
     "ReleaseDate": "2025-12-11",
     "Genre": "disco polo"
+  },
+  {
+    "SongID": 1287664,
+    "Album": "Pa Que Escondernos",
+    "Duration": "03:05",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d46cff848ef964d07d4a5cb8",
+    "Popularity": 55,
+    "ReleaseDate": "2025-11-28",
+    "Genre": "candombe, cumbia"
   },
   {
     "SongID": 1288224,
@@ -3490,15 +3436,6 @@
     "Popularity": 74,
     "ReleaseDate": "2024-09-13",
     "Genre": "french rap, french r&b, french pop, pop urbaine"
-  },
-  {
-    "SongID": 1289711,
-    "Album": "Fora do Padrão Vol. 02 (Ao Vivo)",
-    "Duration": "02:51",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737559e49bad8d60cbeb1ff13c",
-    "Popularity": 67,
-    "ReleaseDate": "2026-01-15",
-    "Genre": "sertanejo, sertanejo universitário"
   },
   {
     "SongID": 1289800,
@@ -3699,15 +3636,6 @@
     "Genre": "epadunk"
   },
   {
-    "SongID": 1291564,
-    "Album": "Sunday Service(Healing Souls) P1",
-    "Duration": "05:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27338319a74cefd60f2fbe13b6d",
-    "Popularity": 42,
-    "ReleaseDate": "2026-02-01",
-    "Genre": "private school piano, deep house, 3 step"
-  },
-  {
     "SongID": 1291601,
     "Album": "Cuando No Era Cantante (Remix)",
     "Duration": "05:27",
@@ -3796,6 +3724,15 @@
     "Popularity": 85,
     "ReleaseDate": "2024-05-24",
     "Genre": "corrido, banda, sierreño, corridos bélicos, norteño, sad sierreño, corridos tumbados"
+  },
+  {
+    "SongID": 1292814,
+    "Album": "Gangstar",
+    "Duration": "04:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737f5fde952333844b9e683bcd",
+    "Popularity": 61,
+    "ReleaseDate": "2026-02-06",
+    "Genre": "trap funk, brazilian trap, brazilian funk, trap"
   },
   {
     "SongID": 1292815,
@@ -4176,6 +4113,15 @@
     "Genre": "disco polo"
   },
   {
+    "SongID": 1295405,
+    "Album": "TRECI PESTE",
+    "Duration": "02:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27318a0290118248f1c9b26c2cb",
+    "Popularity": 36,
+    "ReleaseDate": "2026-02-14",
+    "Genre": "manele"
+  },
+  {
     "SongID": 1295457,
     "Album": "חלק מהנצח",
     "Duration": "03:30",
@@ -4320,15 +4266,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1274797460,
-    "Album": "Nem Pagando",
-    "Duration": "02:22",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eb54fbe81238f37e986477f1",
-    "Popularity": 59,
-    "ReleaseDate": "2026-02-26",
-    "Genre": "sertanejo, sertanejo universitário"
-  },
-  {
     "SongID": 1274797588,
     "Album": "Dichavate",
     "Duration": "04:06",
@@ -4372,6 +4309,15 @@
     "Popularity": 41,
     "ReleaseDate": "2025-08-29",
     "Genre": "neoclassical"
+  },
+  {
+    "SongID": 1274798377,
+    "Album": "BE:FIRST ALL DAY",
+    "Duration": "02:35",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27392e7621e032215dc6e6908e7",
+    "Popularity": 52,
+    "ReleaseDate": "2026-03-16",
+    "Genre": "j-pop"
   },
   {
     "SongID": 1274798387,
@@ -4518,15 +4464,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274798921,
-    "Album": "Vakadua Tale Mada",
-    "Duration": "4:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c1f761cbfac4509efffab553",
-    "Popularity": 6,
-    "ReleaseDate": "2025-09-05",
-    "Genre": null
-  },
-  {
     "SongID": 1274798942,
     "Album": "NAWLE",
     "Duration": "3:13",
@@ -4560,15 +4497,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735975525cbe7a74bc7d3bd479",
     "Popularity": 34,
     "ReleaseDate": "2025-12-05",
-    "Genre": null
-  },
-  {
-    "SongID": 1274799062,
-    "Album": "Lcnum Enq Bajaknere",
-    "Duration": "3:34",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27371b7989bad009e5e7bbb777a",
-    "Popularity": 35,
-    "ReleaseDate": "2026-01-23",
     "Genre": null
   },
   {
@@ -4770,15 +4698,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274799549,
-    "Album": "ARIRANG",
-    "Duration": "2:49",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-    "Popularity": 95,
-    "ReleaseDate": "2026-03-20",
-    "Genre": null
-  },
-  {
     "SongID": 1274799562,
     "Album": "ARIRANG",
     "Duration": "2:39",
@@ -4794,6 +4713,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733af7d455c6566a74677a88ff",
     "Popularity": 33,
     "ReleaseDate": "2026-02-18",
+    "Genre": null
+  },
+  {
+    "SongID": 1274799655,
+    "Album": "Ko Dodomo Li",
+    "Duration": "6:08",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ea4956c37741aea5a047de2b",
+    "Popularity": 19,
+    "ReleaseDate": "2025-01-17",
     "Genre": null
   },
   {
@@ -4833,12 +4761,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274799755,
-    "Album": "El Mejor",
-    "Duration": "3:31",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27322ece970a527b9aaf6dac9e6",
-    "Popularity": 60,
-    "ReleaseDate": "2023-10-27",
+    "SongID": 1274799759,
+    "Album": "عمري حسني عوني",
+    "Duration": "5:52",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732b01807be7ed7fa287e3f560",
+    "Popularity": 37,
+    "ReleaseDate": "2025-06-26",
     "Genre": null
   },
   {
@@ -4875,15 +4803,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730d6201147e85b10065a60ebd",
     "Popularity": 33,
     "ReleaseDate": "2026-02-19",
-    "Genre": null
-  },
-  {
-    "SongID": 1274799800,
-    "Album": "Doux Doux Darlin",
-    "Duration": "3:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e5d88e90132aaf58a1bebef4",
-    "Popularity": 49,
-    "ReleaseDate": "2025-11-12",
     "Genre": null
   },
   {
@@ -4948,15 +4867,6 @@
     "Popularity": 50,
     "ReleaseDate": "2026-01-18",
     "Genre": "singeli, bongo flava, bongo piano"
-  },
-  {
-    "SongID": 1274799993,
-    "Album": "Como Judas",
-    "Duration": "03:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733ad2e905d17627e9c59d1608",
-    "Popularity": 47,
-    "ReleaseDate": "2025-07-17",
-    "Genre": "popular colombian music, ranchera"
   },
   {
     "SongID": 1274799995,
@@ -5040,15 +4950,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274800188,
-    "Album": "SAYGA",
-    "Duration": "3:05",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737a77ee1dc3a9e6f9a255a8f6",
-    "Popularity": 56,
-    "ReleaseDate": "2025-04-10",
-    "Genre": null
-  },
-  {
     "SongID": 1274800189,
     "Album": "Smaht ou Mchit",
     "Duration": "3:39",
@@ -5074,15 +4975,6 @@
     "Popularity": 68,
     "ReleaseDate": "2026-03-13",
     "Genre": null
-  },
-  {
-    "SongID": 1274800227,
-    "Album": "Parfwa Vremem",
-    "Duration": "03:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273758afc55ed23646522868001",
-    "Popularity": 33,
-    "ReleaseDate": "2025-10-13",
-    "Genre": ""
   },
   {
     "SongID": 1274800253,
@@ -5118,15 +5010,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731d032d6cb10202afe2cce851",
     "Popularity": 43,
     "ReleaseDate": "2026-01-22",
-    "Genre": null
-  },
-  {
-    "SongID": 1274800320,
-    "Album": "Mo bebe sha",
-    "Duration": "2:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c7f045d8ed5851e40d7fe765",
-    "Popularity": 45,
-    "ReleaseDate": "2025-12-06",
     "Genre": null
   },
   {
@@ -5306,15 +5189,6 @@
     "Duration": "4:07",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27317af412678d4182db21f0b11",
     "Popularity": 44,
-    "ReleaseDate": "2026-03-23",
-    "Genre": null
-  },
-  {
-    "SongID": 1274800628,
-    "Album": "30 - חלק א'",
-    "Duration": "4:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27317af412678d4182db21f0b11",
-    "Popularity": 43,
     "ReleaseDate": "2026-03-23",
     "Genre": null
   },
@@ -5598,15 +5472,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274801295,
-    "Album": "Nha Preta",
-    "Duration": "3:56",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273928a0604a9c78f5053967add",
-    "Popularity": 42,
-    "ReleaseDate": "2025-11-28",
-    "Genre": null
-  },
-  {
     "SongID": 1274801321,
     "Album": "Jangan Paksa Rindu (Beda)",
     "Duration": "4:05",
@@ -5641,6 +5506,15 @@
     "Popularity": 44,
     "ReleaseDate": "2025-12-15",
     "Genre": null
+  },
+  {
+    "SongID": 1274801471,
+    "Album": "Éternelle",
+    "Duration": "03:52",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27395c3216bda7eb9c24e4d69bd",
+    "Popularity": 38,
+    "ReleaseDate": "2025-01-10",
+    "Genre": ""
   },
   {
     "SongID": 1274801472,
@@ -5913,24 +5787,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274802300,
-    "Album": "Poesie Clandestine",
-    "Duration": "3:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c3528a1f7556e36edb0b0cf8",
-    "Popularity": 77,
-    "ReleaseDate": "2026-02-25",
-    "Genre": null
-  },
-  {
-    "SongID": 1274802329,
-    "Album": "Continui sa te iubesc (Live)",
-    "Duration": "3:44",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ddd13705bdefd4dbff33b77f",
-    "Popularity": 27,
-    "ReleaseDate": "2026-03-21",
-    "Genre": null
-  },
-  {
     "SongID": 1274802347,
     "Album": "Охрана",
     "Duration": "3:33",
@@ -6066,30 +5922,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274802656,
-    "Album": "Başrol Sensin (1. Yıl Özel)",
-    "Duration": "3:13",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dc265a7dcb181e4e4296d0db",
-    "Popularity": 76,
-    "ReleaseDate": "2026-02-13",
-    "Genre": null
-  },
-  {
     "SongID": 1274802675,
     "Album": "Wji3a N3ich",
     "Duration": "3:16",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27322477605740061017061a132",
     "Popularity": 36,
     "ReleaseDate": "2025-07-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274802701,
-    "Album": "MVUA",
-    "Duration": "3:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273104a41c809d2f3ce6175432d",
-    "Popularity": 42,
-    "ReleaseDate": "2025-07-20",
     "Genre": null
   },
   {
@@ -6327,6 +6165,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274803258,
+    "Album": "Neger Neger",
+    "Duration": "5:16",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730eec74e8d56a48770f5d9553",
+    "Popularity": 33,
+    "ReleaseDate": "2025-08-23",
+    "Genre": null
+  },
+  {
     "SongID": 1274803294,
     "Album": "Ke Chea Nak Na",
     "Duration": "4:32",
@@ -6498,15 +6345,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274803638,
-    "Album": "Coeur à Coeur",
-    "Duration": "05:09",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bbd8fabffecf6a185a681551",
-    "Popularity": 47,
-    "ReleaseDate": "2020-06-13",
-    "Genre": "gospel"
-  },
-  {
     "SongID": 1274803663,
     "Album": "Fortuna",
     "Duration": "2:50",
@@ -6540,15 +6378,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738c56880ff62b76515fae1d1e",
     "Popularity": 42,
     "ReleaseDate": "2026-02-13",
-    "Genre": null
-  },
-  {
-    "SongID": 1274803766,
-    "Album": "Wooi",
-    "Duration": "4:34",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736b217bba67b595adce9b6b08",
-    "Popularity": 34,
-    "ReleaseDate": "2025-12-23",
     "Genre": null
   },
   {
@@ -6603,15 +6432,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735f68bb27086d33a9043496b9",
     "Popularity": 41,
     "ReleaseDate": "2025-04-18",
-    "Genre": null
-  },
-  {
-    "SongID": 1274803875,
-    "Album": "Qara Qaş Qara Göz",
-    "Duration": "3:13",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735b5b6789ae526ad651144032",
-    "Popularity": 33,
-    "ReleaseDate": "2025-04-16",
     "Genre": null
   },
   {
@@ -6696,15 +6516,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274804103,
-    "Album": "Рано призори",
-    "Duration": "3:20",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a6e58ca3b37105895bbf75ae",
-    "Popularity": 49,
-    "ReleaseDate": "2026-02-19",
-    "Genre": null
-  },
-  {
     "SongID": 1274804157,
     "Album": "Zoe",
     "Duration": "3:08",
@@ -6765,15 +6576,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27313831523e54a4ba73221bf23",
     "Popularity": 56,
     "ReleaseDate": "2024-05-06",
-    "Genre": null
-  },
-  {
-    "SongID": 1274804297,
-    "Album": "Oh Yeah",
-    "Duration": "1:31",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a5e176b898f88987a05a9a3a",
-    "Popularity": 49,
-    "ReleaseDate": "2026-01-20",
     "Genre": null
   },
   {
@@ -7000,6 +6802,15 @@
     "Popularity": 35,
     "ReleaseDate": "2025-09-19",
     "Genre": "dancehall, soca"
+  },
+  {
+    "SongID": 1274804920,
+    "Album": "Love Is A Kingdom",
+    "Duration": "03:54",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734522df9fc7103540be3e7950",
+    "Popularity": 72,
+    "ReleaseDate": "2025-11-21",
+    "Genre": "afrobeats, afro r&b, alté, afrobeat"
   },
   {
     "SongID": 1274804931,
@@ -7263,15 +7074,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274805355,
-    "Album": "Heart & Soul",
-    "Duration": "03:31",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f7c6b7b133b49c9f19cc646d",
-    "Popularity": 44,
-    "ReleaseDate": "2025-08-29",
-    "Genre": "dancehall, soca, riddim, ragga, reggae"
-  },
-  {
     "SongID": 1274805356,
     "Album": "Panic",
     "Duration": "2:06",
@@ -7387,15 +7189,6 @@
     "Popularity": 22,
     "ReleaseDate": "2025-10-27",
     "Genre": ""
-  },
-  {
-    "SongID": 1274805628,
-    "Album": "Inch by Inch",
-    "Duration": "03:09",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273da495e8355ae2ac15e27be45",
-    "Popularity": 54,
-    "ReleaseDate": "2025-11-11",
-    "Genre": "soca, dancehall, calypso"
   },
   {
     "SongID": 1274805639,
@@ -7623,15 +7416,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274805821,
-    "Album": "បើគេសួរអូន",
-    "Duration": "03:30",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730dea534d94786e4241a775d4",
-    "Popularity": 40,
-    "ReleaseDate": "2025-11-21",
-    "Genre": "thai hip hop"
-  },
-  {
     "SongID": 1274805823,
     "Album": "半熟理想",
     "Duration": "4:14",
@@ -7683,6 +7467,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27334b43bcd8df5c72cded6d2d2",
     "Popularity": 11,
     "ReleaseDate": "2026-03-11",
+    "Genre": null
+  },
+  {
+    "SongID": 1274805895,
+    "Album": "Deus de Obras Completas (Acústico)",
+    "Duration": "4:57",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27343ec8e3d7fcbb79b73b6576b",
+    "Popularity": 50,
+    "ReleaseDate": "2024-12-26",
     "Genre": null
   },
   {
@@ -7902,15 +7695,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274805966,
-    "Album": "Gacumbiri (Pale Kilele)",
-    "Duration": "8:11",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27383b109d06e7fc101dc1d5f91",
-    "Popularity": 42,
-    "ReleaseDate": "2025-09-25",
-    "Genre": null
-  },
-  {
     "SongID": 1274805972,
     "Album": "Arevmutq Arevelq",
     "Duration": "3:49",
@@ -7926,15 +7710,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e49e22bd6b022f05b20cf39c",
     "Popularity": 33,
     "ReleaseDate": "2026-02-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274805979,
-    "Album": "Punca v belem (Live! 2023)",
-    "Duration": "6:49",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737dd51af2381cbffa8fc74f1d",
-    "Popularity": 17,
-    "ReleaseDate": "2024-03-31",
     "Genre": null
   },
   {
@@ -8034,15 +7809,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d4b354ed1b37bcea8d7163c2",
     "Popularity": 30,
     "ReleaseDate": "2024-08-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274806044,
-    "Album": "Ako ne znaš šta je bilo",
-    "Duration": "5:00",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731b69c276fea230d4a07de1a1",
-    "Popularity": 44,
-    "ReleaseDate": "2024-07-26",
     "Genre": null
   },
   {
@@ -8262,6 +8028,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274806249,
+    "Album": "Milano",
+    "Duration": "3:01",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736061bad65b7605b5883905ce",
+    "Popularity": 45,
+    "ReleaseDate": "2026-02-14",
+    "Genre": null
+  },
+  {
     "SongID": 1274806251,
     "Album": "Mon Kèr",
     "Duration": "3:17",
@@ -8275,7 +8050,7 @@
     "Album": "Dracula (Remix)",
     "Duration": "3:29",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c7c031ce9d06b131f8563676",
-    "Popularity": 95,
+    "Popularity": 96,
     "ReleaseDate": "2026-02-06",
     "Genre": null
   },
@@ -8307,12 +8082,21 @@
     "Genre": null
   },
   {
-    "SongID": 1274806272,
-    "Album": "Jab Decisions",
-    "Duration": "3:17",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273684e0cf9bafb653ae7d6fdb3",
-    "Popularity": 48,
-    "ReleaseDate": "2025-07-01",
+    "SongID": 1274806264,
+    "Album": "Dilbar",
+    "Duration": "3:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e203d0b22d8d8d937c309f27",
+    "Popularity": 22,
+    "ReleaseDate": "2026-02-27",
+    "Genre": null
+  },
+  {
+    "SongID": 1274806273,
+    "Album": "Eu Sou Teu Pai (Ao Vivo)",
+    "Duration": "6:16",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27331ca858ac53e5ba957e73548",
+    "Popularity": 67,
+    "ReleaseDate": "2023-06-20",
     "Genre": null
   },
   {
@@ -8415,15 +8199,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274806431,
-    "Album": "Que pasa",
-    "Duration": "02:37",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273877b5ac13dc291285d68e182",
-    "Popularity": 0,
-    "ReleaseDate": "2026-03-27",
-    "Genre": "german hip hop"
-  },
-  {
     "SongID": 1274806486,
     "Album": "My Eyes Only - Flashback",
     "Duration": "02:25",
@@ -8431,6 +8206,15 @@
     "Popularity": 0,
     "ReleaseDate": "2026-03-27",
     "Genre": "french r&b, french rap"
+  },
+  {
+    "SongID": 1274806501,
+    "Album": "Argent Sale - A COLORS SHOW",
+    "Duration": "02:44",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e18339fa86707ccf2cd59eab",
+    "Popularity": 79,
+    "ReleaseDate": "2026-02-16",
+    "Genre": "french rap"
   },
   {
     "SongID": 1274807388,
@@ -8520,15 +8304,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fc106cabecf4406cb2e3bda0",
     "Popularity": 29,
     "ReleaseDate": "2025-02-21",
-    "Genre": null
-  },
-  {
-    "SongID": 1274807404,
-    "Album": "Choft el gamra / شفت القمرة",
-    "Duration": "2:44",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731386e14bb2257bfac314a05a",
-    "Popularity": 24,
-    "ReleaseDate": "2024-08-02",
     "Genre": null
   },
   {
@@ -8640,11 +8415,11 @@
     "Genre": null
   },
   {
-    "SongID": 1274807462,
-    "Album": "Rebetiko",
-    "Duration": "2:23",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dbbb6c2d016b3f6bc8e9b60a",
-    "Popularity": 23,
+    "SongID": 1274807448,
+    "Album": "Rüya Gibiydin",
+    "Duration": "2:59",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d558a80ec90cd2da7aa296bb",
+    "Popularity": 39,
     "ReleaseDate": "2026-03-27",
     "Genre": null
   },
@@ -8784,15 +8559,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274808036,
-    "Album": "Каражаным",
-    "Duration": "2:44",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27364438143d075273273b53020",
-    "Popularity": 23,
-    "ReleaseDate": "2025-11-07",
-    "Genre": null
-  },
-  {
     "SongID": 1274808041,
     "Album": "Yàlla Du Juum",
     "Duration": "3:10",
@@ -8820,15 +8586,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274808097,
-    "Album": "Pre vás hrám",
-    "Duration": "2:29",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730dbd9a0cb5d81ce604fa20c2",
-    "Popularity": 47,
-    "ReleaseDate": "2025-02-28",
-    "Genre": null
-  },
-  {
     "SongID": 1274808121,
     "Album": "ไปรยา",
     "Duration": "3:42",
@@ -8844,24 +8601,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737533baae4cd36f83557333ad",
     "Popularity": 46,
     "ReleaseDate": "2026-03-27",
-    "Genre": null
-  },
-  {
-    "SongID": 1274808163,
-    "Album": "Чёрная смородина",
-    "Duration": "3:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d28fa9a74d8afbea35ee0659",
-    "Popularity": 46,
-    "ReleaseDate": "2022-03-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274808164,
-    "Album": "Happiness Forever",
-    "Duration": "3:23",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b33e4b3384a7a0428f990757",
-    "Popularity": 42,
-    "ReleaseDate": "2018-04-10",
     "Genre": null
   },
   {
@@ -8901,15 +8640,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274808265,
-    "Album": "Chanflin (Pa' La Villa Con Un Primo)",
-    "Duration": "7:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739179db5f1288bf418d85a466",
-    "Popularity": 46,
-    "ReleaseDate": "2026-01-14",
-    "Genre": null
-  },
-  {
     "SongID": 1274808270,
     "Album": "Mame Ndiaye Savon (Remix)",
     "Duration": "3:32",
@@ -8919,30 +8649,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274808280,
-    "Album": "LHAMULA",
-    "Duration": "4:14",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bcd4bf425aac60a4c4630a57",
-    "Popularity": 28,
-    "ReleaseDate": "2025-11-14",
-    "Genre": null
-  },
-  {
     "SongID": 1274808293,
     "Album": "Axahay",
     "Duration": "2:56",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dc315583a8ff1c7094239ea2",
     "Popularity": 37,
     "ReleaseDate": "2026-01-09",
-    "Genre": null
-  },
-  {
-    "SongID": 1274808690,
-    "Album": "Nmout w Naarf Ki Rak Nawini",
-    "Duration": "5:09",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27375c9a9a30392f7e92daebbc0",
-    "Popularity": 43,
-    "ReleaseDate": "2026-03-24",
     "Genre": null
   },
   {
@@ -9018,6 +8730,24 @@
     "Genre": null
   },
   {
+    "SongID": 1274809722,
+    "Album": "Love X2",
+    "Duration": "2:23",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a419b0babcb3db4f49533834",
+    "Popularity": 45,
+    "ReleaseDate": "2026-03-20",
+    "Genre": null
+  },
+  {
+    "SongID": 1274809740,
+    "Album": "Опа Опа",
+    "Duration": "3:59",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732e97a1c192b86f567c712520",
+    "Popularity": 18,
+    "ReleaseDate": "2026-03-16",
+    "Genre": null
+  },
+  {
     "SongID": 1274809782,
     "Album": "SAVAGE",
     "Duration": "2:09",
@@ -9072,6 +8802,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274810098,
+    "Album": "Bhikhaari",
+    "Duration": "3:32",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27306940cc1ebb19cf20b5e45b0",
+    "Popularity": 57,
+    "ReleaseDate": "2023-06-10",
+    "Genre": null
+  },
+  {
     "SongID": 1274810419,
     "Album": "Mdomo uliponza kichwa",
     "Duration": "4:19",
@@ -9105,6 +8844,24 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273089456a379b10febde403587",
     "Popularity": 1,
     "ReleaseDate": "2026-03-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274810598,
+    "Album": "Corolla",
+    "Duration": "2:08",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27307bd42ef91d6c0b8ee750c53",
+    "Popularity": 28,
+    "ReleaseDate": "2026-02-10",
+    "Genre": null
+  },
+  {
+    "SongID": 1274810610,
+    "Album": "JOY IS COMING",
+    "Duration": "4:42",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c5693a94a357bdf25088ece8",
+    "Popularity": 49,
+    "ReleaseDate": "2026-03-26",
     "Genre": null
   },
   {
@@ -9189,15 +8946,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274812044,
-    "Album": "Desde que te vi (En Vivo)",
-    "Duration": "3:42",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735b98159fe9688a56ff5070b6",
-    "Popularity": 49,
-    "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
     "SongID": 1274812109,
     "Album": "Je m'appelle",
     "Duration": "4:03",
@@ -9222,15 +8970,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b4d31b23351f6b23f8985ee5",
     "Popularity": 47,
     "ReleaseDate": "2026-04-03",
-    "Genre": null
-  },
-  {
-    "SongID": 1274812224,
-    "Album": "Brajde",
-    "Duration": "2:37",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fa09029ff106fe4bca94c0b5",
-    "Popularity": 33,
-    "ReleaseDate": "2024-08-01",
     "Genre": null
   },
   {
@@ -9351,15 +9090,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274812995,
-    "Album": "Gyere Gyere",
-    "Duration": "3:24",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eb8587907cf0b8e5742c7daa",
-    "Popularity": 9,
-    "ReleaseDate": "2026-04-03",
-    "Genre": null
-  },
-  {
     "SongID": 1274813022,
     "Album": "Yanındayam",
     "Duration": "3:16",
@@ -9396,12 +9126,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274813271,
-    "Album": "Bala bala",
-    "Duration": "3:01",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735bc5c7ecda364b6796db51e7",
-    "Popularity": 33,
-    "ReleaseDate": "2026-04-03",
+    "SongID": 1274813347,
+    "Album": "Tera Kasoor",
+    "Duration": "3:28",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d24a2fa91c3c24d27442b23a",
+    "Popularity": 55,
+    "ReleaseDate": "2024-12-08",
     "Genre": null
   },
   {
@@ -9558,6 +9288,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274815943,
+    "Album": "Yo Quiero Chupar",
+    "Duration": "3:46",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731853c447775adf00ad2f0080",
+    "Popularity": 45,
+    "ReleaseDate": "2026-04-09",
+    "Genre": null
+  },
+  {
     "SongID": 1274815953,
     "Album": "Phony",
     "Duration": "2:30",
@@ -9576,6 +9315,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274816024,
+    "Album": "Dara Bubamara 2017",
+    "Duration": "3:14",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739024fd762d2e115028c060ee",
+    "Popularity": 52,
+    "ReleaseDate": "2017",
+    "Genre": null
+  },
+  {
     "SongID": 1274816045,
     "Album": "Joy",
     "Duration": "3:39",
@@ -9585,21 +9333,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274816093,
-    "Album": "C'est Gnimo",
-    "Duration": "2:40",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733510262e2cfdceceea9370a8",
-    "Popularity": 21,
-    "ReleaseDate": "2026-04-07",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816140,
-    "Album": "Дъното копай",
-    "Duration": "4:08",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273473f4638c8a2e786567f9d8c",
-    "Popularity": 40,
-    "ReleaseDate": "2025-05-22",
+    "SongID": 1274816165,
+    "Album": "Popola (Remix)",
+    "Duration": "2:39",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c3370cc50507948436018702",
+    "Popularity": 41,
+    "ReleaseDate": "2026-03-30",
     "Genre": null
   },
   {
@@ -9654,15 +9393,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27368e9c3da475df5fd084e820f",
     "Popularity": 23,
     "ReleaseDate": "2026-01-15",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816326,
-    "Album": "Smokescreen",
-    "Duration": "2:44",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d243feb5e260c668664e8676",
-    "Popularity": 39,
-    "ReleaseDate": "2026-04-03",
     "Genre": null
   },
   {
@@ -9873,15 +9603,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274816665,
-    "Album": "ラストダンスあなたと",
-    "Duration": "3:33",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735fde2d42b852042e4fdeaf76",
-    "Popularity": 52,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
     "SongID": 1274816668,
     "Album": "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan)",
     "Duration": "3:16",
@@ -9999,21 +9720,21 @@
     "Genre": null
   },
   {
+    "SongID": 1274817000,
+    "Album": "Vangelo",
+    "Duration": "3:00",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273106c24b2e7323189f68e8a4c",
+    "Popularity": 77,
+    "ReleaseDate": "2026-04-10",
+    "Genre": null
+  },
+  {
     "SongID": 1274817011,
     "Album": "Expectional Music Of Gopi Sundar",
     "Duration": "4:10",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27350d02d18006c316670959719",
     "Popularity": 52,
     "ReleaseDate": "2019-05-20",
-    "Genre": null
-  },
-  {
-    "SongID": 1274817104,
-    "Album": "Mr. Know It All",
-    "Duration": "3:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ecf61285415fd9c2a3f7d384",
-    "Popularity": 73,
-    "ReleaseDate": "2026-04-09",
     "Genre": null
   },
   {
@@ -10107,24 +9828,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274817306,
-    "Album": "Vocês & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
-    "Duration": "2:40",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273cd6a20fcede386d2d3de6f91",
-    "Popularity": 76,
-    "ReleaseDate": "2026-04-07",
-    "Genre": null
-  },
-  {
-    "SongID": 1274817307,
-    "Album": "Vocês & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
-    "Duration": "3:07",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273cd6a20fcede386d2d3de6f91",
-    "Popularity": 70,
-    "ReleaseDate": "2026-04-07",
-    "Genre": null
-  },
-  {
     "SongID": 1274817326,
     "Album": "حكاية الابطال",
     "Duration": "2:50",
@@ -10215,12 +9918,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274819526,
-    "Album": "Kaip Kine",
-    "Duration": "3:59",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273488fddcf2e402b141c97abb1",
-    "Popularity": 35,
-    "ReleaseDate": "2026-04-09",
+    "SongID": 1274819553,
+    "Album": "SUPERSTAR",
+    "Duration": "3:14",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273167dd835eedf4112901fa2ff",
+    "Popularity": 75,
+    "ReleaseDate": "2026-04-06",
     "Genre": null
   },
   {
@@ -10323,6 +10026,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274819826,
+    "Album": "XX",
+    "Duration": "2:47",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27311776a43f15f712fdda0d6f8",
+    "Popularity": 30,
+    "ReleaseDate": "2026-04-17",
+    "Genre": null
+  },
+  {
     "SongID": 1274819837,
     "Album": "XX",
     "Duration": "3:08",
@@ -10365,6 +10077,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735edc785598685f7fa07c9ed3",
     "Popularity": 44,
     "ReleaseDate": "2026-04-10",
+    "Genre": null
+  },
+  {
+    "SongID": 1274820085,
+    "Album": "Na Mi Se Do Ksana (Live)",
+    "Duration": "3:35",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27383c477fc675169457fa68e3a",
+    "Popularity": 40,
+    "ReleaseDate": "2026-04-07",
     "Genre": null
   },
   {
@@ -10440,15 +10161,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274820332,
-    "Album": "I'm Only A Dreamer",
-    "Duration": "4:44",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731d9be0610bf1d013d074522f",
-    "Popularity": 5,
-    "ReleaseDate": "2024-11-12",
-    "Genre": null
-  },
-  {
     "SongID": 1274820344,
     "Album": "ENTI SBEBI",
     "Duration": "2:35",
@@ -10473,15 +10185,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27310b778affc02797e334e08fb",
     "Popularity": 18,
     "ReleaseDate": "2026-04-13",
-    "Genre": null
-  },
-  {
-    "SongID": 1274820377,
-    "Album": "Number Ones",
-    "Duration": "4:42",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eb15b69407230b713423d3cb",
-    "Popularity": 77,
-    "ReleaseDate": "2003-11-17",
     "Genre": null
   },
   {
@@ -10629,21 +10332,21 @@
     "Genre": null
   },
   {
+    "SongID": 1274823396,
+    "Album": "Qez Het",
+    "Duration": "2:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d945f5db58f38285ed45b7dd",
+    "Popularity": 0,
+    "ReleaseDate": "2026-04-11",
+    "Genre": null
+  },
+  {
     "SongID": 1274825888,
     "Album": "Rezerves lidlauks",
     "Duration": "3:51",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d3508ab30e996b6717852bf0",
     "Popularity": 29,
     "ReleaseDate": "2026-04-04",
-    "Genre": null
-  },
-  {
-    "SongID": 1274825907,
-    "Album": "İntizar (vəfadarım mənim)",
-    "Duration": "4:21",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273747ecf8137f018326a0fb69f",
-    "Popularity": 21,
-    "ReleaseDate": "2026-04-20",
     "Genre": null
   },
   {
@@ -10764,6 +10467,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274826313,
+    "Album": "KARMA",
+    "Duration": "2:48",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732e83a11161161a994af9779e",
+    "Popularity": 51,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
     "SongID": 1274826370,
     "Album": "Zone De Confort",
     "Duration": "3:04",
@@ -10809,6 +10521,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274826428,
+    "Album": "PA BONG MEAN PRAK",
+    "Duration": "3:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27318509ede0e8cbf1905417011",
+    "Popularity": 28,
+    "ReleaseDate": "2026-04-14",
+    "Genre": null
+  },
+  {
     "SongID": 1274826450,
     "Album": "Ojitos Bellos",
     "Duration": "2:59",
@@ -10824,6 +10545,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739ff15b3ecc130de982632450",
     "Popularity": 61,
     "ReleaseDate": "2026-04-23",
+    "Genre": null
+  },
+  {
+    "SongID": 1274826518,
+    "Album": "Me Xodepses",
+    "Duration": "2:59",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ec2c42ffc1f90aff1060548d",
+    "Popularity": 48,
+    "ReleaseDate": "2026-04-24",
     "Genre": null
   },
   {
@@ -10869,15 +10599,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b52a5185766574d0d87926db",
     "Popularity": 19,
     "ReleaseDate": "2026-03-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274826670,
-    "Album": "Puñaladas",
-    "Duration": "2:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b6c66d410ebd3842bc7ca94c",
-    "Popularity": 33,
-    "ReleaseDate": "2026-04-22",
     "Genre": null
   },
   {
@@ -11115,15 +10836,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274827207,
-    "Album": "Samo bivsa",
-    "Duration": "2:20",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f14d3d97584b38ed5f50e6f4",
-    "Popularity": 43,
-    "ReleaseDate": "2026-04-23",
-    "Genre": null
-  },
-  {
     "SongID": 1274827209,
     "Album": "Plantaža",
     "Duration": "2:15",
@@ -11160,21 +10872,21 @@
     "Genre": null
   },
   {
-    "SongID": 1274827266,
-    "Album": "Monaco",
-    "Duration": "2:45",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d952f28133f108be07644844",
-    "Popularity": 29,
-    "ReleaseDate": "2026-05-08",
-    "Genre": null
-  },
-  {
     "SongID": 1274827274,
     "Album": "NIEWINNA",
     "Duration": "2:33",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27356e0adadb22f03851482f60d",
     "Popularity": 61,
     "ReleaseDate": "2026-04-14",
+    "Genre": null
+  },
+  {
+    "SongID": 1274827308,
+    "Album": "Kembali Merindu",
+    "Duration": "5:39",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733cd96a3db0e265a5884618f9",
+    "Popularity": 60,
+    "ReleaseDate": "1999-08-16",
     "Genre": null
   },
   {
@@ -11412,6 +11124,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274827489,
+    "Album": "DOUDOU",
+    "Duration": "2:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27335dc242a6d5adaf74d79be4e",
+    "Popularity": 51,
+    "ReleaseDate": "2026-02-20",
+    "Genre": null
+  },
+  {
     "SongID": 1274827492,
     "Album": "Mo reflé",
     "Duration": "4:48",
@@ -11448,12 +11169,21 @@
     "Genre": null
   },
   {
-    "SongID": 1274827547,
-    "Album": "Raqse",
-    "Duration": "2:48",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739c82611690ebb44d3a3e08ad",
-    "Popularity": 24,
-    "ReleaseDate": "2026-04-17",
+    "SongID": 1274827539,
+    "Album": "demain c'est vide",
+    "Duration": "2:57",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273da7faac40575a10efbff0deb",
+    "Popularity": 63,
+    "ReleaseDate": "2026-04-11",
+    "Genre": null
+  },
+  {
+    "SongID": 1274827540,
+    "Album": "無疾而終",
+    "Duration": "3:23",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734f87af85301bcaef188a05d2",
+    "Popularity": 23,
+    "ReleaseDate": "2026-04-22",
     "Genre": null
   },
   {
@@ -11520,15 +11250,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274827666,
-    "Album": "แค่หมู่",
-    "Duration": "4:01",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735fb13422fa91f181c9d3d509",
-    "Popularity": 40,
-    "ReleaseDate": "2026-04-08",
-    "Genre": null
-  },
-  {
     "SongID": 1274827668,
     "Album": "คนถูกของ",
     "Duration": "3:58",
@@ -11556,15 +11277,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274827683,
-    "Album": "ELEMENTE",
-    "Duration": "2:41",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a364be4c48a13402d1a92218",
-    "Popularity": 19,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
     "SongID": 1274827684,
     "Album": "Cocktail",
     "Duration": "3:25",
@@ -11580,24 +11292,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c23c01fda77471cc0959867b",
     "Popularity": 39,
     "ReleaseDate": "2026-02-26",
-    "Genre": null
-  },
-  {
-    "SongID": 1274827690,
-    "Album": "Asso di Cuori",
-    "Duration": "2:47",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739c90ad6d92aeebe0fa2784b8",
-    "Popularity": 47,
-    "ReleaseDate": "2026-03-19",
-    "Genre": null
-  },
-  {
-    "SongID": 1274828788,
-    "Album": "Peak Season",
-    "Duration": "2:27",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737ecd3cefcb03a2f17278df0c",
-    "Popularity": 49,
-    "ReleaseDate": "2025-09-12",
     "Genre": null
   },
   {
@@ -11628,6 +11322,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274828809,
+    "Album": "Конул болбо",
+    "Duration": "2:52",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734e21f70fc5f6fee3f6a55ca0",
+    "Popularity": 24,
+    "ReleaseDate": "2026-01-12",
+    "Genre": null
+  },
+  {
     "SongID": 1274828817,
     "Album": "Inima Mea",
     "Duration": "4:07",
@@ -11637,21 +11340,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274828833,
-    "Album": "Selah",
+    "SongID": 1274828845,
+    "Album": "MALASNOTICIAS.",
     "Duration": "3:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e54c225b05bfa28eb76fce3c",
-    "Popularity": 46,
-    "ReleaseDate": "2026-04-22",
-    "Genre": null
-  },
-  {
-    "SongID": 1274828844,
-    "Album": "Kainat Şahit",
-    "Duration": "3:01",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c7e273bbcee01051e5f65bfa",
-    "Popularity": 18,
-    "ReleaseDate": "2026-04-30",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
+    "Popularity": 73,
+    "ReleaseDate": "2026-05-01",
     "Genre": null
   },
   {
@@ -11660,15 +11354,6 @@
     "Duration": "2:42",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ac9e082726810ad147923c2d",
     "Popularity": 30,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274828851,
-    "Album": "Prita",
-    "Duration": "3:15",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733e33281a6936628c03b02022",
-    "Popularity": 24,
     "ReleaseDate": "2026-04-24",
     "Genre": null
   },
@@ -11808,24 +11493,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274828923,
-    "Album": "Génération Z",
-    "Duration": "2:37",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273878305bde91eca694cddf596",
-    "Popularity": 49,
-    "ReleaseDate": "2026-04-29",
-    "Genre": null
-  },
-  {
-    "SongID": 1274828925,
-    "Album": "ELEMENTE",
-    "Duration": "3:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a364be4c48a13402d1a92218",
-    "Popularity": 25,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
     "SongID": 1274828928,
     "Album": "Мен өзім кайфпын",
     "Duration": "1:43",
@@ -11916,21 +11583,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274829017,
-    "Album": "Milý Budúci",
-    "Duration": "3:09",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738d7e60b4e1a9cfe500b56798",
-    "Popularity": 31,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829021,
-    "Album": "In Too Deep",
-    "Duration": "2:46",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737e864b8004b18d67bd4dde99",
-    "Popularity": 44,
-    "ReleaseDate": "2026-04-30",
+    "SongID": 1274829013,
+    "Album": "Everybody Wanna Be In Love",
+    "Duration": "6:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733f28b40f622f4a209a865932",
+    "Popularity": 33,
+    "ReleaseDate": "2026-04-17",
     "Genre": null
   },
   {
@@ -11943,21 +11601,21 @@
     "Genre": null
   },
   {
+    "SongID": 1274829038,
+    "Album": "Fallin' (feat. Leon Thomas)",
+    "Duration": "4:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27319c255017cfaf105c6baf05f",
+    "Popularity": 69,
+    "ReleaseDate": "2026-05-01",
+    "Genre": null
+  },
+  {
     "SongID": 1274829047,
     "Album": "Kríž",
     "Duration": "3:54",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273224b3f164b79295d4240f572",
     "Popularity": 5,
     "ReleaseDate": "2026-04-25",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829051,
-    "Album": "Poco yo (Remix) [En Vivo]",
-    "Duration": "6:55",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ba63c35c48b68c01ba022f0d",
-    "Popularity": 42,
-    "ReleaseDate": "2026-05-01",
     "Genre": null
   },
   {
@@ -12051,15 +11709,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274829143,
-    "Album": "Mix Fiestero",
-    "Duration": "2:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273448a7e5afc138f88bedaaa45",
-    "Popularity": 31,
-    "ReleaseDate": "2026-04-29",
-    "Genre": null
-  },
-  {
     "SongID": 1274829145,
     "Album": "CORSA",
     "Duration": "3:07",
@@ -12075,15 +11724,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e95de5752fa81a8611740679",
     "Popularity": 71,
     "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829160,
-    "Album": "Беше през април",
-    "Duration": "3:47",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736733964386d09b7504fafcd5",
-    "Popularity": 5,
-    "ReleaseDate": "2026-04-28",
     "Genre": null
   },
   {
@@ -12111,15 +11751,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b52d60255b37bfc037f5f62e",
     "Popularity": 15,
     "ReleaseDate": "2026-04-29",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829189,
-    "Album": "سهرني الشوق",
-    "Duration": "5:01",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a1920bded74ec9d6be06381a",
-    "Popularity": 55,
-    "ReleaseDate": "2005-01-17",
     "Genre": null
   },
   {
@@ -12267,6 +11898,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274829381,
+    "Album": "Game On",
+    "Duration": "3:48",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273390a9e40462952689630a322",
+    "Popularity": 39,
+    "ReleaseDate": "2026-05-01",
+    "Genre": null
+  },
+  {
     "SongID": 1274829388,
     "Album": "Fais ton malin",
     "Duration": "2:44",
@@ -12294,30 +11934,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274829417,
-    "Album": "Verjin Zang",
-    "Duration": "3:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27346aaf6311d2eb9281560b307",
-    "Popularity": 7,
-    "ReleaseDate": "2026-04-29",
-    "Genre": null
-  },
-  {
     "SongID": 1274829437,
     "Album": "PONTE PONTE",
     "Duration": "2:44",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e7e82d16e6475db8495e258f",
     "Popularity": 55,
     "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829450,
-    "Album": "Key Beats",
-    "Duration": "2:10",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737a8c5cd429772938471ff400",
-    "Popularity": 47,
-    "ReleaseDate": "2026-04-29",
     "Genre": null
   },
   {
@@ -12339,30 +11961,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274829485,
-    "Album": "EL TIGRÉ",
-    "Duration": "3:26",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730bef6c64484febdc07414ca0",
-    "Popularity": 55,
+    "SongID": 1274829490,
+    "Album": "Grandes Amores Não Acabam Juntos",
+    "Duration": "3:16",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27335d7122e253875679420a49a",
+    "Popularity": 35,
     "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829488,
-    "Album": "Bandita",
-    "Duration": "2:31",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732ad76de7b70891f551705f97",
-    "Popularity": 7,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829489,
-    "Album": "REI DO KUYUYU",
-    "Duration": "3:23",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737d31526eec461cb2337ffffa",
-    "Popularity": 53,
-    "ReleaseDate": "2024-03-01",
     "Genre": null
   },
   {
@@ -12408,6 +12012,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738154675f4475dfa0e93731f8",
     "Popularity": 18,
     "ReleaseDate": "2026-05-01",
+    "Genre": null
+  },
+  {
+    "SongID": 1274829529,
+    "Album": "アイドルパワー",
+    "Duration": "3:50",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273cfca8c7af4bd36ae78a5b50f",
+    "Popularity": 69,
+    "ReleaseDate": "2026-04-27",
     "Genre": null
   },
   {
@@ -12507,24 +12120,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734655825ec9139192c2547f6b",
     "Popularity": 16,
     "ReleaseDate": "2026-05-01",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829611,
-    "Album": "VEQ ME TY",
-    "Duration": "2:41",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730ef6a9c1fb326681b2cade61",
-    "Popularity": 40,
-    "ReleaseDate": "2026-04-29",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829618,
-    "Album": "The Mad Life",
-    "Duration": "2:56",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732476561c9ac896eebbdc01b6",
-    "Popularity": 28,
-    "ReleaseDate": "2026-04-28",
     "Genre": null
   },
   {
@@ -12645,20 +12240,20 @@
     "Genre": null
   },
   {
+    "SongID": 1274829754,
+    "Album": "Едно",
+    "Duration": "3:27",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730f75d5867007965307280131",
+    "Popularity": 33,
+    "ReleaseDate": "2026-05-01",
+    "Genre": null
+  },
+  {
     "SongID": 1274829765,
     "Album": "Mi Castigo",
     "Duration": "2:59",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731ded012d54649e8e41cc38eb",
     "Popularity": 1,
-    "ReleaseDate": "2026-05-01",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829798,
-    "Album": "BOMBA",
-    "Duration": "2:45",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733772b0416998fcf46ac696d8",
-    "Popularity": 63,
     "ReleaseDate": "2026-05-01",
     "Genre": null
   },
@@ -12690,15 +12285,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274829893,
-    "Album": "Chkoun m3ana",
-    "Duration": "3:19",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c7410e0d3517a30a01b75130",
-    "Popularity": 32,
-    "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
     "SongID": 1274829898,
     "Album": "ODO PA",
     "Duration": "2:36",
@@ -12717,30 +12303,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274829928,
-    "Album": "Stardust",
-    "Duration": "2:07",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739e262cdff141e7c5807def88",
-    "Popularity": 27,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
     "SongID": 1274829930,
     "Album": "Eyes on Me",
     "Duration": "2:34",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273540af9bd29b7dd32fe2f0de0",
     "Popularity": 69,
     "ReleaseDate": "2026-04-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829935,
-    "Album": "Sugar",
-    "Duration": "3:14",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eb159ea806345b9106af12a5",
-    "Popularity": 53,
-    "ReleaseDate": "2026-04-03",
     "Genre": null
   },
   {
@@ -12807,15 +12375,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274830057,
-    "Album": "AUDITORAT DIABO (Remix)",
-    "Duration": "4:40",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739aaa4d0e26f19ccfc534b24e",
-    "Popularity": 39,
-    "ReleaseDate": "2026-02-20",
-    "Genre": null
-  },
-  {
     "SongID": 1274830082,
     "Album": "Sainiana",
     "Duration": "4:44",
@@ -12834,39 +12393,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274830101,
-    "Album": "Goddex",
-    "Duration": "3:06",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27361cbc494c07c4c5fa38eb774",
-    "Popularity": 12,
-    "ReleaseDate": "2026-03-13",
-    "Genre": null
-  },
-  {
     "SongID": 1274830109,
     "Album": "Victory",
     "Duration": "2:44",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273256e750e4ab46c5f92b4d81d",
     "Popularity": 48,
     "ReleaseDate": "2026-04-27",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830157,
-    "Album": "Quisiera Saber",
-    "Duration": "2:21",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273afdfd144cab1fb79516d1371",
-    "Popularity": 19,
-    "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830163,
-    "Album": "PODIVEJ MAMA",
-    "Duration": "2:43",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e167420c04f1aadaca973a33",
-    "Popularity": 51,
-    "ReleaseDate": "2026-04-29",
     "Genre": null
   },
   {
@@ -12915,6 +12447,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274830219,
+    "Album": "غلاتك",
+    "Duration": "3:08",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e6717d268da6d28910eb3c92",
+    "Popularity": 0,
+    "ReleaseDate": "2026-04-29",
+    "Genre": null
+  },
+  {
     "SongID": 1274830226,
     "Album": "กู่แคน ชุดที่ 1 เพลงฮักจากใจไทบ้าน",
     "Duration": "3:54",
@@ -12948,15 +12489,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273065c63e58d53106287f8ddf7",
     "Popularity": 18,
     "ReleaseDate": "2026-02-03",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830245,
-    "Album": "اغنية تعيدها مئة مرة ياليت على سمره للمولعة ههههه السماريين",
-    "Duration": "4:30",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27376066a024ca129f58028112c",
-    "Popularity": 0,
-    "ReleaseDate": "2026-04-23",
     "Genre": null
   },
   {
@@ -13086,30 +12618,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274830310,
-    "Album": "ELEMENTE",
-    "Duration": "2:47",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a364be4c48a13402d1a92218",
-    "Popularity": 31,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
     "SongID": 1274830314,
     "Album": "DEUCESS",
     "Duration": "2:54",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27352fedfc23ab75900ea0d8e9d",
     "Popularity": 0,
     "ReleaseDate": "2026-05-04",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830358,
-    "Album": "Ki3awalti L9iti Galbi Wajad",
-    "Duration": "6:00",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735d4d307e6f7e8edbcfe2718d",
-    "Popularity": 36,
-    "ReleaseDate": "2025-12-20",
     "Genre": null
   },
   {
@@ -13127,33 +12641,6 @@
     "Duration": "2:49",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ca451db98afa51761f6f6da4",
     "Popularity": 44,
-    "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830384,
-    "Album": "Pismo 2",
-    "Duration": "3:09",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273462e6955d0ac91ff4c0c4572",
-    "Popularity": 36,
-    "ReleaseDate": "2026-05-02",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830386,
-    "Album": "Sviraj Harmoniko",
-    "Duration": "3:24",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27341ed117b098a0893d8e0c786",
-    "Popularity": 5,
-    "ReleaseDate": "2026-04-14",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830396,
-    "Album": "CARAS CONOCIDAS",
-    "Duration": "2:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732f39b1fb7bc8debc91adb7d2",
-    "Popularity": 30,
     "ReleaseDate": "2026-04-30",
     "Genre": null
   },
@@ -13185,15 +12672,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274830413,
-    "Album": "So Glad You're Here (Live)",
-    "Duration": "6:47",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731e72d27e7e2eed60a954acab",
-    "Popularity": 49,
-    "ReleaseDate": "2025-01-24",
-    "Genre": null
-  },
-  {
     "SongID": 1274830416,
     "Album": "Suimi",
     "Duration": "3:20",
@@ -13209,15 +12687,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273609cfea16d2e58ec6f4eab9a",
     "Popularity": 0,
     "ReleaseDate": "2026-05-06",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830426,
-    "Album": "Souhaits",
-    "Duration": "3:44",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27356dea23f109ce5b9fcfe46f6",
-    "Popularity": 19,
-    "ReleaseDate": "2026-01-18",
     "Genre": null
   },
   {
@@ -13248,30 +12717,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274830500,
-    "Album": "Rock'n'roll Never Dies",
-    "Duration": "4:14",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273235ae65c81ba8e2813807814",
-    "Popularity": 0,
-    "ReleaseDate": "2025-06-16",
-    "Genre": null
-  },
-  {
     "SongID": 1274830561,
     "Album": "Eza Dar El Wakt",
     "Duration": "5:51",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ec49daa7ce57cfbfacf0c49a",
     "Popularity": 44,
     "ReleaseDate": "2014-05-19",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830562,
-    "Album": "Kamar Me Dagi",
-    "Duration": "3:17",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734ead88cbab1041d223c82833",
-    "Popularity": 60,
-    "ReleaseDate": "2026-03-30",
     "Genre": null
   },
   {
@@ -13302,30 +12753,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274830608,
-    "Album": "Childish",
-    "Duration": "3:13",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735d95815b900e88c16af2189f",
-    "Popularity": 49,
-    "ReleaseDate": "2026-04-29",
-    "Genre": null
-  },
-  {
     "SongID": 1274830612,
     "Album": "Comme ça",
     "Duration": "2:40",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27386e82b00f8de497f3043a76f",
     "Popularity": 20,
     "ReleaseDate": "2026-05-01",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830617,
-    "Album": "Krótki List",
-    "Duration": "3:10",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739abcb0c136ba50b293cf99eb",
-    "Popularity": 8,
-    "ReleaseDate": "2026-04-16",
     "Genre": null
   },
   {
@@ -13353,24 +12786,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732e5032273d9fb6f52c544304",
     "Popularity": 37,
     "ReleaseDate": "2026-05-01",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830643,
-    "Album": "Życie To Chwila",
-    "Duration": "3:32",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273caf6ddb19f501d50e31a051d",
-    "Popularity": 49,
-    "ReleaseDate": "2026-04-03",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830659,
-    "Album": "Mali",
-    "Duration": "3:37",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732b3706e4168b2bcd845de9be",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-04",
     "Genre": null
   },
   {
@@ -13432,7 +12847,7 @@
     "Album": "Despecho a 2 Voces",
     "Duration": "2:33",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27398787049b68752a2d25b353a",
-    "Popularity": 40,
+    "Popularity": 41,
     "ReleaseDate": "2026-04-30",
     "Genre": null
   },
@@ -13473,30 +12888,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274830901,
-    "Album": "Энэ Зунаар",
-    "Duration": "3:22",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731c1d3959598a091171f3b2d4",
-    "Popularity": 4,
-    "ReleaseDate": "2026-05-03",
-    "Genre": null
-  },
-  {
     "SongID": 1274830918,
     "Album": "Darr (Original Motion Picture Soundtrack)",
     "Duration": "6:06",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ca4a2135301f793784f69b98",
     "Popularity": 42,
     "ReleaseDate": "1990-12-01",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830921,
-    "Album": "We Are UNCHILD",
-    "Duration": "2:28",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739b446ebaccf2cf94f4f91c35",
-    "Popularity": 72,
-    "ReleaseDate": "2026-04-21",
     "Genre": null
   },
   {
@@ -13527,15 +12924,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274830975,
-    "Album": "Довбойоба покохала",
-    "Duration": "2:59",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733e023b229b94e129b09c6ab0",
-    "Popularity": 40,
-    "ReleaseDate": "2026-04-03",
-    "Genre": null
-  },
-  {
     "SongID": 1274830976,
     "Album": "חלק א' - הוויה",
     "Duration": "3:10",
@@ -13551,6 +12939,357 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ea0178440b5937042c040b65",
     "Popularity": 46,
     "ReleaseDate": "2012-12-12",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831053,
+    "Album": "Așa și așa",
+    "Duration": "2:34",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735843dcc4b616a42dc200aec4",
+    "Popularity": 37,
+    "ReleaseDate": "2026-05-05",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831118,
+    "Album": "C'était prévu",
+    "Duration": "4:37",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dc685a1957da49225b1b2d4b",
+    "Popularity": 23,
+    "ReleaseDate": "2026-05-05",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831178,
+    "Album": "Ти",
+    "Duration": "2:56",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273be5e517acebebfeba356198a",
+    "Popularity": 0,
+    "ReleaseDate": "2026-05-02",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831188,
+    "Album": "Blam x Alo (Live Acoustic Mashup)",
+    "Duration": "3:04",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d5616e71f5af2658167a083b",
+    "Popularity": 30,
+    "ReleaseDate": "2026-05-05",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831198,
+    "Album": "Teu nome em mim",
+    "Duration": "3:33",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735517f64f9211382651495a7a",
+    "Popularity": 14,
+    "ReleaseDate": "2026-05-03",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831208,
+    "Album": "Zemra Rrak Tak",
+    "Duration": "3:05",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730d8de02b508afc8e902eaf03",
+    "Popularity": 3,
+    "ReleaseDate": "2026-05-01",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831209,
+    "Album": "MÁJ",
+    "Duration": "2:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c47f0beeb1993f6096ba27f",
+    "Popularity": 34,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831210,
+    "Album": "Прозрение",
+    "Duration": "3:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734eba736d60a3e880a3acd9e2",
+    "Popularity": 32,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831211,
+    "Album": "MALI",
+    "Duration": "5:04",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734c9096f4e3a1049db6beb0c6",
+    "Popularity": 1,
+    "ReleaseDate": "2026-05-04",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831218,
+    "Album": "Ser Em Uzum",
+    "Duration": "3:00",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273535981ca8438b3969406b5c6",
+    "Popularity": 0,
+    "ReleaseDate": "2026-05-05",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831244,
+    "Album": "All In One",
+    "Duration": "5:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734aa97c2947271c858b8f8338",
+    "Popularity": 29,
+    "ReleaseDate": "2025-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831289,
+    "Album": "Po tavęs",
+    "Duration": "3:12",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273095f979a8b13172b90ed32c3",
+    "Popularity": 0,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831306,
+    "Album": "Ako se nekom daš",
+    "Duration": "3:29",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f282797f50c919b34d61c33d",
+    "Popularity": 21,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831307,
+    "Album": "Enti w Aman",
+    "Duration": "2:27",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e491109bebec24b1c4575114",
+    "Popularity": 0,
+    "ReleaseDate": "2026-05-05",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831318,
+    "Album": "No Mesmo Lugar",
+    "Duration": "3:11",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736c767523081cc417dcd07595",
+    "Popularity": 57,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831362,
+    "Album": "Ta Parapona mou",
+    "Duration": "2:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733112f9164e977f4b897259c6",
+    "Popularity": 39,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831367,
+    "Album": "Le Sourire",
+    "Duration": "3:37",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27349f78aa452c3e37355effcab",
+    "Popularity": 21,
+    "ReleaseDate": "2026-04-17",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831391,
+    "Album": "GOUIYA",
+    "Duration": "3:28",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b3514e4ebdf66dc46e52551d",
+    "Popularity": 0,
+    "ReleaseDate": "2026-05-01",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831403,
+    "Album": "Bla Bla Bla",
+    "Duration": "2:00",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27352c3de0b2ab3835ac1c86019",
+    "Popularity": 51,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831404,
+    "Album": "Bu Gün Mənim Ad Günüm",
+    "Duration": "2:30",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738274c17a1ee16cad08580bc1",
+    "Popularity": 0,
+    "ReleaseDate": "2026-05-04",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831405,
+    "Album": "Cuidado Que Te Supero / Calumnia / Tattoo",
+    "Duration": "5:56",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730e5cb6a31a410cef577924d1",
+    "Popularity": 54,
+    "ReleaseDate": "2025-04-29",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831473,
+    "Album": "Ebb + Flow",
+    "Duration": "4:00",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737705e2032f8dcfb5501c37d7",
+    "Popularity": 48,
+    "ReleaseDate": "2026-04-01",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831477,
+    "Album": "Timing",
+    "Duration": "2:47",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273544cef394a4084b68491815a",
+    "Popularity": 0,
+    "ReleaseDate": "2026-05-04",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831479,
+    "Album": "Jsem asi boomer",
+    "Duration": "3:52",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27336efdb525371882cd182f095",
+    "Popularity": 40,
+    "ReleaseDate": "2026-03-13",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831494,
+    "Album": "My Turn",
+    "Duration": "2:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732610975ee35208bc78e03b5e",
+    "Popularity": 45,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831516,
+    "Album": "Tavo Akyse",
+    "Duration": "2:39",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734cd2caa0d6c2f37570fe448e",
+    "Popularity": 22,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831536,
+    "Album": "Better Than Me?!!",
+    "Duration": "2:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733353cc70a12d51767160a094",
+    "Popularity": 39,
+    "ReleaseDate": "2025-07-18",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831546,
+    "Album": "Хващаме бас",
+    "Duration": "3:34",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ef86c1ebeb6a9d9dae31dd70",
+    "Popularity": 0,
+    "ReleaseDate": "2026-05-06",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831562,
+    "Album": "Najah",
+    "Duration": "3:20",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730d75a899bc84d28b8ced2b34",
+    "Popularity": 20,
+    "ReleaseDate": "2025-05-11",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831565,
+    "Album": "Wet Sugar",
+    "Duration": "3:23",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734a3142785744b0f04763c8df",
+    "Popularity": 25,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831605,
+    "Album": "Shake it",
+    "Duration": "2:00",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f8174a2e21f0bfcfb4c31989",
+    "Popularity": 13,
+    "ReleaseDate": "2026-05-02",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831644,
+    "Album": "Maa",
+    "Duration": "3:43",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735b461faaf6df0acfe6988154",
+    "Popularity": 0,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831658,
+    "Album": "One Place Live",
+    "Duration": "5:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737c49fa7828accdea52623f1f",
+    "Popularity": 56,
+    "ReleaseDate": "2015-08-21",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831673,
+    "Album": "Theo -REMIX Slavo Gaži Mrcha (RomaneGiľa 2026)",
+    "Duration": "3:30",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27391260ddf126b51625a3d4939",
+    "Popularity": 3,
+    "ReleaseDate": "2026-04-29",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831704,
+    "Album": "Abu Dhabi Riddim",
+    "Duration": "3:32",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273603ea601d076e0b263676f4a",
+    "Popularity": 3,
+    "ReleaseDate": "2026-05-01",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831747,
+    "Album": "WONI_WL FOUKARi",
+    "Duration": "2:48",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a543ab78d704c5a6896b8eef",
+    "Popularity": 1,
+    "ReleaseDate": "2026-05-03",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831753,
+    "Album": "Daya3 Bla Bik",
+    "Duration": "5:05",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a256912571961f0ae5af2c5d",
+    "Popularity": 7,
+    "ReleaseDate": "2026-05-04",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831783,
+    "Album": "נווה הדרים",
+    "Duration": "3:11",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27330345d471123fc466cf032a1",
+    "Popularity": 34,
+    "ReleaseDate": "2026-05-05",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831794,
+    "Album": "ให้อ้ายฮักส่ำเมีย",
+    "Duration": "1:32",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273cb1751f4e661d88abe87b502",
+    "Popularity": 2,
+    "ReleaseDate": "2026-01-25",
     "Genre": null
   }
 ]
