@@ -54,6 +54,15 @@
     "Genre": "neo mellow, permanent wave, pop rock, post-grunge"
   },
   {
+    "SongID": 868,
+    "Album": "Meet The Orphans",
+    "Duration": "3:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
+    "Popularity": 86,
+    "ReleaseDate": "2010-01-01",
+    "Genre": null
+  },
+  {
     "SongID": 914,
     "Album": "Thriller",
     "Duration": "4:53",
@@ -69,6 +78,24 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739e1683774b22648f4f178ed3",
     "Popularity": 2,
     "ReleaseDate": "2015-06-09",
+    "Genre": ""
+  },
+  {
+    "SongID": 1937,
+    "Album": "XSCAPE",
+    "Duration": "4:05",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+    "Popularity": 85,
+    "ReleaseDate": "2014-05-09",
+    "Genre": null
+  },
+  {
+    "SongID": 2670,
+    "Album": "I've Tried Everything But Therapy (Part 1)",
+    "Duration": "03:30",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c",
+    "Popularity": 89,
+    "ReleaseDate": "2023-09-15",
     "Genre": ""
   },
   {
@@ -135,13 +162,13 @@
     "Genre": null
   },
   {
-    "SongID": 22054,
-    "Album": "Starboy",
-    "Duration": "3:50",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-    "Popularity": 92,
-    "ReleaseDate": "2016-11-25",
-    "Genre": null
+    "SongID": 19918,
+    "Album": "Born In The Echoes",
+    "Duration": "04:20",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273befecaa2c30a3302c88cbe88",
+    "Popularity": 61,
+    "ReleaseDate": "2015-07-17",
+    "Genre": "alternative dance, big beat, breakbeat, electronica, rave, trip hop"
   },
   {
     "SongID": 108650,
@@ -160,15 +187,6 @@
     "Popularity": 91,
     "ReleaseDate": "2012-06-15",
     "Genre": null
-  },
-  {
-    "SongID": 109923,
-    "Album": "Semester Closing",
-    "Duration": "04:08",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dc3db7f5a3139bff294c325c",
-    "Popularity": 2,
-    "ReleaseDate": "2023-09-21",
-    "Genre": "canadian pop, pop"
   },
   {
     "SongID": 113465,
@@ -238,7 +256,7 @@
     "Album": "APT.",
     "Duration": "2:49",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27346085aa1855bd888abc51a5a",
-    "Popularity": 87,
+    "Popularity": 88,
     "ReleaseDate": "2024-10-18",
     "Genre": null
   },
@@ -324,15 +342,6 @@
     "Genre": null
   },
   {
-    "SongID": 1238969,
-    "Album": "Walking On A Dream (10th Anniversary Edition)",
-    "Duration": "4:27",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d",
-    "Popularity": 90,
-    "ReleaseDate": "2008-10-03",
-    "Genre": null
-  },
-  {
     "SongID": 1239704,
     "Album": "÷ (Deluxe)",
     "Duration": "3:53",
@@ -412,15 +421,6 @@
     "Popularity": 91,
     "ReleaseDate": "2025-08-29",
     "Genre": null
-  },
-  {
-    "SongID": 1272647,
-    "Album": "Folded",
-    "Duration": "03:58",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141",
-    "Popularity": 89,
-    "ReleaseDate": "2025-06-11",
-    "Genre": ""
   },
   {
     "SongID": 1272648,
@@ -648,6 +648,15 @@
     "Genre": "neo-psychedelic, indie"
   },
   {
+    "SongID": 1294003,
+    "Album": "54+1",
+    "Duration": "3:25",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
+    "Popularity": 87,
+    "ReleaseDate": "2019-03-22",
+    "Genre": null
+  },
+  {
     "SongID": 1295619,
     "Album": "POR SI MAÑANA NO ESTOY",
     "Duration": "03:15",
@@ -684,15 +693,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274799552,
-    "Album": "ARIRANG",
-    "Duration": "3:00",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-    "Popularity": 95,
-    "ReleaseDate": "2026-03-20",
-    "Genre": null
-  },
-  {
     "SongID": 1274799553,
     "Album": "ARIRANG",
     "Duration": "3:02",
@@ -702,36 +702,9 @@
     "Genre": null
   },
   {
-    "SongID": 1274799555,
-    "Album": "ARIRANG",
-    "Duration": "3:09",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-    "Popularity": 94,
-    "ReleaseDate": "2026-03-20",
-    "Genre": null
-  },
-  {
-    "SongID": 1274799558,
-    "Album": "ARIRANG",
-    "Duration": "3:01",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-    "Popularity": 94,
-    "ReleaseDate": "2026-03-20",
-    "Genre": null
-  },
-  {
     "SongID": 1274799562,
     "Album": "ARIRANG",
     "Duration": "2:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
-    "Popularity": 94,
-    "ReleaseDate": "2026-03-20",
-    "Genre": null
-  },
-  {
-    "SongID": 1274799563,
-    "Album": "ARIRANG",
-    "Duration": "2:44",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
     "Popularity": 94,
     "ReleaseDate": "2026-03-20",
@@ -763,15 +736,6 @@
     "Popularity": 84,
     "ReleaseDate": "2026-03-27",
     "Genre": null
-  },
-  {
-    "SongID": 1274806431,
-    "Album": "Que pasa",
-    "Duration": "02:37",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273877b5ac13dc291285d68e182",
-    "Popularity": 0,
-    "ReleaseDate": "2026-03-27",
-    "Genre": "german hip hop"
   },
   {
     "SongID": 1274806485,
@@ -817,24 +781,6 @@
     "Popularity": 30,
     "ReleaseDate": "2026-03-27",
     "Genre": "french rap, pop urbaine"
-  },
-  {
-    "SongID": 1274806787,
-    "Album": "Bad Girl",
-    "Duration": "03:34",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736dfc60ab085c9ceda0557548",
-    "Popularity": 0,
-    "ReleaseDate": "2026-03-27",
-    "Genre": "j-pop"
-  },
-  {
-    "SongID": 1274807654,
-    "Album": "QUÉ GANAS DE COMERTE",
-    "Duration": "3:54",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27389a92068ca462ae66dacbc00",
-    "Popularity": 77,
-    "ReleaseDate": "2026-03-26",
-    "Genre": null
   },
   {
     "SongID": 1274807717,
@@ -936,15 +882,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274812852,
-    "Album": "CLARITY OF MIND",
-    "Duration": "2:42",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a53811f3799c0c60744ad4fe",
-    "Popularity": 50,
-    "ReleaseDate": "2026-04-03",
-    "Genre": null
-  },
-  {
     "SongID": 1274812853,
     "Album": "CLARITY OF MIND",
     "Duration": "2:48",
@@ -959,15 +896,6 @@
     "Duration": "3:12",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a53811f3799c0c60744ad4fe",
     "Popularity": 60,
-    "ReleaseDate": "2026-04-03",
-    "Genre": null
-  },
-  {
-    "SongID": 1274812951,
-    "Album": "VALHALLA CALLING",
-    "Duration": "3:15",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732fb14c7e1dd208112d72891d",
-    "Popularity": 44,
     "ReleaseDate": "2026-04-03",
     "Genre": null
   },
@@ -1017,39 +945,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274815752,
-    "Album": "FLOWERING",
-    "Duration": "3:38",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bd15713cf9824b7842bcd290",
-    "Popularity": 58,
-    "ReleaseDate": "2026-04-07",
-    "Genre": null
-  },
-  {
     "SongID": 1274815760,
     "Album": "Amsham - അംശം",
     "Duration": "4:41",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273530e627d6b4aced65e1ccf4a",
-    "Popularity": 63,
+    "Popularity": 74,
     "ReleaseDate": "2026-04-02",
-    "Genre": null
-  },
-  {
-    "SongID": 1274815912,
-    "Album": "EL MEJOR HOMBRE DEL MUNDO",
-    "Duration": "3:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27338f4012b4bfa54fd54d2b61b",
-    "Popularity": 71,
-    "ReleaseDate": "2026-04-09",
-    "Genre": null
-  },
-  {
-    "SongID": 1274815999,
-    "Album": "Still Where We Were",
-    "Duration": "2:57",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273db662fb4ce747d3b5bdf5663",
-    "Popularity": 41,
-    "ReleaseDate": "2026-04-07",
     "Genre": null
   },
   {
@@ -1086,15 +987,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f995fcdb4d6f1c273a3bc56b",
     "Popularity": 78,
     "ReleaseDate": "2026-04-09",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816431,
-    "Album": "Who is she",
-    "Duration": "2:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273aacd08445d13c6f2e41f842c",
-    "Popularity": 71,
-    "ReleaseDate": "2026-04-06",
     "Genre": null
   },
   {
@@ -1148,33 +1040,6 @@
     "Duration": "2:02",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731f1db73652a998fad59d047f",
     "Popularity": 38,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816996,
-    "Album": "Vangelo",
-    "Duration": "3:10",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273106c24b2e7323189f68e8a4c",
-    "Popularity": 63,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274817000,
-    "Album": "Vangelo",
-    "Duration": "3:00",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273106c24b2e7323189f68e8a4c",
-    "Popularity": 77,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274817009,
-    "Album": "Chapter IV",
-    "Duration": "2:40",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273391478367725de02c678a358",
-    "Popularity": 55,
     "ReleaseDate": "2026-04-10",
     "Genre": null
   },
@@ -1251,24 +1116,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274819524,
-    "Album": "Ciągle tutaj jestem (diss na raka)",
-    "Duration": "2:45",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732ce1885f4af2f2d4ddbffeb5",
-    "Popularity": 62,
-    "ReleaseDate": "2026-04-14",
-    "Genre": null
-  },
-  {
-    "SongID": 1274819553,
-    "Album": "SUPERSTAR",
-    "Duration": "3:14",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273167dd835eedf4112901fa2ff",
-    "Popularity": 75,
-    "ReleaseDate": "2026-04-06",
-    "Genre": null
-  },
-  {
     "SongID": 1274819589,
     "Album": "Topovska",
     "Duration": "2:07",
@@ -1287,12 +1134,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274819683,
-    "Album": "Still Where We Were",
-    "Duration": "2:38",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273db662fb4ce747d3b5bdf5663",
-    "Popularity": 49,
-    "ReleaseDate": "2026-04-07",
+    "SongID": 1274819656,
+    "Album": "Obvious",
+    "Duration": "3:06",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732f8f5ff2fd07b812433da0c6",
+    "Popularity": 75,
+    "ReleaseDate": "2026-04-10",
     "Genre": null
   },
   {
@@ -1320,15 +1167,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733ca2a5f9cec904bf41e9410a",
     "Popularity": 64,
     "ReleaseDate": "2026-04-16",
-    "Genre": null
-  },
-  {
-    "SongID": 1274820127,
-    "Album": "PUERTA ABIERTA",
-    "Duration": "3:05",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e64d4f6a3d2dc1e04c0716d4",
-    "Popularity": 64,
-    "ReleaseDate": "2026-04-09",
     "Genre": null
   },
   {
@@ -1368,39 +1206,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274823358,
-    "Album": "Izabela",
-    "Duration": "2:26",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734db89a10036a85c6d1bc22d0",
-    "Popularity": 41,
-    "ReleaseDate": "2026-04-16",
-    "Genre": null
-  },
-  {
     "SongID": 1274823364,
     "Album": "REDRED",
     "Duration": "2:43",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27324ace1518851b27e9983f739",
     "Popularity": 0,
     "ReleaseDate": "2026-04-20",
-    "Genre": null
-  },
-  {
-    "SongID": 1274824953,
-    "Album": "7TH YEAR: A Moment of Stillness in the Thorns",
-    "Duration": "2:33",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a",
-    "Popularity": 84,
-    "ReleaseDate": "2026-04-13",
-    "Genre": null
-  },
-  {
-    "SongID": 1274826069,
-    "Album": "ARA",
-    "Duration": "3:05",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e3598d41b5a30497b0a50c26",
-    "Popularity": 57,
-    "ReleaseDate": "2026-04-23",
     "Genre": null
   },
   {
@@ -1436,24 +1247,6 @@
     "Duration": "3:15",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27310c7bcb1b86a446e08ac16ae",
     "Popularity": 59,
-    "ReleaseDate": "2026-04-23",
-    "Genre": null
-  },
-  {
-    "SongID": 1274826419,
-    "Album": "STORM",
-    "Duration": "2:53",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f5a3e8908f546883d245acc8",
-    "Popularity": 56,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274826425,
-    "Album": "Ty masz",
-    "Duration": "3:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273982e29ccf749179b0e11b764",
-    "Popularity": 60,
     "ReleaseDate": "2026-04-23",
     "Genre": null
   },
@@ -1638,6 +1431,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274827099,
+    "Album": "EL BAIFO",
+    "Duration": "3:06",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737b84b5d956376cb8e55425f5",
+    "Popularity": 70,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
     "SongID": 1274827106,
     "Album": "EL BAIFO",
     "Duration": "4:17",
@@ -1647,21 +1449,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274827174,
-    "Album": "ČERTO",
-    "Duration": "3:42",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734faacf663735d5f3ae5dbab6",
-    "Popularity": 49,
-    "ReleaseDate": "2026-04-23",
-    "Genre": null
-  },
-  {
-    "SongID": 1274827296,
-    "Album": "Potential",
-    "Duration": "4:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273268a4941736e3d24630266e9",
-    "Popularity": 83,
-    "ReleaseDate": "2026-04-16",
+    "SongID": 1274827386,
+    "Album": "Zion",
+    "Duration": "3:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27310f8bf405ec6085a29cad84c",
+    "Popularity": 66,
+    "ReleaseDate": "2026-04-24",
     "Genre": null
   },
   {
@@ -1670,6 +1463,15 @@
     "Duration": "3:28",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737a601fb00cbcc3536e33eabc",
     "Popularity": 66,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
+    "SongID": 1274827454,
+    "Album": "TURR4ZO",
+    "Duration": "2:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737a601fb00cbcc3536e33eabc",
+    "Popularity": 67,
     "ReleaseDate": "2026-04-24",
     "Genre": null
   },
@@ -1698,15 +1500,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273da7faac40575a10efbff0deb",
     "Popularity": 63,
     "ReleaseDate": "2026-04-11",
-    "Genre": null
-  },
-  {
-    "SongID": 1274828836,
-    "Album": "FINE PLACE TO DIE",
-    "Duration": "3:07",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a94d7a2a1c02b7c061ef4207",
-    "Popularity": 75,
-    "ReleaseDate": "2026-04-30",
     "Genre": null
   },
   {
@@ -1845,27 +1638,9 @@
     "Genre": null
   },
   {
-    "SongID": 1274829055,
-    "Album": "GREENGREEN",
-    "Duration": "2:21",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737a702a4c3a18c1439fdc29ff",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-04",
-    "Genre": null
-  },
-  {
     "SongID": 1274829056,
     "Album": "GREENGREEN",
     "Duration": "2:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737a702a4c3a18c1439fdc29ff",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-04",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829057,
-    "Album": "GREENGREEN",
-    "Duration": "3:04",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737a702a4c3a18c1439fdc29ff",
     "Popularity": 0,
     "ReleaseDate": "2026-05-04",
@@ -1908,27 +1683,9 @@
     "Genre": null
   },
   {
-    "SongID": 1274829147,
-    "Album": "CORSA",
-    "Duration": "2:48",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e95de5752fa81a8611740679",
-    "Popularity": 65,
-    "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
     "SongID": 1274829149,
     "Album": "CORSA",
     "Duration": "4:04",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e95de5752fa81a8611740679",
-    "Popularity": 66,
-    "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829150,
-    "Album": "CORSA",
-    "Duration": "3:33",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e95de5752fa81a8611740679",
     "Popularity": 66,
     "ReleaseDate": "2026-04-30",
@@ -1971,15 +1728,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274829536,
-    "Album": "Bring Your Love",
-    "Duration": "3:36",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e80775d80a049e6a9608f91d",
-    "Popularity": 76,
-    "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
     "SongID": 1274829548,
     "Album": "Te Entiendo (Remix)",
     "Duration": "5:35",
@@ -1989,21 +1737,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274829688,
-    "Album": "MEDUSA REMIX",
-    "Duration": "6:41",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736d7a952aa3b738c7c33258d3",
-    "Popularity": 61,
-    "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829930,
-    "Album": "Eyes on Me",
-    "Duration": "2:34",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273540af9bd29b7dd32fe2f0de0",
-    "Popularity": 69,
-    "ReleaseDate": "2026-04-28",
+    "SongID": 1274829599,
+    "Album": "Angels above me",
+    "Duration": "4:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e9391cce976c427154b24207",
+    "Popularity": 57,
+    "ReleaseDate": "2026-05-01",
     "Genre": null
   },
   {
@@ -2016,15 +1755,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274830046,
-    "Album": "PASE Y PASE",
-    "Duration": "3:01",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27308888b06085f49b63f986aba",
-    "Popularity": 67,
-    "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
     "SongID": 1274830172,
     "Album": "Midnight Sun: Girls Trip",
     "Duration": "2:50",
@@ -2034,48 +1764,84 @@
     "Genre": null
   },
   {
-    "SongID": 1274798846,
-    "Album": "NPT",
-    "Duration": "3:06",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273198fb05418e9fede43800181",
-    "Popularity": 40,
-    "ReleaseDate": "2026-03-23",
-    "Genre": null
-  },
-  {
-    "SongID": 1274798851,
-    "Album": "NPT",
-    "Duration": "2:53",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273198fb05418e9fede43800181",
-    "Popularity": 39,
-    "ReleaseDate": "2026-03-23",
-    "Genre": null
-  },
-  {
-    "SongID": 1274798854,
-    "Album": "NPT",
-    "Duration": "2:32",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273198fb05418e9fede43800181",
-    "Popularity": 36,
-    "ReleaseDate": "2026-03-23",
-    "Genre": null
-  },
-  {
-    "SongID": 1274798865,
-    "Album": "NPT",
-    "Duration": "02:22",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273198fb05418e9fede43800181",
-    "Popularity": 31,
-    "ReleaseDate": "2026-03-23",
-    "Genre": "dancehall, soca, riddim, reggae"
-  },
-  {
-    "SongID": 1274806146,
-    "Album": "Finale",
-    "Duration": "3:26",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27304d5dc46f9d3679844ef13be",
+    "SongID": 1274831615,
+    "Album": "Run Run River",
+    "Duration": "4:20",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732c03a6689e248f14e8965fc7",
     "Popularity": 53,
-    "ReleaseDate": "2026-03-25",
+    "ReleaseDate": "2026-04-26",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834371,
+    "Album": "Sexy Nana",
+    "Duration": "2:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27367ea317da6907b58922c7549",
+    "Popularity": 62,
+    "ReleaseDate": "2026-05-07",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834460,
+    "Album": "Шадэ",
+    "Duration": "2:48",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734c2467ff30230a7e7307aaca",
+    "Popularity": 59,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834474,
+    "Album": "CASA CUBA",
+    "Duration": "2:41",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731c0a4c45017cc02d1caa1238",
+    "Popularity": 68,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834496,
+    "Album": "BROWN",
+    "Duration": "6:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 68,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274835011,
+    "Album": "Hileli",
+    "Duration": "3:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d50dd1e63dd7fcd7e07e5e41",
+    "Popularity": 72,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274835113,
+    "Album": "Спящая красавица",
+    "Duration": "3:44",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739f2ff5e1f10637a5e8be67f0",
+    "Popularity": 47,
+    "ReleaseDate": "2026-05-07",
+    "Genre": null
+  },
+  {
+    "SongID": 1274835359,
+    "Album": "Savage",
+    "Duration": "3:25",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27305359cd65a0ac8e2d540468b",
+    "Popularity": 65,
+    "ReleaseDate": "2026-05-07",
+    "Genre": null
+  },
+  {
+    "SongID": 1274835475,
+    "Album": "Avion de chasse",
+    "Duration": "2:16",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273da6fa41f04859bfb84b2f798",
+    "Popularity": 61,
+    "ReleaseDate": "2026-05-08",
     "Genre": null
   },
   {
@@ -2097,15 +1863,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274809806,
-    "Album": "Crown Jewel",
-    "Duration": "2:28",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eaef2fc7ec64dade2a48e195",
-    "Popularity": 50,
-    "ReleaseDate": "2026-03-25",
-    "Genre": null
-  },
-  {
     "SongID": 1274810171,
     "Album": "Fancy That",
     "Duration": "2:48",
@@ -2120,6 +1877,15 @@
     "Duration": "4:03",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e393c142d26d53aac47abc7d",
     "Popularity": 52,
+    "ReleaseDate": "2026-04-03",
+    "Genre": null
+  },
+  {
+    "SongID": 1274812473,
+    "Album": "Essential",
+    "Duration": "2:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e01ea69a352112124fcffd99",
+    "Popularity": 55,
     "ReleaseDate": "2026-04-03",
     "Genre": null
   },
@@ -2139,15 +1905,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27374b2d49143fc1cafdda937eb",
     "Popularity": 44,
     "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816646,
-    "Album": "Sama Xool",
-    "Duration": "3:13",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f17e1dd08c28a654c466a6fb",
-    "Popularity": 35,
-    "ReleaseDate": "2026-04-07",
     "Genre": null
   },
   {
@@ -2178,38 +1935,11 @@
     "Genre": null
   },
   {
-    "SongID": 1274819656,
-    "Album": "Obvious",
-    "Duration": "3:06",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732f8f5ff2fd07b812433da0c6",
-    "Popularity": 75,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274819827,
-    "Album": "XX",
-    "Duration": "2:49",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27311776a43f15f712fdda0d6f8",
-    "Popularity": 31,
-    "ReleaseDate": "2026-04-17",
-    "Genre": null
-  },
-  {
     "SongID": 1274819834,
     "Album": "XX",
     "Duration": "2:31",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27311776a43f15f712fdda0d6f8",
     "Popularity": 33,
-    "ReleaseDate": "2026-04-17",
-    "Genre": null
-  },
-  {
-    "SongID": 1274819837,
-    "Album": "XX",
-    "Duration": "3:08",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27311776a43f15f712fdda0d6f8",
-    "Popularity": 57,
     "ReleaseDate": "2026-04-17",
     "Genre": null
   },
@@ -2229,6 +1959,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eb15b69407230b713423d3cb",
     "Popularity": 77,
     "ReleaseDate": "2003-11-17",
+    "Genre": null
+  },
+  {
+    "SongID": 1274825997,
+    "Album": "Saca Punta",
+    "Duration": "2:09",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d5a6ebbe6bbc29e4569ec27a",
+    "Popularity": 39,
+    "ReleaseDate": "2026-04-24",
     "Genre": null
   },
   {
@@ -2277,21 +2016,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274828885,
-    "Album": "M$NEY",
-    "Duration": "0:26",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d9cd09fb89c473c2e6ce70b1",
-    "Popularity": 36,
+    "SongID": 1274829536,
+    "Album": "Bring Your Love",
+    "Duration": "3:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e80775d80a049e6a9608f91d",
+    "Popularity": 76,
     "ReleaseDate": "2026-04-30",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829487,
-    "Album": "The Devil Wears Prada 2 (Music From The Motion Picture)",
-    "Duration": "3:29",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273973cd0eba9aa4d0ce3b08228",
-    "Popularity": 70,
-    "ReleaseDate": "2026-05-01",
     "Genre": null
   },
   {
@@ -2313,24 +2043,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274830175,
-    "Album": "Midnight Sun: Girls Trip",
-    "Duration": "2:51",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d20dd1327b269aa6af1fab69",
-    "Popularity": 68,
-    "ReleaseDate": "2026-05-01",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830200,
-    "Album": "Она танцует под шадэ",
-    "Duration": "2:21",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737886052847e206faa389e93a",
-    "Popularity": 21,
-    "ReleaseDate": "2026-05-01",
-    "Genre": null
-  },
-  {
     "SongID": 1274830239,
     "Album": "Bedounak",
     "Duration": "2:39",
@@ -2340,29 +2052,173 @@
     "Genre": null
   },
   {
+    "SongID": 1274834478,
+    "Album": "Rock Music",
+    "Duration": "1:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b7bc469a85354ff1ae7a1386",
+    "Popularity": 74,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834487,
+    "Album": "BROWN",
+    "Duration": "3:28",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 61,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834488,
+    "Album": "BROWN",
+    "Duration": "2:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 63,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834489,
+    "Album": "BROWN",
+    "Duration": "3:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 70,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834490,
+    "Album": "BROWN",
+    "Duration": "2:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 65,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834491,
+    "Album": "BROWN",
+    "Duration": "3:09",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 66,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834492,
+    "Album": "BROWN",
+    "Duration": "2:48",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 62,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834494,
+    "Album": "BROWN",
+    "Duration": "3:07",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 64,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834495,
+    "Album": "BROWN",
+    "Duration": "2:57",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 59,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834497,
+    "Album": "BROWN",
+    "Duration": "3:17",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 60,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834498,
+    "Album": "BROWN",
+    "Duration": "3:06",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 63,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834499,
+    "Album": "BROWN",
+    "Duration": "2:45",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 60,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834500,
+    "Album": "BROWN",
+    "Duration": "3:16",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 62,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834501,
+    "Album": "BROWN",
+    "Duration": "3:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 60,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834502,
+    "Album": "BROWN",
+    "Duration": "3:25",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 62,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834503,
+    "Album": "BROWN",
+    "Duration": "2:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 61,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274834504,
+    "Album": "BROWN",
+    "Duration": "2:48",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734b28d4d23dc56dc3ceda4b5d",
+    "Popularity": 59,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274826818,
+    "Album": "Omiljena bivša",
+    "Duration": "2:25",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27312e087762f3498ec436f9e22",
+    "Popularity": 40,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
     "SongID": 1274827195,
     "Album": "Wajeh El Goumar",
     "Duration": "3:36",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d779d13ad563ae45b5afd02c",
     "Popularity": 30,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829644,
-    "Album": "اعوف كلشي",
-    "Duration": "5:19",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732f84793383750c15db4ed2c9",
-    "Popularity": 26,
-    "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274830681,
-    "Album": "اعتراف",
-    "Duration": "4:41",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273899050491797a13071968929",
-    "Popularity": 25,
     "ReleaseDate": "2026-04-24",
     "Genre": null
   }
