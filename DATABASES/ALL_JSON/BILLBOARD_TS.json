@@ -54,6 +54,15 @@
     "Genre": null
   },
   {
+    "SongID": 114,
+    "Album": "Hunting High and Low",
+    "Duration": "03:45",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+    "Popularity": 87,
+    "ReleaseDate": "1985-06-01",
+    "Genre": ""
+  },
+  {
     "SongID": 131,
     "Album": "Songs From The Big Chair (Super Deluxe Edition)",
     "Duration": "04:11",
@@ -144,6 +153,15 @@
     "Genre": null
   },
   {
+    "SongID": 411,
+    "Album": "The Razors Edge",
+    "Duration": "4:52",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2",
+    "Popularity": 89,
+    "ReleaseDate": "1990-09-24",
+    "Genre": null
+  },
+  {
     "SongID": 435,
     "Album": "Don't Forget About Me, Demos",
     "Duration": "1:37",
@@ -151,6 +169,15 @@
     "Popularity": 100,
     "ReleaseDate": "2018-10-16",
     "Genre": null
+  },
+  {
+    "SongID": 443,
+    "Album": "Future Nostalgia",
+    "Duration": "03:23",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be",
+    "Popularity": 86,
+    "ReleaseDate": "2020-03-27",
+    "Genre": "dance pop, pop, uk pop"
   },
   {
     "SongID": 445,
@@ -205,6 +232,24 @@
     "Popularity": 65,
     "ReleaseDate": "2011-01-01",
     "Genre": null
+  },
+  {
+    "SongID": 528,
+    "Album": "Overexposed",
+    "Duration": "3:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733119f490f02fcee6514e8604",
+    "Popularity": 70,
+    "ReleaseDate": "2021-06-20",
+    "Genre": null
+  },
+  {
+    "SongID": 658,
+    "Album": "Oral Fixation, Vol. 2 (Expanded Edition)",
+    "Duration": "03:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa",
+    "Popularity": 85,
+    "ReleaseDate": "2005-11-28",
+    "Genre": "colombian pop, dance pop, latin pop, pop"
   },
   {
     "SongID": 811,
@@ -333,15 +378,6 @@
     "Genre": "r&b, soul"
   },
   {
-    "SongID": 6680,
-    "Album": "My World 2.0",
-    "Duration": "3:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
-    "Popularity": 78,
-    "ReleaseDate": "2010-01-01",
-    "Genre": null
-  },
-  {
     "SongID": 12447,
     "Album": "Short n' Sweet",
     "Duration": "2:55",
@@ -423,6 +459,15 @@
     "Genre": "album rock, classic rock, hard rock, heartland rock, mellow gold, rock, soft rock"
   },
   {
+    "SongID": 108279,
+    "Album": "Teenage Dream",
+    "Duration": "3:50",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888",
+    "Popularity": 80,
+    "ReleaseDate": "2010-01-01",
+    "Genre": null
+  },
+  {
     "SongID": 108650,
     "Album": "Teenage Dream: The Complete Confection",
     "Duration": "3:47",
@@ -495,15 +540,6 @@
     "Genre": null
   },
   {
-    "SongID": 114692,
-    "Album": "Justice",
-    "Duration": "2:33",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
-    "Popularity": 86,
-    "ReleaseDate": "2021-03-19",
-    "Genre": null
-  },
-  {
     "SongID": 118677,
     "Album": "Un Verano Sin Ti",
     "Duration": "4:03",
@@ -520,15 +556,6 @@
     "Popularity": 79,
     "ReleaseDate": "1976-12-08",
     "Genre": "album rock, classic rock, heartland rock, mellow gold, rock, soft rock, yacht rock"
-  },
-  {
-    "SongID": 309424,
-    "Album": "Short n' Sweet",
-    "Duration": "3:06",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
-    "Popularity": 87,
-    "ReleaseDate": "2024-08-23",
-    "Genre": null
   },
   {
     "SongID": 314997,
@@ -753,15 +780,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27349c26270052e1671add569c1",
     "Popularity": 89,
     "ReleaseDate": "2025-04-25",
-    "Genre": null
-  },
-  {
-    "SongID": 1227607,
-    "Album": "I've Tried Everything But Therapy (Part 1)",
-    "Duration": "3:32",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ebea8d4457c4db5b2088f287",
-    "Popularity": 88,
-    "ReleaseDate": "2023-09-15",
     "Genre": null
   },
   {
@@ -1033,15 +1051,6 @@
     "Popularity": 96,
     "ReleaseDate": "2025-08-15",
     "Genre": "pop soul"
-  },
-  {
-    "SongID": 1272672,
-    "Album": "Man’s Best Friend",
-    "Duration": "2:25",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
-    "Popularity": 87,
-    "ReleaseDate": "2025-08-29",
-    "Genre": null
   },
   {
     "SongID": 1272678,
@@ -1359,6 +1368,15 @@
     "Genre": "corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño, sierreño, banda"
   },
   {
+    "SongID": 1292795,
+    "Album": "Reinicio",
+    "Duration": "03:12",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737a449539f3044f981c6a217b",
+    "Popularity": 85,
+    "ReleaseDate": "2024-05-24",
+    "Genre": "corrido, banda, sierreño, corridos bélicos, norteño, sad sierreño, corridos tumbados"
+  },
+  {
     "SongID": 1292912,
     "Album": "Be By You",
     "Duration": "3:17",
@@ -1566,6 +1584,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274800984,
+    "Album": "Making Mirrors",
+    "Duration": "4:04",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e1d47c00ddecbfb810c807ed",
+    "Popularity": 80,
+    "ReleaseDate": "2011-01-01",
+    "Genre": null
+  },
+  {
     "SongID": 1274801086,
     "Album": "McArthur",
     "Duration": "3:51",
@@ -1581,6 +1608,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38",
     "Popularity": 94,
     "ReleaseDate": "2026-03-06",
+    "Genre": null
+  },
+  {
+    "SongID": 1274801430,
+    "Album": "Diana Ross Presents The Jackson 5",
+    "Duration": "2:56",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+    "Popularity": 83,
+    "ReleaseDate": "1969-12-18",
     "Genre": null
   },
   {
@@ -1665,12 +1701,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274807039,
-    "Album": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
-    "Duration": "2:47",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e43a5a0d757a4f6fc0f19069",
-    "Popularity": 80,
-    "ReleaseDate": "2026-03-27",
+    "SongID": 1274808913,
+    "Album": "NOBLE",
+    "Duration": "3:05",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733adeba767abb79b86ed0449b",
+    "Popularity": 75,
+    "ReleaseDate": "2025-12-26",
     "Genre": null
   },
   {
@@ -1692,21 +1728,21 @@
     "Genre": null
   },
   {
+    "SongID": 1274813659,
+    "Album": "Nalguita y Teta",
+    "Duration": "3:07",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736b0c57d574fae5bbb4f3c8de",
+    "Popularity": 88,
+    "ReleaseDate": "2026-03-27",
+    "Genre": null
+  },
+  {
     "SongID": 1274814795,
     "Album": "Journals",
     "Duration": "4:08",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9",
     "Popularity": 90,
     "ReleaseDate": "2014-05-13",
-    "Genre": null
-  },
-  {
-    "SongID": 1274814798,
-    "Album": "Never Say Never - The Remixes",
-    "Duration": "3:47",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27349130b16d4190db1d6822e59",
-    "Popularity": 84,
-    "ReleaseDate": "2011-01-01",
     "Genre": null
   },
   {
@@ -1719,30 +1755,21 @@
     "Genre": null
   },
   {
-    "SongID": 1274816124,
-    "Album": "Dandelion",
-    "Duration": "3:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738606848da949bbaddf447d87",
-    "Popularity": 65,
-    "ReleaseDate": "2026-04-10",
-    "Genre": null
-  },
-  {
-    "SongID": 1274816203,
-    "Album": "stardust",
-    "Duration": "2:22",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b1dca715942a5394f43b256e",
-    "Popularity": 74,
-    "ReleaseDate": "2026-02-04",
-    "Genre": null
-  },
-  {
     "SongID": 1274816411,
     "Album": "PINKY UP",
     "Duration": "2:11",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f995fcdb4d6f1c273a3bc56b",
     "Popularity": 78,
     "ReleaseDate": "2026-04-09",
+    "Genre": null
+  },
+  {
+    "SongID": 1274816475,
+    "Album": "RUNWAY",
+    "Duration": "2:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273848b466bd71bcaa46cb20030",
+    "Popularity": 84,
+    "ReleaseDate": "2026-04-10",
     "Genre": null
   },
   {
@@ -1800,6 +1827,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274818074,
+    "Album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "Duration": "5:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701",
+    "Popularity": 70,
+    "ReleaseDate": "1995-06-16",
+    "Genre": null
+  },
+  {
     "SongID": 1274818098,
     "Album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
     "Duration": "3:39",
@@ -1833,15 +1869,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c5de196ce2ed053fdeab5a9e",
     "Popularity": 67,
     "ReleaseDate": "2025-08-22",
-    "Genre": null
-  },
-  {
-    "SongID": 1274820113,
-    "Album": "My World",
-    "Duration": "3:49",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737c3bb9f74a98f60bdda6c9a7",
-    "Popularity": 80,
-    "ReleaseDate": "2009-01-01",
     "Genre": null
   },
   {
@@ -1881,39 +1908,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274824581,
-    "Album": "My Way",
-    "Duration": "4:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27310826dcb26320c49a6cb71b6",
-    "Popularity": 64,
-    "ReleaseDate": "2026-04-17",
-    "Genre": null
-  },
-  {
     "SongID": 1274826329,
     "Album": "I Can't Love You Anymore",
     "Duration": "3:48",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c36bd5c2c1448ffc62ab546b",
     "Popularity": 75,
     "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274826606,
-    "Album": "Después de ti",
-    "Duration": "4:35",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bd735e1302f8073b253cc71a",
-    "Popularity": 71,
-    "ReleaseDate": "2026-04-23",
-    "Genre": null
-  },
-  {
-    "SongID": 1274826784,
-    "Album": "I Saw Your Face",
-    "Duration": "3:09",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731e0d253b26e17c0b059471dc",
-    "Popularity": 74,
-    "ReleaseDate": "2026-04-23",
     "Genre": null
   },
   {
@@ -2115,12 +2115,48 @@
     "Genre": null
   },
   {
-    "SongID": 1274827296,
-    "Album": "Potential",
-    "Duration": "4:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273268a4941736e3d24630266e9",
-    "Popularity": 83,
-    "ReleaseDate": "2026-04-16",
+    "SongID": 1274828836,
+    "Album": "FINE PLACE TO DIE",
+    "Duration": "3:07",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a94d7a2a1c02b7c061ef4207",
+    "Popularity": 75,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274829329,
+    "Album": "MAMIHLAPINATAPAI",
+    "Duration": "2:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27361eea484e31bca065904f1c6",
+    "Popularity": 73,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274829404,
+    "Album": "Horses and Divorces",
+    "Duration": "2:43",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27345d3af9413fa57592dadca8b",
+    "Popularity": 47,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274829536,
+    "Album": "Bring Your Love",
+    "Duration": "3:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e80775d80a049e6a9608f91d",
+    "Popularity": 76,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274836911,
+    "Album": "There I Go",
+    "Duration": "3:37",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c47a2b1f5ba679998a0cf7d5",
+    "Popularity": 78,
+    "ReleaseDate": "2025-11-07",
     "Genre": null
   }
 ]
