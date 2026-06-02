@@ -9,6 +9,15 @@
     "Genre": null
   },
   {
+    "SongID": 201,
+    "Album": "Viva La Vida or Death and All His Friends",
+    "Duration": "04:02",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+    "Popularity": 88,
+    "ReleaseDate": "2008-05-26",
+    "Genre": "permanent wave, pop"
+  },
+  {
     "SongID": 276,
     "Album": "Hot Fuss",
     "Duration": "3:42",
@@ -43,15 +52,6 @@
     "Popularity": 86,
     "ReleaseDate": "1998-09-11",
     "Genre": "neo mellow, permanent wave, pop rock, post-grunge"
-  },
-  {
-    "SongID": 868,
-    "Album": "Meet The Orphans",
-    "Duration": "3:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
-    "Popularity": 86,
-    "ReleaseDate": "2010-01-01",
-    "Genre": null
   },
   {
     "SongID": 914,
@@ -115,6 +115,15 @@
     "Popularity": 89,
     "ReleaseDate": "2022-09-16",
     "Genre": ""
+  },
+  {
+    "SongID": 12959,
+    "Album": "HIT ME HARD AND SOFT",
+    "Duration": "4:21",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "Popularity": 93,
+    "ReleaseDate": "2024-05-17",
+    "Genre": null
   },
   {
     "SongID": 19918,
@@ -198,15 +207,6 @@
     "Genre": "canadian hip hop, canadian pop, hip hop, pop rap, rap"
   },
   {
-    "SongID": 600127,
-    "Album": "APT.",
-    "Duration": "2:49",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27346085aa1855bd888abc51a5a",
-    "Popularity": 88,
-    "ReleaseDate": "2024-10-18",
-    "Genre": null
-  },
-  {
     "SongID": 605467,
     "Album": "Love?",
     "Duration": "04:44",
@@ -222,6 +222,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731cc6f24606517f854014ca69",
     "Popularity": 97,
     "ReleaseDate": "2026-02-27",
+    "Genre": null
+  },
+  {
+    "SongID": 800020,
+    "Album": "FEVER DREAM",
+    "Duration": "2:33",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e98fb90ec2e15c005a0b6f7f",
+    "Popularity": 91,
+    "ReleaseDate": "2026-02-26",
     "Genre": null
   },
   {
@@ -270,6 +279,15 @@
     "Genre": null
   },
   {
+    "SongID": 1227593,
+    "Album": "At The Beach, In Every Life",
+    "Duration": "3:31",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27349c26270052e1671add569c1",
+    "Popularity": 89,
+    "ReleaseDate": "2025-04-25",
+    "Genre": null
+  },
+  {
     "SongID": 1228384,
     "Album": "Tropicoqueta",
     "Duration": "3:15",
@@ -294,6 +312,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
     "Popularity": 91,
     "ReleaseDate": "2017-03-03",
+    "Genre": null
+  },
+  {
+    "SongID": 1239705,
+    "Album": "Harry Styles",
+    "Duration": "5:40",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733f8b8a9c71b2bd2f3019940b",
+    "Popularity": 91,
+    "ReleaseDate": "2017-05-12",
     "Genre": null
   },
   {
@@ -468,15 +495,6 @@
     "Genre": null
   },
   {
-    "SongID": 1273311,
-    "Album": "Choosin' Texas",
-    "Duration": "03:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390958927fbba47a62c3e63f8",
-    "Popularity": 83,
-    "ReleaseDate": "2025-10-17",
-    "Genre": "country"
-  },
-  {
     "SongID": 1273949,
     "Album": "Synchronicity (Remastered 2003)",
     "Duration": "4:13",
@@ -504,13 +522,13 @@
     "Genre": ""
   },
   {
-    "SongID": 1288574,
-    "Album": "I Just Might",
-    "Duration": "3:32",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e7623a0a60f330ee2b24d498",
-    "Popularity": 92,
-    "ReleaseDate": "2026-01-09",
-    "Genre": null
+    "SongID": 1289869,
+    "Album": "iloveitiloveitiloveit",
+    "Duration": "03:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ce4abadeadb4f56458cc6390",
+    "Popularity": 75,
+    "ReleaseDate": "2026-01-11",
+    "Genre": ""
   },
   {
     "SongID": 1291143,
@@ -553,7 +571,7 @@
     "Album": "LET ME BE",
     "Duration": "3:09",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a7f35412a7d98bc08b2289fc",
-    "Popularity": 74,
+    "Popularity": 85,
     "ReleaseDate": "2026-01-25",
     "Genre": null
   },
@@ -648,39 +666,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274819589,
-    "Album": "Topovska",
-    "Duration": "2:07",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736c8126999b17e82e8b811378",
-    "Popularity": 0,
-    "ReleaseDate": "2026-04-17",
-    "Genre": null
-  },
-  {
-    "SongID": 1274819813,
-    "Album": "Head Movement",
-    "Duration": "6:26",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27388a16bf3116a407a4d9dc019",
-    "Popularity": 11,
-    "ReleaseDate": "2026-04-17",
-    "Genre": null
-  },
-  {
     "SongID": 1274820501,
     "Album": "drop dead",
     "Duration": "3:44",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c25b53f0a34aa1bb4f77cb3e",
     "Popularity": 0,
     "ReleaseDate": "2026-04-17",
-    "Genre": null
-  },
-  {
-    "SongID": 1274820531,
-    "Album": "666",
-    "Duration": "2:20",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273844035d763c7954e60e7076b",
-    "Popularity": 48,
-    "ReleaseDate": "2026-04-16",
     "Genre": null
   },
   {
@@ -716,6 +707,15 @@
     "Duration": "3:48",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c36bd5c2c1448ffc62ab546b",
     "Popularity": 75,
+    "ReleaseDate": "2026-04-24",
+    "Genre": null
+  },
+  {
+    "SongID": 1274826966,
+    "Album": "The Great Divide",
+    "Duration": "4:32",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
+    "Popularity": 77,
     "ReleaseDate": "2026-04-24",
     "Genre": null
   },
@@ -756,6 +756,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274826979,
+    "Album": "The Great Divide: The Last Of The Bugs",
+    "Duration": "4:28",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
+    "Popularity": 70,
+    "ReleaseDate": "2026-04-25",
+    "Genre": null
+  },
+  {
     "SongID": 1274826981,
     "Album": "The Great Divide",
     "Duration": "4:57",
@@ -780,15 +789,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737b84b5d956376cb8e55425f5",
     "Popularity": 70,
     "ReleaseDate": "2026-04-24",
-    "Genre": null
-  },
-  {
-    "SongID": 1274827464,
-    "Album": "SHE DID IT AGAIN (feat. Zara Larsson)",
-    "Duration": "3:33",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273564858dca5482e57c932782f",
-    "Popularity": 83,
-    "ReleaseDate": "2026-04-17",
     "Genre": null
   },
   {
@@ -864,6 +864,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274828889,
+    "Album": "M$NEY",
+    "Duration": "3:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d9cd09fb89c473c2e6ce70b1",
+    "Popularity": 69,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
     "SongID": 1274828890,
     "Album": "M$NEY",
     "Duration": "2:23",
@@ -879,15 +888,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730fbcc1d9dc6a647af4ebdfee",
     "Popularity": 0,
     "ReleaseDate": "2026-05-04",
-    "Genre": null
-  },
-  {
-    "SongID": 1274829013,
-    "Album": "Everybody Wanna Be In Love",
-    "Duration": "6:51",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733f28b40f622f4a209a865932",
-    "Popularity": 33,
-    "ReleaseDate": "2026-04-17",
     "Genre": null
   },
   {
@@ -945,6 +945,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274829599,
+    "Album": "Angels above me",
+    "Duration": "4:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e9391cce976c427154b24207",
+    "Popularity": 57,
+    "ReleaseDate": "2026-05-01",
+    "Genre": null
+  },
+  {
     "SongID": 1274829932,
     "Album": "The Devil Wears Prada 2 (Music From The Motion Picture)",
     "Duration": "2:58",
@@ -960,6 +969,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27308888b06085f49b63f986aba",
     "Popularity": 67,
     "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274831053,
+    "Album": "Așa și așa",
+    "Duration": "2:34",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735843dcc4b616a42dc200aec4",
+    "Popularity": 37,
+    "ReleaseDate": "2026-05-05",
     "Genre": null
   },
   {
@@ -1017,21 +1035,21 @@
     "Genre": null
   },
   {
-    "SongID": 1274834961,
-    "Album": "SABIA",
-    "Duration": "2:36",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733bc78f16328cc9ebef1b4010",
-    "Popularity": 71,
-    "ReleaseDate": "2026-04-16",
-    "Genre": null
-  },
-  {
     "SongID": 1274835011,
     "Album": "Hileli",
     "Duration": "3:22",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27368bf830b9d954889967c81b2",
     "Popularity": 82,
     "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
+    "SongID": 1274835125,
+    "Album": "BBL",
+    "Duration": "2:15",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734619564561ea61a0b3396d40",
+    "Popularity": 55,
+    "ReleaseDate": "2026-04-22",
     "Genre": null
   },
   {
@@ -1093,15 +1111,6 @@
     "Album": "ICEMAN",
     "Duration": "5:02",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-15",
-    "Genre": null
-  },
-  {
-    "SongID": 1274835958,
-    "Album": "HABIBTI",
-    "Duration": "4:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b92879e45761d711016476df",
     "Popularity": 0,
     "ReleaseDate": "2026-05-15",
     "Genre": null
@@ -1287,6 +1296,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274836682,
+    "Album": "Karuppa Kooda Va (From \"Karuppu\")",
+    "Duration": "4:10",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a90c76c657bba3858e81fe9a",
+    "Popularity": 75,
+    "ReleaseDate": "2026-04-28",
+    "Genre": null
+  },
+  {
     "SongID": 1274836725,
     "Album": "Dai Dai",
     "Duration": "3:43",
@@ -1341,6 +1359,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274837669,
+    "Album": "Doar Pentru Tine Amore",
+    "Duration": "3:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27396821612efc71c2d9ec230e8",
+    "Popularity": 34,
+    "ReleaseDate": "2026-05-15",
+    "Genre": null
+  },
+  {
     "SongID": 1274837713,
     "Album": "G Party / Vše co chci",
     "Duration": "2:09",
@@ -1353,15 +1380,6 @@
     "SongID": 1274838419,
     "Album": "OMAKASE",
     "Duration": "3:34",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736ed39fc4ac85aa4ce6ea1793",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-22",
-    "Genre": null
-  },
-  {
-    "SongID": 1274838420,
-    "Album": "OMAKASE",
-    "Duration": "3:26",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736ed39fc4ac85aa4ce6ea1793",
     "Popularity": 0,
     "ReleaseDate": "2026-05-22",
@@ -1395,6 +1413,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274838573,
+    "Album": "MUDA",
+    "Duration": "3:46",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27365d13953137cf8b2b22d2a88",
+    "Popularity": 74,
+    "ReleaseDate": "2026-05-08",
+    "Genre": null
+  },
+  {
     "SongID": 1274838597,
     "Album": "Bermuda Triangle",
     "Duration": "2:56",
@@ -1410,6 +1437,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d6e4227850346a74a114c0f7",
     "Popularity": 67,
     "ReleaseDate": "2026-05-20",
+    "Genre": null
+  },
+  {
+    "SongID": 1274838900,
+    "Album": "Movin' To The Sun",
+    "Duration": "2:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27322cf11097fe39abd85ea0ba7",
+    "Popularity": 31,
+    "ReleaseDate": "2026-05-22",
     "Genre": null
   },
   {
@@ -1458,6 +1494,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274838943,
+    "Album": "GODZILLA",
+    "Duration": "2:25",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735bd042d71cb05d11698c7076",
+    "Popularity": 65,
+    "ReleaseDate": "2026-05-23",
+    "Genre": null
+  },
+  {
     "SongID": 1274839071,
     "Album": "'PUREFLOW', Pt. 1",
     "Duration": "2:56",
@@ -1473,15 +1518,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738137fce21bfc6a7c3da0db67",
     "Popularity": 62,
     "ReleaseDate": "2026-05-14",
-    "Genre": null
-  },
-  {
-    "SongID": 1274839311,
-    "Album": "LEMONADE - The 2nd Album (KARINA Special Version)",
-    "Duration": "3:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732c46c378df1e1bf3ecb370e9",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-28",
     "Genre": null
   },
   {
@@ -1515,15 +1551,6 @@
     "SongID": 1274839317,
     "Album": "LEMONADE - The 2nd Album (WINTER Special Version)",
     "Duration": "2:42",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e9ad5b2becb5f9aae0d67de6",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274839318,
-    "Album": "LEMONADE - The 2nd Album (WINTER Special Version)",
-    "Duration": "3:23",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e9ad5b2becb5f9aae0d67de6",
     "Popularity": 0,
     "ReleaseDate": "2026-05-28",
@@ -1575,47 +1602,11 @@
     "Genre": null
   },
   {
-    "SongID": 1274839484,
-    "Album": "Blanco nemesis",
-    "Duration": "3:30",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cdb6e314df2fa18513fd80d",
-    "Popularity": 38,
-    "ReleaseDate": "2026-05-28",
-    "Genre": null
-  },
-  {
     "SongID": 1274839485,
     "Album": "Blanco nemesis",
     "Duration": "3:06",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cdb6e314df2fa18513fd80d",
     "Popularity": 41,
-    "ReleaseDate": "2026-05-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274839486,
-    "Album": "Blanco nemesis",
-    "Duration": "3:12",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cdb6e314df2fa18513fd80d",
-    "Popularity": 39,
-    "ReleaseDate": "2026-05-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274839487,
-    "Album": "Blanco nemesis",
-    "Duration": "2:58",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cdb6e314df2fa18513fd80d",
-    "Popularity": 38,
-    "ReleaseDate": "2026-05-28",
-    "Genre": null
-  },
-  {
-    "SongID": 1274839488,
-    "Album": "Blanco nemesis",
-    "Duration": "3:38",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cdb6e314df2fa18513fd80d",
-    "Popularity": 39,
     "ReleaseDate": "2026-05-28",
     "Genre": null
   },
@@ -1629,15 +1620,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274839490,
-    "Album": "Blanco nemesis",
-    "Duration": "2:54",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cdb6e314df2fa18513fd80d",
-    "Popularity": 40,
-    "ReleaseDate": "2026-05-28",
-    "Genre": null
-  },
-  {
     "SongID": 1274839685,
     "Album": "So muss man gehen",
     "Duration": "4:12",
@@ -1647,12 +1629,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274839702,
-    "Album": "Game Time (FIFA World Cup 2026™)",
-    "Duration": "3:26",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92",
-    "Popularity": 45,
-    "ReleaseDate": "2026-05-29",
+    "SongID": 1274839694,
+    "Album": "Обнял потом поцеловал x Tuesday",
+    "Duration": "2:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735404115a855e349cc2206b2e",
+    "Popularity": 55,
+    "ReleaseDate": "2026-05-24",
     "Genre": null
   },
   {
@@ -1710,6 +1692,24 @@
     "Genre": null
   },
   {
+    "SongID": 1274840531,
+    "Album": "SABAH EL WARD / صباح الورد",
+    "Duration": "3:10",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e92a73b9e0c4ea3789cf8631",
+    "Popularity": 65,
+    "ReleaseDate": "2026-05-22",
+    "Genre": null
+  },
+  {
+    "SongID": 1274840645,
+    "Album": "KILLY MANJARO",
+    "Duration": "2:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c5e3c29805829b4664754260",
+    "Popularity": 71,
+    "ReleaseDate": "2026-05-21",
+    "Genre": null
+  },
+  {
     "SongID": 1274840754,
     "Album": "ME VALE V",
     "Duration": "3:06",
@@ -1737,11 +1737,38 @@
     "Genre": null
   },
   {
-    "SongID": 1274841847,
-    "Album": "Do Not Disturb: Late Checkout",
-    "Duration": "3:22",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
-    "Popularity": 32,
+    "SongID": 1274841279,
+    "Album": "La Voz Favorita",
+    "Duration": "4:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c132fb4ba462a3859c4f2ff3",
+    "Popularity": 65,
+    "ReleaseDate": "2026-05-28",
+    "Genre": null
+  },
+  {
+    "SongID": 1274841844,
+    "Album": "Elumelu",
+    "Duration": "2:13",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739b2fda0d48eb15f81c15b0b6",
+    "Popularity": 31,
+    "ReleaseDate": "2026-05-29",
+    "Genre": null
+  },
+  {
+    "SongID": 1274841880,
+    "Album": "NETFLIX CHILL",
+    "Duration": "2:28",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e87332eee3e68a3cd7fb32e7",
+    "Popularity": 47,
+    "ReleaseDate": "2026-05-28",
+    "Genre": null
+  },
+  {
+    "SongID": 1274841900,
+    "Album": "Омут",
+    "Duration": "2:44",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27348c2399b451eaf872de2d60f",
+    "Popularity": 29,
     "ReleaseDate": "2026-05-29",
     "Genre": null
   },
@@ -1761,15 +1788,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
     "Popularity": 77,
     "ReleaseDate": "2025-05-09",
-    "Genre": null
-  },
-  {
-    "SongID": 1274819823,
-    "Album": "Jam",
-    "Duration": "3:00",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733ca2a5f9cec904bf41e9410a",
-    "Popularity": 64,
-    "ReleaseDate": "2026-04-16",
     "Genre": null
   },
   {
@@ -1881,6 +1899,15 @@
     "Genre": null
   },
   {
+    "SongID": 1274835958,
+    "Album": "HABIBTI",
+    "Duration": "4:16",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b92879e45761d711016476df",
+    "Popularity": 0,
+    "ReleaseDate": "2026-05-15",
+    "Genre": null
+  },
+  {
     "SongID": 1274835970,
     "Album": "HABIBTI",
     "Duration": "3:53",
@@ -1953,15 +1980,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274837599,
-    "Album": "MAID OF HONOUR",
-    "Duration": "3:22",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
-    "Popularity": 77,
-    "ReleaseDate": "2026-05-15",
-    "Genre": null
-  },
-  {
     "SongID": 1274837601,
     "Album": "HABIBTI",
     "Duration": "3:08",
@@ -1980,30 +1998,57 @@
     "Genre": null
   },
   {
-    "SongID": 1274838427,
-    "Album": "OMAKASE",
-    "Duration": "3:28",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736ed39fc4ac85aa4ce6ea1793",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-22",
+    "SongID": 1274839486,
+    "Album": "Blanco nemesis",
+    "Duration": "3:12",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cdb6e314df2fa18513fd80d",
+    "Popularity": 39,
+    "ReleaseDate": "2026-05-28",
     "Genre": null
   },
   {
-    "SongID": 1274838600,
-    "Album": "Bermuda Triangle",
-    "Duration": "2:08",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273db055ba83d3809eec4c86527",
-    "Popularity": 59,
-    "ReleaseDate": "2026-05-21",
+    "SongID": 1274839488,
+    "Album": "Blanco nemesis",
+    "Duration": "3:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cdb6e314df2fa18513fd80d",
+    "Popularity": 39,
+    "ReleaseDate": "2026-05-28",
     "Genre": null
   },
   {
-    "SongID": 1274839368,
-    "Album": "WUL UP",
-    "Duration": "2:45",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273300ee86a77617ed5e03322f9",
-    "Popularity": 49,
-    "ReleaseDate": "2026-05-23",
+    "SongID": 1274839702,
+    "Album": "Game Time (FIFA World Cup 2026™)",
+    "Duration": "3:26",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92",
+    "Popularity": 45,
+    "ReleaseDate": "2026-05-29",
+    "Genre": null
+  },
+  {
+    "SongID": 1274839761,
+    "Album": "SORRY I'M BAD",
+    "Duration": "2:53",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f720d917c23d9b388b017a7f",
+    "Popularity": 44,
+    "ReleaseDate": "2026-05-29",
+    "Genre": null
+  },
+  {
+    "SongID": 1274839769,
+    "Album": "SORRY I'M BAD",
+    "Duration": "3:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f720d917c23d9b388b017a7f",
+    "Popularity": 46,
+    "ReleaseDate": "2026-05-29",
+    "Genre": null
+  },
+  {
+    "SongID": 1274839774,
+    "Album": "SORRY I'M BAD",
+    "Duration": "3:35",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f720d917c23d9b388b017a7f",
+    "Popularity": 63,
+    "ReleaseDate": "2026-05-29",
     "Genre": null
   },
   {
@@ -2013,6 +2058,24 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f38f17a38ec846ca83ff7cc5",
     "Popularity": 50,
     "ReleaseDate": "2026-05-22",
+    "Genre": null
+  },
+  {
+    "SongID": 1274841847,
+    "Album": "Do Not Disturb: Late Checkout",
+    "Duration": "3:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+    "Popularity": 32,
+    "ReleaseDate": "2026-05-29",
+    "Genre": null
+  },
+  {
+    "SongID": 1274841954,
+    "Album": "Beni Al (Ta Ki Seni Görene Kadar) [Afro House Remix]",
+    "Duration": "4:12",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27331ac252471eb45aa764524e8",
+    "Popularity": 36,
+    "ReleaseDate": "2026-05-26",
     "Genre": null
   },
   {
