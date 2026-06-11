@@ -1,70 +1,162 @@
 [
   {
     "SongID": 1162666,
-    "Position": 1
-  },
-  {
-    "SongID": 1274839337,
-    "Position": 2
-  },
-  {
-    "SongID": 1274834677,
-    "Position": 3
-  },
-  {
-    "SongID": 1274813460,
-    "Position": 4
-  },
-  {
-    "SongID": 1274802603,
-    "Position": 5
-  },
-  {
-    "SongID": 1237155,
-    "Position": 6
-  },
-  {
-    "SongID": 1274827468,
-    "Position": 7
-  },
-  {
-    "SongID": 1274817335,
-    "Position": 9
-  },
-  {
-    "SongID": 1274799510,
-    "Position": 10
-  },
-  {
-    "SongID": 1274819897,
-    "Position": 11
-  },
-  {
-    "SongID": 1279440,
-    "Position": 12
-  },
-  {
-    "SongID": 1162671,
-    "Position": 13
-  },
-  {
-    "SongID": 1274839551,
-    "Position": 15
-  },
-  {
-    "SongID": 1274827092,
-    "Position": 17
+    "Position": 1,
+    "Title": "กลัวว่าฉันจะไม่เสียใจ (Fear)",
+    "Artist": "PURPEECH",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274843688,
-    "Position": 18
+    "Position": 2,
+    "Title": "ย้าย่ายะ",
+    "Artist": "อูโน่ หลาวทอง",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274806066,
-    "Position": 19
+    "SongID": 1274834677,
+    "Position": 3,
+    "Title": "เมื่อถูกค้นพบ (Finally She Found.)",
+    "Artist": "FREEHAND",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1248670,
-    "Position": 20
+    "SongID": 1274809264,
+    "Position": 5,
+    "Title": "ความรัก",
+    "Artist": "Bodyslam",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274813460,
+    "Position": 6,
+    "Title": "ความคิดถึงที่เต็มไปด้วยน้ำตา",
+    "Artist": "โชเล่ย์ ชคัทพล",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839551,
+    "Position": 7,
+    "Title": "ซูเปอร์สตาร์ (SUPERSTAR)",
+    "Artist": "D Gerrard",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1292534,
+    "Position": 8,
+    "Title": "Rain Zone",
+    "Artist": "Maiyarap",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799510,
+    "Position": 9,
+    "Title": "ที่คั่นหนังสือ (Sometimes)",
+    "Artist": "BOWKYLION, NONT TANONT",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1237155,
+    "Position": 10,
+    "Title": "ฝากให้เขารัก",
+    "Artist": "Yes'sir days",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274830226,
+    "Position": 11,
+    "Title": "แคนฮ้างนางฟ้า",
+    "Artist": "กู่แคน",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274827468,
+    "Position": 12,
+    "Title": "ไม่มีใครรู้ตัวเรา",
+    "Artist": "UNHEARD MUSIC",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1279440,
+    "Position": 13,
+    "Title": "สาธุ (Sathu)",
+    "Artist": "ASIA7",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274817335,
+    "Position": 14,
+    "Title": "เต้ยสั่งลา",
+    "Artist": "ธีร์ ทีเร็กซ์",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839364,
+    "Position": 16,
+    "Title": "hate that i made you love me",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274827092,
+    "Position": 18,
+    "Title": "รักให้เธอได้รู้ (Proof.)",
+    "Artist": "PUN",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1162671,
+    "Position": 19,
+    "Title": "รักใครไม่ไหว",
+    "Artist": "Three Man Down",
+    "PlatformCode": "youtube",
+    "CountryCode": "th",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   }
 ]

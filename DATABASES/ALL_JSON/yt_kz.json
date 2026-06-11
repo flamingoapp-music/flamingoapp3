@@ -1,74 +1,172 @@
 [
   {
-    "SongID": 1274798731,
-    "Position": 1
-  },
-  {
-    "SongID": 1274816395,
-    "Position": 2
-  },
-  {
-    "SongID": 1274834318,
-    "Position": 4
-  },
-  {
     "SongID": 1274839308,
-    "Position": 5
-  },
-  {
-    "SongID": 1274805765,
-    "Position": 6
-  },
-  {
-    "SongID": 1274843465,
-    "Position": 7
-  },
-  {
-    "SongID": 1270551,
-    "Position": 8
-  },
-  {
-    "SongID": 1244599,
-    "Position": 9
-  },
-  {
-    "SongID": 1274840512,
-    "Position": 11
-  },
-  {
-    "SongID": 1274816975,
-    "Position": 12
-  },
-  {
-    "SongID": 1274800003,
-    "Position": 13
-  },
-  {
-    "SongID": 1274834460,
-    "Position": 14
-  },
-  {
-    "SongID": 1274827645,
-    "Position": 15
-  },
-  {
-    "SongID": 1290755,
-    "Position": 16
-  },
-  {
-    "SongID": 1287549,
-    "Position": 17
-  },
-  {
-    "SongID": 726438,
-    "Position": 18
-  },
-  {
-    "SongID": 1274840513,
-    "Position": 19
+    "Position": 1,
+    "Title": "Біз жолығамыз",
+    "Artist": "Abzal Uteshov",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274842579,
-    "Position": 20
+    "Position": 2,
+    "Title": "IF I",
+    "Artist": "TREASURE",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274798731,
+    "Position": 3,
+    "Title": "Маған ұнаған",
+    "Artist": "Adilet Zhaugashar, Alisher Bayniyazov",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816395,
+    "Position": 4,
+    "Title": "Ademi",
+    "Artist": "Kalifarniya, Kairat Nurtas",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274834318,
+    "Position": 5,
+    "Title": "Гүл ап барам",
+    "Artist": "Adilet Zhaugashar, Elnur Nauryzbek",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274840513,
+    "Position": 7,
+    "Title": "Sagynysh",
+    "Artist": "Sadraddin, Bakr",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805765,
+    "Position": 8,
+    "Title": "Досым бар менің Ақтауда",
+    "Artist": "Рахымжан Жақайым",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843798,
+    "Position": 10,
+    "Title": "SUGAR HONEY ICE TEA",
+    "Artist": "BABYMONSTER",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1244599,
+    "Position": 11,
+    "Title": "Aua rai",
+    "Artist": "BAYANSULU",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274836456,
+    "Position": 12,
+    "Title": "ЭКСПОНАТ",
+    "Artist": "MIA BOYKA",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274840512,
+    "Position": 13,
+    "Title": "Menin adamym",
+    "Artist": "Sadraddin",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274797266,
+    "Position": 14,
+    "Title": "ВАТ ИЗ ЛАВ",
+    "Artist": "Junior",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800003,
+    "Position": 15,
+    "Title": "ANDA-SANDA",
+    "Artist": "DARICORN",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816975,
+    "Position": 17,
+    "Title": "Мальборо",
+    "Artist": "SAYAN",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274827645,
+    "Position": 18,
+    "Title": "Ләйләм менің",
+    "Artist": "Әбдіжаппар Әлқожа",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274834460,
+    "Position": 19,
+    "Title": "Шадэ",
+    "Artist": "By Индия, Xcho, МОТ",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 726438,
+    "Position": 20,
+    "Title": "Kuiim",
+    "Artist": "ALEM",
+    "PlatformCode": "youtube",
+    "CountryCode": "kz",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   }
 ]

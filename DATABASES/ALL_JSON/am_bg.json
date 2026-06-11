@@ -1,758 +1,1672 @@
 [
   {
     "SongID": 1274841669,
-    "Position": 1
-  },
-  {
-    "SongID": 1274839171,
-    "Position": 2
+    "Position": 1,
+    "Title": "Прахосмукачка",
+    "Artist": "SIMONA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274840555,
-    "Position": 3
+    "Position": 2,
+    "Title": "Кеш, кеш",
+    "Artist": "Selina",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839171,
+    "Position": 3,
+    "Title": "Orient Express",
+    "Artist": "MBT, Krisko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 801153,
-    "Position": 4
-  },
-  {
-    "SongID": 1274839170,
-    "Position": 5
-  },
-  {
-    "SongID": 1274837630,
-    "Position": 6
-  },
-  {
-    "SongID": 1274839169,
-    "Position": 7
+    "Position": 4,
+    "Title": "Bangaranga",
+    "Artist": "DARA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1278665,
-    "Position": 8
+    "Position": 5,
+    "Title": "Jamaican (Bam Bam)",
+    "Artist": "HUGEL & SOLTO (FR)",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274839583,
-    "Position": 9
+    "SongID": 1274837630,
+    "Position": 6,
+    "Title": "Bad Boys",
+    "Artist": "Emanuela, Alisia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274839364,
-    "Position": 10
-  },
-  {
-    "SongID": 1274839166,
-    "Position": 11
-  },
-  {
-    "SongID": 1274839165,
-    "Position": 12
-  },
-  {
-    "SongID": 1274831546,
-    "Position": 14
+    "SongID": 1274839170,
+    "Position": 7,
+    "Title": "Ne be nqmam",
+    "Artist": "MBT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274816661,
-    "Position": 15
+    "Position": 8,
+    "Title": "Тарикат",
+    "Artist": "Mirela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1226493,
-    "Position": 16
+    "SongID": 1274839169,
+    "Position": 10,
+    "Title": "Greshni",
+    "Artist": "MBT, V:RGO, BM",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274839167,
-    "Position": 17
-  },
-  {
-    "SongID": 1274810495,
-    "Position": 18
+    "SongID": 1274831546,
+    "Position": 11,
+    "Title": "Хващаме бас",
+    "Artist": "Preslava, Galena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1273031,
-    "Position": 19
+    "Position": 12,
+    "Title": "Вдига му бившата",
+    "Artist": "Selina",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839583,
+    "Position": 13,
+    "Title": "HA-HA",
+    "Artist": "Dessita",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1272971,
+    "Position": 14,
+    "Title": "Катинара",
+    "Artist": "SIMONA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1272979,
+    "Position": 15,
+    "Title": "Трафик",
+    "Artist": "Selina",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839165,
+    "Position": 16,
+    "Title": "209",
+    "Artist": "MBT, BM, Shunaka, Bliznacite",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274802347,
-    "Position": 20
+    "Position": 17,
+    "Title": "Охрана",
+    "Artist": "Lidia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839166,
+    "Position": 18,
+    "Title": "Alchen",
+    "Artist": "MBT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274831400,
-    "Position": 21
+    "Position": 19,
+    "Title": "Дискотека",
+    "Artist": "Krissy, Tedi Aleksandrova",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1230339,
-    "Position": 22
-  },
-  {
-    "SongID": 1274839030,
-    "Position": 23
-  },
-  {
-    "SongID": 1274806324,
-    "Position": 24
+    "SongID": 1288529,
+    "Position": 20,
+    "Title": "Малката, Сладката",
+    "Artist": "Tereza",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1295966,
-    "Position": 25
+    "Position": 22,
+    "Title": "LET ME BE",
+    "Artist": "The Second Voice",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839364,
+    "Position": 23,
+    "Title": "hate that i made you love me",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274800873,
-    "Position": 26
+    "Position": 24,
+    "Title": "100 живота",
+    "Artist": "Galena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 58500,
-    "Position": 27
-  },
-  {
-    "SongID": 603376,
-    "Position": 28
-  },
-  {
-    "SongID": 1291305,
-    "Position": 29
-  },
-  {
-    "SongID": 1274806323,
-    "Position": 30
-  },
-  {
-    "SongID": 914,
-    "Position": 31
-  },
-  {
-    "SongID": 1274804898,
-    "Position": 32
-  },
-  {
-    "SongID": 1274835960,
-    "Position": 33
-  },
-  {
-    "SongID": 1274806329,
-    "Position": 34
-  },
-  {
-    "SongID": 1274827212,
-    "Position": 35
-  },
-  {
-    "SongID": 1274810496,
-    "Position": 36
-  },
-  {
-    "SongID": 1274806322,
-    "Position": 37
-  },
-  {
-    "SongID": 1274827379,
-    "Position": 38
-  },
-  {
-    "SongID": 45873,
-    "Position": 39
+    "Position": 25,
+    "Title": "Deja Vu",
+    "Artist": "SIMONA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 603367,
-    "Position": 40
+    "Position": 26,
+    "Title": "Нотариално заверен",
+    "Artist": "Emanuela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 51071,
-    "Position": 41
+    "SongID": 1274804898,
+    "Position": 28,
+    "Title": "365",
+    "Artist": "Tedi Aleksandrova, Monkey",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274800281,
-    "Position": 42
+    "SongID": 1274827212,
+    "Position": 29,
+    "Title": "Диамант",
+    "Artist": "Selina, Lorena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 603378,
-    "Position": 43
+    "SongID": 603376,
+    "Position": 30,
+    "Title": "И на всички като тебе",
+    "Artist": "Desi Slava",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274805927,
-    "Position": 44
+    "SongID": 1274839030,
+    "Position": 31,
+    "Title": "Завърти Го",
+    "Artist": "Kiara",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 49195,
-    "Position": 46
+    "SongID": 1274810496,
+    "Position": 34,
+    "Title": "Наказвам",
+    "Artist": "Tereza",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274805112,
-    "Position": 47
+    "SongID": 1274839167,
+    "Position": 35,
+    "Title": "Aromat",
+    "Artist": "MBT, BM",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 603380,
-    "Position": 48
+    "SongID": 914,
+    "Position": 36,
+    "Title": "Billie Jean",
+    "Artist": "Michael Jackson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274820377,
-    "Position": 49
+    "SongID": 45873,
+    "Position": 37,
+    "Title": "Ustnite ti mrasni",
+    "Artist": "Emanuela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 207016,
-    "Position": 50
-  },
-  {
-    "SongID": 1274839168,
-    "Position": 51
-  },
-  {
-    "SongID": 1274835153,
-    "Position": 52
-  },
-  {
-    "SongID": 1273010,
-    "Position": 53
-  },
-  {
-    "SongID": 1283311,
-    "Position": 54
-  },
-  {
-    "SongID": 1274800867,
-    "Position": 55
-  },
-  {
-    "SongID": 1274804407,
-    "Position": 56
+    "SongID": 1274827379,
+    "Position": 38,
+    "Title": "Top",
+    "Artist": "Tedi Aleksandrova",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1272983,
-    "Position": 57
+    "Position": 39,
+    "Title": "Целувка с Tequila",
+    "Artist": "Mirela, Lidia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274812252,
-    "Position": 58
+    "SongID": 1274804407,
+    "Position": 40,
+    "Title": "Откачила",
+    "Artist": "Selina, Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274835960,
+    "Position": 41,
+    "Title": "Janice STFU",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800281,
+    "Position": 42,
+    "Title": "Луда жена",
+    "Artist": "Djordan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805927,
+    "Position": 43,
+    "Title": "Tintiri Mintiri",
+    "Artist": "Beatris, Monkey",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274800874,
-    "Position": 59
+    "Position": 44,
+    "Title": "Феноменален",
+    "Artist": "Galena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274829754,
-    "Position": 60
+    "SongID": 1291305,
+    "Position": 45,
+    "Title": "JALLA",
+    "Artist": "Antigoni",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1248284,
-    "Position": 61
+    "SongID": 1274812252,
+    "Position": 46,
+    "Title": "С мен да вървиш",
+    "Artist": "Galin, Dzhena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274812060,
-    "Position": 62
+    "SongID": 51071,
+    "Position": 47,
+    "Title": "Euphoria",
+    "Artist": "Galena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274798824,
-    "Position": 63
+    "SongID": 207016,
+    "Position": 48,
+    "Title": "Дивана",
+    "Artist": "Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274806330,
-    "Position": 64
+    "SongID": 603380,
+    "Position": 50,
+    "Title": "Dobre ti beshe (feat. Toni Storaro)",
+    "Artist": "Alisia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274837604,
-    "Position": 65
+    "SongID": 1274805112,
+    "Position": 51,
+    "Title": "БЕДНИ И БОГАТИ",
+    "Artist": "Torino, Pashata, Toni Storaro",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 207076,
-    "Position": 66
+    "SongID": 1283311,
+    "Position": 52,
+    "Title": "Флиртаджийка",
+    "Artist": "Kiara",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1937,
-    "Position": 67
-  },
-  {
-    "SongID": 1274806335,
-    "Position": 68
-  },
-  {
-    "SongID": 1238335,
-    "Position": 69
-  },
-  {
-    "SongID": 1272973,
-    "Position": 70
-  },
-  {
-    "SongID": 1274806326,
-    "Position": 71
-  },
-  {
-    "SongID": 1274835147,
-    "Position": 72
-  },
-  {
-    "SongID": 1274800875,
-    "Position": 73
-  },
-  {
-    "SongID": 1274804103,
-    "Position": 74
-  },
-  {
-    "SongID": 1274806334,
-    "Position": 75
-  },
-  {
-    "SongID": 1236532,
-    "Position": 76
-  },
-  {
-    "SongID": 1295062,
-    "Position": 77
-  },
-  {
-    "SongID": 1274835966,
-    "Position": 78
+    "SongID": 1274820377,
+    "Position": 53,
+    "Title": "Dirty Diana",
+    "Artist": "Michael Jackson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274800233,
-    "Position": 80
-  },
-  {
-    "SongID": 1274806340,
-    "Position": 81
-  },
-  {
-    "SongID": 18840,
-    "Position": 82
-  },
-  {
-    "SongID": 1274800525,
-    "Position": 83
-  },
-  {
-    "SongID": 1274805159,
-    "Position": 84
-  },
-  {
-    "SongID": 975060,
-    "Position": 85
-  },
-  {
-    "SongID": 1292963,
-    "Position": 87
-  },
-  {
-    "SongID": 1274805260,
-    "Position": 88
-  },
-  {
-    "SongID": 206989,
-    "Position": 89
-  },
-  {
-    "SongID": 1274799000,
-    "Position": 90
-  },
-  {
-    "SongID": 1274805161,
-    "Position": 91
-  },
-  {
-    "SongID": 1274802877,
-    "Position": 92
-  },
-  {
-    "SongID": 108652,
-    "Position": 93
-  },
-  {
-    "SongID": 18844,
-    "Position": 94
-  },
-  {
-    "SongID": 603390,
-    "Position": 95
-  },
-  {
-    "SongID": 1274806256,
-    "Position": 96
-  },
-  {
-    "SongID": 1274804998,
-    "Position": 97
-  },
-  {
-    "SongID": 1274835148,
-    "Position": 98
-  },
-  {
-    "SongID": 1274834460,
-    "Position": 99
+    "Position": 54,
+    "Title": "Окадар",
+    "Artist": "DJ Damyan, Emanuela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274826652,
-    "Position": 100
+    "Position": 55,
+    "Title": "Злобари",
+    "Artist": "Krasyo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274807265,
-    "Position": 101
+    "SongID": 49195,
+    "Position": 56,
+    "Title": "Podvodnitsa",
+    "Artist": "Emanuela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274826846,
-    "Position": 102
+    "SongID": 1236532,
+    "Position": 57,
+    "Title": "Джумбаре",
+    "Artist": "Krissy & Selina",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800867,
+    "Position": 59,
+    "Title": "Габриела",
+    "Artist": "Gabriella, Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1272973,
+    "Position": 60,
+    "Title": "Тази дискотека",
+    "Artist": "Galin, Azis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274812060,
+    "Position": 61,
+    "Title": "Take Me There",
+    "Artist": "DA TI",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805260,
+    "Position": 62,
+    "Title": "Бавария",
+    "Artist": "VANE$$A, Konstantin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 603378,
+    "Position": 64,
+    "Title": "Смени паролата си",
+    "Artist": "Desi Slava",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1937,
+    "Position": 65,
+    "Title": "Chicago",
+    "Artist": "Michael Jackson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1238335,
+    "Position": 67,
+    "Title": "Beat It",
+    "Artist": "Michael Jackson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 207076,
+    "Position": 68,
+    "Title": "Мъже милиарди",
+    "Artist": "Desi Slava",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274798824,
+    "Position": 71,
+    "Title": "Zapali",
+    "Artist": "Alisia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274838900,
-    "Position": 103
+    "Position": 72,
+    "Title": "Movin' To The Sun",
+    "Artist": "HUGEL, Imael Angel, Ultra Naté",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274830008,
-    "Position": 104
-  },
-  {
-    "SongID": 65765,
-    "Position": 105
-  },
-  {
-    "SongID": 51078,
-    "Position": 106
-  },
-  {
-    "SongID": 1274826843,
-    "Position": 107
-  },
-  {
-    "SongID": 34270,
-    "Position": 108
-  },
-  {
-    "SongID": 1274837544,
-    "Position": 109
-  },
-  {
-    "SongID": 1272957,
-    "Position": 110
-  },
-  {
-    "SongID": 1274835974,
-    "Position": 111
+    "SongID": 1274799000,
+    "Position": 74,
+    "Title": "Гот ми е",
+    "Artist": "Anelia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 2782,
-    "Position": 112
+    "Position": 75,
+    "Title": "How Deep Is Your Love",
+    "Artist": "Calvin Harris",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 207174,
-    "Position": 113
+    "SongID": 1273010,
+    "Position": 77,
+    "Title": "PORSCHE",
+    "Artist": "V:RGO, Emil TRF, MBT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274806644,
-    "Position": 114
+    "SongID": 206989,
+    "Position": 78,
+    "Title": "Рана",
+    "Artist": "Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1289692,
-    "Position": 116
+    "SongID": 1274837604,
+    "Position": 79,
+    "Title": "Ran To Atlanta (feat. Future & Molly Santana)",
+    "Artist": "Drake, Future, Molly Santana",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274800109,
-    "Position": 118
+    "SongID": 1274805161,
+    "Position": 80,
+    "Title": "Хавте",
+    "Artist": "Tsvetelina Yaneva, Azis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1272989,
-    "Position": 119
+    "SongID": 1274800875,
+    "Position": 81,
+    "Title": "А+Г=ВНЛ",
+    "Artist": "Galena, Azis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 207121,
-    "Position": 120
+    "SongID": 501391,
+    "Position": 82,
+    "Title": "I Adore You",
+    "Artist": "HUGEL",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274806339,
-    "Position": 123
+    "SongID": 108652,
+    "Position": 83,
+    "Title": "Beauty And A Beat",
+    "Artist": "Justin Bieber, Nicki Minaj",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1161843,
-    "Position": 124
-  },
-  {
-    "SongID": 1274798681,
-    "Position": 125
-  },
-  {
-    "SongID": 1274835149,
-    "Position": 126
-  },
-  {
-    "SongID": 1274801397,
-    "Position": 127
-  },
-  {
-    "SongID": 1274812553,
-    "Position": 128
-  },
-  {
-    "SongID": 32604,
-    "Position": 129
-  },
-  {
-    "SongID": 1274800284,
-    "Position": 130
-  },
-  {
-    "SongID": 1161850,
-    "Position": 131
-  },
-  {
-    "SongID": 1274835151,
-    "Position": 132
-  },
-  {
-    "SongID": 1274838441,
-    "Position": 133
-  },
-  {
-    "SongID": 1274806349,
-    "Position": 134
-  },
-  {
-    "SongID": 572251,
-    "Position": 135
-  },
-  {
-    "SongID": 1168201,
-    "Position": 136
-  },
-  {
-    "SongID": 1274806344,
-    "Position": 137
-  },
-  {
-    "SongID": 1274812180,
-    "Position": 138
-  },
-  {
-    "SongID": 1249892,
-    "Position": 139
-  },
-  {
-    "SongID": 1274806363,
-    "Position": 140
-  },
-  {
-    "SongID": 605467,
-    "Position": 141
-  },
-  {
-    "SongID": 1274806352,
-    "Position": 142
-  },
-  {
-    "SongID": 34269,
-    "Position": 143
-  },
-  {
-    "SongID": 1274818064,
-    "Position": 144
-  },
-  {
-    "SongID": 207184,
-    "Position": 145
-  },
-  {
-    "SongID": 1274835150,
-    "Position": 146
-  },
-  {
-    "SongID": 18847,
-    "Position": 147
-  },
-  {
-    "SongID": 1274835978,
-    "Position": 148
-  },
-  {
-    "SongID": 1274837384,
-    "Position": 149
-  },
-  {
-    "SongID": 1274817104,
-    "Position": 150
-  },
-  {
-    "SongID": 1294421,
-    "Position": 151
-  },
-  {
-    "SongID": 1294692,
-    "Position": 152
-  },
-  {
-    "SongID": 1274800530,
-    "Position": 153
-  },
-  {
-    "SongID": 1287696,
-    "Position": 154
-  },
-  {
-    "SongID": 1164043,
-    "Position": 155
-  },
-  {
-    "SongID": 1274835154,
-    "Position": 156
-  },
-  {
-    "SongID": 734,
-    "Position": 157
-  },
-  {
-    "SongID": 601965,
-    "Position": 158
-  },
-  {
-    "SongID": 1274829120,
-    "Position": 159
-  },
-  {
-    "SongID": 1274839634,
-    "Position": 160
-  },
-  {
-    "SongID": 18841,
-    "Position": 161
+    "SongID": 1274804998,
+    "Position": 84,
+    "Title": "Heartless",
+    "Artist": "The Weeknd",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 975097,
-    "Position": 162
+    "Position": 87,
+    "Title": "Cry For Me",
+    "Artist": "The Weeknd",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274835152,
-    "Position": 163
+    "SongID": 1274834460,
+    "Position": 88,
+    "Title": "Шадэ",
+    "Artist": "By Индия, Xcho, МОТ",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274802348,
-    "Position": 165
+    "SongID": 501474,
+    "Position": 90,
+    "Title": "Mi Amor",
+    "Artist": "Dessita",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274802878,
-    "Position": 166
+    "SongID": 1272944,
+    "Position": 91,
+    "Title": "Разкажи ѝ",
+    "Artist": "Dessita",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1272997,
-    "Position": 167
+    "SongID": 1272964,
+    "Position": 92,
+    "Title": "Реже, Реже",
+    "Artist": "VANE$$A",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1273018,
-    "Position": 168
+    "SongID": 1272989,
+    "Position": 93,
+    "Title": "Все по живота",
+    "Artist": "Galena, Tsvetelina Yaneva",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 18263,
-    "Position": 169
+    "SongID": 1272954,
+    "Position": 94,
+    "Title": "Не, мерси",
+    "Artist": "Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1290202,
-    "Position": 170
+    "SongID": 1272953,
+    "Position": 95,
+    "Title": "Мазохистка",
+    "Artist": "Selina",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 18840,
+    "Position": 96,
+    "Title": "Хапи ме",
+    "Artist": "SIMONA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 603390,
+    "Position": 97,
+    "Title": "California (feat. DJ Tsetsi Ludata glava)",
+    "Artist": "Emilia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274835966,
+    "Position": 98,
+    "Title": "National Treasures",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 18844,
+    "Position": 99,
+    "Title": "Tishinata im",
+    "Artist": "MBT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800525,
+    "Position": 100,
+    "Title": "Мамино синче",
+    "Artist": "Emanuela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274802877,
+    "Position": 101,
+    "Title": "Пистолет",
+    "Artist": "Medi, Azis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 601965,
+    "Position": 102,
+    "Title": "Нещастник (feat. Sofi Marinova)",
+    "Artist": "Selina",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 2015,
-    "Position": 171
+    "Position": 104,
+    "Title": "Into You",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274810171,
-    "Position": 172
+    "SongID": 1274835974,
+    "Position": 106,
+    "Title": "Shabang",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839168,
+    "Position": 107,
+    "Title": "Fokusi RMX",
+    "Artist": "MBT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 207174,
+    "Position": 108,
+    "Title": "Няма драма",
+    "Artist": "Anelia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274826846,
+    "Position": 109,
+    "Title": "Smooth Criminal",
+    "Artist": "Michael Jackson, David Garrett, Ivan Kojouharov, Bulgarian Symphony Orchestra",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274801397,
+    "Position": 110,
+    "Title": "Хотел",
+    "Artist": "Ivayla, Galin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1164035,
+    "Position": 111,
+    "Title": "Only Fans",
+    "Artist": "MBT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274830008,
+    "Position": 112,
+    "Title": "Gonka",
+    "Artist": "Tedi Aleksandrova, Don Mario",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 32604,
+    "Position": 113,
+    "Title": "Mrusni & Tumni",
+    "Artist": "MBT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274806256,
+    "Position": 114,
+    "Title": "Dracula - JENNIE Remix",
+    "Artist": "Tame Impala, JENNIE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805159,
+    "Position": 116,
+    "Title": "Видимо изневерил",
+    "Artist": "Tsvetelina Yaneva",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1272716,
+    "Position": 118,
+    "Title": "NUEVAYoL",
+    "Artist": "Bad Bunny",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 605467,
+    "Position": 119,
+    "Title": "On The Floor (feat. Pitbull)",
+    "Artist": "Jennifer Lopez",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 51078,
+    "Position": 120,
+    "Title": "#OET",
+    "Artist": "Krisko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274826843,
+    "Position": 121,
+    "Title": "Bad",
+    "Artist": "Michael Jackson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 18847,
+    "Position": 124,
+    "Title": "Обичам те, ти мене - не",
+    "Artist": "Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274826282,
+    "Position": 125,
+    "Title": "Mi Chico",
+    "Artist": "DJ Goja",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1287696,
+    "Position": 126,
+    "Title": "Timeless",
+    "Artist": "The Weeknd&Playboi Carti",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274812180,
+    "Position": 127,
+    "Title": "Сбърка адреса",
+    "Artist": "Emilia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1273011,
-    "Position": 173
+    "Position": 128,
+    "Title": "TVOQTA LUBOV",
+    "Artist": "V:RGO, Lidia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274800529,
-    "Position": 174
+    "SongID": 1274800876,
+    "Position": 129,
+    "Title": "Scandal",
+    "Artist": "Galena, Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274803041,
-    "Position": 175
+    "SongID": 1274799087,
+    "Position": 130,
+    "Title": "7 rings",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274840323,
-    "Position": 176
+    "SongID": 65765,
+    "Position": 131,
+    "Title": "Maria",
+    "Artist": "Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1283310,
-    "Position": 177
+    "SongID": 1274800530,
+    "Position": 132,
+    "Title": "Turbulence",
+    "Artist": "Emilia, Florin Salam, Costi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274835387,
-    "Position": 178
+    "SongID": 1295062,
+    "Position": 133,
+    "Title": "Choke Me",
+    "Artist": "Alexandra Căpitănescu",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1277947,
-    "Position": 179
-  },
-  {
-    "SongID": 207017,
-    "Position": 180
-  },
-  {
-    "SongID": 1274806364,
-    "Position": 181
-  },
-  {
-    "SongID": 1274805231,
-    "Position": 182
-  },
-  {
-    "SongID": 1593,
-    "Position": 184
-  },
-  {
-    "SongID": 207133,
-    "Position": 185
-  },
-  {
-    "SongID": 6061,
-    "Position": 186
-  },
-  {
-    "SongID": 1140,
-    "Position": 187
-  },
-  {
-    "SongID": 1272678,
-    "Position": 188
-  },
-  {
-    "SongID": 1274800879,
-    "Position": 189
-  },
-  {
-    "SongID": 1274799088,
-    "Position": 190
-  },
-  {
-    "SongID": 1274839314,
-    "Position": 191
-  },
-  {
-    "SongID": 1274805230,
-    "Position": 192
-  },
-  {
-    "SongID": 206993,
-    "Position": 193
-  },
-  {
-    "SongID": 202,
-    "Position": 194
-  },
-  {
-    "SongID": 54831,
-    "Position": 195
+    "SongID": 1273018,
+    "Position": 135,
+    "Title": "Балканска двойка",
+    "Artist": "DJ Damyan, Selina",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 925,
-    "Position": 196
+    "Position": 136,
+    "Title": "New Rules",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 36974,
-    "Position": 197
+    "SongID": 1274804103,
+    "Position": 137,
+    "Title": "Рано призори",
+    "Artist": "Robi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274802860,
-    "Position": 198
+    "SongID": 1274800284,
+    "Position": 138,
+    "Title": "Муцуна",
+    "Artist": "Djordan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800369,
+    "Position": 139,
+    "Title": "Training Season",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 34270,
+    "Position": 141,
+    "Title": "Sujalqvam",
+    "Artist": "MBT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 56672,
-    "Position": 199
+    "Position": 142,
+    "Title": "Imame li vrazka",
+    "Artist": "Alisia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 52963,
+    "Position": 143,
+    "Title": "Ministarat Na Veselieto",
+    "Artist": "Krisko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800109,
+    "Position": 144,
+    "Title": "От кеф да умирам",
+    "Artist": "Dessita, SIMONA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1249892,
+    "Position": 145,
+    "Title": "Raindance",
+    "Artist": "Dave, Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274803041,
+    "Position": 146,
+    "Title": "Бам Бам Бам",
+    "Artist": "Mirela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1272987,
+    "Position": 148,
+    "Title": "OPA OPA",
+    "Artist": "Dessita",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 18263,
+    "Position": 149,
+    "Title": "К'ъв съм як",
+    "Artist": "Djordan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 207017,
+    "Position": 150,
+    "Title": "Момиче от лед",
+    "Artist": "SIMONA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 207121,
+    "Position": 151,
+    "Title": "Твоята жена",
+    "Artist": "Dessita",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274812553,
+    "Position": 152,
+    "Title": "От утре ще е друго",
+    "Artist": "Konstantin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1164043,
+    "Position": 153,
+    "Title": "Кокона",
+    "Artist": "Ilian Boyd",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1272678,
+    "Position": 154,
+    "Title": "WHERE IS MY HUSBAND!",
+    "Artist": "RAYE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 306,
+    "Position": 155,
+    "Title": "One Kiss",
+    "Artist": "Calvin Harris, Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1273020,
+    "Position": 156,
+    "Title": "Kasay",
+    "Artist": "Emanuela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 734,
+    "Position": 157,
+    "Title": "HIGHEST IN THE ROOM",
+    "Artist": "Travis Scott",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1272948,
+    "Position": 158,
+    "Title": "Caliente",
+    "Artist": "INNA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1272997,
+    "Position": 159,
+    "Title": "Без коз",
+    "Artist": "Kiara, Andrea",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274810171,
+    "Position": 160,
+    "Title": "Stateside",
+    "Artist": "PinkPantheress",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1277947,
+    "Position": 161,
+    "Title": "Майка ти, татко ти",
+    "Artist": "Krissy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 543574,
+    "Position": 163,
+    "Title": "S&M",
+    "Artist": "Rihanna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274808959,
+    "Position": 164,
+    "Title": "Welcome to Bulgaria",
+    "Artist": "Galena, DJ Damyan, Costi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274817104,
+    "Position": 166,
+    "Title": "Mr. Know It All",
+    "Artist": "Teddy Swims",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 123164,
+    "Position": 167,
+    "Title": "goosebumps",
+    "Artist": "Travis Scott",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 34269,
+    "Position": 168,
+    "Title": "Прощавам ти",
+    "Artist": "Emilia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274829754,
+    "Position": 169,
+    "Title": "Едно",
+    "Artist": "Papi Hans",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274802878,
+    "Position": 170,
+    "Title": "Женен",
+    "Artist": "Medi, Gabriella",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274802348,
+    "Position": 172,
+    "Title": "Грешници",
+    "Artist": "Lidia, Konstantin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 207133,
+    "Position": 173,
+    "Title": "Драконови нерви",
+    "Artist": "Dessita",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274838442,
+    "Position": 174,
+    "Title": "Кажи ми",
+    "Artist": "Anelia, Kyriacos Georgiou",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799001,
+    "Position": 175,
+    "Title": "Нямаш мене",
+    "Artist": "Anelia, Konstantin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 207184,
+    "Position": 176,
+    "Title": "Да си ми ти",
+    "Artist": "Galin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274801360,
+    "Position": 177,
+    "Title": "Hot",
+    "Artist": "INNA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274829120,
+    "Position": 178,
+    "Title": "Искам от теб",
+    "Artist": "Djulia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1283310,
+    "Position": 180,
+    "Title": "КУ-КУ",
+    "Artist": "DJORDAN",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1143,
+    "Position": 182,
+    "Title": "Don't Stop The Music",
+    "Artist": "Rihanna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 207146,
+    "Position": 184,
+    "Title": "Карма",
+    "Artist": "Gabriella",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1229265,
+    "Position": 185,
+    "Title": "Starboy ft. Daft Punk (Official Video)",
+    "Artist": "The Weeknd",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 19918,
+    "Position": 186,
+    "Title": "Go",
+    "Artist": "The Chemical Brothers",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799088,
+    "Position": 188,
+    "Title": "no tears left to cry",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274802860,
+    "Position": 189,
+    "Title": "Nqma Kak",
+    "Artist": "MBT, BM",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805001,
+    "Position": 190,
+    "Title": "Wicked Games",
+    "Artist": "The Weeknd",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274802101,
+    "Position": 191,
+    "Title": "Не си ти",
+    "Artist": "Konstantin, Alisia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839634,
+    "Position": 192,
+    "Title": "Op-op",
+    "Artist": "Djulia, DENIS TEOFIKOV",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1168048,
+    "Position": 193,
+    "Title": "Ma Tnsani (Yalla Habibi) [feat. AYA]",
+    "Artist": "Vanco",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1247611,
+    "Position": 194,
+    "Title": "Sao Paulo",
+    "Artist": "The Weeknd&Anitta",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1286516,
+    "Position": 195,
+    "Title": "Питаш ли ме",
+    "Artist": "Medi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274808168,
+    "Position": 196,
+    "Title": "Moy Si Merak",
+    "Artist": "SIMONA, Mirela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 118677,
+    "Position": 198,
+    "Title": "Tití Me Preguntó",
+    "Artist": "Bad Bunny",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805231,
+    "Position": 199,
+    "Title": "PARALIA",
+    "Artist": "V:RGO, Emil TRF, FYRE, 2bona",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274835978,
+    "Position": 200,
+    "Title": "Whisper My Name",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "bg",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   }
 ]

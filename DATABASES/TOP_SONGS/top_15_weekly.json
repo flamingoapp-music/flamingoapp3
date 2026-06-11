@@ -7,17 +7,20 @@
     "Artists": [
       {
         "Artist": "Ariana Grande",
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
     "SpotifyURL": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-    "TotalScore": 727572.010363,
-    "SpotifyScore": 223023.435058,
-    "AppleScore": 279674.519571,
-    "YouTubeScore": 20715.471721,
-    "BillboardScore": 0.0,
-    "PlatformCount": 3
+    "TotalScore": 648029.781398,
+    "SpotifyScore": 218054.732185,
+    "AppleScore": 282292.219353,
+    "YouTubeScore": 12826.198703,
+    "BillboardScore": 2000.0,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 4
   },
   {
     "Position": 2,
@@ -27,16 +30,19 @@
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe",
-    "TotalScore": 422438.325864,
-    "SpotifyScore": 74990.608859,
-    "AppleScore": 249154.962045,
-    "YouTubeScore": 2281.426937,
-    "BillboardScore": 1019.0,
+    "TotalScore": 394976.562821,
+    "SpotifyScore": 62947.428343,
+    "AppleScore": 266806.343295,
+    "YouTubeScore": 2230.291039,
+    "BillboardScore": 1987.7,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 4
   },
   {
@@ -47,80 +53,94 @@
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
     "SpotifyURL": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96",
-    "TotalScore": 313837.980124,
-    "SpotifyScore": 134182.485577,
-    "AppleScore": 115297.668524,
+    "TotalScore": 247016.686879,
+    "SpotifyScore": 100083.879336,
+    "AppleScore": 113815.685363,
     "YouTubeScore": 0.0,
-    "BillboardScore": 1006.5,
+    "BillboardScore": 1946.7,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
     "Position": 4,
-    "SongID": 1274835966,
-    "Title": "National Treasures",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D",
-    "TotalScore": 255207.996523,
-    "SpotifyScore": 51081.093675,
-    "AppleScore": 146757.185468,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 966.5,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 5,
     "SongID": 1274836725,
     "Title": "Dai Dai",
     "Artist": "Shakira, Burna Boy",
     "Artists": [
       {
         "Artist": "Shakira",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
       },
       {
         "Artist": "Burna Boy",
-        "SpotifyURL": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27303cadf1b3fe324c1dc710ed4",
     "SpotifyURL": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
-    "TotalScore": 228174.406835,
-    "SpotifyScore": 31205.694628,
-    "AppleScore": 23446.060495,
-    "YouTubeScore": 163782.511177,
+    "TotalScore": 235214.467903,
+    "SpotifyScore": 42228.129074,
+    "AppleScore": 25774.221354,
+    "YouTubeScore": 168990.328138,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 3
   },
   {
-    "Position": 6,
+    "Position": 5,
     "SongID": 1274835974,
     "Title": "Shabang",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/1fI2fpUb0zLuMPwEzIuoOr",
-    "TotalScore": 223793.076709,
-    "SpotifyScore": 13169.634218,
-    "AppleScore": 152882.176396,
+    "TotalScore": 224101.363133,
+    "SpotifyScore": 10576.579466,
+    "AppleScore": 172723.034943,
     "YouTubeScore": 0.0,
-    "BillboardScore": 991.5,
+    "BillboardScore": 1918.0,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 6,
+    "SongID": 1274835966,
+    "Title": "National Treasures",
+    "Artist": "Drake",
+    "Artists": [
+      {
+        "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
+    "SpotifyURL": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D",
+    "TotalScore": 203506.931267,
+    "SpotifyScore": 24634.469463,
+    "AppleScore": 143585.604829,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1840.1,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
@@ -131,24 +151,31 @@
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       },
       {
         "Artist": "Future",
+        "Role": "secondary_main",
+        "Weight": 0.62,
         "SpotifyURL": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
       },
       {
         "Artist": "Molly Santana",
-        "SpotifyURL": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
-    "TotalScore": 213723.512635,
-    "SpotifyScore": 12153.215722,
-    "AppleScore": 147209.989836,
+    "TotalScore": 158238.330323,
+    "SpotifyScore": 6451.192361,
+    "AppleScore": 125405.199456,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 2
   },
   {
@@ -159,17 +186,20 @@
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J",
-    "TotalScore": 205478.327704,
-    "SpotifyScore": 18503.02106,
-    "AppleScore": 134847.350086,
-    "YouTubeScore": 722.388696,
-    "BillboardScore": 969.0,
-    "PlatformCount": 4
+    "TotalScore": 137986.861342,
+    "SpotifyScore": 8400.598662,
+    "AppleScore": 103448.573703,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1836.0,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
   },
   {
     "Position": 9,
@@ -179,140 +209,163 @@
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav",
-    "TotalScore": 123979.06714,
-    "SpotifyScore": 8396.051362,
-    "AppleScore": 83527.269751,
+    "TotalScore": 101911.720211,
+    "SpotifyScore": 4085.732896,
+    "AppleScore": 77691.598485,
     "YouTubeScore": 0.0,
-    "BillboardScore": 886.5,
+    "BillboardScore": 1635.1,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
     "Position": 10,
-    "SongID": 1274835949,
-    "Title": "2 Hard 4 The Radio",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/1svuouRvqWANBZJ0WqhLRn",
-    "TotalScore": 103532.861722,
-    "SpotifyScore": 9016.244496,
-    "AppleScore": 68034.369964,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 926.5,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 11,
     "SongID": 1274835981,
     "Title": "B's On The Table (feat. 21 Savage)",
     "Artist": "Drake, 21 Savage",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       },
       {
         "Artist": "21 Savage",
+        "Role": "secondary_main",
+        "Weight": 0.62,
         "SpotifyURL": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/0j1vvE8fznuoEtoF0vVkTj",
-    "TotalScore": 100231.794369,
-    "SpotifyScore": 3999.701943,
-    "AppleScore": 70337.807567,
+    "TotalScore": 83429.374989,
+    "SpotifyScore": 2363.242274,
+    "AppleScore": 67006.352464,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 2
   },
   {
+    "Position": 11,
+    "SongID": 1274835949,
+    "Title": "2 Hard 4 The Radio",
+    "Artist": "Drake",
+    "Artists": [
+      {
+        "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
+    "SpotifyURL": "https://open.spotify.com/track/1svuouRvqWANBZJ0WqhLRn",
+    "TotalScore": 76391.545554,
+    "SpotifyScore": 3675.007231,
+    "AppleScore": 56786.752763,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1704.8,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
     "Position": 12,
+    "SongID": 1274842579,
+    "Title": "IF I",
+    "Artist": "TREASURE",
+    "Artists": [
+      {
+        "Artist": "TREASURE",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734bfa7f88b274b4e53caba279",
+    "SpotifyURL": "https://open.spotify.com/track/3IWNxztdd0eOeB2Zsslqa3",
+    "TotalScore": 65295.93724,
+    "SpotifyScore": 3176.669559,
+    "AppleScore": 0.0,
+    "YouTubeScore": 58974.368345,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 2
+  },
+  {
+    "Position": 13,
     "SongID": 1274835954,
     "Title": "Dust",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu",
-    "TotalScore": 81767.996605,
-    "SpotifyScore": 3394.648615,
-    "AppleScore": 56485.25682,
+    "TotalScore": 64003.59684,
+    "SpotifyScore": 1813.557638,
+    "AppleScore": 48595.451197,
     "YouTubeScore": 0.0,
-    "BillboardScore": 849.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 13,
-    "SongID": 1274835964,
-    "Title": "Make Them Pay",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/0CrezUVlmwzV9NXOierVOX",
-    "TotalScore": 79244.510059,
-    "SpotifyScore": 2940.68096,
-    "AppleScore": 54990.370001,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 844.0,
+    "BillboardScore": 1458.8,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
     "Position": 14,
-    "SongID": 1274835962,
-    "Title": "Make Them Cry",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/4VHT1pr51GHOyUHQ1oj8L9",
-    "TotalScore": 75426.515836,
-    "SpotifyScore": 2872.794868,
-    "AppleScore": 52303.217014,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 781.5,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 15,
     "SongID": 1274835951,
     "Title": "Burning Bridges",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ",
-    "TotalScore": 73628.082552,
-    "SpotifyScore": 2818.876073,
-    "AppleScore": 50992.544084,
+    "TotalScore": 62826.583219,
+    "SpotifyScore": 1203.831008,
+    "AppleScore": 48300.634916,
     "YouTubeScore": 0.0,
-    "BillboardScore": 819.0,
+    "BillboardScore": 1376.8,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 15,
+    "SongID": 1274835964,
+    "Title": "Make Them Pay",
+    "Artist": "Drake",
+    "Artists": [
+      {
+        "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
+    "SpotifyURL": "https://open.spotify.com/track/0CrezUVlmwzV9NXOierVOX",
+    "TotalScore": 61036.981249,
+    "SpotifyScore": 1173.462948,
+    "AppleScore": 46777.587291,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1413.7,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   }
 ]

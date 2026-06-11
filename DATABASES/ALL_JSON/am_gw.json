@@ -1,758 +1,1402 @@
 [
   {
-    "SongID": 1274803333,
-    "Position": 1
-  },
-  {
-    "SongID": 1274803304,
-    "Position": 2
-  },
-  {
-    "SongID": 1274809249,
-    "Position": 3
-  },
-  {
-    "SongID": 1274830193,
-    "Position": 4
-  },
-  {
-    "SongID": 1274843175,
-    "Position": 5
-  },
-  {
-    "SongID": 1274838568,
-    "Position": 6
-  },
-  {
-    "SongID": 1274839125,
-    "Position": 7
-  },
-  {
-    "SongID": 1274841986,
-    "Position": 8
-  },
-  {
-    "SongID": 1274842817,
-    "Position": 9
-  },
-  {
-    "SongID": 174754,
-    "Position": 10
-  },
-  {
-    "SongID": 1274809250,
-    "Position": 11
-  },
-  {
-    "SongID": 1274816373,
-    "Position": 12
-  },
-  {
-    "SongID": 1249892,
-    "Position": 13
-  },
-  {
-    "SongID": 1274843166,
-    "Position": 14
-  },
-  {
-    "SongID": 1274840233,
-    "Position": 15
-  },
-  {
-    "SongID": 1274815834,
-    "Position": 16
-  },
-  {
-    "SongID": 1274843290,
-    "Position": 18
-  },
-  {
-    "SongID": 1274816629,
-    "Position": 20
-  },
-  {
-    "SongID": 1274812854,
-    "Position": 21
+    "SongID": 1274843958,
+    "Position": 2,
+    "Title": "Amor de Maureo",
+    "Artist": "D Mello",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274838667,
-    "Position": 22
+    "Position": 12,
+    "Title": "Antes do Sol Nascer",
+    "Artist": "Daniel Lima filho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274830877,
-    "Position": 23
-  },
-  {
-    "SongID": 1274817225,
-    "Position": 24
-  },
-  {
-    "SongID": 1290394,
-    "Position": 25
-  },
-  {
-    "SongID": 118677,
-    "Position": 26
-  },
-  {
-    "SongID": 1274811489,
-    "Position": 27
-  },
-  {
-    "SongID": 1274820346,
-    "Position": 28
-  },
-  {
-    "SongID": 1274823251,
-    "Position": 29
-  },
-  {
-    "SongID": 1274823195,
-    "Position": 30
-  },
-  {
-    "SongID": 1274826243,
-    "Position": 31
-  },
-  {
-    "SongID": 7833,
-    "Position": 32
-  },
-  {
-    "SongID": 1274843446,
-    "Position": 33
-  },
-  {
-    "SongID": 1274826007,
-    "Position": 34
-  },
-  {
-    "SongID": 121869,
-    "Position": 35
-  },
-  {
-    "SongID": 1274838855,
-    "Position": 36
-  },
-  {
-    "SongID": 1274812858,
-    "Position": 37
-  },
-  {
-    "SongID": 1274826282,
-    "Position": 38
-  },
-  {
-    "SongID": 1274843196,
-    "Position": 39
-  },
-  {
-    "SongID": 167439,
-    "Position": 40
-  },
-  {
-    "SongID": 1274819486,
-    "Position": 41
+    "SongID": 1274816629,
+    "Position": 13,
+    "Title": "Se Saudade Sentir (Se Prepara 3)",
+    "Artist": "Mc Livinho, Mc Pedrinho, Perera DJ, DJ JB Mix",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1110571,
-    "Position": 42
-  },
-  {
-    "SongID": 1274843041,
-    "Position": 43
-  },
-  {
-    "SongID": 1273151,
-    "Position": 44
-  },
-  {
-    "SongID": 1274801089,
-    "Position": 45
-  },
-  {
-    "SongID": 1274805910,
-    "Position": 46
-  },
-  {
-    "SongID": 544627,
-    "Position": 47
-  },
-  {
-    "SongID": 1274843287,
-    "Position": 49
-  },
-  {
-    "SongID": 1274843403,
-    "Position": 50
-  },
-  {
-    "SongID": 1242646,
-    "Position": 51
-  },
-  {
-    "SongID": 1274843532,
-    "Position": 52
-  },
-  {
-    "SongID": 1274842936,
-    "Position": 53
-  },
-  {
-    "SongID": 1274842835,
-    "Position": 54
-  },
-  {
-    "SongID": 1274830233,
-    "Position": 55
-  },
-  {
-    "SongID": 1274843448,
-    "Position": 56
-  },
-  {
-    "SongID": 1274843605,
-    "Position": 58
-  },
-  {
-    "SongID": 1272927,
-    "Position": 59
-  },
-  {
-    "SongID": 1274800662,
-    "Position": 60
-  },
-  {
-    "SongID": 1274842915,
-    "Position": 61
-  },
-  {
-    "SongID": 226,
-    "Position": 62
-  },
-  {
-    "SongID": 1274842937,
-    "Position": 63
-  },
-  {
-    "SongID": 1274843672,
-    "Position": 64
-  },
-  {
-    "SongID": 1274809474,
-    "Position": 65
-  },
-  {
-    "SongID": 1274826157,
-    "Position": 66
-  },
-  {
-    "SongID": 799,
-    "Position": 67
-  },
-  {
-    "SongID": 1274843523,
-    "Position": 68
-  },
-  {
-    "SongID": 1274805534,
-    "Position": 69
-  },
-  {
-    "SongID": 1274810121,
-    "Position": 70
-  },
-  {
-    "SongID": 1274843396,
-    "Position": 71
-  },
-  {
-    "SongID": 1274805533,
-    "Position": 72
-  },
-  {
-    "SongID": 1274841253,
-    "Position": 73
-  },
-  {
-    "SongID": 1274841121,
-    "Position": 74
-  },
-  {
-    "SongID": 1274841441,
-    "Position": 75
-  },
-  {
-    "SongID": 1274812010,
-    "Position": 76
-  },
-  {
-    "SongID": 1274830535,
-    "Position": 77
-  },
-  {
-    "SongID": 1274834784,
-    "Position": 78
-  },
-  {
-    "SongID": 1274829345,
-    "Position": 79
-  },
-  {
-    "SongID": 539617,
-    "Position": 80
-  },
-  {
-    "SongID": 1274843575,
-    "Position": 81
-  },
-  {
-    "SongID": 1274834500,
-    "Position": 82
-  },
-  {
-    "SongID": 1274816694,
-    "Position": 83
-  },
-  {
-    "SongID": 1274812852,
-    "Position": 85
-  },
-  {
-    "SongID": 1291413,
-    "Position": 86
-  },
-  {
-    "SongID": 1274843577,
-    "Position": 87
-  },
-  {
-    "SongID": 7555,
-    "Position": 88
-  },
-  {
-    "SongID": 1274802396,
-    "Position": 89
-  },
-  {
-    "SongID": 1274843569,
-    "Position": 90
-  },
-  {
-    "SongID": 1128,
-    "Position": 91
-  },
-  {
-    "SongID": 1274843229,
-    "Position": 92
-  },
-  {
-    "SongID": 1274843230,
-    "Position": 93
-  },
-  {
-    "SongID": 1274843231,
-    "Position": 94
-  },
-  {
-    "SongID": 1274809949,
-    "Position": 95
-  },
-  {
-    "SongID": 1274829758,
-    "Position": 96
-  },
-  {
-    "SongID": 1274808656,
-    "Position": 97
-  },
-  {
-    "SongID": 1274840276,
-    "Position": 98
-  },
-  {
-    "SongID": 241,
-    "Position": 99
-  },
-  {
-    "SongID": 1274819765,
-    "Position": 100
-  },
-  {
-    "SongID": 1274820162,
-    "Position": 101
-  },
-  {
-    "SongID": 1274843434,
-    "Position": 102
-  },
-  {
-    "SongID": 187973,
-    "Position": 103
-  },
-  {
-    "SongID": 108652,
-    "Position": 104
-  },
-  {
-    "SongID": 1274831300,
-    "Position": 105
-  },
-  {
-    "SongID": 4563,
-    "Position": 106
-  },
-  {
-    "SongID": 1274816819,
-    "Position": 107
-  },
-  {
-    "SongID": 16826,
-    "Position": 108
-  },
-  {
-    "SongID": 1274843454,
-    "Position": 109
-  },
-  {
-    "SongID": 1274843350,
-    "Position": 110
-  },
-  {
-    "SongID": 1274810594,
-    "Position": 111
-  },
-  {
-    "SongID": 1274824819,
-    "Position": 113
-  },
-  {
-    "SongID": 1274843371,
-    "Position": 114
-  },
-  {
-    "SongID": 1274843654,
-    "Position": 115
-  },
-  {
-    "SongID": 1274801771,
-    "Position": 116
-  },
-  {
-    "SongID": 7488,
-    "Position": 117
-  },
-  {
-    "SongID": 1274834463,
-    "Position": 118
-  },
-  {
-    "SongID": 1274812364,
-    "Position": 119
-  },
-  {
-    "SongID": 1274831183,
-    "Position": 120
-  },
-  {
-    "SongID": 1274843264,
-    "Position": 121
-  },
-  {
-    "SongID": 1274799986,
-    "Position": 122
-  },
-  {
-    "SongID": 1274843266,
-    "Position": 123
-  },
-  {
-    "SongID": 1274843310,
-    "Position": 124
-  },
-  {
-    "SongID": 1274803376,
-    "Position": 125
-  },
-  {
-    "SongID": 1274819936,
-    "Position": 126
-  },
-  {
-    "SongID": 1274836340,
-    "Position": 128
-  },
-  {
-    "SongID": 1274843241,
-    "Position": 129
-  },
-  {
-    "SongID": 1274829105,
-    "Position": 130
-  },
-  {
-    "SongID": 1274809256,
-    "Position": 131
-  },
-  {
-    "SongID": 3728,
-    "Position": 132
-  },
-  {
-    "SongID": 769,
-    "Position": 133
-  },
-  {
-    "SongID": 1274843254,
-    "Position": 134
-  },
-  {
-    "SongID": 1274843574,
-    "Position": 136
-  },
-  {
-    "SongID": 1291010,
-    "Position": 137
-  },
-  {
-    "SongID": 1274843613,
-    "Position": 138
-  },
-  {
-    "SongID": 1274843522,
-    "Position": 139
-  },
-  {
-    "SongID": 1274843466,
-    "Position": 140
-  },
-  {
-    "SongID": 1274843480,
-    "Position": 141
-  },
-  {
-    "SongID": 1274829473,
-    "Position": 142
-  },
-  {
-    "SongID": 1274843435,
-    "Position": 143
-  },
-  {
-    "SongID": 8786,
-    "Position": 144
-  },
-  {
-    "SongID": 1274843419,
-    "Position": 145
-  },
-  {
-    "SongID": 1274843614,
-    "Position": 146
-  },
-  {
-    "SongID": 1274842145,
-    "Position": 147
-  },
-  {
-    "SongID": 121608,
-    "Position": 148
-  },
-  {
-    "SongID": 22946,
-    "Position": 149
-  },
-  {
-    "SongID": 1274843370,
-    "Position": 150
-  },
-  {
-    "SongID": 1274818326,
-    "Position": 151
-  },
-  {
-    "SongID": 1274836719,
-    "Position": 152
-  },
-  {
-    "SongID": 1274843293,
-    "Position": 153
-  },
-  {
-    "SongID": 1274802684,
-    "Position": 154
-  },
-  {
-    "SongID": 253010,
-    "Position": 155
-  },
-  {
-    "SongID": 188445,
-    "Position": 156
-  },
-  {
-    "SongID": 188512,
-    "Position": 157
-  },
-  {
-    "SongID": 1274843291,
-    "Position": 158
-  },
-  {
-    "SongID": 1274843366,
-    "Position": 159
-  },
-  {
-    "SongID": 554281,
-    "Position": 160
-  },
-  {
-    "SongID": 1274843544,
-    "Position": 161
-  },
-  {
-    "SongID": 1274842848,
-    "Position": 162
-  },
-  {
-    "SongID": 1274843429,
-    "Position": 163
-  },
-  {
-    "SongID": 1274843660,
-    "Position": 164
-  },
-  {
-    "SongID": 1274843418,
-    "Position": 165
-  },
-  {
-    "SongID": 1274826623,
-    "Position": 166
-  },
-  {
-    "SongID": 1274843253,
-    "Position": 167
-  },
-  {
-    "SongID": 1274843267,
-    "Position": 168
-  },
-  {
-    "SongID": 1274843607,
-    "Position": 169
-  },
-  {
-    "SongID": 1274843265,
-    "Position": 170
-  },
-  {
-    "SongID": 1274843589,
-    "Position": 171
-  },
-  {
-    "SongID": 771293,
-    "Position": 174
-  },
-  {
-    "SongID": 1274843316,
-    "Position": 175
-  },
-  {
-    "SongID": 1274843315,
-    "Position": 176
-  },
-  {
-    "SongID": 1274843437,
-    "Position": 177
-  },
-  {
-    "SongID": 1274805954,
-    "Position": 178
-  },
-  {
-    "SongID": 1274838680,
-    "Position": 179
-  },
-  {
-    "SongID": 1274842944,
-    "Position": 180
-  },
-  {
-    "SongID": 1274810667,
-    "Position": 181
-  },
-  {
-    "SongID": 1274843083,
-    "Position": 182
-  },
-  {
-    "SongID": 1274799920,
-    "Position": 183
-  },
-  {
-    "SongID": 1274801309,
-    "Position": 184
-  },
-  {
-    "SongID": 1274842713,
-    "Position": 185
-  },
-  {
-    "SongID": 1274843345,
-    "Position": 187
-  },
-  {
-    "SongID": 1269575,
-    "Position": 188
-  },
-  {
-    "SongID": 1274808699,
-    "Position": 189
-  },
-  {
-    "SongID": 1274819763,
-    "Position": 190
-  },
-  {
-    "SongID": 1272862,
-    "Position": 191
-  },
-  {
-    "SongID": 1274842777,
-    "Position": 192
-  },
-  {
-    "SongID": 5068,
-    "Position": 193
-  },
-  {
-    "SongID": 1274820255,
-    "Position": 194
-  },
-  {
-    "SongID": 1274802816,
-    "Position": 195
-  },
-  {
-    "SongID": 1163981,
-    "Position": 196
-  },
-  {
-    "SongID": 1274805184,
-    "Position": 197
+    "Position": 14,
+    "Title": "Bezwen Ou",
+    "Artist": "Fridayy & Joé Dwèt Filé",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1289368,
+    "Position": 15,
+    "Title": "For Days",
+    "Artist": "melvitto",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816692,
+    "Position": 17,
+    "Title": "I'm Coming Home",
+    "Artist": "Morgan Heritage",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274824035,
+    "Position": 18,
+    "Title": "Me Against The World",
+    "Artist": "2Pac, Dramacydal",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1238553,
+    "Position": 19,
+    "Title": "Pump Up The Jam",
+    "Artist": "Technotronic",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274834698,
+    "Position": 20,
+    "Title": "Rabola Bo Carambola",
+    "Artist": "Gil Semedo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1504,
+    "Position": 22,
+    "Title": "Runaway",
+    "Artist": "Kanye West, Pusha T",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800937,
+    "Position": 23,
+    "Title": "Epuisé",
+    "Artist": "GIMS",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1290394,
+    "Position": 24,
+    "Title": "Pilé",
+    "Artist": "Mauvais djo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274838855,
+    "Position": 25,
+    "Title": "Silent Discipline",
+    "Artist": "Green Mic",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274830706,
+    "Position": 27,
+    "Title": "Iwassado",
+    "Artist": "Nayanka Bell",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800821,
+    "Position": 28,
+    "Title": "Death Do Us Part (feat. Mariah The Scientist)",
+    "Artist": "Fridayy, Mariah the Scientist",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274819430,
+    "Position": 29,
+    "Title": "Rosalina",
+    "Artist": "Americo Gomes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 121869,
+    "Position": 30,
+    "Title": "Os Menino Tá Com o Pacote",
+    "Artist": "MC PH",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274826282,
+    "Position": 31,
+    "Title": "Mi Chico",
+    "Artist": "DJ Goja",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274842831,
+    "Position": 32,
+    "Title": "Tomorrow",
+    "Artist": "Gentleman, Ky-Mani Marley",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1242647,
+    "Position": 34,
+    "Title": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats]",
+    "Artist": "CIZA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805536,
+    "Position": 36,
+    "Title": "8/80",
+    "Artist": "Yasmine, Edgar Domingos",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274815712,
+    "Position": 38,
+    "Title": "Brincadeira de Pai e Mãe",
+    "Artist": "3 Finer",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 14510,
-    "Position": 198
+    "Position": 39,
+    "Title": "There You Are",
+    "Artist": "ZAYN",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274811854,
-    "Position": 199
+    "SongID": 1274841440,
+    "Position": 40,
+    "Title": "Porquê",
+    "Artist": "Matias Damásio, Nuadis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274809265,
-    "Position": 200
+    "SongID": 1273151,
+    "Position": 41,
+    "Title": "Posso Até Não Te Dar Flores",
+    "Artist": "DJ Japa NK, MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274826575,
+    "Position": 42,
+    "Title": "Rihanna",
+    "Artist": "Joé Dwèt Filé",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274838568,
+    "Position": 43,
+    "Title": "Oração Dela",
+    "Artist": "Button Rose, Biig Star",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274830869,
+    "Position": 44,
+    "Title": "Nha Sonho",
+    "Artist": "Suzanna Lubrano",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274803904,
+    "Position": 45,
+    "Title": "Fala Só",
+    "Artist": "Puto Portugues, Lil Saint",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274829263,
+    "Position": 48,
+    "Title": "Ronaldo",
+    "Artist": "Gerilson Insrael",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274803229,
+    "Position": 49,
+    "Title": "Love",
+    "Artist": "Nana Fofie, Warren Saada",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843266,
+    "Position": 50,
+    "Title": "Me Fala",
+    "Artist": "Button Rose",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 6951,
+    "Position": 51,
+    "Title": "Emotionally Scarred",
+    "Artist": "Lil Baby",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 187684,
+    "Position": 52,
+    "Title": "When It Comes To You",
+    "Artist": "Fridayy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274812858,
+    "Position": 54,
+    "Title": "WATER SPIRIT",
+    "Artist": "OMAH LAY",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843196,
+    "Position": 55,
+    "Title": "华强买瓜（格莱美版）",
+    "Artist": "娱人",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274820162,
+    "Position": 56,
+    "Title": "Family Love",
+    "Artist": "kingjaffej",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 108652,
+    "Position": 57,
+    "Title": "Beauty And A Beat",
+    "Artist": "Justin Bieber, Nicki Minaj",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 16826,
+    "Position": 58,
+    "Title": "Let It All Work Out",
+    "Artist": "Lil Wayne",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274831183,
+    "Position": 59,
+    "Title": "Figurinha - Ao Vivo",
+    "Artist": "Douglas & Vinicius, MC Bruninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274803376,
+    "Position": 60,
+    "Title": "Masterclass",
+    "Artist": "Nitefreak, Roland Clark",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274834463,
+    "Position": 61,
+    "Title": "Xê Dama",
+    "Artist": "Calema, Lauana Prado",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843750,
+    "Position": 64,
+    "Title": "N´disdjau",
+    "Artist": "Americo Gomes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 9702,
+    "Position": 65,
+    "Title": "Started From the Bottom",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274814741,
+    "Position": 66,
+    "Title": "Cleanin' Out My Closet",
+    "Artist": "Eminem",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274819900,
+    "Position": 67,
+    "Title": "Estou Paiado",
+    "Artist": "Gerilson Insrael",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 247863,
+    "Position": 68,
+    "Title": "Do You No Wrong - Single Version",
+    "Artist": "Richie Campbell",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799623,
+    "Position": 69,
+    "Title": "SEM QUERER",
+    "Artist": "C4 Pedro",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839344,
+    "Position": 74,
+    "Title": "Baril",
+    "Artist": "Americo Gomes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 47782,
+    "Position": 77,
+    "Title": "Congratulations (feat. Quavo)",
+    "Artist": "Post Malone",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274810667,
+    "Position": 79,
+    "Title": "Perfume - Remix",
+    "Artist": "Yasmine, Manecas Costa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274830193,
+    "Position": 80,
+    "Title": "Amor de homem Angolano",
+    "Artist": "Zé Ngola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805533,
+    "Position": 81,
+    "Title": "Dissa E Tenta",
+    "Artist": "Yasmine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 198436,
+    "Position": 82,
+    "Title": "Love Me JeJe",
+    "Artist": "Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800420,
+    "Position": 84,
+    "Title": "TAKA",
+    "Artist": "Echowaya",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1228199,
+    "Position": 85,
+    "Title": "Poney",
+    "Artist": "Werenoi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274829331,
+    "Position": 86,
+    "Title": "On Top Of The World",
+    "Artist": "Imagine Dragons",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274804228,
+    "Position": 87,
+    "Title": "Trophies",
+    "Artist": "SAINt JHN",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 556429,
+    "Position": 90,
+    "Title": "Free Fall (feat. J. Cole)",
+    "Artist": "Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 149408,
+    "Position": 92,
+    "Title": "Meurtre par strangulation",
+    "Artist": "GIMS",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274831141,
+    "Position": 97,
+    "Title": "Road To Zion",
+    "Artist": "Damian Marley, Nas",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274812854,
+    "Position": 98,
+    "Title": "I AM",
+    "Artist": "OMAH LAY",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1126,
+    "Position": 99,
+    "Title": "Where Is The Love?",
+    "Artist": "Black Eyed Peas",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274840208,
+    "Position": 101,
+    "Title": "Ingratidão",
+    "Artist": "Mizé",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843114,
+    "Position": 102,
+    "Title": "Djumbai Di Povo",
+    "Artist": "Tabanka Djaz",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816280,
+    "Position": 104,
+    "Title": "Letal (Takedown)",
+    "Artist": "HUNTR/X, Analu Pimenta, Vic Brow, Taís Feijó, KPop Demon Hunters Cast",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274818857,
+    "Position": 106,
+    "Title": "Nuthin' But A \"G\" Thang",
+    "Artist": "Dr. Dre, Snoop Dogg",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843532,
+    "Position": 109,
+    "Title": "Goddess",
+    "Artist": "Pérola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274820255,
+    "Position": 110,
+    "Title": "Nas Calmas",
+    "Artist": "Loony Johnson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 407,
+    "Position": 111,
+    "Title": "Shameless",
+    "Artist": "Camila Cabello",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274820629,
+    "Position": 112,
+    "Title": "Te Amo Tanto",
+    "Artist": "Rui Orlando",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274808826,
+    "Position": 113,
+    "Title": "Ai, Ai, Mata, Mata",
+    "Artist": "DJ Nelasta Nel Flow, Teo No Beat, John Trouble",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843429,
+    "Position": 117,
+    "Title": "Clap Your Hands - Radio Edit",
+    "Artist": "Kadoc",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274842713,
+    "Position": 118,
+    "Title": "Se Va - Prod. by Dj Honda",
+    "Artist": "Bebeshito, Dany Ome, Kevincito El 13, Dj Honda",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843345,
+    "Position": 119,
+    "Title": "Mi GANA2",
+    "Artist": "El Yohas",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 605330,
+    "Position": 120,
+    "Title": "The Next Episode",
+    "Artist": "Dr. Dre",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839478,
+    "Position": 121,
+    "Title": "Confirmação",
+    "Artist": "Boina Burmedju",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800339,
+    "Position": 124,
+    "Title": "Still D.R.E.",
+    "Artist": "Dr. Dre, Snoop Dogg",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 11148,
+    "Position": 125,
+    "Title": "J'me tire",
+    "Artist": "GIMS",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274841211,
+    "Position": 126,
+    "Title": "Libreville",
+    "Artist": "Guilou",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274822621,
+    "Position": 127,
+    "Title": "Ready or Not",
+    "Artist": "Fugees",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274826434,
+    "Position": 128,
+    "Title": "Lolita I",
+    "Artist": "Grace Evora",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274818003,
+    "Position": 129,
+    "Title": "Hate It Or Love It - G-Unit Remix",
+    "Artist": "50 Cent, The Game, Tony Yayo, Young Buck, Lloyd Banks",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 123002,
+    "Position": 130,
+    "Title": "I Took A Pill In Ibiza - Seeb Remix",
+    "Artist": "Mike Posner",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 292,
+    "Position": 132,
+    "Title": "Demons",
+    "Artist": "Imagine Dragons",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274830462,
+    "Position": 134,
+    "Title": "Eu sou assim",
+    "Artist": "Gerilson Insrael",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843041,
+    "Position": 135,
+    "Title": "Eterno",
+    "Artist": "Pérola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843672,
+    "Position": 136,
+    "Title": "Dona Teresa",
+    "Artist": "Zé Ngola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274809249,
+    "Position": 137,
+    "Title": "Let Me Go",
+    "Artist": "BikaBreezy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274831112,
+    "Position": 138,
+    "Title": "My World",
+    "Artist": "Calum Scott",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805941,
+    "Position": 140,
+    "Title": "À Toa",
+    "Artist": "Chelsea Dinorath, Anderson Mário, Teo No Beat",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843253,
+    "Position": 141,
+    "Title": "Deixa isso",
+    "Artist": "Biig Star, Mellodramatic",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274829105,
+    "Position": 142,
+    "Title": "Bu Manera",
+    "Artist": "Diima, Werton",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274830463,
+    "Position": 143,
+    "Title": "Nosso som",
+    "Artist": "Gerilson Insrael",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 27342,
+    "Position": 145,
+    "Title": "Run Up",
+    "Artist": "Major Lazer, PARTYNEXTDOOR, Nicki Minaj",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1245961,
+    "Position": 146,
+    "Title": "uMoya",
+    "Artist": "JAZZWRLD",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 533543,
+    "Position": 148,
+    "Title": "Bo Bo Bo",
+    "Artist": "Jey One",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800322,
+    "Position": 149,
+    "Title": "Kakalika",
+    "Artist": "DopeNation",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1287544,
+    "Position": 150,
+    "Title": "JETSKI",
+    "Artist": "PEDRO SAMPAIO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 22077,
+    "Position": 151,
+    "Title": "I Miss You",
+    "Artist": "Adele",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 10807,
+    "Position": 152,
+    "Title": "Die Young",
+    "Artist": "Roddy Ricch",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1018574,
+    "Position": 153,
+    "Title": "Arike",
+    "Artist": "Kunmie",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274809250,
+    "Position": 156,
+    "Title": "Turn Me On",
+    "Artist": "BikaBreezy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1249892,
+    "Position": 157,
+    "Title": "Raindance",
+    "Artist": "Dave, Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274803304,
+    "Position": 158,
+    "Title": "Bo Tem Mel",
+    "Artist": "Nelson Freitas, C4 Pedro",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799630,
+    "Position": 160,
+    "Title": "Posa",
+    "Artist": "C4 Pedro, Zara Williams",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274831111,
+    "Position": 161,
+    "Title": "If You Ever Change Your Mind",
+    "Artist": "Calum Scott",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274836537,
+    "Position": 162,
+    "Title": "Ewa Safi",
+    "Artist": "Noano, Lil Kleine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274829758,
+    "Position": 165,
+    "Title": "I Don Mad",
+    "Artist": "Patomant",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274812010,
+    "Position": 166,
+    "Title": "Chuva De Amor",
+    "Artist": "Calema",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274829914,
+    "Position": 167,
+    "Title": "Avant qu'elle parte",
+    "Artist": "Sexion d'Assaut",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 539617,
+    "Position": 168,
+    "Title": "Godzilla (feat. Juice WRLD)",
+    "Artist": "Eminem",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274812852,
+    "Position": 169,
+    "Title": "CANADA BREEZE",
+    "Artist": "OMAH LAY",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1291413,
+    "Position": 170,
+    "Title": "DON'T LOVE ME",
+    "Artist": "Omah Lay",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843575,
+    "Position": 171,
+    "Title": "Itinéraire d'un chômeur",
+    "Artist": "Sexion d'Assaut",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843350,
+    "Position": 172,
+    "Title": "Pa fe mwen la penn",
+    "Artist": "Eric Virgal",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274810594,
+    "Position": 173,
+    "Title": "Rest on Mom (refix)",
+    "Artist": "Urban Chords, INSPIRAYSTONNER",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 7488,
+    "Position": 175,
+    "Title": "Cold (feat. Future)",
+    "Artist": "Maroon 5",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274812364,
+    "Position": 176,
+    "Title": "Celebrate Me",
+    "Artist": "IngaRose",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274819936,
+    "Position": 178,
+    "Title": "Don't worry bruh",
+    "Artist": "HAMEX OIWE, HAMEX",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1291010,
+    "Position": 179,
+    "Title": "wgft",
+    "Artist": "Gunna, Burna Boy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 556437,
+    "Position": 180,
+    "Title": "Boy O Boy",
+    "Artist": "Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274802816,
+    "Position": 182,
+    "Title": "Loucos (feat. Héber Marques)",
+    "Artist": "Matias Damásio, Héber Marques",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805184,
+    "Position": 183,
+    "Title": "MISTURA DE 30 ETNIAS DE GUINÉ",
+    "Artist": "UAINE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274808692,
+    "Position": 184,
+    "Title": "Sodadi",
+    "Artist": "Chelsea Dinorath, Teo No Beat",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816102,
+    "Position": 185,
+    "Title": "Toca no Meu",
+    "Artist": "Edgar Domingos",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 4709,
+    "Position": 186,
+    "Title": "Controlla",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 4983,
+    "Position": 187,
+    "Title": "Essence",
+    "Artist": "Wizkid, Justin Bieber, Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 4139,
+    "Position": 188,
+    "Title": "Better",
+    "Artist": "Khalid",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274817247,
+    "Position": 189,
+    "Title": "Falling Through Time",
+    "Artist": "Xtchon Chill",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274831110,
+    "Position": 191,
+    "Title": "At Your Worst",
+    "Artist": "Calum Scott",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274830379,
+    "Position": 192,
+    "Title": "Welcome To Jamrock",
+    "Artist": "Damian Marley",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 183204,
+    "Position": 193,
+    "Title": "Fendi",
+    "Artist": "DreNaz",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274809248,
+    "Position": 194,
+    "Title": "Empathy",
+    "Artist": "BikaBreezy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274842918,
+    "Position": 195,
+    "Title": "Apresenta",
+    "Artist": "Kino Cabral",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816916,
+    "Position": 196,
+    "Title": "Foreclosures",
+    "Artist": "Rick Ross",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1595,
+    "Position": 197,
+    "Title": "Scars To Your Beautiful",
+    "Artist": "Alessia Cara",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 6601,
+    "Position": 198,
+    "Title": "Cooped Up (with Roddy Ricch)",
+    "Artist": "Post Malone",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 6908,
+    "Position": 199,
+    "Title": "ELEMENT.",
+    "Artist": "Kendrick Lamar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274822701,
+    "Position": 200,
+    "Title": "Mr. Vain",
+    "Artist": "Culture Beat",
+    "PlatformCode": "apple_music",
+    "CountryCode": "gw",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   }
 ]

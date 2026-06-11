@@ -7,312 +7,371 @@
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe",
-    "TotalScore": 422438.325864,
-    "SpotifyScore": 74990.608859,
-    "AppleScore": 249154.962045,
-    "YouTubeScore": 2281.426937,
-    "BillboardScore": 1019.0,
+    "TotalScore": 321432.284347,
+    "SpotifyScore": 75891.723577,
+    "AppleScore": 170446.06411,
+    "YouTubeScore": 1702.510607,
+    "BillboardScore": 1630.4,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 4
   },
   {
     "Position": 2,
-    "SongID": 1274835966,
-    "Title": "National Treasures",
-    "Artist": "Drake",
+    "SongID": 1274840323,
+    "Title": "the cure",
+    "Artist": "Olivia Rodrigo",
     "Artists": [
       {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D",
-    "TotalScore": 255207.996523,
-    "SpotifyScore": 51081.093675,
-    "AppleScore": 146757.185468,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
+    "SpotifyURL": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96",
+    "TotalScore": 237430.002009,
+    "SpotifyScore": 115979.215293,
+    "AppleScore": 74028.852976,
     "YouTubeScore": 0.0,
-    "BillboardScore": 966.5,
+    "BillboardScore": 1598.4,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
     "Position": 3,
+    "SongID": 1249892,
+    "Title": "Raindance",
+    "Artist": "Dave, Tems",
+    "Artists": [
+      {
+        "Artist": "Dave",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+      },
+      {
+        "Artist": "Tems",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e0ea9dc7335465a3f346a21f",
+    "SpotifyURL": "https://open.spotify.com/track/1xTGRa8PxYGH0kmQUIV4C0",
+    "TotalScore": 220545.973581,
+    "SpotifyScore": 112612.849141,
+    "AppleScore": 108030.047988,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1268.8,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 4,
     "SongID": 1274836725,
     "Title": "Dai Dai",
     "Artist": "Shakira, Burna Boy",
     "Artists": [
       {
         "Artist": "Shakira",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
       },
       {
         "Artist": "Burna Boy",
-        "SpotifyURL": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27303cadf1b3fe324c1dc710ed4",
     "SpotifyURL": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
-    "TotalScore": 228174.406835,
-    "SpotifyScore": 31205.694628,
-    "AppleScore": 23446.060495,
-    "YouTubeScore": 163782.511177,
+    "TotalScore": 198927.90937,
+    "SpotifyScore": 38325.873965,
+    "AppleScore": 16001.009318,
+    "YouTubeScore": 127433.935959,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 3
   },
   {
-    "Position": 4,
+    "Position": 5,
+    "SongID": 1274835966,
+    "Title": "National Treasures",
+    "Artist": "Drake",
+    "Artists": [
+      {
+        "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
+    "SpotifyURL": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D",
+    "TotalScore": 167492.842789,
+    "SpotifyScore": 35240.431194,
+    "AppleScore": 91961.76567,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1515.2,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 6,
     "SongID": 1274835974,
     "Title": "Shabang",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/1fI2fpUb0zLuMPwEzIuoOr",
-    "TotalScore": 223793.076709,
-    "SpotifyScore": 13169.634218,
-    "AppleScore": 152882.176396,
+    "TotalScore": 166605.847141,
+    "SpotifyScore": 13545.824198,
+    "AppleScore": 110050.700953,
     "YouTubeScore": 0.0,
-    "BillboardScore": 991.5,
+    "BillboardScore": 1576.0,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 5,
+    "Position": 7,
     "SongID": 1274837604,
     "Title": "Ran To Atlanta (feat. Future & Molly Santana)",
     "Artist": "Drake, Future, Molly Santana",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       },
       {
         "Artist": "Future",
+        "Role": "secondary_main",
+        "Weight": 0.62,
         "SpotifyURL": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
       },
       {
         "Artist": "Molly Santana",
-        "SpotifyURL": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
-    "TotalScore": 213723.512635,
-    "SpotifyScore": 12153.215722,
-    "AppleScore": 147209.989836,
+    "TotalScore": 118668.444404,
+    "SpotifyScore": 8914.539612,
+    "AppleScore": 81163.34217,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 2
   },
   {
-    "Position": 6,
+    "Position": 8,
     "SongID": 1274835978,
     "Title": "Whisper My Name",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J",
-    "TotalScore": 205478.327704,
-    "SpotifyScore": 18503.02106,
-    "AppleScore": 134847.350086,
-    "YouTubeScore": 722.388696,
-    "BillboardScore": 969.0,
-    "PlatformCount": 4
+    "TotalScore": 106857.102729,
+    "SpotifyScore": 11721.861546,
+    "AppleScore": 66964.461271,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1512.0,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
   },
   {
-    "Position": 7,
+    "Position": 9,
+    "SongID": 1274820501,
+    "Title": "drop dead",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c25b53f0a34aa1bb4f77cb3e",
+    "SpotifyURL": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei",
+    "TotalScore": 103576.25742,
+    "SpotifyScore": 48186.246487,
+    "AppleScore": 52952.349577,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1566.4,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 10,
     "SongID": 1274835968,
     "Title": "Plot Twist",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav",
-    "TotalScore": 123979.06714,
-    "SpotifyScore": 8396.051362,
-    "AppleScore": 83527.269751,
+    "TotalScore": 76988.128984,
+    "SpotifyScore": 5487.575927,
+    "AppleScore": 50281.374594,
     "YouTubeScore": 0.0,
-    "BillboardScore": 886.5,
+    "BillboardScore": 1355.2,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 8,
-    "SongID": 1274835949,
-    "Title": "2 Hard 4 The Radio",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/1svuouRvqWANBZJ0WqhLRn",
-    "TotalScore": 103532.861722,
-    "SpotifyScore": 9016.244496,
-    "AppleScore": 68034.369964,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 926.5,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 9,
+    "Position": 11,
     "SongID": 1274835981,
     "Title": "B's On The Table (feat. 21 Savage)",
     "Artist": "Drake, 21 Savage",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       },
       {
         "Artist": "21 Savage",
+        "Role": "secondary_main",
+        "Weight": 0.62,
         "SpotifyURL": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/0j1vvE8fznuoEtoF0vVkTj",
-    "TotalScore": 100231.794369,
-    "SpotifyScore": 3999.701943,
-    "AppleScore": 70337.807567,
+    "TotalScore": 61875.303424,
+    "SpotifyScore": 3239.728651,
+    "AppleScore": 43524.391446,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 2
   },
   {
-    "Position": 10,
+    "Position": 12,
+    "SongID": 1274835949,
+    "Title": "2 Hard 4 The Radio",
+    "Artist": "Drake",
+    "Artists": [
+      {
+        "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
+    "SpotifyURL": "https://open.spotify.com/track/1svuouRvqWANBZJ0WqhLRn",
+    "TotalScore": 58859.944539,
+    "SpotifyScore": 4791.652066,
+    "AppleScore": 37197.842985,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1409.6,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 13,
     "SongID": 1274835954,
     "Title": "Dust",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu",
-    "TotalScore": 81767.996605,
-    "SpotifyScore": 3394.648615,
-    "AppleScore": 56485.25682,
+    "TotalScore": 49383.09316,
+    "SpotifyScore": 2649.619211,
+    "AppleScore": 32307.002455,
     "YouTubeScore": 0.0,
-    "BillboardScore": 849.0,
+    "BillboardScore": 1217.6,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 11,
-    "SongID": 1274835964,
-    "Title": "Make Them Pay",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/0CrezUVlmwzV9NXOierVOX",
-    "TotalScore": 79244.510059,
-    "SpotifyScore": 2940.68096,
-    "AppleScore": 54990.370001,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 844.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 12,
-    "SongID": 1274835962,
-    "Title": "Make Them Cry",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/4VHT1pr51GHOyUHQ1oj8L9",
-    "TotalScore": 75426.515836,
-    "SpotifyScore": 2872.794868,
-    "AppleScore": 52303.217014,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 781.5,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 13,
+    "Position": 14,
     "SongID": 1274835951,
     "Title": "Burning Bridges",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ",
-    "TotalScore": 73628.082552,
-    "SpotifyScore": 2818.876073,
-    "AppleScore": 50992.544084,
+    "TotalScore": 47023.309461,
+    "SpotifyScore": 1539.172669,
+    "AppleScore": 31620.524411,
     "YouTubeScore": 0.0,
-    "BillboardScore": 819.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 14,
-    "SongID": 1274835953,
-    "Title": "Don’t Worry",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/1UrwT7SVYhmar8MO49CBDf",
-    "TotalScore": 49333.354627,
-    "SpotifyScore": 2135.110026,
-    "AppleScore": 33874.797875,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 651.5,
+    "BillboardScore": 1153.6,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
     "Position": 15,
-    "SongID": 1274835963,
-    "Title": "Make Them Know",
+    "SongID": 1274835964,
+    "Title": "Make Them Pay",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/7687SRdfRe14M8H1uo829W",
-    "TotalScore": 46217.315709,
-    "SpotifyScore": 1331.053655,
-    "AppleScore": 32231.259613,
+    "SpotifyURL": "https://open.spotify.com/track/0CrezUVlmwzV9NXOierVOX",
+    "TotalScore": 45730.747933,
+    "SpotifyScore": 1549.16024,
+    "AppleScore": 30590.311586,
     "YouTubeScore": 0.0,
-    "BillboardScore": 629.0,
+    "BillboardScore": 1182.4,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   }
 ]

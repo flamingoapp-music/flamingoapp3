@@ -7,60 +7,71 @@
     "Artists": [
       {
         "Artist": "Ariana Grande",
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
     "SpotifyURL": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-    "TotalScore": 606310.008636,
-    "SpotifyScore": 223023.435058,
-    "AppleScore": 279674.519571,
-    "YouTubeScore": 20715.471721,
-    "BillboardScore": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 2,
-    "SongID": 914,
-    "Title": "Billie Jean",
-    "Artist": "Michael Jackson",
-    "Artists": [
-      {
-        "Artist": "Michael Jackson",
-        "SpotifyURL": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "SpotifyURL": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
-    "TotalScore": 519984.013955,
-    "SpotifyScore": 251794.14159,
-    "AppleScore": 185212.804805,
-    "YouTubeScore": 27589.922231,
-    "BillboardScore": 969.0,
+    "TotalScore": 595418.80494,
+    "SpotifyScore": 242753.793168,
+    "AppleScore": 247228.295658,
+    "YouTubeScore": 11359.432775,
+    "BillboardScore": 1800.0,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 4
   },
   {
-    "Position": 3,
+    "Position": 2,
     "SongID": 108652,
     "Title": "Beauty And A Beat",
     "Artist": "Justin Bieber, Nicki Minaj",
     "Artists": [
       {
         "Artist": "Justin Bieber",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
       },
       {
         "Artist": "Nicki Minaj",
+        "Role": "secondary_main",
+        "Weight": 0.62,
         "SpotifyURL": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736c20c4638a558132ba95bc39",
     "SpotifyURL": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk",
-    "TotalScore": 518422.75349,
-    "SpotifyScore": 271990.752187,
-    "AppleScore": 176984.680655,
-    "YouTubeScore": 16542.648896,
-    "BillboardScore": 497.0,
+    "TotalScore": 492590.545846,
+    "SpotifyScore": 314649.882939,
+    "AppleScore": 164224.990396,
+    "YouTubeScore": 10607.255586,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 3,
+    "SongID": 914,
+    "Title": "Billie Jean",
+    "Artist": "Michael Jackson",
+    "Artists": [
+      {
+        "Artist": "Michael Jackson",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+    "SpotifyURL": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
+    "TotalScore": 462806.837486,
+    "SpotifyScore": 253814.088616,
+    "AppleScore": 177828.742868,
+    "YouTubeScore": 22138.347556,
+    "BillboardScore": 1728.0,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 4
   },
   {
@@ -71,16 +82,19 @@
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe",
-    "TotalScore": 402322.215108,
-    "SpotifyScore": 74990.608859,
-    "AppleScore": 249154.962045,
-    "YouTubeScore": 2281.426937,
-    "BillboardScore": 1019.0,
+    "TotalScore": 370713.164332,
+    "SpotifyScore": 76458.780602,
+    "AppleScore": 232584.772702,
+    "YouTubeScore": 2023.12345,
+    "BillboardScore": 1789.2,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 4
   },
   {
@@ -91,16 +105,19 @@
     "Artists": [
       {
         "Artist": "Michael Jackson",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
     "SpotifyURL": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw",
-    "TotalScore": 349100.702253,
-    "SpotifyScore": 207349.906985,
-    "AppleScore": 91860.577693,
-    "YouTubeScore": 22843.83607,
-    "BillboardScore": 492.0,
+    "TotalScore": 292709.285914,
+    "SpotifyScore": 192421.673413,
+    "AppleScore": 79872.492063,
+    "YouTubeScore": 20645.496527,
+    "BillboardScore": 871.2,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 4
   },
   {
@@ -111,212 +128,238 @@
     "Artists": [
       {
         "Artist": "Dave",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
       },
       {
         "Artist": "Tems",
+        "Role": "secondary_main",
+        "Weight": 0.62,
         "SpotifyURL": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e0ea9dc7335465a3f346a21f",
     "SpotifyURL": "https://open.spotify.com/track/1xTGRa8PxYGH0kmQUIV4C0",
-    "TotalScore": 298076.041087,
-    "SpotifyScore": 83873.951347,
-    "AppleScore": 161205.455922,
-    "YouTubeScore": 3925.47057,
-    "BillboardScore": 721.5,
-    "PlatformCount": 4
+    "TotalScore": 291510.705271,
+    "SpotifyScore": 113835.03562,
+    "AppleScore": 146831.942147,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1382.4,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
   },
   {
     "Position": 7,
+    "SongID": 1247691,
+    "Title": "The Fate of Ophelia",
+    "Artist": "Taylor Swift",
+    "Artists": [
+      {
+        "Artist": "Taylor Swift",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "SpotifyURL": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
+    "TotalScore": 279743.432814,
+    "SpotifyScore": 133818.796387,
+    "AppleScore": 124404.632567,
+    "YouTubeScore": 958.565528,
+    "BillboardScore": 846.0,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 8,
     "SongID": 435,
     "Title": "Babydoll",
     "Artist": "Dominic Fike",
     "Artists": [
       {
         "Artist": "Dominic Fike",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
     "SpotifyURL": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-    "TotalScore": 290986.218526,
-    "SpotifyScore": 252856.387361,
-    "AppleScore": 23364.243842,
-    "YouTubeScore": 6977.383336,
-    "BillboardScore": 906.5,
+    "TotalScore": 277777.228303,
+    "SpotifyScore": 256261.047375,
+    "AppleScore": 24662.171374,
+    "YouTubeScore": 1120.505586,
+    "BillboardScore": 1666.8,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 4
   },
   {
-    "Position": 8,
+    "Position": 9,
     "SongID": 1274840323,
     "Title": "the cure",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
     "SpotifyURL": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96",
-    "TotalScore": 285307.254658,
-    "SpotifyScore": 134182.485577,
-    "AppleScore": 115297.668524,
+    "TotalScore": 252456.481024,
+    "SpotifyScore": 119063.178987,
+    "AppleScore": 100192.68917,
     "YouTubeScore": 0.0,
-    "BillboardScore": 1006.5,
+    "BillboardScore": 1753.2,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 9,
-    "SongID": 1272690,
-    "Title": "The Fate of Ophelia",
-    "Artist": "Taylor Swift",
-    "Artists": [
-      {
-        "Artist": "Taylor Swift",
-        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "SpotifyURL": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
-    "TotalScore": 264612.357695,
-    "SpotifyScore": 114695.686523,
-    "AppleScore": 113003.118709,
-    "YouTubeScore": 2545.491423,
-    "BillboardScore": 462.0,
-    "PlatformCount": 4
-  },
-  {
     "Position": 10,
-    "SongID": 1274799562,
+    "SongID": 1274808634,
     "Title": "SWIM",
     "Artist": "BTS",
     "Artists": [
       {
         "Artist": "BTS",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dfa17fad7f190c901603270e",
     "SpotifyURL": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
-    "TotalScore": 261877.047427,
-    "SpotifyScore": 164004.181058,
-    "AppleScore": 73907.798104,
-    "YouTubeScore": 703.082984,
-    "BillboardScore": 904.0,
-    "PlatformCount": 4
-  },
-  {
-    "Position": 11,
-    "SongID": 1274835966,
-    "Title": "National Treasures",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D",
-    "TotalScore": 243055.234784,
-    "SpotifyScore": 51081.093675,
-    "AppleScore": 146757.185468,
+    "TotalScore": 234379.507979,
+    "SpotifyScore": 164344.185834,
+    "AppleScore": 53732.42219,
     "YouTubeScore": 0.0,
-    "BillboardScore": 966.5,
+    "BillboardScore": 1641.6,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 12,
+    "Position": 11,
     "SongID": 1274836725,
     "Title": "Dai Dai",
     "Artist": "Shakira, Burna Boy",
     "Artists": [
       {
         "Artist": "Shakira",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
       },
       {
         "Artist": "Burna Boy",
-        "SpotifyURL": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27303cadf1b3fe324c1dc710ed4",
     "SpotifyURL": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
-    "TotalScore": 217308.95889,
-    "SpotifyScore": 31205.694628,
-    "AppleScore": 23446.060495,
-    "YouTubeScore": 163782.511177,
+    "TotalScore": 219912.372426,
+    "SpotifyScore": 44386.695893,
+    "AppleScore": 22180.943921,
+    "YouTubeScore": 152788.578762,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 3
   },
   {
-    "Position": 13,
+    "Position": 12,
     "SongID": 1274835974,
     "Title": "Shabang",
     "Artist": "Drake",
     "Artists": [
       {
         "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/1fI2fpUb0zLuMPwEzIuoOr",
-    "TotalScore": 213136.263532,
-    "SpotifyScore": 13169.634218,
-    "AppleScore": 152882.176396,
+    "TotalScore": 201533.295914,
+    "SpotifyScore": 13355.110428,
+    "AppleScore": 150384.209073,
     "YouTubeScore": 0.0,
-    "BillboardScore": 991.5,
+    "BillboardScore": 1728.0,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 13,
+    "SongID": 1274835966,
+    "Title": "National Treasures",
+    "Artist": "Drake",
+    "Artists": [
+      {
+        "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
+    "SpotifyURL": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D",
+    "TotalScore": 191948.231774,
+    "SpotifyScore": 33247.531964,
+    "AppleScore": 125348.300486,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1659.6,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
     "Position": 14,
-    "SongID": 1274837604,
-    "Title": "Ran To Atlanta (feat. Future & Molly Santana)",
-    "Artist": "Drake, Future, Molly Santana",
+    "SongID": 1272717,
+    "Title": "DtMF",
+    "Artist": "Bad Bunny",
     "Artists": [
       {
-        "Artist": "Drake",
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "Artist": "Future",
-        "SpotifyURL": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-      },
-      {
-        "Artist": "Molly Santana",
-        "SpotifyURL": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        "Artist": "Bad Bunny",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
-    "TotalScore": 203546.202509,
-    "SpotifyScore": 12153.215722,
-    "AppleScore": 147209.989836,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "SpotifyURL": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+    "TotalScore": 169601.42974,
+    "SpotifyScore": 113235.307074,
+    "AppleScore": 53499.381657,
     "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "BillboardScore": 813.6,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
   },
   {
     "Position": 15,
-    "SongID": 1274818064,
-    "Title": "Human Nature",
-    "Artist": "Michael Jackson",
+    "SongID": 802525,
+    "Title": "Self Aware",
+    "Artist": "Temper City",
     "Artists": [
       {
-        "Artist": "Michael Jackson",
-        "SpotifyURL": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        "Artist": "Temper City",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "SpotifyURL": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t",
-    "TotalScore": 196487.41636,
-    "SpotifyScore": 72246.565778,
-    "AppleScore": 94390.429747,
-    "YouTubeScore": 429.991484,
-    "BillboardScore": 904.0,
-    "PlatformCount": 4
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+    "SpotifyURL": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+    "TotalScore": 166315.668827,
+    "SpotifyScore": 116013.315438,
+    "AppleScore": 40917.97686,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1450.8,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
   }
 ]
