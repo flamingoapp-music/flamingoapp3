@@ -1,20 +1,42 @@
 (() => {
-	// ------- Utilidades -------
-	const $ = (sel, root = document) => root.querySelector(sel);
+	// ======================================================
+	// FLAMINGO DISPLAY / DISPLAYER.JS - MASTER COMPATIBLE
+	// ======================================================
+
+	const $  = (sel, root = document) => root.querySelector(sel);
 	const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
-	const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
-	const JSON_BASE_SONGS = "DATABASES/TOP_SONGS/";
+	const JSON_BASE_SONGS   = "DATABASES/TOP_SONGS/";
 	const JSON_BASE_ARTISTS = "DATABASES/TOP_ARTISTS/";
-	const JSON_BASE_ALL = "DATABASES/ALL_JSON/";
-
+	const JSON_BASE_ALL     = "DATABASES/ALL_JSON/";
 	const DEFAULT_COVER = "images/backgroundlogo.png";
 
 	const _cache = new Map();
 
+	function normalizeText(value) {
+		return String(value ?? "")
+			.normalize("NFD")
+			.replace(/[\u0300-\u036f]/g, "")
+			.toLowerCase()
+			.replace(/\s+/g, " ")
+			.trim();
+	}
+
+	function firstNonEmpty(...values) {
+		for (const v of values) {
+			if (typeof v === "string" && v.trim() !== "") return v.trim();
+			if (v !== null && v !== undefined && v !== "") return v;
+		}
+		return "";
+	}
+
+	function safeSongID(value) {
+		const n = Number(value);
+		return Number.isFinite(n) ? String(Math.trunc(n)) : String(value ?? "").trim();
+	}
+
 	async function getJSON(url) {
-		const cacheKey = url;
-		if (_cache.has(cacheKey)) return _cache.get(cacheKey);
+		if (_cache.has(url)) return _cache.get(url);
 
 		const bust = "cb=" + Date.now();
 		const urlWithBust = url + (url.includes("?") ? "&" : "?") + bust;
@@ -31,13 +53,7 @@
 				});
 
 				if (!res.ok) {
-					console.warn(`[getJSON] ${urlWithBust} -> ${res.status} ${res.statusText}`);
-					return [];
-				}
-
-				const contentType = res.headers.get("content-type") || "";
-				if (!contentType.includes("application/json")) {
-					console.warn(`[getJSON] ${urlWithBust} no devolvió JSON. Content-Type: ${contentType}`);
+					console.warn(`[getJSON] ${urlWithBust} -> ${res.status}`);
 					return [];
 				}
 
@@ -48,54 +64,177 @@
 			}
 		})();
 
-		_cache.set(cacheKey, p);
+		_cache.set(url, p);
 		return p;
 	}
 
 	async function getFirstAvailableJSON(basePath, candidates) {
 		for (const name of candidates) {
-			const url = basePath + name;
-			const data = await getJSON(url);
+			const data = await getJSON(basePath + name);
 			if (Array.isArray(data) && data.length > 0) {
-				console.info(`[getFirstAvailableJSON] Usando ${url}`);
+				console.info(`[JSON] Usando ${basePath + name}`);
 				return data;
 			}
-			console.warn(`[getFirstAvailableJSON] Sin datos en ${url}`);
 		}
-		console.error("[getFirstAvailableJSON] Ninguno de los archivos tuvo datos:", candidates);
+		console.warn("[JSON] Ningún archivo disponible:", candidates);
 		return [];
 	}
 
-	// ------- Metadatos compartidos -------
-	let metaReady;
-	const meta = {
-		siMap: null,
-		tsMap: null,
-		spMap: null,
-		artistURLMap: null,
-
-		appleSiMap: null,
-		appleTsMap: null,
-		appleArtistURLMap: null
-	};
-
 	function indexBy(arr, key, mapValue = x => x) {
 		const m = Object.create(null);
-		for (const it of arr) {
-			if (it && Object.prototype.hasOwnProperty.call(it, key)) {
-				m[it[key]] = mapValue(it);
-			}
+		for (const it of Array.isArray(arr) ? arr : []) {
+			if (!it || !Object.prototype.hasOwnProperty.call(it, key)) continue;
+			const rawKey = it[key];
+			const stringKey = safeSongID(rawKey);
+			m[stringKey] = mapValue(it);
+			m[rawKey] = mapValue(it);
 		}
 		return m;
 	}
 
-	function normalizeName(text) {
-		return String(text || "")
-			.normalize("NFD")
-			.replace(/[\u0300-\u036f]/g, "")
-			.toLowerCase()
-			.replace(/\s+/g, " ")
-			.trim();
+	let metaReady;
+	const meta = {
+		siMap: Object.create(null),
+		tsMap: Object.create(null),
+		spMap: Object.create(null),
+		artistByID: Object.create(null),
+		artistByName: Object.create(null),
+		appleSiMap: Object.create(null),
+		appleTsMap: Object.create(null),
+		appleSpMap: Object.create(null),
+		billboardSiMap: Object.create(null),
+		billboardTsMap: Object.create(null),
+		billboardSpMap: Object.create(null),
+	};
+
+	function registerArtistFeature(a) {
+		if (!a || !a.Artist) return;
+
+		const artistID = firstNonEmpty(a.ArtistID, a.ArtistId, a.id);
+		const name = String(a.Artist).trim();
+		const key = normalizeText(name);
+
+		const normalized = {
+			ArtistID: artistID,
+			Artist: name,
+			SpotifyURL: firstNonEmpty(a.SpotifyURL, a.Spotify_URL),
+			SpotifyImageURL: firstNonEmpty(a.SpotifyImageURL, a.Image, a.image, a.CoverImage),
+		};
+
+		if (artistID !== "") meta.artistByID[String(artistID)] = normalized;
+		if (key) meta.artistByName[key] = normalized;
+
+		if (a.Alias) {
+			String(a.Alias)
+				.split(/[,;|]/)
+				.map(x => normalizeText(x))
+				.filter(Boolean)
+				.forEach(aliasKey => {
+					if (!meta.artistByName[aliasKey]) meta.artistByName[aliasKey] = normalized;
+				});
+		}
+	}
+
+	function getArtistFeatureByName(name) {
+		return meta.artistByName[normalizeText(name)] || null;
+	}
+
+	function getArtistFeatureByID(id) {
+		if (id === null || id === undefined || id === "") return null;
+		return meta.artistByID[String(id)] || null;
+	}
+
+	function getArtistImage(row) {
+		const byID = getArtistFeatureByID(row?.ArtistID);
+		const byName = getArtistFeatureByName(row?.Artist);
+
+		return firstNonEmpty(
+			row?.SpotifyImageURL,
+			row?.Image,
+			row?.image,
+			byID?.SpotifyImageURL,
+			byName?.SpotifyImageURL,
+			DEFAULT_COVER
+		);
+	}
+
+	function getArtistURL(row) {
+		const byID = getArtistFeatureByID(row?.ArtistID);
+		const byName = getArtistFeatureByName(row?.Artist);
+
+		return firstNonEmpty(
+			row?.SpotifyURL,
+			row?.Spotify_URL,
+			byID?.SpotifyURL,
+			byName?.SpotifyURL,
+			null
+		);
+	}
+
+	function getSongURL(songID, entry = {}) {
+		const id = safeSongID(songID);
+		return firstNonEmpty(
+			entry.SpotifyURL,
+			entry.Spotify_URL,
+			meta.spMap[id],
+			meta.appleSpMap[id],
+			meta.billboardSpMap[id],
+			null
+		);
+	}
+
+	function getSongImage(songID, entry = {}, platform = "") {
+		const id = safeSongID(songID);
+		let ts = meta.tsMap[id] || {};
+
+		if (platform === "apple_music" && meta.appleTsMap[id]) ts = meta.appleTsMap[id];
+		if (platform === "billboard" && meta.billboardTsMap[id]) ts = meta.billboardTsMap[id];
+
+		return firstNonEmpty(entry.CoverImage, entry.Image, entry.image, ts.CoverImage, DEFAULT_COVER);
+	}
+
+	function getSongSI(songID, entry = {}, platform = "") {
+		const id = safeSongID(songID);
+		let si = meta.siMap[id] || {};
+
+		if (platform === "apple_music" && meta.appleSiMap[id]) si = meta.appleSiMap[id];
+		if (platform === "billboard" && meta.billboardSiMap[id]) si = meta.billboardSiMap[id];
+
+		return {
+			Title: firstNonEmpty(si.Title, entry.Title, "Unknown Title"),
+			Artist: firstNonEmpty(si.Artist, entry.Artist, "Unknown Artist"),
+			ArtistID: firstNonEmpty(si.ArtistID, entry.ArtistID, ""),
+		};
+	}
+
+	function splitArtistNames(artistText) {
+		return String(artistText || "")
+			.split(",")
+			.map(x => x.trim())
+			.filter(Boolean);
+	}
+
+	function normalizeArtists(entry) {
+		if (Array.isArray(entry.Artists) && entry.Artists.length > 0) {
+			return entry.Artists.map(a => {
+				const name = firstNonEmpty(a?.Artist, a?.name, "Unknown Artist");
+				const feature = getArtistFeatureByName(name);
+				return {
+					name,
+					url: firstNonEmpty(a?.SpotifyURL, feature?.SpotifyURL, null),
+				};
+			});
+		}
+
+		const artistText = firstNonEmpty(entry.Artist, entry.Artists, "Unknown Artist");
+
+		return splitArtistNames(artistText).map(name => {
+			const feature = getArtistFeatureByName(name);
+			return {
+				name,
+				url: firstNonEmpty(feature?.SpotifyURL, null),
+			};
+		});
 	}
 
 	function ensureMetaLoaded() {
@@ -109,130 +248,86 @@
 				artistFeatures,
 				appleSi,
 				appleTs,
-				appleArtistFeatures
+				appleSp,
+				appleArtistFeatures,
+				billboardSi,
+				billboardTs,
+				billboardSp,
+				billboardArtistFeatures,
 			] = await Promise.all([
 				getJSON(`${JSON_BASE_ALL}SI.json`),
 				getJSON(`${JSON_BASE_ALL}TS.json`),
 				getJSON(`${JSON_BASE_ALL}SP.json`),
 				getJSON(`${JSON_BASE_ALL}ARTIST_FEATURES.json`),
 
-				getJSON(`${JSON_BASE_ALL}APPLEMUSIC_SI.json`),
-				getJSON(`${JSON_BASE_ALL}APPLEMUSIC_TS.json`),
-				getJSON(`${JSON_BASE_ALL}APPLEMUSIC_ARTIST_FEATURES.json`)
+				getFirstAvailableJSON(JSON_BASE_ALL, ["APPLE_SI.json", "APPLEMUSIC_SI.json", "APPLE_MUSIC_SI.json"]),
+				getFirstAvailableJSON(JSON_BASE_ALL, ["APPLE_TS.json", "APPLEMUSIC_TS.json", "APPLE_MUSIC_TS.json"]),
+				getFirstAvailableJSON(JSON_BASE_ALL, ["APPLE_SP.json", "APPLEMUSIC_SP.json", "APPLE_MUSIC_SP.json"]),
+				getFirstAvailableJSON(JSON_BASE_ALL, ["APPLE_ARTIST_FEATURES.json", "APPLEMUSIC_ARTIST_FEATURES.json", "APPLE_MUSIC_ARTIST_FEATURES.json"]),
+
+				getFirstAvailableJSON(JSON_BASE_ALL, ["BILLBOARD_SI.json", "BB_SI.json"]),
+				getFirstAvailableJSON(JSON_BASE_ALL, ["BILLBOARD_TS.json", "BB_TS.json"]),
+				getFirstAvailableJSON(JSON_BASE_ALL, ["BILLBOARD_SP.json", "BB_SP.json"]),
+				getFirstAvailableJSON(JSON_BASE_ALL, ["BILLBOARD_ARTIST_FEATURES.json", "BB_ARTIST_FEATURES.json"]),
 			]);
 
-			meta.siMap = indexBy(Array.isArray(si) ? si : [], "SongID");
-			meta.tsMap = indexBy(Array.isArray(ts) ? ts : [], "SongID");
-			meta.spMap = indexBy(Array.isArray(sp) ? sp : [], "SongID", x => x.Spotify_URL);
+			meta.siMap = indexBy(si, "SongID");
+			meta.tsMap = indexBy(ts, "SongID");
+			meta.spMap = indexBy(sp, "SongID", x => firstNonEmpty(x.Spotify_URL, x.SpotifyURL));
 
-			meta.artistURLMap = Object.create(null);
-			if (Array.isArray(artistFeatures)) {
-				for (const a of artistFeatures) {
-					if (a && a.Artist) {
-						meta.artistURLMap[normalizeName(a.Artist)] = a.SpotifyURL || null;
-					}
-				}
-			}
+			meta.appleSiMap = indexBy(appleSi, "SongID");
+			meta.appleTsMap = indexBy(appleTs, "SongID");
+			meta.appleSpMap = indexBy(appleSp, "SongID", x => firstNonEmpty(x.Spotify_URL, x.SpotifyURL));
 
-			meta.appleSiMap = indexBy(Array.isArray(appleSi) ? appleSi : [], "SongID");
-			meta.appleTsMap = indexBy(Array.isArray(appleTs) ? appleTs : [], "SongID");
+			meta.billboardSiMap = indexBy(billboardSi, "SongID");
+			meta.billboardTsMap = indexBy(billboardTs, "SongID");
+			meta.billboardSpMap = indexBy(billboardSp, "SongID", x => firstNonEmpty(x.Spotify_URL, x.SpotifyURL));
 
-			meta.appleArtistURLMap = Object.create(null);
-			if (Array.isArray(appleArtistFeatures)) {
-				for (const a of appleArtistFeatures) {
-					if (a && a.Artist) {
-						meta.appleArtistURLMap[normalizeName(a.Artist)] = a.SpotifyURL || null;
+			[
+				...(Array.isArray(artistFeatures) ? artistFeatures : []),
+				...(Array.isArray(appleArtistFeatures) ? appleArtistFeatures : []),
+				...(Array.isArray(billboardArtistFeatures) ? billboardArtistFeatures : []),
+			].forEach(registerArtistFeature);
 
-						if (!meta.artistURLMap[normalizeName(a.Artist)]) {
-							meta.artistURLMap[normalizeName(a.Artist)] = a.SpotifyURL || null;
-						}
-					}
-				}
-			}
-
-			console.log("[META] Cargados SI/TS/SP/ARTIST + APPLEMUSIC_SI/TS/ARTIST");
+			console.log("[META] Metadata cargada correctamente");
 		})();
 
 		return metaReady;
 	}
 
-	function getArtistUrlByName(name, platform = "spotify") {
-		const key = normalizeName(name);
-		if (!key) return null;
-
-		if (platform === "apple_music") {
-			return meta.appleArtistURLMap?.[key] || meta.artistURLMap?.[key] || null;
-		}
-
-		return meta.artistURLMap?.[key] || null;
+	function normalizeChartKey(k) {
+		k = String(k || "").toLowerCase();
+		if (["week", "weekly", "top_weekly"].includes(k)) return "week";
+		if (["month", "monthly", "top_monthly"].includes(k)) return "month";
+		if (["general", "all", "top_general"].includes(k)) return "general";
+		return k;
 	}
 
 	// ======================================================
 	// TOP SONGS
 	// ======================================================
 	(function initTopSongs() {
-		const chartTabs = $$(".chart-tab");
-		const container = $("#chartCardsContainer");
+		const chartTabs  = $$(".chart-tab");
+		const container  = $("#chartCardsContainer");
 		const viewAllBtn = $("#viewAllButton");
 
 		const chartFileCandidates = {
-			week: ["top_15_weekly.json", "top_weekly.json"],
-			month: ["top_15_monthly.json", "top_monthly.json"],
-			general: ["top_15_general.json", "top_general.json"]
+			week:    ["top_15_weekly.json", "top_weekly.json"],
+			month:   ["top_15_monthly.json", "top_monthly.json"],
+			general: ["top_15_general.json", "top_general.json"],
 		};
 
 		const keyMap = { week: "top_weekly", month: "top_monthly", general: "top_general" };
-		const keys = ["week", "month", "general"];
-		let current = 0;
 
 		function setActiveTab(k) {
-			chartTabs.forEach(t => t.classList.toggle("active", t.dataset.chart === k));
+			chartTabs.forEach(t => {
+				const tk = normalizeChartKey(t.dataset.chart);
+				t.classList.toggle("active", tk === k);
+			});
 		}
 
 		function setViewAll(k) {
-			if (viewAllBtn) viewAllBtn.href = `topsongs.html?chart=${keyMap[k]}`;
-		}
-
-		function normalizeArtists(entry, platform = "spotify") {
-			// Caso 1: Artists como array
-			if (Array.isArray(entry.Artists) && entry.Artists.length > 0) {
-				return entry.Artists.map(a => {
-					const artistName = a?.Artist || a?.name || "Unknown Artist";
-					return {
-						name: artistName,
-						url: getArtistUrlByName(artistName, platform)
-					};
-				});
-			}
-
-			// Caso 2: Artist como string
-			if (typeof entry.Artist === "string" && entry.Artist.trim() !== "") {
-				return entry.Artist
-					.split(",")
-					.map(x => x.trim())
-					.filter(Boolean)
-					.map(name => ({
-						name,
-						url: getArtistUrlByName(name, platform)
-					}));
-			}
-
-			// Caso 3: Artists como string
-			if (typeof entry.Artists === "string" && entry.Artists.trim() !== "") {
-				return entry.Artists
-					.split(",")
-					.map(x => x.trim())
-					.filter(Boolean)
-					.map(name => ({
-						name,
-						url: getArtistUrlByName(name, platform)
-					}));
-			}
-
-			return [{
-				name: "Unknown Artist",
-				url: null
-			}];
+			if (viewAllBtn) viewAllBtn.href = `topsongs.html?chart=${keyMap[k] || "top_weekly"}`;
 		}
 
 		function makeSongCard(song) {
@@ -247,7 +342,6 @@
 			img.decoding = "async";
 			img.onerror = () => { img.src = DEFAULT_COVER; };
 
-			// Imagen -> TRACK
 			if (song.spotifyURL) {
 				img.style.cursor = "pointer";
 				img.addEventListener("click", () => window.open(song.spotifyURL, "_blank"));
@@ -268,21 +362,16 @@
 				song.artists.forEach((a, i) => {
 					const node = a.url
 						? Object.assign(document.createElement("a"), {
-								href: a.url,
-								target: "_blank",
-								rel: "noopener noreferrer",
-								textContent: a.name,
-								style: "color:#3498db;text-decoration:underline"
-						  })
-						: Object.assign(document.createElement("span"), {
-								textContent: a.name
-						  });
+							href: a.url,
+							target: "_blank",
+							rel: "noopener noreferrer",
+							textContent: a.name,
+							style: "color:#3498db;text-decoration:underline",
+						})
+						: Object.assign(document.createElement("span"), { textContent: a.name });
 
 					artistDiv.appendChild(node);
-
-					if (i < song.artists.length - 1) {
-						artistDiv.appendChild(document.createTextNode(", "));
-					}
+					if (i < song.artists.length - 1) artistDiv.appendChild(document.createTextNode(", "));
 				});
 			} else {
 				artistDiv.textContent = "Unknown Artist";
@@ -292,61 +381,52 @@
 			return card;
 		}
 
-		async function renderChart(key) {
+		async function renderChart(rawKey) {
 			if (!container) return;
 
-			try {
-				await ensureMetaLoaded();
+			await ensureMetaLoaded();
 
-				setActiveTab(key);
-				setViewAll(key);
+			const key = normalizeChartKey(rawKey);
+			setActiveTab(key);
+			setViewAll(key);
 
-				container.textContent = "Loading...";
+			container.textContent = "Loading...";
 
-				const files = chartFileCandidates[key] || chartFileCandidates.week;
-				const data = await getFirstAvailableJSON(JSON_BASE_SONGS, files);
+			const data = await getFirstAvailableJSON(JSON_BASE_SONGS, chartFileCandidates[key] || chartFileCandidates.week);
+			container.textContent = "";
 
-				container.textContent = "";
-
-				if (!Array.isArray(data) || data.length === 0) {
-					container.innerHTML = "<p>No data available.</p>";
-					return;
-				}
-
-				const top5 = data
-					.slice()
-					.sort((a, b) => (a.Position ?? 9999) - (b.Position ?? 9999))
-					.slice(0, 5)
-					.map(entry => ({
-						rank: entry.Position ?? "",
-						title: entry.Title || "Unknown Title",
-						artists: normalizeArtists(entry, "spotify"),
-						image:
-							entry.CoverImage && String(entry.CoverImage).trim() !== ""
-								? entry.CoverImage
-								: DEFAULT_COVER,
-						spotifyURL: entry.SpotifyURL || null
-					}));
-
-				const frag = document.createDocumentFragment();
-				for (const s of top5) frag.appendChild(makeSongCard(s));
-
-				requestAnimationFrame(() => {
-					container.textContent = "";
-					container.appendChild(frag);
-				});
-			} catch (err) {
-				console.error("[TopSongs] Error:", err);
+			if (!Array.isArray(data) || data.length === 0) {
 				container.innerHTML = "<p>No data available.</p>";
+				return;
 			}
+
+			const top5 = data
+				.slice()
+				.sort((a, b) => (a.Position ?? 9999) - (b.Position ?? 9999))
+				.slice(0, 5)
+				.map(entry => {
+					const id = safeSongID(entry.SongID);
+					const si = getSongSI(id, entry);
+					return {
+						rank: entry.Position ?? "",
+						title: firstNonEmpty(entry.Title, si.Title),
+						artists: normalizeArtists({ ...entry, Artist: firstNonEmpty(entry.Artist, si.Artist) }),
+						image: getSongImage(id, entry),
+						spotifyURL: getSongURL(id, entry),
+					};
+				});
+
+			const frag = document.createDocumentFragment();
+			for (const s of top5) frag.appendChild(makeSongCard(s));
+
+			requestAnimationFrame(() => {
+				container.textContent = "";
+				container.appendChild(frag);
+			});
 		}
 
 		chartTabs.forEach(tab => {
-			tab.addEventListener("click", () => {
-				const k = tab.dataset.chart;
-				current = keys.indexOf(k);
-				renderChart(k);
-			}, { passive: true });
+			tab.addEventListener("click", () => renderChart(tab.dataset.chart), { passive: true });
 		});
 
 		renderChart("week");
@@ -356,26 +436,27 @@
 	// TOP ARTISTS
 	// ======================================================
 	(function initTopArtists() {
-		const chartTabs = $$(".chart-tab-artist");
-		const container = $("#chartCardsContainerArtists");
+		const chartTabs  = $$(".chart-tab-artist");
+		const container  = $("#chartCardsContainerArtists");
 		const viewAllBtn = $("#viewAllButtonArtists");
 
 		const chartFileCandidates = {
-			week: ["artists_top15_weekly.json", "artists_top15_daily.json", "artists_weekly.json"],
-			month: ["artists_top15_monthly.json", "artist_top15_monthly.json", "artists_monthly.json"],
-			general: ["artists_top15_general.json", "artist_top15_general.json", "artists_general.json"]
+			week:    ["artists_top15_weekly.json", "artists_weekly.json", "artists_top15_daily.json"],
+			month:   ["artists_top15_monthly.json", "artist_top15_monthly.json", "artists_monthly.json"],
+			general: ["artists_top15_general.json", "artist_top15_general.json", "artists_general.json"],
 		};
 
 		const keyMap = { week: "artists_weekly", month: "artists_monthly", general: "artists_general" };
-		const keys = ["week", "month", "general"];
-		let current = 0;
 
 		function setActiveTab(k) {
-			chartTabs.forEach(t => t.classList.toggle("active", t.dataset.chart === k));
+			chartTabs.forEach(t => {
+				const tk = normalizeChartKey(t.dataset.chart);
+				t.classList.toggle("active", tk === k);
+			});
 		}
 
 		function setViewAll(k) {
-			if (viewAllBtn) viewAllBtn.href = `topartists.html?chart=${keyMap[k]}`;
+			if (viewAllBtn) viewAllBtn.href = `topartists.html?chart=${keyMap[k] || "artists_weekly"}`;
 		}
 
 		function makeArtistCard(a) {
@@ -411,58 +492,52 @@
 			return card;
 		}
 
-		async function renderChart(key) {
+		async function renderChart(rawKey) {
 			if (!container) return;
 
-			try {
-				setActiveTab(key);
-				setViewAll(key);
+			await ensureMetaLoaded();
 
-				container.textContent = "Loading...";
+			const key = normalizeChartKey(rawKey);
+			setActiveTab(key);
+			setViewAll(key);
 
-				const files = chartFileCandidates[key] || chartFileCandidates.week;
-				const rows = await getFirstAvailableJSON(JSON_BASE_ARTISTS, files);
+			container.textContent = "Loading...";
 
-				container.textContent = "";
+			const rows = await getFirstAvailableJSON(JSON_BASE_ARTISTS, chartFileCandidates[key] || chartFileCandidates.week);
+			container.textContent = "";
 
-				if (!Array.isArray(rows) || rows.length === 0) {
-					container.innerHTML = "<p>No data available.</p>";
-					return;
-				}
-
-				const top5 = rows
-					.slice()
-					.sort((a, b) => (a.Position ?? 9999) - (b.Position ?? 9999))
-					.slice(0, 5)
-					.map(r => ({
-						rank: r.Position ?? "",
-						name: r.Artist || "Unknown Artist",
-						image: (typeof r.SpotifyImageURL === "string" && r.SpotifyImageURL.trim() !== "")
-							? r.SpotifyImageURL
-							: DEFAULT_COVER,
-						url: r.SpotifyURL || null,
-						hits: r["Number of hits"]
-					}));
-
-				const frag = document.createDocumentFragment();
-				for (const a of top5) frag.appendChild(makeArtistCard(a));
-
-				requestAnimationFrame(() => {
-					container.textContent = "";
-					container.appendChild(frag);
-				});
-			} catch (err) {
-				console.error("[TopArtists] Error:", err);
+			if (!Array.isArray(rows) || rows.length === 0) {
 				container.innerHTML = "<p>No data available.</p>";
+				return;
 			}
+
+			const top5 = rows
+				.slice()
+				.sort((a, b) => (a.Position ?? 9999) - (b.Position ?? 9999))
+				.slice(0, 5)
+				.map(r => {
+					const byID = getArtistFeatureByID(r.ArtistID);
+					const byName = getArtistFeatureByName(r.Artist);
+					return {
+						rank: r.Position ?? "",
+						name: firstNonEmpty(r.Artist, byID?.Artist, byName?.Artist, "Unknown Artist"),
+						image: getArtistImage(r),
+						url: getArtistURL(r),
+						hits: firstNonEmpty(r["Number of hits"], r.Hits, r.hit_count, "?"),
+					};
+				});
+
+			const frag = document.createDocumentFragment();
+			for (const a of top5) frag.appendChild(makeArtistCard(a));
+
+			requestAnimationFrame(() => {
+				container.textContent = "";
+				container.appendChild(frag);
+			});
 		}
 
 		chartTabs.forEach(tab => {
-			tab.addEventListener("click", () => {
-				const k = tab.dataset.chart;
-				current = keys.indexOf(k);
-				renderChart(k);
-			}, { passive: true });
+			tab.addEventListener("click", () => renderChart(tab.dataset.chart), { passive: true });
 		});
 
 		renderChart("week");
@@ -472,46 +547,93 @@
 	// STREAMING HIGHLIGHTS
 	// ======================================================
 	(function initStreamingHighlights() {
-		const container = $("#chartCardsContainerStreaming");
-		const toggleButtons = $$(".chart-tab-stream");
-		const viewAllButton = $("#viewAllButtonStreaming");
+		const container      = $("#chartCardsContainerStreaming");
+		const toggleButtons  = $$(".chart-tab-stream");
+		const viewAllButton  = $("#viewAllButtonStreaming");
 
 		const chartGroups = {
-			spotify: [["us", "gb", "es", "mx", "kr"]],
-			apple_music: [["us", "uk", "es", "mx", "kr"]],
-			youtubeInsights: [["us", "uk", "es", "mx", "kr"]],
-			billboard: [["hot100", "global200"]]
+			spotify:         [["us", "gb", "es", "mx", "kr"]],
+			apple_music:     [["us", "uk", "gb", "es", "mx", "kr"]],
+			youtubeInsights: [["us", "uk", "gb", "es", "mx", "kr"]],
+			billboard:       [["hot100", "global200"]],
 		};
 
 		let currentPlatform = "spotify";
 
-		toggleButtons.forEach(btn => {
-			btn.addEventListener("click", () => {
-				toggleButtons.forEach(b => b.classList.remove("active"));
-				btn.classList.add("active");
-				currentPlatform = btn.dataset.platform;
+		function platformFiles(platform, code) {
+			if (platform === "spotify") {
+				return [`SP_${code}.json`, `SPOTIFY_${code}.json`, `sp_${code}.json`];
+			}
 
-				document.body.classList.toggle("apple_music-active", currentPlatform === "apple_music");
-				document.body.classList.toggle("youtube-active", currentPlatform === "youtubeInsights");
-				document.body.classList.toggle("billboard-active", currentPlatform === "billboard");
+			if (platform === "apple_music") {
+				return [
+					`am_${code}.json`,
+					`AM_${code}.json`,
+					`APPLE_${code}.json`,
+					`APPLE_MUSIC_${code}.json`,
+					`apple_music_${code}.json`,
+					`APPLEMUSIC_${code}.json`,
+				];
+			}
 
-				if (viewAllButton) {
-					viewAllButton.href =
-						currentPlatform === "spotify" ? "spotifycharts.html" :
-						currentPlatform === "apple_music" ? "applemusiccharts.html" :
-						currentPlatform === "youtubeInsights" ? "youtubecharts.html" :
-						"billboardcharts.html";
+			if (platform === "youtubeInsights") {
+				return [`yt_${code}.json`, `YT_${code}.json`, `YOUTUBE_${code}.json`, `youtube_${code}.json`];
+			}
+
+			if (platform === "billboard") {
+				if (code === "hot100") {
+					return [
+						"billboard_hot100.json",
+						"billboard_hot_100.json",
+						"billboard_hot-100.json",
+						"BILLBOARD_HOT100.json",
+						"BB_hot100.json",
+					];
 				}
 
-				renderGroup(chartGroups[currentPlatform][0], currentPlatform);
-			}, { passive: true });
-		});
+				if (code === "global200") {
+					return [
+						"billboard_global200.json",
+						"billboard_global_200.json",
+						"billboard_global-200.json",
+						"BILLBOARD_GLOBAL200.json",
+						"BB_global200.json",
+					];
+				}
+			}
 
-		function platformPrefixes(p) {
-			if (p === "spotify") return ["SP", "SPOTIFY"];
-			if (p === "apple_music") return ["am", "AM", "apple_music", "APPLE_MUSIC", "APPLE"];
-			if (p === "youtubeInsights") return ["yt", "YT", "YOUTUBE"];
-			return ["billboard", "BILLBOARD", "BB"];
+			return [];
+		}
+
+		function makeArtistInline(artistText) {
+			const wrapper = document.createElement("div");
+			wrapper.className = "chart-artist";
+
+			const names = splitArtistNames(artistText);
+			if (!names.length) {
+				wrapper.textContent = artistText || "Unknown Artist";
+				return wrapper;
+			}
+
+			names.forEach((name, i) => {
+				const feature = getArtistFeatureByName(name);
+				const url = feature?.SpotifyURL || null;
+
+				const node = url
+					? Object.assign(document.createElement("a"), {
+						href: url,
+						target: "_blank",
+						rel: "noopener noreferrer",
+						textContent: name,
+						style: "text-decoration:underline",
+					})
+					: Object.assign(document.createElement("span"), { textContent: name });
+
+				wrapper.appendChild(node);
+				if (i < names.length - 1) wrapper.appendChild(document.createTextNode(", "));
+			});
+
+			return wrapper;
 		}
 
 		function makeStreamCard(top5, code, platform) {
@@ -548,35 +670,14 @@
 				flagImg.decoding = "async";
 				rank.appendChild(flagImg);
 			} else {
-				rank.textContent = (
-					code === "hot100"
-						? "HOT 100"
-						: code === "global200"
-							? "GLOBAL 200"
-							: code.toUpperCase()
-				);
+				rank.textContent = code === "hot100" ? "HOT 100" : code === "global200" ? "GLOBAL 200" : code.toUpperCase();
 			}
 
 			const title = document.createElement("div");
 			title.className = "chart-title";
 			title.textContent = top.Title;
 
-			const artist = document.createElement("div");
-			artist.className = "chart-artist";
-			const artistURL = getArtistUrlByName(top.Artist, platform);
-
-			if (artistURL) {
-				const link = Object.assign(document.createElement("a"), {
-					href: artistURL,
-					target: "_blank",
-					rel: "noopener noreferrer",
-					textContent: top.Artist,
-					style: "text-decoration:underline"
-				});
-				artist.appendChild(link);
-			} else {
-				artist.textContent = top.Artist;
-			}
+			const artist = makeArtistInline(top.Artist);
 
 			const buttonList = document.createElement("div");
 			buttonList.className = "chart-others";
@@ -601,81 +702,73 @@
 		async function renderGroup(codes, platform) {
 			if (!container) return;
 
-			try {
-				await ensureMetaLoaded();
-				container.textContent = "Loading...";
+			await ensureMetaLoaded();
+			container.textContent = "Loading...";
 
-				const frag = document.createDocumentFragment();
-				const prefixes = platformPrefixes(platform);
+			const frag = document.createDocumentFragment();
 
-				for (const code of codes) {
-					let data = [];
+			for (const code of codes) {
+				const data = await getFirstAvailableJSON(JSON_BASE_ALL, platformFiles(platform, code));
 
-					for (const prefix of prefixes) {
-						const file = `${JSON_BASE_ALL}${prefix}_${code}.json`;
-						data = await getJSON(file);
-
-						if (Array.isArray(data) && data.length > 0) {
-							console.info(`[Streaming] Usando ${file}`);
-							break;
-						}
-						console.warn(`[Streaming] Sin datos en ${file}`);
-					}
-
-					if (!Array.isArray(data) || data.length === 0) {
-						continue;
-					}
-
-					const top5 = data
-						.slice()
-						.sort((a, b) => (a.Position ?? 9999) - (b.Position ?? 9999))
-						.slice(0, 5)
-						.map(entry => {
-							const id = Number(entry.SongID);
-
-							let si = meta.siMap[id] || {};
-							let ts = meta.tsMap[id] || {};
-
-							if (platform === "apple_music") {
-								if (meta.appleSiMap[id]) si = meta.appleSiMap[id];
-								if (meta.appleTsMap[id]) ts = meta.appleTsMap[id];
-							}
-
-							const title = (si && si.Title) || entry.Title || "Unknown Title";
-							const artist = (si && si.Artist) || entry.Artist || "Unknown";
-
-							const coverCandidate = (ts && ts.CoverImage) || entry.CoverImage || "";
-							const image =
-								(typeof coverCandidate === "string" && coverCandidate.trim() !== "")
-									? coverCandidate
-									: DEFAULT_COVER;
-
-							return {
-								Position: entry.Position ?? "",
-								Title: title,
-								Artist: artist,
-								Image: image,
-								SpotifyURL: meta.spMap[id] || entry.SpotifyURL || null
-							};
-						});
-
-					const card = makeStreamCard(top5, code, platform);
-					if (card) frag.appendChild(card);
+				if (!Array.isArray(data) || data.length === 0) {
+					console.warn(`[Streaming] Sin datos para ${platform}/${code}`);
+					continue;
 				}
 
-				requestAnimationFrame(() => {
-					container.textContent = "";
-					if (!frag.childNodes.length) {
-						container.innerHTML = "<p>No data available.</p>";
-					} else {
-						container.appendChild(frag);
-					}
-				});
-			} catch (err) {
-				console.error("[StreamingHighlights] Error:", err);
-				container.innerHTML = "<p>No data available.</p>";
+				const top5 = data
+					.slice()
+					.sort((a, b) => (a.Position ?? 9999) - (b.Position ?? 9999))
+					.slice(0, 5)
+					.map(entry => {
+						const id = safeSongID(entry.SongID);
+						const platformKey = platform === "youtubeInsights" ? "youtube" : platform;
+						const si = getSongSI(id, entry, platformKey);
+
+						return {
+							Position: entry.Position ?? "",
+							Title: firstNonEmpty(si.Title, entry.Title, "Unknown Title"),
+							Artist: firstNonEmpty(si.Artist, entry.Artist, "Unknown Artist"),
+							Image: getSongImage(id, entry, platformKey),
+							SpotifyURL: getSongURL(id, entry),
+						};
+					});
+
+				const card = makeStreamCard(top5, code, platform);
+				if (card) frag.appendChild(card);
 			}
+
+			requestAnimationFrame(() => {
+				container.textContent = "";
+				if (!frag.childNodes.length) {
+					container.innerHTML = "<p>No data available.</p>";
+				} else {
+					container.appendChild(frag);
+				}
+			});
 		}
+
+		toggleButtons.forEach(btn => {
+			btn.addEventListener("click", () => {
+				toggleButtons.forEach(b => b.classList.remove("active"));
+				btn.classList.add("active");
+
+				currentPlatform = btn.dataset.platform;
+
+				document.body.classList.toggle("apple_music-active", currentPlatform === "apple_music");
+				document.body.classList.toggle("youtube-active", currentPlatform === "youtubeInsights");
+				document.body.classList.toggle("billboard-active", currentPlatform === "billboard");
+
+				if (viewAllButton) {
+					viewAllButton.href =
+						currentPlatform === "spotify"         ? "spotifycharts.html" :
+						currentPlatform === "apple_music"     ? "applemusiccharts.html" :
+						currentPlatform === "youtubeInsights" ? "youtubecharts.html" :
+						                                         "billboardcharts.html";
+				}
+
+				renderGroup(chartGroups[currentPlatform][0], currentPlatform);
+			}, { passive: true });
+		});
 
 		ensureMetaLoaded().then(() => {
 			renderGroup(chartGroups[currentPlatform][0], currentPlatform);
