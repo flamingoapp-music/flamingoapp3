@@ -1,81 +1,6 @@
 [
   {
     "Position": 1,
-    "SongID": 1274835960,
-    "Title": "Janice STFU",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe",
-    "TotalScore": 653165.051058,
-    "SpotifyScore": 150654.826998,
-    "AppleScore": 349793.078403,
-    "YouTubeScore": 3414.191907,
-    "BillboardScore": 3260.8,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 4
-  },
-  {
-    "Position": 2,
-    "SongID": 1274840323,
-    "Title": "the cure",
-    "Artist": "Olivia Rodrigo",
-    "Artists": [
-      {
-        "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
-    "SpotifyURL": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96",
-    "TotalScore": 481060.060555,
-    "SpotifyScore": 234252.460702,
-    "AppleScore": 150894.963524,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 3196.8,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 3,
-    "SongID": 1249892,
-    "Title": "Raindance",
-    "Artist": "Dave, Tems",
-    "Artists": [
-      {
-        "Artist": "Dave",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-      },
-      {
-        "Artist": "Tems",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e0ea9dc7335465a3f346a21f",
-    "SpotifyURL": "https://open.spotify.com/track/1xTGRa8PxYGH0kmQUIV4C0",
-    "TotalScore": 442534.094244,
-    "SpotifyScore": 224815.44423,
-    "AppleScore": 217964.274435,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 2537.6,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 4,
     "SongID": 1274836725,
     "Title": "Dai Dai",
     "Artist": "Shakira, Burna Boy",
@@ -95,16 +20,108 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27303cadf1b3fe324c1dc710ed4",
     "SpotifyURL": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
-    "TotalScore": 412627.388603,
-    "SpotifyScore": 81519.966377,
-    "AppleScore": 40097.322927,
-    "YouTubeScore": 253343.753661,
+    "TotalScore": 2852711.459,
+    "SpotifyScore": 973046.556548,
+    "AppleScore": 544342.160702,
+    "YouTubeScore": 1668512.537383,
     "BillboardScore": 0.0,
     "BillboardPresenceBonus": 0.0,
     "PlatformCount": 3
   },
   {
+    "Position": 2,
+    "SongID": 1274839364,
+    "Title": "hate that i made you love me",
+    "Artist": "Ariana Grande",
+    "Artists": [
+      {
+        "Artist": "Ariana Grande",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
+    "SpotifyURL": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
+    "TotalScore": 2599801.682914,
+    "SpotifyScore": 1162404.702767,
+    "AppleScore": 1036472.747378,
+    "YouTubeScore": 39504.242471,
+    "BillboardScore": 8136.0,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 3,
+    "SongID": 1274835960,
+    "Title": "Janice STFU",
+    "Artist": "Drake",
+    "Artists": [
+      {
+        "Artist": "Drake",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
+    "SpotifyURL": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe",
+    "TotalScore": 1412403.900547,
+    "SpotifyScore": 382615.615536,
+    "AppleScore": 980822.256869,
+    "YouTubeScore": 8400.64455,
+    "BillboardScore": 8030.4,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 4,
+    "SongID": 1274840323,
+    "Title": "the cure",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
+    "SpotifyURL": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96",
+    "TotalScore": 1138054.597869,
+    "SpotifyScore": 623791.8552,
+    "AppleScore": 518547.488738,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 7944.0,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
     "Position": 5,
+    "SongID": 1274844010,
+    "Title": "I Knew It, I Knew You",
+    "Artist": "Taylor Swift",
+    "Artists": [
+      {
+        "Artist": "Taylor Swift",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a35a1d4983e2b4fd0094f910",
+    "SpotifyURL": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa",
+    "TotalScore": 635787.305786,
+    "SpotifyScore": 170484.695114,
+    "AppleScore": 352856.617971,
+    "YouTubeScore": 2314.02669,
+    "BillboardScore": 4811.2,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 6,
     "SongID": 1274835974,
     "Title": "Shabang",
     "Artist": "Drake",
@@ -118,16 +135,16 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/1fI2fpUb0zLuMPwEzIuoOr",
-    "TotalScore": 346483.738338,
-    "SpotifyScore": 26984.749548,
-    "AppleScore": 230327.763765,
+    "TotalScore": 631305.317065,
+    "SpotifyScore": 54513.684968,
+    "AppleScore": 535789.136196,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3152.0,
+    "BillboardScore": 7294.4,
     "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 6,
+    "Position": 7,
     "SongID": 1274835966,
     "Title": "National Treasures",
     "Artist": "Drake",
@@ -141,16 +158,39 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D",
-    "TotalScore": 339568.655162,
-    "SpotifyScore": 67634.770041,
-    "AppleScore": 190018.251511,
+    "TotalScore": 576798.781966,
+    "SpotifyScore": 121882.326458,
+    "AppleScore": 427208.548983,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3030.4,
+    "BillboardScore": 6462.4,
     "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 7,
+    "Position": 8,
+    "SongID": 1274845596,
+    "Title": "stupid song",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4",
+    "TotalScore": 479716.454198,
+    "SpotifyScore": 162703.547396,
+    "AppleScore": 212034.08697,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 3235.2,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 9,
     "SongID": 1274837604,
     "Title": "Ran To Atlanta (feat. Future & Molly Santana)",
     "Artist": "Drake, Future, Molly Santana",
@@ -176,16 +216,16 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
-    "TotalScore": 245441.569036,
-    "SpotifyScore": 18767.003379,
-    "AppleScore": 167628.309682,
+    "TotalScore": 427029.915369,
+    "SpotifyScore": 32156.229476,
+    "AppleScore": 375616.280011,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
     "BillboardPresenceBonus": 0.0,
     "PlatformCount": 2
   },
   {
-    "Position": 8,
+    "Position": 10,
     "SongID": 1274835978,
     "Title": "Whisper My Name",
     "Artist": "Drake",
@@ -199,39 +239,16 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J",
-    "TotalScore": 219710.375483,
-    "SpotifyScore": 23341.22303,
-    "AppleScore": 138697.280936,
+    "TotalScore": 396801.780428,
+    "SpotifyScore": 40268.104282,
+    "AppleScore": 328550.485906,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3024.0,
+    "BillboardScore": 6187.2,
     "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 9,
-    "SongID": 1274820501,
-    "Title": "drop dead",
-    "Artist": "Olivia Rodrigo",
-    "Artists": [
-      {
-        "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c25b53f0a34aa1bb4f77cb3e",
-    "SpotifyURL": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei",
-    "TotalScore": 211874.542443,
-    "SpotifyScore": 95199.843204,
-    "AppleScore": 111571.906518,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 3132.8,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 10,
+    "Position": 11,
     "SongID": 1274835968,
     "Title": "Plot Twist",
     "Artist": "Drake",
@@ -245,16 +262,39 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "SpotifyURL": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav",
-    "TotalScore": 166252.177749,
-    "SpotifyScore": 10059.087204,
-    "AppleScore": 110746.013637,
+    "TotalScore": 304852.517973,
+    "SpotifyScore": 19696.696712,
+    "AppleScore": 262777.613798,
     "YouTubeScore": 0.0,
-    "BillboardScore": 2710.4,
+    "BillboardScore": 4408.8,
     "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
-    "Position": 11,
+    "Position": 12,
+    "SongID": 1274845598,
+    "Title": "honeybee",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a",
+    "TotalScore": 271038.043225,
+    "SpotifyScore": 88933.471044,
+    "AppleScore": 120055.247387,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 3068.8,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 13,
     "SongID": 1274835981,
     "Title": "B's On The Table (feat. 21 Savage)",
     "Artist": "Drake, 21 Savage",
@@ -274,16 +314,51 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/0j1vvE8fznuoEtoF0vVkTj",
-    "TotalScore": 131974.997467,
-    "SpotifyScore": 6369.196033,
-    "AppleScore": 93351.611745,
+    "TotalScore": 239081.554537,
+    "SpotifyScore": 9444.611852,
+    "AppleScore": 217720.5592,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
     "BillboardPresenceBonus": 0.0,
     "PlatformCount": 2
   },
   {
-    "Position": 12,
+    "Position": 14,
+    "SongID": 1274838900,
+    "Title": "Movin' To The Sun",
+    "Artist": "HUGEL, Imael Angel, Ultra Naté",
+    "Artists": [
+      {
+        "Artist": "HUGEL",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      {
+        "Artist": "Imael Angel",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+      },
+      {
+        "Artist": "Ultra Naté",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27322cf11097fe39abd85ea0ba7",
+    "SpotifyURL": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2",
+    "TotalScore": 198317.754131,
+    "SpotifyScore": 81473.584839,
+    "AppleScore": 116557.557731,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 2
+  },
+  {
+    "Position": 15,
     "SongID": 1274835949,
     "Title": "2 Hard 4 The Radio",
     "Artist": "Drake",
@@ -297,80 +372,11 @@
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
     "SpotifyURL": "https://open.spotify.com/track/1svuouRvqWANBZJ0WqhLRn",
-    "TotalScore": 121239.291045,
-    "SpotifyScore": 10760.728137,
-    "AppleScore": 76194.419195,
+    "TotalScore": 189305.414021,
+    "SpotifyScore": 14882.53421,
+    "AppleScore": 157032.330575,
     "YouTubeScore": 0.0,
-    "BillboardScore": 2819.2,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 13,
-    "SongID": 1274835954,
-    "Title": "Dust",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu",
-    "TotalScore": 101322.3971,
-    "SpotifyScore": 5238.869173,
-    "AppleScore": 66767.04772,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 2435.2,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 14,
-    "SongID": 1274835964,
-    "Title": "Make Them Pay",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/0CrezUVlmwzV9NXOierVOX",
-    "TotalScore": 98547.93132,
-    "SpotifyScore": 3087.818199,
-    "AppleScore": 66686.27392,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 2364.8,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 15,
-    "SongID": 1274835951,
-    "Title": "Burning Bridges",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ",
-    "TotalScore": 96911.038014,
-    "SpotifyScore": 3081.244131,
-    "AppleScore": 65570.116658,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 2307.2,
+    "BillboardScore": 4802.4,
     "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   }
