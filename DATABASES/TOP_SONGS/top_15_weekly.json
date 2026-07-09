@@ -1,359 +1,314 @@
 [
   {
     "Position": 1,
-    "SongID": 1274845596,
+    "SongID": 1274846515,
     "Title": "stupid song",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4",
-    "TotalScore": 529113.980853,
-    "SpotifyScore": 125484.937033,
-    "AppleScore": 321704.069539,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+    "TotalScore": 294117.00042,
+    "SpotifyScore": 82749.253582,
+    "AppleScore": 150878.7503,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3942.6,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 991.5,
     "PlatformCount": 3
   },
   {
     "Position": 2,
-    "SongID": 1274845598,
+    "SongID": 1274845125,
+    "Title": "MORNING DEW (DONK)",
+    "Artist": "Beyoncé",
+    "Artists": [
+      {
+        "Artist": "Beyoncé",
+        "SpotifyURL": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40",
+    "SpotifyURL": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT",
+    "TotalScore": 199951.374482,
+    "SpotifyScore": 2077.629831,
+    "AppleScore": 126560.396593,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "PlatformCount": 2
+  },
+  {
+    "Position": 3,
+    "SongID": 1274846510,
     "Title": "honeybee",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a",
-    "TotalScore": 311681.322932,
-    "SpotifyScore": 75811.255325,
-    "AppleScore": 185219.443347,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2",
+    "TotalScore": 171115.796557,
+    "SpotifyScore": 46152.461108,
+    "AppleScore": 88981.664757,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3729.4,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 3,
-    "SongID": 1274843798,
-    "Title": "SUGAR HONEY ICE TEA",
-    "Artist": "BABYMONSTER",
-    "Artists": [
-      {
-        "Artist": "BABYMONSTER",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273365e11a819dd404520d288e1",
-    "SpotifyURL": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD",
-    "TotalScore": 186891.058187,
-    "SpotifyScore": 17993.259555,
-    "AppleScore": 7931.264329,
-    "YouTubeScore": 167581.411616,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
+    "BillboardScore": 924.0,
     "PlatformCount": 3
   },
   {
     "Position": 4,
-    "SongID": 1274845597,
+    "SongID": 1274846075,
     "Title": "ICONIC BY MISTAKE",
     "Artist": "LE SSERAFIM, ILLIT, KATSEYE",
     "Artists": [
       {
         "Artist": "LE SSERAFIM",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
       },
       {
         "Artist": "ILLIT",
-        "Role": "secondary_main",
-        "Weight": 0.62,
         "SpotifyURL": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
       },
       {
         "Artist": "KATSEYE",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": null
+        "SpotifyURL": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27355886e2f0784a2b7b62b7fe7",
     "SpotifyURL": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD",
-    "TotalScore": 118310.498107,
-    "SpotifyScore": 112658.664864,
-    "AppleScore": 0.0,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 1
+    "TotalScore": 112687.438224,
+    "SpotifyScore": 56534.619021,
+    "AppleScore": 18983.772074,
+    "YouTubeScore": 26383.20739,
+    "BillboardScore": 836.5,
+    "PlatformCount": 4
   },
   {
     "Position": 5,
-    "SongID": 1274845600,
+    "SongID": 1274846184,
+    "Title": "Danceteria",
+    "Artist": "Madonna",
+    "Artists": [
+      {
+        "Artist": "Madonna",
+        "SpotifyURL": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732e45924aa55275c64280cada",
+    "SpotifyURL": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ",
+    "TotalScore": 65365.425895,
+    "SpotifyScore": 0.0,
+    "AppleScore": 41893.221728,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 6,
+    "SongID": 1274846512,
     "Title": "maggots for brains",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K",
-    "TotalScore": 116341.225452,
-    "SpotifyScore": 16660.555314,
-    "AppleScore": 75234.384159,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI",
+    "TotalScore": 57670.737635,
+    "SpotifyScore": 11242.661632,
+    "AppleScore": 32796.961848,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3536.7,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 846.5,
     "PlatformCount": 3
   },
   {
-    "Position": 6,
-    "SongID": 1274845607,
+    "Position": 7,
+    "SongID": 1274845020,
     "Title": "Las mas bonitas son p#tas",
     "Artist": "Anuel AA",
     "Artists": [
       {
         "Artist": "Anuel AA",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c2c4ebb82fba77deba3d6f02",
     "SpotifyURL": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe",
-    "TotalScore": 102027.997695,
-    "SpotifyScore": 33396.385666,
-    "AppleScore": 14358.16453,
-    "YouTubeScore": 42214.328392,
+    "TotalScore": 44006.834046,
+    "SpotifyScore": 16885.280746,
+    "AppleScore": 6322.948138,
+    "YouTubeScore": 15653.788888,
     "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 3
   },
   {
-    "Position": 7,
-    "SongID": 1274845603,
+    "Position": 8,
+    "SongID": 1274846511,
     "Title": "less",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y",
-    "TotalScore": 75766.227524,
-    "SpotifyScore": 17747.356795,
-    "AppleScore": 41136.074028,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO",
+    "TotalScore": 39904.904312,
+    "SpotifyScore": 11713.694349,
+    "AppleScore": 19516.289557,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3290.7,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 741.5,
     "PlatformCount": 3
   },
   {
-    "Position": 8,
-    "SongID": 1274845605,
+    "Position": 9,
+    "SongID": 1274846516,
     "Title": "u + me = <3",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
     "SpotifyURL": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW",
-    "TotalScore": 70768.91128,
-    "SpotifyScore": 15483.423563,
-    "AppleScore": 38988.608314,
+    "TotalScore": 36970.723274,
+    "SpotifyScore": 10406.522067,
+    "AppleScore": 18369.915827,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3278.4,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 744.0,
     "PlatformCount": 3
   },
   {
-    "Position": 9,
-    "SongID": 1274845622,
+    "Position": 10,
+    "SongID": 1274846517,
+    "Title": "what’s wrong with me",
+    "Artist": "Olivia Rodrigo, Robert Smith",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      {
+        "Artist": "Robert Smith",
+        "SpotifyURL": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh",
+    "TotalScore": 36641.313506,
+    "SpotifyScore": 10001.893625,
+    "AppleScore": 18402.919561,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 784.0,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 11,
+    "SongID": 1274846509,
     "Title": "expectations",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi",
-    "TotalScore": 63329.868501,
-    "SpotifyScore": 13883.26984,
-    "AppleScore": 33889.922294,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT",
+    "TotalScore": 31958.368477,
+    "SpotifyScore": 9100.045917,
+    "AppleScore": 15640.534992,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3458.8,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 811.5,
     "PlatformCount": 3
   },
   {
-    "Position": 10,
-    "SongID": 1274845606,
+    "Position": 12,
+    "SongID": 1274846513,
     "Title": "my way",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
     "SpotifyURL": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf",
-    "TotalScore": 59473.173836,
-    "SpotifyScore": 12578.511144,
-    "AppleScore": 31957.823301,
+    "TotalScore": 29712.637356,
+    "SpotifyScore": 7805.987041,
+    "AppleScore": 15023.048324,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3389.1,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 776.5,
     "PlatformCount": 3
   },
   {
-    "Position": 11,
-    "SongID": 1274845623,
+    "Position": 13,
+    "SongID": 1274846507,
     "Title": "begged",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/3BnMfPPWs59CVfcQ8CcdfR",
-    "TotalScore": 56103.996372,
-    "SpotifyScore": 11075.339038,
-    "AppleScore": 30774.19866,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA",
+    "TotalScore": 28979.104142,
+    "SpotifyScore": 7370.434106,
+    "AppleScore": 14878.394381,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3225.1,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 714.0,
     "PlatformCount": 3
   },
   {
-    "Position": 12,
-    "SongID": 1274845604,
-    "Title": "My Body Isn't Ready",
-    "Artist": "sombr",
-    "Artists": [
-      {
-        "Artist": "sombr",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27355615e9242bd96706c68a743",
-    "SpotifyURL": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0",
-    "TotalScore": 49851.028353,
-    "SpotifyScore": 38101.76735,
-    "AppleScore": 1120.519211,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 1614.6,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 13,
-    "SongID": 1274845602,
+    "Position": 14,
+    "SongID": 1274845188,
     "Title": "Come Over",
     "Artist": "BTS",
     "Artists": [
       {
         "Artist": "BTS",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273df7118c4f396e50961cc0e74",
     "SpotifyURL": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs",
-    "TotalScore": 42019.126656,
-    "SpotifyScore": 28880.194324,
-    "AppleScore": 6927.514382,
+    "TotalScore": 28097.183024,
+    "SpotifyScore": 21494.668777,
+    "AppleScore": 3759.348577,
     "YouTubeScore": 0.0,
-    "BillboardScore": 1417.8,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 14,
-    "SongID": 1274845805,
-    "Title": "After",
-    "Artist": "Conep",
-    "Artists": [
-      {
-        "Artist": "Conep",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734938cb78908ec73e8139bea1",
-    "SpotifyURL": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb",
-    "TotalScore": 28076.342097,
-    "SpotifyScore": 14020.581336,
-    "AppleScore": 6070.348092,
-    "YouTubeScore": 3498.068384,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
+    "BillboardScore": 289.5,
     "PlatformCount": 3
   },
   {
     "Position": 15,
-    "SongID": 1274845624,
-    "Title": "cigarette smoke",
-    "Artist": "Olivia Rodrigo",
+    "SongID": 1274847004,
+    "Title": "My Body Isn't Ready",
+    "Artist": "sombr",
     "Artists": [
       {
-        "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        "Artist": "sombr",
+        "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ",
-    "TotalScore": 24567.66614,
-    "SpotifyScore": 3064.538167,
-    "AppleScore": 12693.703573,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 2638.8,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27355615e9242bd96706c68a743",
+    "SpotifyURL": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0",
+    "TotalScore": 26264.291005,
+    "SpotifyScore": 22151.66964,
+    "AppleScore": 231.087314,
+    "YouTubeScore": 467.100039,
+    "BillboardScore": 784.0,
+    "PlatformCount": 4
   }
 ]

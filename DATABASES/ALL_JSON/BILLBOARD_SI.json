@@ -1,15 +1,21 @@
 [
   {
-    "SongID": 27,
-    "Title": "Beautiful Things",
-    "Artist": "Benson Boone",
-    "ArtistID": "36727"
+    "SongID": 1,
+    "Title": "Cruel Summer",
+    "Artist": "Taylor Swift",
+    "ArtistID": "1"
   },
   {
     "SongID": 51,
     "Title": "As It Was",
     "Artist": "Harry Styles",
-    "ArtistID": "22228, 65237"
+    "ArtistID": "50"
+  },
+  {
+    "SongID": 61,
+    "Title": "Yellow",
+    "Artist": "Coldplay",
+    "ArtistID": "61"
   },
   {
     "SongID": 64,
@@ -24,22 +30,16 @@
     "ArtistID": "92"
   },
   {
-    "SongID": 114,
-    "Title": "Take on Me",
-    "Artist": "a-ha",
-    "ArtistID": "99"
-  },
-  {
     "SongID": 131,
     "Title": "Everybody Wants To Rule The World",
     "Artist": "Tears For Fears",
     "ArtistID": "65382"
   },
   {
-    "SongID": 199,
-    "Title": "In The End",
-    "Artist": "Linkin Park",
-    "ArtistID": "152"
+    "SongID": 201,
+    "Title": "Viva La Vida",
+    "Artist": "Coldplay",
+    "ArtistID": "61"
   },
   {
     "SongID": 207,
@@ -66,12 +66,6 @@
     "ArtistID": "199"
   },
   {
-    "SongID": 280,
-    "Title": "505",
-    "Artist": "Arctic Monkeys",
-    "ArtistID": "88655"
-  },
-  {
     "SongID": 298,
     "Title": "Treat You Better",
     "Artist": "Shawn Mendes",
@@ -90,28 +84,28 @@
     "ArtistID": "205"
   },
   {
-    "SongID": 318,
-    "Title": "Summertime Sadness",
-    "Artist": "Lana Del Rey",
-    "ArtistID": ""
-  },
-  {
     "SongID": 332,
     "Title": "Dreams",
     "Artist": "Fleetwood Mac",
     "ArtistID": "226"
   },
   {
-    "SongID": 371,
-    "Title": "Just The Way You Are",
-    "Artist": "Bruno Mars",
-    "ArtistID": "113"
+    "SongID": 398,
+    "Title": "Closer",
+    "Artist": "The Chainsmokers, Halsey",
+    "ArtistID": "204, 256"
+  },
+  {
+    "SongID": 399,
+    "Title": "Let Me Love You",
+    "Artist": "DJ Snake, Justin Bieber",
+    "ArtistID": "257, 258"
   },
   {
     "SongID": 411,
     "Title": "Thunderstruck",
     "Artist": "AC/DC",
-    "ArtistID": "52526"
+    "ArtistID": "208"
   },
   {
     "SongID": 435,
@@ -124,6 +118,12 @@
     "Title": "Levitating",
     "Artist": "Dua Lipa",
     "ArtistID": "12"
+  },
+  {
+    "SongID": 445,
+    "Title": "Stay",
+    "Artist": "The Kid LAROI, Justin Bieber",
+    "ArtistID": "280, 258"
   },
   {
     "SongID": 473,
@@ -147,25 +147,31 @@
     "SongID": 527,
     "Title": "We Found Love",
     "Artist": "Rihanna, Calvin Harris",
-    "ArtistID": "207, 247"
-  },
-  {
-    "SongID": 592,
-    "Title": "The Spins",
-    "Artist": "Mac Miller",
-    "ArtistID": "48572"
+    "ArtistID": "247, 207"
   },
   {
     "SongID": 658,
     "Title": "Hips Don't Lie",
     "Artist": "Shakira, Wyclef Jean",
-    "ArtistID": "76, 73855"
+    "ArtistID": "76, 5480"
   },
   {
     "SongID": 672,
     "Title": "Sex On Fire",
     "Artist": "Kings Of Leon",
     "ArtistID": "65220"
+  },
+  {
+    "SongID": 811,
+    "Title": "Smells Like Teen Spirit",
+    "Artist": "Nirvana",
+    "ArtistID": "478"
+  },
+  {
+    "SongID": 868,
+    "Title": "Danza Kuduro",
+    "Artist": "Don Omar, Lucenzo",
+    "ArtistID": "492, 505"
   },
   {
     "SongID": 914,
@@ -213,7 +219,13 @@
     "SongID": 2015,
     "Title": "Into You",
     "Artist": "Ariana Grande",
-    "ArtistID": "74249"
+    "ArtistID": "10"
+  },
+  {
+    "SongID": 2670,
+    "Title": "Lose Control",
+    "Artist": "Teddy Swims",
+    "ArtistID": "1170"
   },
   {
     "SongID": 3721,
@@ -222,8 +234,8 @@
     "ArtistID": "49414"
   },
   {
-    "SongID": 5061,
-    "Title": "They Don't Care About Us",
+    "SongID": 6061,
+    "Title": "Thriller",
     "Artist": "Michael Jackson",
     "ArtistID": "522"
   },
@@ -249,13 +261,13 @@
     "SongID": 12521,
     "Title": "A Bar Song (Tipsy)",
     "Artist": "Shaboozey",
-    "ArtistID": ""
+    "ArtistID": "3725"
   },
   {
     "SongID": 12597,
     "Title": "we can't be friends (wait for your love)",
     "Artist": "Ariana Grande",
-    "ArtistID": "74249"
+    "ArtistID": "10"
   },
   {
     "SongID": 12606,
@@ -267,7 +279,7 @@
     "SongID": 12715,
     "Title": "Stargazing",
     "Artist": "Myles Smith",
-    "ArtistID": "14434"
+    "ArtistID": "3771"
   },
   {
     "SongID": 12959,
@@ -279,7 +291,7 @@
     "SongID": 13346,
     "Title": "Dancing On My Own",
     "Artist": "Robyn",
-    "ArtistID": "7366, 63705"
+    "ArtistID": "3854"
   },
   {
     "SongID": 13521,
@@ -288,52 +300,40 @@
     "ArtistID": "3915"
   },
   {
-    "SongID": 19918,
-    "Title": "Go",
-    "Artist": "The Chemical Brothers",
-    "ArtistID": "5106"
-  },
-  {
-    "SongID": 20771,
-    "Title": "Yellow",
-    "Artist": "Coldplay",
-    "ArtistID": ""
+    "SongID": 22054,
+    "Title": "Starboy",
+    "Artist": "The Weeknd, Daft Punk",
+    "ArtistID": "7, 519"
   },
   {
     "SongID": 30951,
     "Title": "Don't Stop Believin' (2022 Remaster)",
     "Artist": "Journey",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 48142,
-    "Title": "Thriller",
-    "Artist": "Michael Jackson",
-    "ArtistID": "522"
+    "ArtistID": "1912"
   },
   {
     "SongID": 108279,
     "Title": "Last Friday Night (T.G.I.F.)",
     "Artist": "Katy Perry",
-    "ArtistID": ""
+    "ArtistID": "768"
   },
   {
     "SongID": 108650,
     "Title": "The One That Got Away",
     "Artist": "Katy Perry",
-    "ArtistID": ""
+    "ArtistID": "768"
+  },
+  {
+    "SongID": 108652,
+    "Title": "Beauty And A Beat",
+    "Artist": "Justin Bieber, Nicki Minaj",
+    "ArtistID": "258, 30"
   },
   {
     "SongID": 108947,
     "Title": "Sunflower - Spider-Man: Into the Spider-Verse",
     "Artist": "Post Malone, Swae Lee",
     "ArtistID": "120, 162"
-  },
-  {
-    "SongID": 113465,
-    "Title": "Sorry",
-    "Artist": "Justin Bieber",
-    "ArtistID": "258"
   },
   {
     "SongID": 113593,
@@ -345,25 +345,13 @@
     "SongID": 113608,
     "Title": "Save Your Tears (with Ariana Grande) (Remix)",
     "Artist": "The Weeknd, Ariana Grande",
-    "ArtistID": "7, 74249"
+    "ArtistID": "7, 10"
   },
   {
     "SongID": 118677,
     "Title": "Tití Me Preguntó",
     "Artist": "Bad Bunny",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 130782,
-    "Title": "Smells Like Teen Spirit",
-    "Artist": "Nirvana",
-    "ArtistID": "478"
-  },
-  {
-    "SongID": 131267,
-    "Title": "Cruel Summer",
-    "Artist": "Taylor Swift",
-    "ArtistID": ""
+    "ArtistID": "16"
   },
   {
     "SongID": 174086,
@@ -375,25 +363,19 @@
     "SongID": 314997,
     "Title": "(When You Gonna) Give It Up To Me",
     "Artist": "Sean Paul, Keyshia Cole",
-    "ArtistID": "445"
+    "ArtistID": "445, 501"
   },
   {
     "SongID": 501280,
     "Title": "Die With A Smile",
     "Artist": "Lady Gaga, Bruno Mars",
-    "ArtistID": "113"
+    "ArtistID": "340, 113"
   },
   {
     "SongID": 501300,
     "Title": "I Had Some Help (Feat. Morgan Wallen)",
     "Artist": "Post Malone",
     "ArtistID": "120"
-  },
-  {
-    "SongID": 501330,
-    "Title": "Pink Pony Club",
-    "Artist": "Chappell Roan",
-    "ArtistID": "3915"
   },
   {
     "SongID": 501467,
@@ -423,7 +405,7 @@
     "SongID": 600127,
     "Title": "APT.",
     "Artist": "ROSÉ, Bruno Mars",
-    "ArtistID": "113, 5722"
+    "ArtistID": "5722, 113"
   },
   {
     "SongID": 600128,
@@ -435,13 +417,7 @@
     "SongID": 603545,
     "Title": "weren't for the wind",
     "Artist": "Ella Langley",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 605272,
-    "Title": "Let Me Love You",
-    "Artist": "DJ Snake",
-    "ArtistID": "257"
+    "ArtistID": "9116"
   },
   {
     "SongID": 605288,
@@ -450,22 +426,10 @@
     "ArtistID": "666"
   },
   {
-    "SongID": 605467,
-    "Title": "On The Floor (feat. Pitbull)",
-    "Artist": "Jennifer Lopez",
-    "ArtistID": "749"
-  },
-  {
     "SongID": 800002,
     "Title": "Risk It All",
     "Artist": "Bruno Mars",
     "ArtistID": "113"
-  },
-  {
-    "SongID": 800019,
-    "Title": "Porch Light",
-    "Artist": "Noah Kahan",
-    "ArtistID": "235"
   },
   {
     "SongID": 800020,
@@ -474,16 +438,16 @@
     "ArtistID": "5629"
   },
   {
-    "SongID": 800202,
-    "Title": "Dry Spell",
-    "Artist": "Kacey Musgraves",
-    "ArtistID": ""
-  },
-  {
     "SongID": 802525,
     "Title": "Self Aware",
     "Artist": "Temper City",
-    "ArtistID": ""
+    "ArtistID": "86636"
+  },
+  {
+    "SongID": 999941,
+    "Title": "Show Me Love",
+    "Artist": "WizTheMc",
+    "ArtistID": "11759"
   },
   {
     "SongID": 1136827,
@@ -492,10 +456,10 @@
     "ArtistID": "9084"
   },
   {
-    "SongID": 1161772,
-    "Title": "undressed",
-    "Artist": "sombr",
-    "ArtistID": "10857"
+    "SongID": 1164252,
+    "Title": "TU SANCHO",
+    "Artist": "Fuerza Regida",
+    "ArtistID": "19"
   },
   {
     "SongID": 1164645,
@@ -504,28 +468,28 @@
     "ArtistID": "135"
   },
   {
-    "SongID": 1226428,
-    "Title": "Manchild",
-    "Artist": "Sabrina Carpenter",
-    "ArtistID": "102"
-  },
-  {
     "SongID": 1227537,
     "Title": "Riptide",
     "Artist": "Vance Joy",
-    "ArtistID": ""
+    "ArtistID": "255"
   },
   {
-    "SongID": 1227548,
-    "Title": "I Got Better",
-    "Artist": "Morgan Wallen",
-    "ArtistID": "135"
+    "SongID": 1227556,
+    "Title": "505",
+    "Artist": "Arctic Monkeys",
+    "ArtistID": "38"
   },
   {
-    "SongID": 1227569,
-    "Title": "Lose Control",
-    "Artist": "Teddy Swims",
-    "ArtistID": ""
+    "SongID": 1227566,
+    "Title": "Beautiful Things",
+    "Artist": "Benson Boone",
+    "ArtistID": "36727"
+  },
+  {
+    "SongID": 1227573,
+    "Title": "Pink Pony Club",
+    "Artist": "Chappell Roan",
+    "ArtistID": "3915"
   },
   {
     "SongID": 1227585,
@@ -543,13 +507,7 @@
     "SongID": 1227607,
     "Title": "The Door",
     "Artist": "Teddy Swims",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1227620,
-    "Title": "back to friends",
-    "Artist": "sombr",
-    "ArtistID": "10857"
+    "ArtistID": "1170"
   },
   {
     "SongID": 1227627,
@@ -558,22 +516,16 @@
     "ArtistID": "203"
   },
   {
-    "SongID": 1227664,
-    "Title": "TU SANCHO",
-    "Artist": "Fuerza Regida",
-    "ArtistID": "19"
-  },
-  {
-    "SongID": 1227666,
-    "Title": "Marlboro Rojo",
-    "Artist": "Fuerza Regida",
-    "ArtistID": "19"
-  },
-  {
     "SongID": 1227752,
     "Title": "Creep",
     "Artist": "Radiohead",
     "ArtistID": "139"
+  },
+  {
+    "SongID": 1228113,
+    "Title": "Summertime Sadness",
+    "Artist": "Lana Del Rey",
+    "ArtistID": "104"
   },
   {
     "SongID": 1228160,
@@ -582,40 +534,16 @@
     "ArtistID": "181"
   },
   {
-    "SongID": 1228357,
-    "Title": "Viva La Vida",
-    "Artist": "Coldplay",
-    "ArtistID": ""
-  },
-  {
     "SongID": 1228384,
     "Title": "Si Antes Te Hubiera Conocido",
     "Artist": "KAROL G",
     "ArtistID": "376"
   },
   {
-    "SongID": 1228413,
-    "Title": "Danza Kuduro (feat. Lucenzo)",
-    "Artist": "Don Omar",
-    "ArtistID": "492"
-  },
-  {
-    "SongID": 1229249,
-    "Title": "Closer (Lyric) ft. Halsey",
-    "Artist": "The Chainsmokers",
-    "ArtistID": "204"
-  },
-  {
-    "SongID": 1229265,
-    "Title": "Starboy ft. Daft Punk (Official Video)",
-    "Artist": "The Weeknd",
-    "ArtistID": "7"
-  },
-  {
     "SongID": 1234972,
     "Title": "Chevy Silverado",
     "Artist": "Bailey Zimmerman",
-    "ArtistID": "96868"
+    "ArtistID": "36717"
   },
   {
     "SongID": 1238335,
@@ -630,10 +558,22 @@
     "ArtistID": "297"
   },
   {
+    "SongID": 1238785,
+    "Title": "In the End",
+    "Artist": "Linkin Park",
+    "ArtistID": "152"
+  },
+  {
     "SongID": 1238969,
     "Title": "We Are The People",
     "Artist": "Empire Of The Sun",
     "ArtistID": "65154"
+  },
+  {
+    "SongID": 1239115,
+    "Title": "Just the Way You Are",
+    "Artist": "Bruno Mars",
+    "ArtistID": "113"
   },
   {
     "SongID": 1239254,
@@ -651,25 +591,13 @@
     "SongID": 1239705,
     "Title": "Sign of the Times",
     "Artist": "Harry Styles",
-    "ArtistID": "22228, 65237"
+    "ArtistID": "50"
   },
   {
-    "SongID": 1240674,
-    "Title": "Can’t Get You out of My Head",
-    "Artist": "Kylie Minogue",
-    "ArtistID": "69303"
-  },
-  {
-    "SongID": 1247691,
-    "Title": "The Fate of Ophelia",
-    "Artist": "Taylor Swift",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1247692,
-    "Title": "Opalite",
-    "Artist": "Taylor Swift",
-    "ArtistID": ""
+    "SongID": 1242510,
+    "Title": "House Tour",
+    "Artist": "Sabrina Carpenter",
+    "ArtistID": "102"
   },
   {
     "SongID": 1249039,
@@ -681,19 +609,19 @@
     "SongID": 1249892,
     "Title": "Raindance",
     "Artist": "Dave, Tems",
-    "ArtistID": "281, 48568"
-  },
-  {
-    "SongID": 1251220,
-    "Title": "NO BATIDÃO",
-    "Artist": "ZXKAI",
-    "ArtistID": "31397"
+    "ArtistID": "48568, 281"
   },
   {
     "SongID": 1272623,
     "Title": "Love Me Not",
     "Artist": "Ravyn Lenae",
-    "ArtistID": ""
+    "ArtistID": "11575"
+  },
+  {
+    "SongID": 1272624,
+    "Title": "back to friends",
+    "Artist": "sombr",
+    "ArtistID": "10857"
   },
   {
     "SongID": 1272627,
@@ -702,28 +630,28 @@
     "ArtistID": "5629"
   },
   {
+    "SongID": 1272645,
+    "Title": "Manchild",
+    "Artist": "Sabrina Carpenter",
+    "ArtistID": "102"
+  },
+  {
     "SongID": 1272646,
     "Title": "Gabriela",
     "Artist": "KATSEYE",
-    "ArtistID": "74249"
-  },
-  {
-    "SongID": 1272647,
-    "Title": "Folded",
-    "Artist": "Kehlani",
-    "ArtistID": "964"
+    "ArtistID": "8995"
   },
   {
     "SongID": 1272648,
     "Title": "Golden",
     "Artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
-    "ArtistID": "12151, 65747, 65748, 65749"
+    "ArtistID": "48811, 65748, 65750, 65749, 65747"
   },
   {
     "SongID": 1272651,
     "Title": "No Broke Boys",
     "Artist": "Disco Lines, Tinashe",
-    "ArtistID": "1655, 6477"
+    "ArtistID": "6477, 1655"
   },
   {
     "SongID": 1272654,
@@ -747,7 +675,7 @@
     "SongID": 1272678,
     "Title": "WHERE IS MY HUSBAND!",
     "Artist": "RAYE",
-    "ArtistID": "74249, 99036"
+    "ArtistID": "232"
   },
   {
     "SongID": 1272684,
@@ -756,28 +684,46 @@
     "ArtistID": "9883"
   },
   {
+    "SongID": 1272690,
+    "Title": "The Fate of Ophelia",
+    "Artist": "Taylor Swift",
+    "ArtistID": "1"
+  },
+  {
+    "SongID": 1272691,
+    "Title": "Opalite",
+    "Artist": "Taylor Swift",
+    "ArtistID": "1"
+  },
+  {
     "SongID": 1272713,
     "Title": "BAILE INoLVIDABLE",
     "Artist": "Bad Bunny",
-    "ArtistID": ""
+    "ArtistID": "16"
   },
   {
     "SongID": 1272716,
     "Title": "NUEVAYoL",
     "Artist": "Bad Bunny",
-    "ArtistID": ""
+    "ArtistID": "16"
   },
   {
     "SongID": 1272717,
     "Title": "DtMF",
     "Artist": "Bad Bunny",
-    "ArtistID": ""
+    "ArtistID": "16"
   },
   {
     "SongID": 1272719,
     "Title": "EoO",
     "Artist": "Bad Bunny",
-    "ArtistID": ""
+    "ArtistID": "16"
+  },
+  {
+    "SongID": 1272853,
+    "Title": "Rein Me In",
+    "Artist": "Sam Fender, Olivia Dean",
+    "ArtistID": "2037, 9883"
   },
   {
     "SongID": 1272862,
@@ -798,16 +744,28 @@
     "ArtistID": "79772"
   },
   {
+    "SongID": 1273044,
+    "Title": "Marlboro Rojo",
+    "Artist": "Fuerza Regida",
+    "ArtistID": "19"
+  },
+  {
+    "SongID": 1273305,
+    "Title": "I Got Better",
+    "Artist": "Morgan Wallen",
+    "ArtistID": "135"
+  },
+  {
+    "SongID": 1273307,
+    "Title": "Unforgettable",
+    "Artist": "French Montana, Swae Lee",
+    "ArtistID": "260, 162"
+  },
+  {
     "SongID": 1273311,
     "Title": "Choosin' Texas",
     "Artist": "Ella Langley",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1273318,
-    "Title": "Show Me Love",
-    "Artist": "WizTheMc, bees & honey",
-    "ArtistID": "11759, 48656"
+    "ArtistID": "9116"
   },
   {
     "SongID": 1273949,
@@ -816,52 +774,34 @@
     "ArtistID": "140"
   },
   {
-    "SongID": 1274079,
-    "Title": "House Tour",
-    "Artist": "Sabrina Carpenter",
-    "ArtistID": "102"
-  },
-  {
-    "SongID": 1278665,
-    "Title": "Jamaican (Bam Bam)",
-    "Artist": "HUGEL & SOLTO (FR)",
-    "ArtistID": "3874, 91208"
-  },
-  {
     "SongID": 1284531,
     "Title": "Zoo",
     "Artist": "Shakira, Disney",
-    "ArtistID": "76"
-  },
-  {
-    "SongID": 1286697,
-    "Title": "Purple Rain",
-    "Artist": "Prince",
-    "ArtistID": "2375"
+    "ArtistID": "76, 7550"
   },
   {
     "SongID": 1287696,
     "Title": "Timeless",
     "Artist": "The Weeknd&Playboi Carti",
-    "ArtistID": "7"
+    "ArtistID": "7, 15"
   },
   {
     "SongID": 1287702,
     "Title": "One Of The Girls",
     "Artist": "The Weeknd,JENNIE& Lily-Rose Depp",
-    "ArtistID": "7, 1781"
+    "ArtistID": "7, 1781, 49888"
   },
   {
     "SongID": 1287712,
     "Title": "All The Stars",
     "Artist": "Kendrick Lamar&SZA",
-    "ArtistID": "41, 259"
+    "ArtistID": "259, 41"
   },
   {
     "SongID": 1287717,
     "Title": "Die For You",
     "Artist": "The Weeknd&Ariana Grande",
-    "ArtistID": "7, 74249"
+    "ArtistID": "7, 10"
   },
   {
     "SongID": 1287748,
@@ -885,31 +825,19 @@
     "SongID": 1289869,
     "Title": "iloveitiloveitiloveit",
     "Artist": "Bella Kay",
-    "ArtistID": ""
+    "ArtistID": "65680"
   },
   {
     "SongID": 1290110,
     "Title": "POP DAT THANG",
     "Artist": "DaBaby",
-    "ArtistID": "20488"
-  },
-  {
-    "SongID": 1290123,
-    "Title": "LET 'EM KNOW",
-    "Artist": "T.I.",
-    "ArtistID": "1347"
+    "ArtistID": "342"
   },
   {
     "SongID": 1290394,
     "Title": "Pilé",
     "Artist": "Mauvais djo",
     "ArtistID": "27918"
-  },
-  {
-    "SongID": 1291141,
-    "Title": "Body",
-    "Artist": "Don Toliver",
-    "ArtistID": "132"
   },
   {
     "SongID": 1291144,
@@ -930,46 +858,34 @@
     "ArtistID": "235"
   },
   {
-    "SongID": 1291532,
-    "Title": "Dandelion",
-    "Artist": "Ella Langley",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1292792,
-    "Title": "Dano",
-    "Artist": "Peso Pluma& Tito Double P",
-    "ArtistID": "20, 11685"
-  },
-  {
-    "SongID": 1292795,
-    "Title": "Todo Lo Fue",
-    "Artist": "Lenin Ramirez",
-    "ArtistID": "6080"
-  },
-  {
     "SongID": 1292912,
     "Title": "Be By You",
     "Artist": "Luke Combs",
     "ArtistID": "77"
   },
   {
+    "SongID": 1293534,
+    "Title": "Purple Rain",
+    "Artist": "Prince",
+    "ArtistID": "2375"
+  },
+  {
+    "SongID": 1293940,
+    "Title": "Dracula",
+    "Artist": "Tame Impala",
+    "ArtistID": "309"
+  },
+  {
     "SongID": 1294061,
     "Title": "Be Her",
     "Artist": "Ella Langley",
-    "ArtistID": ""
+    "ArtistID": "9116"
   },
   {
-    "SongID": 1295424,
-    "Title": "In My Room",
-    "Artist": "Julia Wolf",
-    "ArtistID": "12612"
-  },
-  {
-    "SongID": 1295619,
-    "Title": "KOKO",
-    "Artist": "Omar Courtz",
-    "ArtistID": "7865"
+    "SongID": 1295637,
+    "Title": "Empire State of Mind (feat. Alicia Keys)",
+    "Artist": "JAŸ-Z",
+    "ArtistID": "86506"
   },
   {
     "SongID": 1274798035,
@@ -981,17 +897,11 @@
     "SongID": 1274799493,
     "Title": "Cuando No Era Cantante - Remix",
     "Artist": "El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",
-    "ArtistID": "19, 167, 6122"
+    "ArtistID": "6122, 167, 19, 4698"
   },
   {
     "SongID": 1274799549,
     "Title": "2.0",
-    "Artist": "BTS",
-    "ArtistID": "236"
-  },
-  {
-    "SongID": 1274799550,
-    "Title": "Aliens",
     "Artist": "BTS",
     "ArtistID": "236"
   },
@@ -1002,50 +912,14 @@
     "ArtistID": "236"
   },
   {
-    "SongID": 1274799552,
-    "Title": "FYA",
-    "Artist": "BTS",
-    "ArtistID": "236"
-  },
-  {
     "SongID": 1274799553,
     "Title": "Hooligan",
     "Artist": "BTS",
     "ArtistID": "236"
   },
   {
-    "SongID": 1274799554,
-    "Title": "Into the Sun",
-    "Artist": "BTS",
-    "ArtistID": "236"
-  },
-  {
-    "SongID": 1274799555,
-    "Title": "Like Animals",
-    "Artist": "BTS",
-    "ArtistID": "236"
-  },
-  {
-    "SongID": 1274799556,
-    "Title": "Merry Go Round",
-    "Artist": "BTS",
-    "ArtistID": "236"
-  },
-  {
-    "SongID": 1274799558,
-    "Title": "NORMAL",
-    "Artist": "BTS",
-    "ArtistID": "236"
-  },
-  {
-    "SongID": 1274799560,
-    "Title": "Please",
-    "Artist": "BTS",
-    "ArtistID": "236"
-  },
-  {
-    "SongID": 1274799563,
-    "Title": "they don’t know ’bout us",
+    "SongID": 1274799562,
+    "Title": "SWIM",
     "Artist": "BTS",
     "ArtistID": "236"
   },
@@ -1059,19 +933,19 @@
     "SongID": 1274800505,
     "Title": "Loving Life Again",
     "Artist": "Ella Langley",
-    "ArtistID": ""
+    "ArtistID": "9116"
   },
   {
     "SongID": 1274801086,
     "Title": "McArthur",
     "Artist": "HARDY, Eric Church, Morgan Wallen, Tim McGraw",
-    "ArtistID": "135, 1515, 2484"
+    "ArtistID": "49472, 1515, 135, 2484"
   },
   {
     "SongID": 1274801097,
     "Title": "American Girls",
     "Artist": "Harry Styles",
-    "ArtistID": "22228, 65237"
+    "ArtistID": "50"
   },
   {
     "SongID": 1274801430,
@@ -1080,10 +954,10 @@
     "ArtistID": "49470"
   },
   {
-    "SongID": 1274801723,
-    "Title": "Turn This Truck Around",
-    "Artist": "Jordan Davis",
-    "ArtistID": "49411"
+    "SongID": 1274801608,
+    "Title": "On The Floor",
+    "Artist": "Jennifer Lopez, Pitbull",
+    "ArtistID": "749, 315"
   },
   {
     "SongID": 1274801803,
@@ -1107,25 +981,19 @@
     "SongID": 1274802890,
     "Title": "Beautiful Things",
     "Artist": "Megan Moroney",
-    "ArtistID": ""
+    "ArtistID": "1002"
   },
   {
     "SongID": 1274804075,
     "Title": "Change My Mind",
     "Artist": "Riley Green",
-    "ArtistID": ""
+    "ArtistID": "2594"
   },
   {
     "SongID": 1274804920,
     "Title": "What You Need",
     "Artist": "Tems",
     "ArtistID": "281"
-  },
-  {
-    "SongID": 1274805162,
-    "Title": "Sunburn",
-    "Artist": "Tucker Wetmore",
-    "ArtistID": "6326"
   },
   {
     "SongID": 1274805860,
@@ -1140,40 +1008,16 @@
     "ArtistID": "9367"
   },
   {
-    "SongID": 1274808634,
-    "Title": "SWIM",
-    "Artist": "BTS",
-    "ArtistID": "236"
-  },
-  {
     "SongID": 1274808913,
     "Title": "NOBLE",
     "Artist": "F3miii",
     "ArtistID": "92197"
   },
   {
-    "SongID": 1274809988,
-    "Title": "Remember the Time",
-    "Artist": "Michael Jackson",
-    "ArtistID": "522"
-  },
-  {
     "SongID": 1274813184,
     "Title": "Boston",
     "Artist": "STELLA LEFTY",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274813659,
-    "Title": "Nalguita y Teta",
-    "Artist": "Neton Vega",
-    "ArtistID": "3953"
-  },
-  {
-    "SongID": 1274814795,
-    "Title": "Confident",
-    "Artist": "Justin Bieber, Chance the Rapper",
-    "ArtistID": "258, 1238"
+    "ArtistID": "86524"
   },
   {
     "SongID": 1274814803,
@@ -1185,41 +1029,23 @@
     "SongID": 1274816123,
     "Title": "Bottom Of Your Boots",
     "Artist": "Ella Langley",
-    "ArtistID": ""
+    "ArtistID": "9116"
   },
   {
     "SongID": 1274816347,
     "Title": "De Lejitos",
     "Artist": "Jay Wheeler",
-    "ArtistID": "4490"
-  },
-  {
-    "SongID": 1274816411,
-    "Title": "PINKY UP",
-    "Artist": "KATSEYE",
-    "ArtistID": "74249"
+    "ArtistID": "9639"
   },
   {
     "SongID": 1274817104,
     "Title": "Mr. Know It All",
     "Artist": "Teddy Swims",
-    "ArtistID": ""
+    "ArtistID": "1170"
   },
   {
     "SongID": 1274818058,
     "Title": "Don't Stop 'Til You Get Enough",
-    "Artist": "Michael Jackson",
-    "ArtistID": "522"
-  },
-  {
-    "SongID": 1274818061,
-    "Title": "P.Y.T. (Pretty Young Thing)",
-    "Artist": "Michael Jackson",
-    "ArtistID": "522"
-  },
-  {
-    "SongID": 1274818062,
-    "Title": "You Rock My World",
     "Artist": "Michael Jackson",
     "ArtistID": "522"
   },
@@ -1230,16 +1056,16 @@
     "ArtistID": "522"
   },
   {
-    "SongID": 1274818074,
-    "Title": "Man in the Mirror",
-    "Artist": "Michael Jackson",
-    "ArtistID": "522"
-  },
-  {
     "SongID": 1274818098,
     "Title": "Rock With You",
     "Artist": "Michael Jackson",
     "ArtistID": "522"
+  },
+  {
+    "SongID": 1274819986,
+    "Title": "Jamaican (Bam Bam)",
+    "Artist": "HUGEL, SOLTO (FR)",
+    "ArtistID": "3874, 91208"
   },
   {
     "SongID": 1274820098,
@@ -1248,10 +1074,10 @@
     "ArtistID": "11196"
   },
   {
-    "SongID": 1274820273,
-    "Title": "Cinderella (feat. Ty Dolla $ign)",
+    "SongID": 1274820272,
+    "Title": "Cinderella",
     "Artist": "Mac Miller, Ty Dolla $ign",
-    "ArtistID": "23202, 48572"
+    "ArtistID": "48572, 706"
   },
   {
     "SongID": 1274820377,
@@ -1269,7 +1095,7 @@
     "SongID": 1274823351,
     "Title": "I Want You",
     "Artist": "Cody Johnson",
-    "ArtistID": "68860"
+    "ArtistID": "8907"
   },
   {
     "SongID": 1274823364,
@@ -1287,13 +1113,13 @@
     "SongID": 1274824581,
     "Title": "My Way",
     "Artist": "Riley Green",
-    "ArtistID": ""
+    "ArtistID": "2594"
   },
   {
-    "SongID": 1274824744,
-    "Title": "White Keys",
-    "Artist": "Dominic Fike",
-    "ArtistID": "276"
+    "SongID": 1274826329,
+    "Title": "I Can't Love You Anymore",
+    "Artist": "Ella Langley, Morgan Wallen",
+    "ArtistID": "9116, 135"
   },
   {
     "SongID": 1274826843,
@@ -1305,29 +1131,11 @@
     "SongID": 1274826846,
     "Title": "Smooth Criminal",
     "Artist": "Michael Jackson, David Garrett, Ivan Kojouharov, Bulgarian Symphony Orchestra",
-    "ArtistID": "522, 27168, 74417, 95362"
-  },
-  {
-    "SongID": 1274826847,
-    "Title": "The Way You Make Me Feel",
-    "Artist": "Michael Jackson",
-    "ArtistID": "522"
-  },
-  {
-    "SongID": 1274826966,
-    "Title": "American Cars",
-    "Artist": "Noah Kahan",
-    "ArtistID": "235"
+    "ArtistID": "522, 27168, 95362, 95141"
   },
   {
     "SongID": 1274826970,
     "Title": "Doors",
-    "Artist": "Noah Kahan",
-    "ArtistID": "235"
-  },
-  {
-    "SongID": 1274826972,
-    "Title": "End of August",
     "Artist": "Noah Kahan",
     "ArtistID": "235"
   },
@@ -1347,7 +1155,7 @@
     "SongID": 1274829052,
     "Title": "Empty Words",
     "Artist": "Corey Kent",
-    "ArtistID": "1885"
+    "ArtistID": "49697"
   },
   {
     "SongID": 1274829329,
@@ -1359,7 +1167,7 @@
     "SongID": 1274830159,
     "Title": "Spend Dat",
     "Artist": "Yung Miami",
-    "ArtistID": ""
+    "ArtistID": "4678"
   },
   {
     "SongID": 1274835949,
@@ -1368,80 +1176,8 @@
     "ArtistID": "37"
   },
   {
-    "SongID": 1274835951,
-    "Title": "Burning Bridges",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835952,
-    "Title": "Classic",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835953,
-    "Title": "Don’t Worry",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835954,
-    "Title": "Dust",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835955,
-    "Title": "Firm Friends",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835958,
-    "Title": "High Fives",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835959,
-    "Title": "Hoe Phase",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
     "SongID": 1274835960,
     "Title": "Janice STFU",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835961,
-    "Title": "Little Birdie",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835962,
-    "Title": "Make Them Cry",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835963,
-    "Title": "Make Them Know",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835964,
-    "Title": "Make Them Pay",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835965,
-    "Title": "Make Them Remember",
     "Artist": "Drake",
     "ArtistID": "37"
   },
@@ -1464,20 +1200,8 @@
     "ArtistID": "37"
   },
   {
-    "SongID": 1274835975,
-    "Title": "Slap The City",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
     "SongID": 1274835978,
     "Title": "Whisper My Name",
-    "Artist": "Drake",
-    "ArtistID": "37"
-  },
-  {
-    "SongID": 1274835980,
-    "Title": "WNBA",
     "Artist": "Drake",
     "ArtistID": "37"
   },
@@ -1494,16 +1218,16 @@
     "ArtistID": "33924"
   },
   {
+    "SongID": 1274838900,
+    "Title": "Movin' To The Sun",
+    "Artist": "HUGEL, Imael Angel, Ultra Naté",
+    "ArtistID": "3874, 95356, 4722"
+  },
+  {
     "SongID": 1274838999,
     "Title": "Mexico Honey",
     "Artist": "Kacey Musgraves",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274839071,
-    "Title": "BOOMPALA",
-    "Artist": "LE SSERAFIM",
-    "ArtistID": "67"
+    "ArtistID": "915"
   },
   {
     "SongID": 1274839314,
@@ -1515,7 +1239,7 @@
     "SongID": 1274839364,
     "Title": "hate that i made you love me",
     "Artist": "Ariana Grande",
-    "ArtistID": "74249"
+    "ArtistID": "10"
   },
   {
     "SongID": 1274840323,
@@ -1524,105 +1248,165 @@
     "ArtistID": "83"
   },
   {
-    "SongID": 1274840481,
-    "Title": "Think As You Drunk",
-    "Artist": "Riley Green",
-    "ArtistID": ""
+    "SongID": 1274844099,
+    "Title": "RUBBERZ",
+    "Artist": "Fenix Flexin, Purps On The Beat",
+    "ArtistID": "8909, 101324"
   },
   {
-    "SongID": 1274844010,
-    "Title": "I Knew It, I Knew You",
-    "Artist": "Taylor Swift",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274844316,
-    "Title": "Cowgirl",
-    "Artist": "Shaboozey",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845596,
-    "Title": "stupid song",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845598,
-    "Title": "honeybee",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845600,
-    "Title": "maggots for brains",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845602,
-    "Title": "Come Over",
-    "Artist": "BTS",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845603,
-    "Title": "less",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845604,
-    "Title": "My Body Isn't Ready",
-    "Artist": "sombr",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845605,
-    "Title": "u + me = <3",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845606,
-    "Title": "my way",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845622,
-    "Title": "expectations",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845623,
-    "Title": "begged",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845624,
-    "Title": "cigarette smoke",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845625,
-    "Title": "Look at My Life",
-    "Artist": "Gracie Abrams",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274845626,
-    "Title": "purple",
-    "Artist": "Olivia Rodrigo",
-    "ArtistID": ""
-  },
-  {
-    "SongID": 1274846010,
+    "SongID": 1274845114,
     "Title": "The Time Of My Life",
     "Artist": "Benson Boone",
-    "ArtistID": ""
+    "ArtistID": "36727"
+  },
+  {
+    "SongID": 1274845188,
+    "Title": "Come Over",
+    "Artist": "BTS",
+    "ArtistID": "236"
+  },
+  {
+    "SongID": 1274845578,
+    "Title": "Radio",
+    "Artist": "Future",
+    "ArtistID": "80"
+  },
+  {
+    "SongID": 1274845614,
+    "Title": "Look at My Life",
+    "Artist": "Gracie Abrams",
+    "ArtistID": "914"
+  },
+  {
+    "SongID": 1274845911,
+    "Title": "No Need For Leavin'",
+    "Artist": "Kameron Marlowe",
+    "ArtistID": "33391"
+  },
+  {
+    "SongID": 1274845956,
+    "Title": "Carry On",
+    "Artist": "Kenny Chesney",
+    "ArtistID": "1410"
+  },
+  {
+    "SongID": 1274846050,
+    "Title": "Phone, Keys, Wallet",
+    "Artist": "Lainey Wilson, John Mayer",
+    "ArtistID": "1517, 1292"
+  },
+  {
+    "SongID": 1274846075,
+    "Title": "ICONIC BY MISTAKE",
+    "Artist": "LE SSERAFIM, ILLIT, KATSEYE",
+    "ArtistID": "67, 3954, 8995"
+  },
+  {
+    "SongID": 1274846506,
+    "Title": "Miss You",
+    "Artist": "Oliver Tree, Robin Schulz",
+    "ArtistID": "49414, 472"
+  },
+  {
+    "SongID": 1274846507,
+    "Title": "begged",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846508,
+    "Title": "cigarette smoke",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846509,
+    "Title": "expectations",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846510,
+    "Title": "honeybee",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846511,
+    "Title": "less",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846512,
+    "Title": "maggots for brains",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846513,
+    "Title": "my way",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846514,
+    "Title": "purple",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846515,
+    "Title": "stupid song",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846516,
+    "Title": "u + me = <3",
+    "Artist": "Olivia Rodrigo",
+    "ArtistID": "83"
+  },
+  {
+    "SongID": 1274846517,
+    "Title": "what’s wrong with me",
+    "Artist": "Olivia Rodrigo, Robert Smith",
+    "ArtistID": "83, 93680"
+  },
+  {
+    "SongID": 1274846749,
+    "Title": "Piece Of Your Love",
+    "Artist": "Rod Wave",
+    "ArtistID": "1708"
+  },
+  {
+    "SongID": 1274846913,
+    "Title": "Cowgirl",
+    "Artist": "Shaboozey",
+    "ArtistID": "3725"
+  },
+  {
+    "SongID": 1274847004,
+    "Title": "My Body Isn't Ready",
+    "Artist": "sombr",
+    "ArtistID": "10857"
+  },
+  {
+    "SongID": 1274847034,
+    "Title": "Something To Lose",
+    "Artist": "STELLA LEFTY, Vincent Mason",
+    "ArtistID": "86524, 33924"
+  },
+  {
+    "SongID": 1274847110,
+    "Title": "I Knew It, I Knew You - From \"Toy Story 5\"",
+    "Artist": "Taylor Swift",
+    "ArtistID": "1"
+  },
+  {
+    "SongID": 1274848291,
+    "Title": "is it cool? (feat. SZA)",
+    "Artist": "Steve Lacy, SZA",
+    "ArtistID": "186, 41"
   }
 ]

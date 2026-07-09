@@ -1,383 +1,318 @@
 [
   {
     "Position": 1,
-    "SongID": 1274836725,
-    "Title": "Dai Dai",
-    "Artist": "Shakira, Burna Boy",
-    "Artists": [
-      {
-        "Artist": "Shakira",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-      },
-      {
-        "Artist": "Burna Boy",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27303cadf1b3fe324c1dc710ed4",
-    "SpotifyURL": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
-    "TotalScore": 2852711.459,
-    "SpotifyScore": 973046.556548,
-    "AppleScore": 544342.160702,
-    "YouTubeScore": 1668512.537383,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 2,
     "SongID": 1274839364,
     "Title": "hate that i made you love me",
     "Artist": "Ariana Grande",
     "Artists": [
       {
         "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": null
+        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
     "SpotifyURL": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-    "TotalScore": 2599801.682914,
-    "SpotifyScore": 1162404.702767,
-    "AppleScore": 1036472.747378,
-    "YouTubeScore": 39504.242471,
-    "BillboardScore": 8136.0,
-    "BillboardPresenceBonus": 140,
+    "TotalScore": 439459.444184,
+    "SpotifyScore": 153225.322721,
+    "AppleScore": 215836.888654,
+    "YouTubeScore": 4633.017066,
+    "BillboardScore": 1004.0,
     "PlatformCount": 4
   },
   {
-    "Position": 3,
-    "SongID": 1274835960,
-    "Title": "Janice STFU",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe",
-    "TotalScore": 1412403.900547,
-    "SpotifyScore": 382615.615536,
-    "AppleScore": 980822.256869,
-    "YouTubeScore": 8400.64455,
-    "BillboardScore": 8030.4,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 4
-  },
-  {
-    "Position": 4,
-    "SongID": 1274840323,
-    "Title": "the cure",
-    "Artist": "Olivia Rodrigo",
-    "Artists": [
-      {
-        "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
-    "SpotifyURL": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96",
-    "TotalScore": 1138054.597869,
-    "SpotifyScore": 623791.8552,
-    "AppleScore": 518547.488738,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 7944.0,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 5,
-    "SongID": 1274844010,
-    "Title": "I Knew It, I Knew You",
-    "Artist": "Taylor Swift",
-    "Artists": [
-      {
-        "Artist": "Taylor Swift",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a35a1d4983e2b4fd0094f910",
-    "SpotifyURL": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa",
-    "TotalScore": 635787.305786,
-    "SpotifyScore": 170484.695114,
-    "AppleScore": 352856.617971,
-    "YouTubeScore": 2314.02669,
-    "BillboardScore": 4811.2,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 4
-  },
-  {
-    "Position": 6,
-    "SongID": 1274835974,
-    "Title": "Shabang",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/1fI2fpUb0zLuMPwEzIuoOr",
-    "TotalScore": 631305.317065,
-    "SpotifyScore": 54513.684968,
-    "AppleScore": 535789.136196,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 7294.4,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 7,
-    "SongID": 1274835966,
-    "Title": "National Treasures",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D",
-    "TotalScore": 576798.781966,
-    "SpotifyScore": 121882.326458,
-    "AppleScore": 427208.548983,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 6462.4,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 8,
-    "SongID": 1274845596,
+    "Position": 2,
+    "SongID": 1274846515,
     "Title": "stupid song",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4",
-    "TotalScore": 479716.454198,
-    "SpotifyScore": 162703.547396,
-    "AppleScore": 212034.08697,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+    "TotalScore": 294117.00042,
+    "SpotifyScore": 82749.253582,
+    "AppleScore": 150878.7503,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3235.2,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 991.5,
     "PlatformCount": 3
   },
   {
-    "Position": 9,
-    "SongID": 1274837604,
-    "Title": "Ran To Atlanta (feat. Future & Molly Santana)",
-    "Artist": "Drake, Future, Molly Santana",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "Artist": "Future",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-      },
-      {
-        "Artist": "Molly Santana",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
-    "TotalScore": 427029.915369,
-    "SpotifyScore": 32156.229476,
-    "AppleScore": 375616.280011,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 10,
-    "SongID": 1274835978,
-    "Title": "Whisper My Name",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J",
-    "TotalScore": 396801.780428,
-    "SpotifyScore": 40268.104282,
-    "AppleScore": 328550.485906,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 6187.2,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 11,
-    "SongID": 1274835968,
-    "Title": "Plot Twist",
-    "Artist": "Drake",
-    "Artists": [
-      {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "SpotifyURL": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav",
-    "TotalScore": 304852.517973,
-    "SpotifyScore": 19696.696712,
-    "AppleScore": 262777.613798,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 4408.8,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 12,
-    "SongID": 1274845598,
+    "Position": 3,
+    "SongID": 1274846510,
     "Title": "honeybee",
     "Artist": "Olivia Rodrigo",
     "Artists": [
       {
         "Artist": "Olivia Rodrigo",
-        "Role": "main",
-        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2",
+    "TotalScore": 171115.796557,
+    "SpotifyScore": 46152.461108,
+    "AppleScore": 88981.664757,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 924.0,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 4,
+    "SongID": 1274846075,
+    "Title": "ICONIC BY MISTAKE",
+    "Artist": "LE SSERAFIM, ILLIT, KATSEYE",
+    "Artists": [
+      {
+        "Artist": "LE SSERAFIM",
+        "SpotifyURL": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+      },
+      {
+        "Artist": "ILLIT",
+        "SpotifyURL": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+      },
+      {
+        "Artist": "KATSEYE",
+        "SpotifyURL": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27355886e2f0784a2b7b62b7fe7",
+    "SpotifyURL": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD",
+    "TotalScore": 112687.438224,
+    "SpotifyScore": 56534.619021,
+    "AppleScore": 18983.772074,
+    "YouTubeScore": 26383.20739,
+    "BillboardScore": 836.5,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 5,
+    "SongID": 1274847110,
+    "Title": "I Knew It, I Knew You - From \"Toy Story 5\"",
+    "Artist": "Taylor Swift",
+    "Artists": [
+      {
+        "Artist": "Taylor Swift",
+        "SpotifyURL": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a35a1d4983e2b4fd0094f910",
+    "SpotifyURL": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa",
+    "TotalScore": 70860.979421,
+    "SpotifyScore": 15470.122073,
+    "AppleScore": 41672.351806,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 989.0,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 6,
+    "SongID": 1274846512,
+    "Title": "maggots for brains",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI",
+    "TotalScore": 57670.737635,
+    "SpotifyScore": 11242.661632,
+    "AppleScore": 32796.961848,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 846.5,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 7,
+    "SongID": 1274846511,
+    "Title": "less",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO",
+    "TotalScore": 39904.904312,
+    "SpotifyScore": 11713.694349,
+    "AppleScore": 19516.289557,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 741.5,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 8,
+    "SongID": 1274846516,
+    "Title": "u + me = <3",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
         "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "SpotifyURL": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a",
-    "TotalScore": 271038.043225,
-    "SpotifyScore": 88933.471044,
-    "AppleScore": 120055.247387,
+    "SpotifyURL": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW",
+    "TotalScore": 36970.723274,
+    "SpotifyScore": 10406.522067,
+    "AppleScore": 18369.915827,
     "YouTubeScore": 0.0,
-    "BillboardScore": 3068.8,
-    "BillboardPresenceBonus": 140,
+    "BillboardScore": 744.0,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 9,
+    "SongID": 1274846517,
+    "Title": "what’s wrong with me",
+    "Artist": "Olivia Rodrigo, Robert Smith",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      {
+        "Artist": "Robert Smith",
+        "SpotifyURL": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh",
+    "TotalScore": 36641.313506,
+    "SpotifyScore": 10001.893625,
+    "AppleScore": 18402.919561,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 784.0,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 10,
+    "SongID": 1274846509,
+    "Title": "expectations",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT",
+    "TotalScore": 31958.368477,
+    "SpotifyScore": 9100.045917,
+    "AppleScore": 15640.534992,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 811.5,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 11,
+    "SongID": 1274841279,
+    "Title": "De Lejitos - Remix",
+    "Artist": "Jay Wheeler, Omar Courtz",
+    "Artists": [
+      {
+        "Artist": "Jay Wheeler",
+        "SpotifyURL": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+      },
+      {
+        "Artist": "Omar Courtz",
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c132fb4ba462a3859c4f2ff3",
+    "SpotifyURL": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo",
+    "TotalScore": 31486.605397,
+    "SpotifyScore": 22815.952549,
+    "AppleScore": 6654.348345,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "PlatformCount": 2
+  },
+  {
+    "Position": 12,
+    "SongID": 1274846513,
+    "Title": "my way",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf",
+    "TotalScore": 29712.637356,
+    "SpotifyScore": 7805.987041,
+    "AppleScore": 15023.048324,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 776.5,
     "PlatformCount": 3
   },
   {
     "Position": 13,
-    "SongID": 1274835981,
-    "Title": "B's On The Table (feat. 21 Savage)",
-    "Artist": "Drake, 21 Savage",
+    "SongID": 1274846507,
+    "Title": "begged",
+    "Artist": "Olivia Rodrigo",
     "Artists": [
       {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-      },
-      {
-        "Artist": "21 Savage",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        "Artist": "Olivia Rodrigo",
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/0j1vvE8fznuoEtoF0vVkTj",
-    "TotalScore": 239081.554537,
-    "SpotifyScore": 9444.611852,
-    "AppleScore": 217720.5592,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+    "SpotifyURL": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA",
+    "TotalScore": 28979.104142,
+    "SpotifyScore": 7370.434106,
+    "AppleScore": 14878.394381,
     "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
+    "BillboardScore": 714.0,
+    "PlatformCount": 3
   },
   {
     "Position": 14,
-    "SongID": 1274838900,
-    "Title": "Movin' To The Sun",
-    "Artist": "HUGEL, Imael Angel, Ultra Naté",
+    "SongID": 1274845188,
+    "Title": "Come Over",
+    "Artist": "BTS",
     "Artists": [
       {
-        "Artist": "HUGEL",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-      },
-      {
-        "Artist": "Imael Angel",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-      },
-      {
-        "Artist": "Ultra Naté",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        "Artist": "BTS",
+        "SpotifyURL": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27322cf11097fe39abd85ea0ba7",
-    "SpotifyURL": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2",
-    "TotalScore": 198317.754131,
-    "SpotifyScore": 81473.584839,
-    "AppleScore": 116557.557731,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273df7118c4f396e50961cc0e74",
+    "SpotifyURL": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs",
+    "TotalScore": 28097.183024,
+    "SpotifyScore": 21494.668777,
+    "AppleScore": 3759.348577,
     "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
+    "BillboardScore": 289.5,
+    "PlatformCount": 3
   },
   {
     "Position": 15,
-    "SongID": 1274835949,
-    "Title": "2 Hard 4 The Radio",
-    "Artist": "Drake",
+    "SongID": 1274847004,
+    "Title": "My Body Isn't Ready",
+    "Artist": "sombr",
     "Artists": [
       {
-        "Artist": "Drake",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        "Artist": "sombr",
+        "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730c00b5d46b1450f427207e44",
-    "SpotifyURL": "https://open.spotify.com/track/1svuouRvqWANBZJ0WqhLRn",
-    "TotalScore": 189305.414021,
-    "SpotifyScore": 14882.53421,
-    "AppleScore": 157032.330575,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 4802.4,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27355615e9242bd96706c68a743",
+    "SpotifyURL": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0",
+    "TotalScore": 26264.291005,
+    "SpotifyScore": 22151.66964,
+    "AppleScore": 231.087314,
+    "YouTubeScore": 467.100039,
+    "BillboardScore": 784.0,
+    "PlatformCount": 4
   }
 ]
