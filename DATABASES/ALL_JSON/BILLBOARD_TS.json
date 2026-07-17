@@ -45,6 +45,15 @@
     "Genre": null
   },
   {
+    "SongID": 114,
+    "Album": "Hunting High and Low",
+    "Duration": "03:45",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+    "Popularity": 87,
+    "ReleaseDate": "1985-06-01",
+    "Genre": ""
+  },
+  {
     "SongID": 131,
     "Album": "Songs From The Big Chair (Super Deluxe Edition)",
     "Duration": "04:11",
@@ -81,6 +90,15 @@
     "Genre": "piano rock, pop"
   },
   {
+    "SongID": 239,
+    "Album": "Willy And The Poor Boys (Expanded Edition)",
+    "Duration": "2:20",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5",
+    "Popularity": 85,
+    "ReleaseDate": "1969-11-02",
+    "Genre": null
+  },
+  {
     "SongID": 274,
     "Album": "Meteora (Bonus Edition)",
     "Duration": "3:07",
@@ -105,15 +123,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b",
     "Popularity": 88,
     "ReleaseDate": "2017-04-20",
-    "Genre": null
-  },
-  {
-    "SongID": 300,
-    "Album": "More Life",
-    "Duration": "4:58",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
-    "Popularity": 89,
-    "ReleaseDate": "2017-03-18",
     "Genre": null
   },
   {
@@ -225,6 +234,15 @@
     "Genre": null
   },
   {
+    "SongID": 630,
+    "Album": "Reckless (30th Anniversary / Deluxe Edition)",
+    "Duration": "03:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512",
+    "Popularity": 85,
+    "ReleaseDate": "1984-11-05",
+    "Genre": "canadian pop, canadian singer-songwriter, classic canadian rock, heartland rock, mellow gold, soft rock"
+  },
+  {
     "SongID": 658,
     "Album": "Oral Fixation, Vol. 2 (Expanded Edition)",
     "Duration": "03:38",
@@ -234,13 +252,22 @@
     "Genre": "colombian pop, dance pop, latin pop, pop"
   },
   {
-    "SongID": 672,
-    "Album": "Only By The Night",
-    "Duration": "03:23",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8",
+    "SongID": 675,
+    "Album": "The Time Of Our Lives (International Version)",
+    "Duration": "03:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734ea6653890e297d53e93e3e0",
     "Popularity": 84,
-    "ReleaseDate": "2008-09-23",
-    "Genre": "modern rock, rock"
+    "ReleaseDate": "2009-01-01",
+    "Genre": "pop"
+  },
+  {
+    "SongID": 768,
+    "Album": "Second Helping (Expanded Edition)",
+    "Duration": "04:43",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+    "Popularity": 84,
+    "ReleaseDate": "1974-04-15",
+    "Genre": "album rock, classic rock, hard rock, rock, southern rock"
   },
   {
     "SongID": 811,
@@ -286,6 +313,24 @@
     "Popularity": 88,
     "ReleaseDate": "2008-06-02",
     "Genre": null
+  },
+  {
+    "SongID": 1145,
+    "Album": "The Foundation",
+    "Duration": "03:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27322e4168b05eee8ad21209425",
+    "Popularity": 82,
+    "ReleaseDate": "2008-11-17",
+    "Genre": "contemporary country, country, country road, modern country rock"
+  },
+  {
+    "SongID": 1306,
+    "Album": "The Very Best of Bonnie Tyler",
+    "Duration": "04:27",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96",
+    "Popularity": 82,
+    "ReleaseDate": "2009-03-26",
+    "Genre": "europop, new wave pop, soft rock"
   },
   {
     "SongID": 1593,
@@ -342,6 +387,24 @@
     "Genre": ""
   },
   {
+    "SongID": 2705,
+    "Album": "Play Deep",
+    "Duration": "03:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273cd7e670a91d0263d2ee1d8a7",
+    "Popularity": 79,
+    "ReleaseDate": "1985-06-29",
+    "Genre": "album rock, power pop"
+  },
+  {
+    "SongID": 3466,
+    "Album": "The Big Revival",
+    "Duration": "03:02",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730dafd3fe4c2795f4ffb5a2ea",
+    "Popularity": 77,
+    "ReleaseDate": "2014-09-22",
+    "Genre": "contemporary country, country, country road"
+  },
+  {
     "SongID": 3721,
     "Album": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
     "Duration": "02:41",
@@ -351,6 +414,15 @@
     "Genre": "alternative hip hop"
   },
   {
+    "SongID": 4267,
+    "Album": "Born In The U.S.A.",
+    "Duration": "04:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a7865e686c36a4adda6c9978",
+    "Popularity": 76,
+    "ReleaseDate": "1984-06-04",
+    "Genre": "heartland rock, mellow gold, permanent wave, rock, singer-songwriter"
+  },
+  {
     "SongID": 6061,
     "Album": "Thriller 25 Super Deluxe Edition",
     "Duration": "05:57",
@@ -358,6 +430,15 @@
     "Popularity": 73,
     "ReleaseDate": "2008-02-08",
     "Genre": "r&b, soul"
+  },
+  {
+    "SongID": 7531,
+    "Album": "Unleashed",
+    "Duration": "3:15",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bb5c54a68f9ce31f83b98de4",
+    "Popularity": 85,
+    "ReleaseDate": "2002-01-01",
+    "Genre": null
   },
   {
     "SongID": 12447,
@@ -414,15 +495,6 @@
     "Genre": ""
   },
   {
-    "SongID": 12715,
-    "Album": "Stargazing",
-    "Duration": "02:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27381b12e1a0584e8ea7ba2ae4a",
-    "Popularity": 89,
-    "ReleaseDate": "2024-05-10",
-    "Genre": "singer-songwriter pop"
-  },
-  {
     "SongID": 12959,
     "Album": "HIT ME HARD AND SOFT",
     "Duration": "4:21",
@@ -439,15 +511,6 @@
     "Popularity": 66,
     "ReleaseDate": "2010-01-01",
     "Genre": "dance pop, electropop, neo-synthpop, scandipop, swedish electropop, swedish pop"
-  },
-  {
-    "SongID": 13521,
-    "Album": "Good Luck, Babe!",
-    "Duration": "03:38",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
-    "Popularity": 91,
-    "ReleaseDate": "2024-04-05",
-    "Genre": "indie pop, pov: indie, springfield mo indie"
   },
   {
     "SongID": 22054,
@@ -666,15 +729,6 @@
     "Genre": ""
   },
   {
-    "SongID": 999941,
-    "Album": "Show Me Love",
-    "Duration": "02:56",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739263dc4504ccf1b02899d9ae",
-    "Popularity": 62,
-    "ReleaseDate": "2025-02-07",
-    "Genre": ""
-  },
-  {
     "SongID": 1136827,
     "Album": "Submarine",
     "Duration": "3:56",
@@ -682,15 +736,6 @@
     "Popularity": 90,
     "ReleaseDate": "2024-05-31",
     "Genre": null
-  },
-  {
-    "SongID": 1164252,
-    "Album": "111XPANTIA",
-    "Duration": "02:57",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734f13783ebca8686ddc7992e7",
-    "Popularity": 83,
-    "ReleaseDate": "2025-05-02",
-    "Genre": "corrido, corridos tumbados, corridos bélicos, música mexicana, banda, sierreño, electro corridos, sad sierreño"
   },
   {
     "SongID": 1164645,
@@ -727,15 +772,6 @@
     "Popularity": 86,
     "ReleaseDate": "2024-01-18",
     "Genre": null
-  },
-  {
-    "SongID": 1227573,
-    "Album": "Pink Pony Club",
-    "Duration": "04:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d59f6955a03d1ad595456df6",
-    "Popularity": 68,
-    "ReleaseDate": "2022-04-23",
-    "Genre": ""
   },
   {
     "SongID": 1227585,
@@ -913,7 +949,7 @@
     "Album": "Été 2026 : Afrobeats",
     "Duration": "3:39",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e0ea9dc7335465a3f346a21f",
-    "Popularity": 34,
+    "Popularity": 33,
     "ReleaseDate": "2026-04-17",
     "Genre": null
   },
@@ -945,6 +981,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1272635,
+    "Album": "I Barely Know Her",
+    "Duration": "3:02",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
+    "Popularity": 89,
+    "ReleaseDate": "2025-08-22",
+    "Genre": null
+  },
+  {
     "SongID": 1272645,
     "Album": "Man’s Best Friend",
     "Duration": "3:33",
@@ -961,6 +1006,15 @@
     "Popularity": 93,
     "ReleaseDate": "2025-06-20",
     "Genre": "k-pop"
+  },
+  {
+    "SongID": 1272647,
+    "Album": "Folded",
+    "Duration": "03:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c23c6110d6061ba7e2311141",
+    "Popularity": 89,
+    "ReleaseDate": "2025-06-11",
+    "Genre": ""
   },
   {
     "SongID": 1272648,
@@ -1089,15 +1143,6 @@
     "Genre": "alternative, indie"
   },
   {
-    "SongID": 1272862,
-    "Album": "SWAG",
-    "Duration": "2:43",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
-    "Popularity": 87,
-    "ReleaseDate": "2025-07-11",
-    "Genre": null
-  },
-  {
     "SongID": 1272899,
     "Album": "Midnight Sun",
     "Duration": "3:09",
@@ -1114,24 +1159,6 @@
     "Popularity": 81,
     "ReleaseDate": "2025-10-10",
     "Genre": ""
-  },
-  {
-    "SongID": 1273044,
-    "Album": "111XPANTIA",
-    "Duration": "3:04",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a2e90fbdec84b25e46573469",
-    "Popularity": 89,
-    "ReleaseDate": "2025-05-02",
-    "Genre": null
-  },
-  {
-    "SongID": 1273305,
-    "Album": "I’m The Problem",
-    "Duration": "3:24",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27335ea219ce47813b5e2dc3745",
-    "Popularity": 88,
-    "ReleaseDate": "2025-05-16",
-    "Genre": null
   },
   {
     "SongID": 1273307,
@@ -1161,21 +1188,21 @@
     "Genre": null
   },
   {
+    "SongID": 1274094,
+    "Album": "Loud",
+    "Duration": "3:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+    "Popularity": 89,
+    "ReleaseDate": "2010-01-01",
+    "Genre": null
+  },
+  {
     "SongID": 1284531,
     "Album": "Zoo (From \"Zootopia 2\")",
     "Duration": "03:10",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d31c6153f79226015ccbbaf3",
     "Popularity": 78,
     "ReleaseDate": "2025-10-10",
-    "Genre": ""
-  },
-  {
-    "SongID": 1287696,
-    "Album": "Hurry Up Tomorrow",
-    "Duration": "04:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
-    "Popularity": 92,
-    "ReleaseDate": "2025-01-31",
     "Genre": ""
   },
   {
@@ -1278,15 +1305,6 @@
     "Genre": null
   },
   {
-    "SongID": 1291156,
-    "Album": "The Great Divide",
-    "Duration": "5:17",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a47374027a9f559917ba66ba",
-    "Popularity": 87,
-    "ReleaseDate": "2026-01-30",
-    "Genre": null
-  },
-  {
     "SongID": 1292912,
     "Album": "Be By You",
     "Duration": "3:17",
@@ -1341,15 +1359,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274799493,
-    "Album": "Cuando No Era Cantante (Remix)",
-    "Duration": "5:27",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27376ca2bb969e79a911090df63",
-    "Popularity": 89,
-    "ReleaseDate": "2025-12-10",
-    "Genre": null
-  },
-  {
     "SongID": 1274799549,
     "Album": "ARIRANG",
     "Duration": "2:49",
@@ -1386,13 +1395,13 @@
     "Genre": null
   },
   {
-    "SongID": 1274800343,
-    "Album": "What Did I Miss?",
-    "Duration": "3:14",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
-    "Popularity": 80,
-    "ReleaseDate": "2025-07-05",
-    "Genre": null
+    "SongID": 1274800443,
+    "Album": "Stereo Love",
+    "Duration": "03:05",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273695991d6f4a544a05df4c1c0",
+    "Popularity": 71,
+    "ReleaseDate": "2009",
+    "Genre": ""
   },
   {
     "SongID": 1274800505,
@@ -1422,21 +1431,21 @@
     "Genre": null
   },
   {
-    "SongID": 1274801430,
-    "Album": "Diana Ross Presents The Jackson 5",
-    "Duration": "2:56",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
-    "Popularity": 83,
-    "ReleaseDate": "1969-12-18",
-    "Genre": null
-  },
-  {
     "SongID": 1274801608,
     "Album": "Love?",
     "Duration": "4:44",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7b2aa3834b82b1cbe899a48",
     "Popularity": 89,
     "ReleaseDate": "2011-04-29",
+    "Genre": null
+  },
+  {
+    "SongID": 1274801723,
+    "Album": "Turn This Truck Around",
+    "Duration": "3:24",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c947fa79efe86ab1107abb28",
+    "Popularity": 71,
+    "ReleaseDate": "2025-07-25",
     "Genre": null
   },
   {
@@ -1464,15 +1473,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e07986c3e184a30283b94d61",
     "Popularity": 81,
     "ReleaseDate": "2026-03-20",
-    "Genre": null
-  },
-  {
-    "SongID": 1274802890,
-    "Album": "Cloud 9",
-    "Duration": "3:55",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27301fe49cd6f9b1e20676f2169",
-    "Popularity": 71,
-    "ReleaseDate": "2026-02-20",
     "Genre": null
   },
   {
@@ -1584,15 +1584,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274818098,
-    "Album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-    "Duration": "3:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701",
-    "Popularity": 60,
-    "ReleaseDate": "1995-06-16",
-    "Genre": null
-  },
-  {
     "SongID": 1274819986,
     "Album": "Jamaican (Bam Bam)",
     "Duration": "2:36",
@@ -1612,11 +1603,11 @@
   },
   {
     "SongID": 1274820272,
-    "Album": "Make Me Feel - Throwback R&B",
+    "Album": "Everything Rap and R&B",
     "Duration": "8:00",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27334ce1667ea9ac802ae0574e2",
-    "Popularity": 32,
-    "ReleaseDate": "2023-08-16",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c9d3790afc136c1a0d4e832d",
+    "Popularity": 39,
+    "ReleaseDate": "2023-09-01",
     "Genre": null
   },
   {
@@ -1728,20 +1719,20 @@
     "Genre": null
   },
   {
-    "SongID": 1274829052,
-    "Album": "Empty Words",
-    "Duration": "2:32",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27314f7271bd293388661c55dcb",
-    "Popularity": 73,
-    "ReleaseDate": "2026-02-20",
-    "Genre": null
-  },
-  {
     "SongID": 1274829329,
     "Album": "MAMIHLAPINATAPAI",
     "Duration": "2:18",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27361eea484e31bca065904f1c6",
     "Popularity": 73,
+    "ReleaseDate": "2026-04-30",
+    "Genre": null
+  },
+  {
+    "SongID": 1274829536,
+    "Album": "Bring Your Love",
+    "Duration": "3:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e80775d80a049e6a9608f91d",
+    "Popularity": 76,
     "ReleaseDate": "2026-04-30",
     "Genre": null
   },
@@ -1776,15 +1767,6 @@
     "SongID": 1274835966,
     "Album": "ICEMAN",
     "Duration": "3:20",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-15",
-    "Genre": null
-  },
-  {
-    "SongID": 1274835968,
-    "Album": "ICEMAN",
-    "Duration": "3:15",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
     "Popularity": 0,
     "ReleaseDate": "2026-05-15",
@@ -1881,12 +1863,30 @@
     "Genre": null
   },
   {
+    "SongID": 1274845077,
+    "Album": "Rise Against My Broken Odds",
+    "Duration": "2:58",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27364d676141052c2e389c0b7b3",
+    "Popularity": 73,
+    "ReleaseDate": "2026-06-12",
+    "Genre": null
+  },
+  {
     "SongID": 1274845114,
     "Album": "The Time Of My Life",
     "Duration": "3:35",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273719f829cbd2ebda720cd240d",
     "Popularity": 81,
     "ReleaseDate": "2026-06-25",
+    "Genre": null
+  },
+  {
+    "SongID": 1274845125,
+    "Album": "MORNING DEW (DONK)",
+    "Duration": "4:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40",
+    "Popularity": 74,
+    "ReleaseDate": "2026-07-04",
     "Genre": null
   },
   {
@@ -1899,30 +1899,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274845578,
-    "Album": "Radio",
-    "Duration": "2:39",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27321b58405633be299baae9b23",
-    "Popularity": 78,
-    "ReleaseDate": "2026-06-26",
-    "Genre": null
-  },
-  {
     "SongID": 1274845614,
     "Album": "Look at My Life",
     "Duration": "3:10",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
     "Popularity": 84,
     "ReleaseDate": "2026-06-25",
-    "Genre": null
-  },
-  {
-    "SongID": 1274845911,
-    "Album": "No Need For Leavin'",
-    "Duration": "3:35",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ddf007531c1746b6e5bc1360",
-    "Popularity": 75,
-    "ReleaseDate": "2026-03-06",
     "Genre": null
   },
   {
@@ -1953,12 +1935,12 @@
     "Genre": null
   },
   {
-    "SongID": 1274846506,
-    "Album": "Victoria's Secret - Pop Bangers",
-    "Duration": "3:26",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f42e6a067b35a658b051cab0",
-    "Popularity": 74,
-    "ReleaseDate": "2023-02-01",
+    "SongID": 1274846184,
+    "Album": "CONFESSIONS II",
+    "Duration": "3:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732e45924aa55275c64280cada",
+    "Popularity": 78,
+    "ReleaseDate": "2026-07-03",
     "Genre": null
   },
   {
@@ -2025,15 +2007,6 @@
     "Genre": null
   },
   {
-    "SongID": 1274846514,
-    "Album": "you seem pretty sad for a girl so in love",
-    "Duration": "4:00",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
-    "Popularity": 73,
-    "ReleaseDate": "2026-06-11",
-    "Genre": null
-  },
-  {
     "SongID": 1274846515,
     "Album": "you seem pretty sad for a girl so in love",
     "Duration": "3:29",
@@ -2061,21 +2034,21 @@
     "Genre": null
   },
   {
-    "SongID": 1274846749,
-    "Album": "Piece Of Your Love",
-    "Duration": "3:45",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c888bcb8d119e763239e92cc",
-    "Popularity": 72,
-    "ReleaseDate": "2026-06-26",
+    "SongID": 1274846651,
+    "Album": "misery.",
+    "Duration": "2:46",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273316b7fde50dfbf4be72735c2",
+    "Popularity": 85,
+    "ReleaseDate": "2026-03-18",
     "Genre": null
   },
   {
-    "SongID": 1274846913,
-    "Album": "Cowgirl",
-    "Duration": "2:56",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735347a89258e3560e0acc19e8",
-    "Popularity": 81,
-    "ReleaseDate": "2026-06-05",
+    "SongID": 1274846952,
+    "Album": "Visitor",
+    "Duration": "2:53",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
+    "Popularity": 69,
+    "ReleaseDate": "2026-07-02",
     "Genre": null
   },
   {
@@ -2103,15 +2076,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a35a1d4983e2b4fd0094f910",
     "Popularity": 94,
     "ReleaseDate": "2026-06-05",
-    "Genre": null
-  },
-  {
-    "SongID": 1274848291,
-    "Album": "is it cool? (feat. SZA)",
-    "Duration": "2:54",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273504ee91f37d2fd96ddda7da0",
-    "Popularity": 81,
-    "ReleaseDate": "2026-06-26",
     "Genre": null
   }
 ]
