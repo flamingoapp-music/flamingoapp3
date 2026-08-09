@@ -1,330 +1,365 @@
 [
   {
     "Position": 1,
-    "SongID": 1274845020,
+    "SongID": 1274839364,
+    "Title": "hate that i made you love me",
+    "Artist": "Ariana Grande",
+    "Artists": [
+      {
+        "Artist": "Ariana Grande",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
+    "SpotifyURL": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
+    "TotalScore": 2920321.855476,
+    "SpotifyScore": 1519996.112113,
+    "AppleScore": 1380957.419603,
+    "YouTubeScore": 46715.001923,
+    "BillboardScore": 11374.4,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 2,
+    "SongID": 1274845596,
+    "Title": "stupid song",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4",
+    "TotalScore": 696730.709046,
+    "SpotifyScore": 292693.991463,
+    "AppleScore": 392165.353591,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 6390.4,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 3,
+    "SongID": 1274844010,
+    "Title": "I Knew It, I Knew You",
+    "Artist": "Taylor Swift",
+    "Artists": [
+      {
+        "Artist": "Taylor Swift",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a35a1d4983e2b4fd0094f910",
+    "SpotifyURL": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa",
+    "TotalScore": 662496.175703,
+    "SpotifyScore": 208941.775927,
+    "AppleScore": 427984.259878,
+    "YouTubeScore": 2314.02669,
+    "BillboardScore": 7934.4,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 4
+  },
+  {
+    "Position": 4,
+    "SongID": 1274845598,
+    "Title": "honeybee",
+    "Artist": "Olivia Rodrigo",
+    "Artists": [
+      {
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a",
+    "TotalScore": 341674.168371,
+    "SpotifyScore": 133376.368125,
+    "AppleScore": 196191.267388,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 5798.4,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
+  },
+  {
+    "Position": 5,
+    "SongID": 1274841279,
+    "Title": "De Lejitos - Remix",
+    "Artist": "Jay Wheeler, Omar Courtz",
+    "Artists": [
+      {
+        "Artist": "Jay Wheeler",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+      },
+      {
+        "Artist": "Omar Courtz",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c132fb4ba462a3859c4f2ff3",
+    "SpotifyURL": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo",
+    "TotalScore": 213639.32139,
+    "SpotifyScore": 184162.441558,
+    "AppleScore": 41744.532284,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 2
+  },
+  {
+    "Position": 6,
+    "SongID": 1274845597,
+    "Title": "ICONIC BY MISTAKE",
+    "Artist": "LE SSERAFIM, ILLIT, KATSEYE",
+    "Artists": [
+      {
+        "Artist": "LE SSERAFIM",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+      },
+      {
+        "Artist": "ILLIT",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+      },
+      {
+        "Artist": "KATSEYE",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27355886e2f0784a2b7b62b7fe7",
+    "SpotifyURL": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD",
+    "TotalScore": 161565.994355,
+    "SpotifyScore": 175591.211255,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 7,
+    "SongID": 1274845607,
     "Title": "Las mas bonitas son p#tas",
     "Artist": "Anuel AA",
     "Artists": [
       {
         "Artist": "Anuel AA",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c2c4ebb82fba77deba3d6f02",
     "SpotifyURL": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe",
-    "TotalScore": 35121.957013,
-    "SpotifyScore": 16283.017295,
-    "AppleScore": 7724.634308,
-    "YouTubeScore": 9228.331702,
+    "TotalScore": 143635.166523,
+    "SpotifyScore": 69013.927173,
+    "AppleScore": 19546.41549,
+    "YouTubeScore": 46034.688413,
     "BillboardScore": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 2,
-    "SongID": 1274848366,
-    "Title": "SLICK",
-    "Artist": "Victony",
-    "Artists": [
-      {
-        "Artist": "Victony",
-        "SpotifyURL": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b1356b443072b4f8615af24d",
-    "SpotifyURL": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u",
-    "TotalScore": 25235.526389,
-    "SpotifyScore": 1248.450609,
-    "AppleScore": 16281.718673,
-    "YouTubeScore": 1672.789234,
-    "BillboardScore": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 3,
-    "SongID": 1274846952,
-    "Title": "Great Expectation",
-    "Artist": "SIENNA SPIRO",
-    "Artists": [
-      {
-        "Artist": "SIENNA SPIRO",
-        "SpotifyURL": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
-    "SpotifyURL": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
-    "TotalScore": 24601.335991,
-    "SpotifyScore": 12672.611931,
-    "AppleScore": 8576.864661,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 624.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 4,
-    "SongID": 1274845043,
-    "Title": "BAD",
-    "Artist": "ATEEZ",
-    "Artists": [
-      {
-        "Artist": "ATEEZ",
-        "SpotifyURL": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734ebd68a063228fefd98a1cf2",
-    "SpotifyURL": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3",
-    "TotalScore": 14788.113743,
-    "SpotifyScore": 5421.944272,
-    "AppleScore": 5744.434147,
-    "YouTubeScore": 1966.74219,
-    "BillboardScore": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 5,
-    "SongID": 1274845338,
-    "Title": "I Know Who I Be",
-    "Artist": "Davido, JAZZWRLD, GL_Ceejay",
-    "Artists": [
-      {
-        "Artist": "Davido",
-        "SpotifyURL": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-      },
-      {
-        "Artist": "JAZZWRLD",
-        "SpotifyURL": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-      },
-      {
-        "Artist": "GL_Ceejay",
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27306a99d1efeda0e4566bbfb92",
-    "SpotifyURL": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu",
-    "TotalScore": 10849.242649,
-    "SpotifyScore": 852.24753,
-    "AppleScore": 7225.990899,
-    "YouTubeScore": 603.375737,
-    "BillboardScore": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 6,
-    "SongID": 1274848351,
-    "Title": "Garee2a Awy - A COLORS SHOW",
-    "Artist": "TUL8TE, COLORS",
-    "Artists": [
-      {
-        "Artist": "TUL8TE",
-        "SpotifyURL": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-      },
-      {
-        "Artist": "COLORS",
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27373aa5127d0871a45c130ea55",
-    "SpotifyURL": "https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC",
-    "TotalScore": 9977.057213,
-    "SpotifyScore": 1864.1051,
-    "AppleScore": 3205.43015,
-    "YouTubeScore": 3621.889426,
-    "BillboardScore": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 7,
-    "SongID": 1274845266,
-    "Title": "After",
-    "Artist": "Conep",
-    "Artists": [
-      {
-        "Artist": "Conep",
-        "SpotifyURL": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734938cb78908ec73e8139bea1",
-    "SpotifyURL": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb",
-    "TotalScore": 9862.857733,
-    "SpotifyScore": 6144.140526,
-    "AppleScore": 1535.731779,
-    "YouTubeScore": 1781.33252,
-    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 3
   },
   {
     "Position": 8,
-    "SongID": 1274845125,
-    "Title": "MORNING DEW (DONK)",
-    "Artist": "Beyoncé",
+    "SongID": 1274839314,
+    "Title": "LEMONADE",
+    "Artist": "aespa",
     "Artists": [
       {
-        "Artist": "Beyoncé",
-        "SpotifyURL": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        "Artist": "aespa",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40",
-    "SpotifyURL": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT",
-    "TotalScore": 9296.964783,
-    "SpotifyScore": 1195.486986,
-    "AppleScore": 5296.896299,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 619.0,
-    "PlatformCount": 3
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732c46c378df1e1bf3ecb370e9",
+    "SpotifyURL": "https://open.spotify.com/track/40tqYMTWs6E1FKEDMTWRFB",
+    "TotalScore": 140229.272215,
+    "SpotifyScore": 58679.940601,
+    "AppleScore": 61491.804455,
+    "YouTubeScore": 16283.740275,
+    "BillboardScore": 3874.4,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 4
   },
   {
     "Position": 9,
-    "SongID": 1274849577,
-    "Title": "Glocks and Chips",
-    "Artist": "Skippa",
+    "SongID": 1274843798,
+    "Title": "SUGAR HONEY ICE TEA",
+    "Artist": "BABYMONSTER",
     "Artists": [
       {
-        "Artist": "Skippa",
+        "Artist": "BABYMONSTER",
+        "Role": "main",
+        "Weight": 1.0,
         "SpotifyURL": null
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27350370909e7f00d2e6b21b261",
-    "SpotifyURL": "https://open.spotify.com/track/4l2vC8UUR2QC6hkdmVPkcJ",
-    "TotalScore": 6332.206691,
-    "SpotifyScore": 0.0,
-    "AppleScore": 4256.4275,
-    "YouTubeScore": 502.439251,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273365e11a819dd404520d288e1",
+    "SpotifyURL": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD",
+    "TotalScore": 122593.699492,
+    "SpotifyScore": 19316.72379,
+    "AppleScore": 5228.706411,
+    "YouTubeScore": 119835.872249,
     "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 3
   },
   {
     "Position": 10,
-    "SongID": 1274846972,
-    "Title": "Detox",
-    "Artist": "Skippa",
+    "SongID": 1274845600,
+    "Title": "maggots for brains",
+    "Artist": "Olivia Rodrigo",
     "Artists": [
       {
-        "Artist": "Skippa",
-        "SpotifyURL": null
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737fdcba450639dfa08f972e24",
-    "SpotifyURL": "https://open.spotify.com/track/0oOShZyyWiLUlhe7wr0ADh",
-    "TotalScore": 5330.449188,
-    "SpotifyScore": 0.0,
-    "AppleScore": 3518.3668,
-    "YouTubeScore": 508.148878,
-    "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K",
+    "TotalScore": 120834.355057,
+    "SpotifyScore": 32530.05602,
+    "AppleScore": 76511.960226,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 5052.8,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
   },
   {
     "Position": 11,
-    "SongID": 1274847215,
-    "Title": "Teh Hijau",
-    "Artist": "Tulus",
+    "SongID": 1274843745,
+    "Title": "bloodstream",
+    "Artist": "Alyssa Grace",
     "Artists": [
       {
-        "Artist": "Tulus",
-        "SpotifyURL": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        "Artist": "Alyssa Grace",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e4086e5f9d79cf18ed601015",
-    "SpotifyURL": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU",
-    "TotalScore": 5274.522196,
-    "SpotifyScore": 2769.531682,
-    "AppleScore": 568.185189,
-    "YouTubeScore": 1827.736598,
-    "BillboardScore": 0.0,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273defdef89edf50ac6e58d442a",
+    "SpotifyURL": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG",
+    "TotalScore": 108238.871035,
+    "SpotifyScore": 100521.098842,
+    "AppleScore": 11146.650378,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 1952.0,
+    "BillboardPresenceBonus": 140,
     "PlatformCount": 3
   },
   {
     "Position": 12,
-    "SongID": 1274845154,
-    "Title": "MERO TOTE",
-    "Artist": "Blessd, De La Rose, Los Money Makers",
+    "SongID": 1274842579,
+    "Title": "IF I",
+    "Artist": "TREASURE",
     "Artists": [
       {
-        "Artist": "Blessd",
-        "SpotifyURL": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-      },
-      {
-        "Artist": "De La Rose",
-        "SpotifyURL": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-      },
-      {
-        "Artist": "Los Money Makers",
-        "SpotifyURL": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        "Artist": "TREASURE",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ef1268a0337de25edb1f9b05",
-    "SpotifyURL": "https://open.spotify.com/track/26wRv00loYD9urTl85LFbI",
-    "TotalScore": 5248.543424,
-    "SpotifyScore": 1724.62088,
-    "AppleScore": 1404.421013,
-    "YouTubeScore": 1755.973924,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734bfa7f88b274b4e53caba279",
+    "SpotifyURL": "https://open.spotify.com/track/3IWNxztdd0eOeB2Zsslqa3",
+    "TotalScore": 82870.141418,
+    "SpotifyScore": 6864.162474,
+    "AppleScore": 37.606725,
+    "YouTubeScore": 92329.811627,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 3
   },
   {
     "Position": 13,
-    "SongID": 1274846954,
-    "Title": "Material Lover - from The Devil Wears Prada 2 Original Motion Picture",
-    "Artist": "SIENNA SPIRO",
+    "SongID": 1274845603,
+    "Title": "less",
+    "Artist": "Olivia Rodrigo",
     "Artists": [
       {
-        "Artist": "SIENNA SPIRO",
-        "SpotifyURL": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27331990a335ce5d02dc159e5c4",
-    "SpotifyURL": "https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK",
-    "TotalScore": 5190.999745,
-    "SpotifyScore": 4933.809281,
-    "AppleScore": 0.0,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y",
+    "TotalScore": 79254.600205,
+    "SpotifyScore": 33088.606403,
+    "AppleScore": 37544.015798,
     "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "PlatformCount": 1
+    "BillboardScore": 4604.8,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
   },
   {
     "Position": 14,
-    "SongID": 1274844930,
-    "Title": "Macho Man",
-    "Artist": "Aleksandra Prijovic, Dejan Petrovic",
+    "SongID": 1274841277,
+    "Title": "Fuga",
+    "Artist": "Jay Wheeler",
     "Artists": [
       {
-        "Artist": "Aleksandra Prijovic",
-        "SpotifyURL": "https://open.spotify.com/artist/4yvRXgtIPiDMzH3wb1JPh7"
-      },
-      {
-        "Artist": "Dejan Petrovic",
-        "SpotifyURL": "https://open.spotify.com/artist/22kOCmEbNQXHp6LgmkZWM7"
+        "Artist": "Jay Wheeler",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27308d58c69d680150f89dd6f54",
-    "SpotifyURL": "https://open.spotify.com/track/45AfQfx3U5FMTguFxYVjOa",
-    "TotalScore": 4620.631289,
-    "SpotifyScore": 0.0,
-    "AppleScore": 975.6747,
-    "YouTubeScore": 3507.635978,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734fa47b47054f07cd5f849bac",
+    "SpotifyURL": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41",
+    "TotalScore": 71592.718612,
+    "SpotifyScore": 55569.965077,
+    "AppleScore": 17568.758351,
+    "YouTubeScore": 2191.261361,
     "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 3
   },
   {
     "Position": 15,
-    "SongID": 1274849516,
-    "Title": "MITSUBISHI / متسوبيشي",
-    "Artist": "Saint Levant, Haifa Wehbe",
+    "SongID": 1274845605,
+    "Title": "u + me = <3",
+    "Artist": "Olivia Rodrigo",
     "Artists": [
       {
-        "Artist": "Saint Levant",
-        "SpotifyURL": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-      },
-      {
-        "Artist": "Haifa Wehbe",
-        "SpotifyURL": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        "Artist": "Olivia Rodrigo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739b40d24be9a6adc9c2f6d85a",
-    "SpotifyURL": "https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV",
-    "TotalScore": 4558.044994,
-    "SpotifyScore": 0.0,
-    "AppleScore": 2197.305825,
-    "YouTubeScore": 1541.576484,
-    "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "SpotifyURL": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW",
+    "TotalScore": 70958.188503,
+    "SpotifyScore": 26776.457094,
+    "AppleScore": 35993.259713,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 4165.6,
+    "BillboardPresenceBonus": 140,
+    "PlatformCount": 3
   }
 ]

@@ -1,78 +1,1292 @@
 [
   {
-    "SongID": 1274846164,
-    "Position": 2
-  },
-  {
-    "SongID": 1274799346,
-    "Position": 3
-  },
-  {
-    "SongID": 1274847785,
-    "Position": 4
-  },
-  {
-    "SongID": 1274840967,
-    "Position": 5
-  },
-  {
-    "SongID": 1274805755,
-    "Position": 6
-  },
-  {
-    "SongID": 1274800886,
-    "Position": 7
-  },
-  {
-    "SongID": 1274827482,
-    "Position": 8
-  },
-  {
-    "SongID": 1274816236,
-    "Position": 9
-  },
-  {
-    "SongID": 1274839240,
-    "Position": 10
-  },
-  {
-    "SongID": 1274799342,
-    "Position": 11
-  },
-  {
-    "SongID": 1274800827,
-    "Position": 12
-  },
-  {
-    "SongID": 1274805847,
-    "Position": 13
-  },
-  {
-    "SongID": 1274807408,
-    "Position": 14
-  },
-  {
-    "SongID": 1274848663,
-    "Position": 15
-  },
-  {
-    "SongID": 1274803865,
-    "Position": 16
-  },
-  {
-    "SongID": 1274805251,
-    "Position": 17
-  },
-  {
-    "SongID": 3721,
-    "Position": 18
+    "SongID": 1274843617,
+    "Position": 2,
+    "Title": "Хаа Холдох Вэ...",
+    "Artist": "ThunderZ, GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274843617,
-    "Position": 19
+    "Position": 2,
+    "Title": "Хаа Холдох Вэ...",
+    "Artist": "ThunderZ, GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816236,
+    "Position": 3,
+    "Title": "Shorty Namaig",
+    "Artist": "Ginjin",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274840967,
+    "Position": 3,
+    "Title": "Vanlii",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799346,
+    "Position": 3,
+    "Title": "Boroonii Uner",
+    "Artist": "Bayartsengel",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274840967,
+    "Position": 4,
+    "Title": "Vanlii",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816236,
+    "Position": 4,
+    "Title": "Shorty Namaig",
+    "Artist": "Ginjin",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799346,
+    "Position": 4,
+    "Title": "Boroonii Uner",
+    "Artist": "Bayartsengel",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274805755,
+    "Position": 4,
+    "Title": "Итгэл Юм Шүү Дээ",
+    "Artist": "Л. Болдбаатар",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274799346,
+    "Position": 4,
+    "Title": "Boroonii Uner",
+    "Artist": "Bayartsengel",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274799346,
+    "Position": 4,
+    "Title": "Boroonii Uner",
+    "Artist": "Bayartsengel",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274839240,
+    "Position": 5,
+    "Title": "бодлын гүнээс",
+    "Artist": "mxrningstar",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274803865,
+    "Position": 5,
+    "Title": "Togtuun - UzesgelenGoo",
+    "Artist": "ProGhz",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274840967,
+    "Position": 5,
+    "Title": "Vanlii",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274827482,
+    "Position": 5,
+    "Title": "Цорын Ганц",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274840967,
+    "Position": 5,
+    "Title": "Vanlii",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274840967,
+    "Position": 5,
+    "Title": "Vanlii",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274799346,
+    "Position": 5,
+    "Title": "Boroonii Uner",
+    "Artist": "Bayartsengel",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274799346,
+    "Position": 5,
+    "Title": "Boroonii Uner",
+    "Artist": "Bayartsengel",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274803865,
+    "Position": 6,
+    "Title": "Togtuun - UzesgelenGoo",
+    "Artist": "ProGhz",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839240,
+    "Position": 6,
+    "Title": "бодлын гүнээс",
+    "Artist": "mxrningstar",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816236,
+    "Position": 6,
+    "Title": "Shorty Namaig",
+    "Artist": "Ginjin",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274840967,
+    "Position": 6,
+    "Title": "Vanlii",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274805755,
+    "Position": 6,
+    "Title": "Итгэл Юм Шүү Дээ",
+    "Artist": "Л. Болдбаатар",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274805755,
+    "Position": 6,
+    "Title": "Итгэл Юм Шүү Дээ",
+    "Artist": "Л. Болдбаатар",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274800886,
+    "Position": 6,
+    "Title": "Haranga",
+    "Artist": "GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274800886,
+    "Position": 6,
+    "Title": "Haranga",
+    "Artist": "GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274805251,
+    "Position": 7,
+    "Title": "Namaig Too",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805251,
+    "Position": 7,
+    "Title": "Namaig Too",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274816236,
+    "Position": 7,
+    "Title": "Shorty Namaig",
+    "Artist": "Ginjin",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274827482,
+    "Position": 7,
+    "Title": "Цорын Ганц",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274827482,
+    "Position": 7,
+    "Title": "Цорын Ганц",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274803865,
+    "Position": 7,
+    "Title": "Togtuun - UzesgelenGoo",
+    "Artist": "ProGhz",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274805020,
+    "Position": 8,
+    "Title": "Тэнгри: Гэгээн",
+    "Artist": "ThunderZ, Ninjin, Monjigo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805020,
+    "Position": 8,
+    "Title": "Тэнгри: Гэгээн",
+    "Artist": "ThunderZ, Ninjin, Monjigo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805755,
+    "Position": 8,
+    "Title": "Итгэл Юм Шүү Дээ",
+    "Artist": "Л. Болдбаатар",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274843617,
+    "Position": 8,
+    "Title": "Хаа Холдох Вэ...",
+    "Artist": "ThunderZ, GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274816236,
+    "Position": 8,
+    "Title": "Shorty Namaig",
+    "Artist": "Ginjin",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274816236,
+    "Position": 8,
+    "Title": "Shorty Namaig",
+    "Artist": "Ginjin",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274800880,
+    "Position": 8,
+    "Title": "Destiny",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274805755,
+    "Position": 9,
+    "Title": "Итгэл Юм Шүү Дээ",
+    "Artist": "Л. Болдбаатар",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805755,
+    "Position": 9,
+    "Title": "Итгэл Юм Шүү Дээ",
+    "Artist": "Л. Болдбаатар",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843617,
+    "Position": 9,
+    "Title": "Хаа Холдох Вэ...",
+    "Artist": "ThunderZ, GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274803865,
+    "Position": 9,
+    "Title": "Togtuun - UzesgelenGoo",
+    "Artist": "ProGhz",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 3721,
+    "Position": 9,
+    "Title": "Life Goes On",
+    "Artist": "Oliver Tree",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 3721,
+    "Position": 9,
+    "Title": "Life Goes On",
+    "Artist": "Oliver Tree",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274827482,
+    "Position": 9,
+    "Title": "Цорын Ганц",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274827482,
+    "Position": 9,
+    "Title": "Цорын Ганц",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274827482,
+    "Position": 10,
+    "Title": "Цорын Ганц",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274827482,
+    "Position": 10,
+    "Title": "Цорын Ганц",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274803865,
+    "Position": 10,
+    "Title": "Togtuun - UzesgelenGoo",
+    "Artist": "ProGhz",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274803865,
+    "Position": 10,
+    "Title": "Togtuun - UzesgelenGoo",
+    "Artist": "ProGhz",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274803865,
+    "Position": 10,
+    "Title": "Togtuun - UzesgelenGoo",
+    "Artist": "ProGhz",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274803865,
+    "Position": 10,
+    "Title": "Togtuun - UzesgelenGoo",
+    "Artist": "ProGhz",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274807408,
+    "Position": 10,
+    "Title": "Amidral - Tuundee (Music From The Original TV Series)",
+    "Artist": "MC Collection, Runaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274800886,
+    "Position": 11,
+    "Title": "Haranga",
+    "Artist": "GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800886,
+    "Position": 11,
+    "Title": "Haranga",
+    "Artist": "GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274827482,
+    "Position": 11,
+    "Title": "Цорын Ганц",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274839240,
+    "Position": 11,
+    "Title": "бодлын гүнээс",
+    "Artist": "mxrningstar",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274845576,
+    "Position": 11,
+    "Title": "Uggui Hair",
+    "Artist": "Gerelchuluun",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274845576,
+    "Position": 11,
+    "Title": "Uggui Hair",
+    "Artist": "Gerelchuluun",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274840967,
+    "Position": 11,
+    "Title": "Vanlii",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274800880,
+    "Position": 11,
+    "Title": "Destiny",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274800880,
+    "Position": 12,
+    "Title": "Destiny",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800880,
+    "Position": 12,
+    "Title": "Destiny",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800886,
+    "Position": 12,
+    "Title": "Haranga",
+    "Artist": "GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274800886,
+    "Position": 12,
+    "Title": "Haranga",
+    "Artist": "GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274800886,
+    "Position": 12,
+    "Title": "Haranga",
+    "Artist": "GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274800886,
+    "Position": 12,
+    "Title": "Haranga",
+    "Artist": "GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274805755,
+    "Position": 12,
+    "Title": "Итгэл Юм Шүү Дээ",
+    "Artist": "Л. Болдбаатар",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274840967,
+    "Position": 12,
+    "Title": "Vanlii",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274799342,
+    "Position": 13,
+    "Title": "Tonjoo",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799342,
+    "Position": 13,
+    "Title": "Tonjoo",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274839240,
+    "Position": 13,
+    "Title": "бодлын гүнээс",
+    "Artist": "mxrningstar",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274807408,
+    "Position": 13,
+    "Title": "Amidral - Tuundee (Music From The Original TV Series)",
+    "Artist": "MC Collection, Runaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274839240,
+    "Position": 13,
+    "Title": "бодлын гүнээс",
+    "Artist": "mxrningstar",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274839240,
+    "Position": 13,
+    "Title": "бодлын гүнээс",
+    "Artist": "mxrningstar",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274807408,
+    "Position": 13,
+    "Title": "Amidral - Tuundee (Music From The Original TV Series)",
+    "Artist": "MC Collection, Runaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274843617,
+    "Position": 13,
+    "Title": "Хаа Холдох Вэ...",
+    "Artist": "ThunderZ, GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
   },
   {
     "SongID": 1274802592,
-    "Position": 20
+    "Position": 14,
+    "Title": "Rich Mongol",
+    "Artist": "MagGod, Ginjin, Cili",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274802592,
+    "Position": 14,
+    "Title": "Rich Mongol",
+    "Artist": "MagGod, Ginjin, Cili",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274807408,
+    "Position": 14,
+    "Title": "Amidral - Tuundee (Music From The Original TV Series)",
+    "Artist": "MC Collection, Runaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274800880,
+    "Position": 14,
+    "Title": "Destiny",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274843617,
+    "Position": 14,
+    "Title": "Хаа Холдох Вэ...",
+    "Artist": "ThunderZ, GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274843617,
+    "Position": 14,
+    "Title": "Хаа Холдох Вэ...",
+    "Artist": "ThunderZ, GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274805847,
+    "Position": 14,
+    "Title": "Chamtai Bas Chamgui",
+    "Artist": "Ariunaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274800881,
+    "Position": 14,
+    "Title": "Dutuu /not for anyone/",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274807408,
+    "Position": 15,
+    "Title": "Amidral - Tuundee (Music From The Original TV Series)",
+    "Artist": "MC Collection, Runaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274807408,
+    "Position": 15,
+    "Title": "Amidral - Tuundee (Music From The Original TV Series)",
+    "Artist": "MC Collection, Runaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805251,
+    "Position": 15,
+    "Title": "Namaig Too",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274805251,
+    "Position": 15,
+    "Title": "Namaig Too",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274807408,
+    "Position": 15,
+    "Title": "Amidral - Tuundee (Music From The Original TV Series)",
+    "Artist": "MC Collection, Runaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274807408,
+    "Position": 15,
+    "Title": "Amidral - Tuundee (Music From The Original TV Series)",
+    "Artist": "MC Collection, Runaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274839240,
+    "Position": 15,
+    "Title": "бодлын гүнээс",
+    "Artist": "mxrningstar",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274799833,
+    "Position": 16,
+    "Title": "P1",
+    "Artist": "Cili",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274800880,
+    "Position": 16,
+    "Title": "Destiny",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274805847,
+    "Position": 16,
+    "Title": "Chamtai Bas Chamgui",
+    "Artist": "Ariunaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274839240,
+    "Position": 16,
+    "Title": "бодлын гүнээс",
+    "Artist": "mxrningstar",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274805253,
+    "Position": 17,
+    "Title": "Сэрүүлэг",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799833,
+    "Position": 17,
+    "Title": "P1",
+    "Artist": "Cili",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274799342,
+    "Position": 17,
+    "Title": "Tonjoo",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274799342,
+    "Position": 17,
+    "Title": "Tonjoo",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274799342,
+    "Position": 17,
+    "Title": "Tonjoo",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274799342,
+    "Position": 17,
+    "Title": "Tonjoo",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274843617,
+    "Position": 17,
+    "Title": "Хаа Холдох Вэ...",
+    "Artist": "ThunderZ, GangBay",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274805847,
+    "Position": 17,
+    "Title": "Chamtai Bas Chamgui",
+    "Artist": "Ariunaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274829269,
+    "Position": 18,
+    "Title": "No Selgee",
+    "Artist": "Ginjin, Big Gee",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274829269,
+    "Position": 18,
+    "Title": "No Selgee",
+    "Artist": "Ginjin, Big Gee",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805847,
+    "Position": 18,
+    "Title": "Chamtai Bas Chamgui",
+    "Artist": "Ariunaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274802592,
+    "Position": 18,
+    "Title": "Rich Mongol",
+    "Artist": "MagGod, Ginjin, Cili",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274805847,
+    "Position": 18,
+    "Title": "Chamtai Bas Chamgui",
+    "Artist": "Ariunaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274805847,
+    "Position": 18,
+    "Title": "Chamtai Bas Chamgui",
+    "Artist": "Ariunaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274799342,
+    "Position": 18,
+    "Title": "Tonjoo",
+    "Artist": "Bayanjargal",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274816236,
+    "Position": 18,
+    "Title": "Shorty Namaig",
+    "Artist": "Ginjin",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274839241,
+    "Position": 19,
+    "Title": "хүн",
+    "Artist": "mxrningstar, Céline Dessberg",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805253,
+    "Position": 19,
+    "Title": "Сэрүүлэг",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 3721,
+    "Position": 19,
+    "Title": "Life Goes On",
+    "Artist": "Oliver Tree",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274816764,
+    "Position": 19,
+    "Title": "Tiimee Bi Chamd",
+    "Artist": "No Name",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274800880,
+    "Position": 19,
+    "Title": "Destiny",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274800880,
+    "Position": 19,
+    "Title": "Destiny",
+    "Artist": "Gangaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274816236,
+    "Position": 19,
+    "Title": "Shorty Namaig",
+    "Artist": "Ginjin",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274805251,
+    "Position": 19,
+    "Title": "Namaig Too",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274805257,
+    "Position": 20,
+    "Title": "Too Deep",
+    "Artist": "Vandebo, MagGod",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274805847,
+    "Position": 20,
+    "Title": "Chamtai Bas Chamgui",
+    "Artist": "Ariunaa",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274802592,
+    "Position": 20,
+    "Title": "Rich Mongol",
+    "Artist": "MagGod, Ginjin, Cili",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274805251,
+    "Position": 20,
+    "Title": "Namaig Too",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274805251,
+    "Position": 20,
+    "Title": "Namaig Too",
+    "Artist": "Vandebo",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274802592,
+    "Position": 20,
+    "Title": "Rich Mongol",
+    "Artist": "MagGod, Ginjin, Cili",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274799833,
+    "Position": 20,
+    "Title": "P1",
+    "Artist": "Cili",
+    "PlatformCode": "youtube",
+    "CountryCode": "mn",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
   }
 ]

@@ -1,338 +1,461 @@
 [
   {
     "Position": 1,
-    "SongID": 1274848366,
-    "Title": "SLICK",
-    "Artist": "Victony",
+    "SongID": 1274847639,
+    "Title": "Ta Pedindo Toma",
+    "Artist": "MC Leozinho ZS, MC Murilo MT, Mc DR, DJ JHOW BEATS, MC RN do Capão, Mc Pelourinho",
     "Artists": [
       {
-        "Artist": "Victony",
-        "SpotifyURL": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b1356b443072b4f8615af24d",
-    "SpotifyURL": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u",
-    "TotalScore": 25235.526389,
-    "SpotifyScore": 1248.450609,
-    "AppleScore": 16281.718673,
-    "YouTubeScore": 1672.789234,
-    "BillboardScore": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 2,
-    "SongID": 1274846952,
-    "Title": "Great Expectation",
-    "Artist": "SIENNA SPIRO",
-    "Artists": [
-      {
-        "Artist": "SIENNA SPIRO",
-        "SpotifyURL": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
-    "SpotifyURL": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
-    "TotalScore": 24601.335991,
-    "SpotifyScore": 12672.611931,
-    "AppleScore": 8576.864661,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 624.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 3,
-    "SongID": 1274848351,
-    "Title": "Garee2a Awy - A COLORS SHOW",
-    "Artist": "TUL8TE, COLORS",
-    "Artists": [
-      {
-        "Artist": "TUL8TE",
-        "SpotifyURL": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        "Artist": "MC Leozinho ZS",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
       },
       {
-        "Artist": "COLORS",
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27373aa5127d0871a45c130ea55",
-    "SpotifyURL": "https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC",
-    "TotalScore": 9977.057213,
-    "SpotifyScore": 1864.1051,
-    "AppleScore": 3205.43015,
-    "YouTubeScore": 3621.889426,
-    "BillboardScore": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 4,
-    "SongID": 1274845125,
-    "Title": "MORNING DEW (DONK)",
-    "Artist": "Beyoncé",
-    "Artists": [
+        "Artist": "MC Murilo MT",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
+      },
       {
-        "Artist": "Beyoncé",
-        "SpotifyURL": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40",
-    "SpotifyURL": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT",
-    "TotalScore": 9296.964783,
-    "SpotifyScore": 1195.486986,
-    "AppleScore": 5296.896299,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 619.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 5,
-    "SongID": 1274849577,
-    "Title": "Glocks and Chips",
-    "Artist": "Skippa",
-    "Artists": [
+        "Artist": "Mc DR",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+      },
       {
-        "Artist": "Skippa",
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27350370909e7f00d2e6b21b261",
-    "SpotifyURL": "https://open.spotify.com/track/4l2vC8UUR2QC6hkdmVPkcJ",
-    "TotalScore": 6332.206691,
-    "SpotifyScore": 0.0,
-    "AppleScore": 4256.4275,
-    "YouTubeScore": 502.439251,
-    "BillboardScore": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 6,
-    "SongID": 1274846972,
-    "Title": "Detox",
-    "Artist": "Skippa",
-    "Artists": [
+        "Artist": "DJ JHOW BEATS",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
+      },
       {
-        "Artist": "Skippa",
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737fdcba450639dfa08f972e24",
-    "SpotifyURL": "https://open.spotify.com/track/0oOShZyyWiLUlhe7wr0ADh",
-    "TotalScore": 5330.449188,
-    "SpotifyScore": 0.0,
-    "AppleScore": 3518.3668,
-    "YouTubeScore": 508.148878,
-    "BillboardScore": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 7,
-    "SongID": 1274846954,
-    "Title": "Material Lover - from The Devil Wears Prada 2 Original Motion Picture",
-    "Artist": "SIENNA SPIRO",
-    "Artists": [
+        "Artist": "MC RN do Capão",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB"
+      },
       {
-        "Artist": "SIENNA SPIRO",
-        "SpotifyURL": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        "Artist": "Mc Pelourinho",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27331990a335ce5d02dc159e5c4",
-    "SpotifyURL": "https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK",
-    "TotalScore": 5190.999745,
-    "SpotifyScore": 4933.809281,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273aec11d9be8c3be2643047c86",
+    "SpotifyURL": "https://open.spotify.com/track/5vKFOIYILoR6UfhxKeHXtX",
+    "TotalScore": 6152.356771,
+    "SpotifyScore": 5285.755837,
     "AppleScore": 0.0,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 2,
+    "SongID": 1274847641,
+    "Title": "Não Mereço Ser Amante - Ao Vivo",
+    "Artist": "Sorriso Maroto, LUDMILLA, Kamisa 10",
+    "Artists": [
+      {
+        "Artist": "Sorriso Maroto",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+      },
+      {
+        "Artist": "LUDMILLA",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+      },
+      {
+        "Artist": "Kamisa 10",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273443788ae5005c6bd9761a3fc",
+    "SpotifyURL": "https://open.spotify.com/track/7zLGpzKdSqbqq5i4eCcgm7",
+    "TotalScore": 3867.563211,
+    "SpotifyScore": 3316.106216,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 3,
+    "SongID": 1274847640,
+    "Title": "Mulher Nunca Foi Pra Menino - Ao Vivo",
+    "Artist": "Danilo e Davi",
+    "Artists": [
+      {
+        "Artist": "Danilo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      },
+      {
+        "Artist": "Davi",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273027954f6c73503cdf880f7bb",
+    "SpotifyURL": "https://open.spotify.com/track/60fJy1RTf7LaxcKbiX2oeq",
+    "TotalScore": 3710.211185,
+    "SpotifyScore": 3180.457918,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 4,
+    "SongID": 1274847149,
+    "Title": "Role Perfeito - Ao Vivo",
+    "Artist": "Kaique e Felipe, CountryBeat",
+    "Artists": [
+      {
+        "Artist": "Kaique",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+      },
+      {
+        "Artist": "Felipe",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
+      },
+      {
+        "Artist": "CountryBeat",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273027d07fd57fad22c9084f125",
+    "SpotifyURL": "https://open.spotify.com/track/0EFt56Fw8g2KzsRQ8AcNcr",
+    "TotalScore": 3150.691416,
+    "SpotifyScore": 2982.658492,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 5,
+    "SongID": 1274847142,
+    "Title": "Você Já Sabe",
+    "Artist": "Anitta, Los Brasileros",
+    "Artists": [
+      {
+        "Artist": "Anitta",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+      },
+      {
+        "Artist": "Los Brasileros",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fc561bc173dc5cf4a08e0ab7",
+    "SpotifyURL": "https://open.spotify.com/track/0kcS3YhPRQnpUOUSiHDW1R",
+    "TotalScore": 2987.249723,
+    "SpotifyScore": 2826.999736,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 6,
+    "SongID": 1274847050,
+    "Title": "Perdas e Danos - Ao Vivo",
+    "Artist": "Sorriso Maroto, Ferrugem, Grupo Benzadeus",
+    "Artists": [
+      {
+        "Artist": "Sorriso Maroto",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+      },
+      {
+        "Artist": "Ferrugem",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+      },
+      {
+        "Artist": "Grupo Benzadeus",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273443788ae5005c6bd9761a3fc",
+    "SpotifyURL": "https://open.spotify.com/track/537FDwjbLrfq5ypEuJVGIn",
+    "TotalScore": 2879.913762,
+    "SpotifyScore": 2464.684278,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 7,
+    "SongID": 1274847177,
+    "Title": "Kapitel 22: und die schwarze Rose - Folge 240",
+    "Artist": "Die drei ???",
+    "Artists": [
+      {
+        "Artist": "Die drei ???",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27302c6b8f3747344ac0f7141a2",
+    "SpotifyURL": "https://open.spotify.com/track/6en6F9nf1lGmzRiExmP4Ar",
+    "TotalScore": 2281.713448,
+    "SpotifyScore": 2155.060427,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
     "PlatformCount": 1
   },
   {
     "Position": 8,
-    "SongID": 1274849516,
-    "Title": "MITSUBISHI / متسوبيشي",
-    "Artist": "Saint Levant, Haifa Wehbe",
+    "SongID": 1274847146,
+    "Title": "Não Me Cutuca",
+    "Artist": "Anitta, Alceu Valença",
     "Artists": [
       {
-        "Artist": "Saint Levant",
-        "SpotifyURL": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        "Artist": "Anitta",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
       },
       {
-        "Artist": "Haifa Wehbe",
-        "SpotifyURL": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        "Artist": "Alceu Valença",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739b40d24be9a6adc9c2f6d85a",
-    "SpotifyURL": "https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV",
-    "TotalScore": 4558.044994,
-    "SpotifyScore": 0.0,
-    "AppleScore": 2197.305825,
-    "YouTubeScore": 1541.576484,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fc561bc173dc5cf4a08e0ab7",
+    "SpotifyURL": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i",
+    "TotalScore": 1976.791679,
+    "SpotifyScore": 1864.658742,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
   },
   {
     "Position": 9,
-    "SongID": 1274849636,
-    "Title": "Ama hem hem",
-    "Artist": "Thatohatsi, Sjava, Shaunmusiq",
+    "SongID": 1274848056,
+    "Title": "TEXAS",
+    "Artist": "cakal",
     "Artists": [
       {
-        "Artist": "Thatohatsi",
-        "SpotifyURL": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
-      },
-      {
-        "Artist": "Sjava",
-        "SpotifyURL": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
-      },
-      {
-        "Artist": "Shaunmusiq",
-        "SpotifyURL": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
+        "Artist": "cakal",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27397ad874e3ca2599719fda358",
-    "SpotifyURL": "https://open.spotify.com/track/1ydfIuriiat9o4ItjhaFs5",
-    "TotalScore": 4400.350763,
-    "SpotifyScore": 846.237647,
-    "AppleScore": 2101.524003,
-    "YouTubeScore": 613.254104,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736f08e743dbad96973a3325b0",
+    "SpotifyURL": "https://open.spotify.com/track/51TItWP9iMMhPraDoyB8h2",
+    "TotalScore": 1843.244287,
+    "SpotifyScore": 1571.003696,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
-    "PlatformCount": 3
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
   },
   {
     "Position": 10,
-    "SongID": 1274846230,
-    "Title": "Toz Pembe",
-    "Artist": "manifest",
+    "SongID": 1274847193,
+    "Title": "Tonight",
+    "Artist": "Mucco",
     "Artists": [
       {
-        "Artist": "manifest",
-        "SpotifyURL": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+        "Artist": "Mucco",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273872e8421fdd7c0e50c76060f",
-    "SpotifyURL": "https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr",
-    "TotalScore": 3931.472542,
-    "SpotifyScore": 964.632394,
-    "AppleScore": 795.893482,
-    "YouTubeScore": 1805.226992,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273dacb9f21bfa4b901f2b22da0",
+    "SpotifyURL": "https://open.spotify.com/track/57ZUOsF6vCae0j2OCSk0nn",
+    "TotalScore": 1833.240264,
+    "SpotifyScore": 1727.943108,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
-    "PlatformCount": 3
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
   },
   {
     "Position": 11,
-    "SongID": 1274849748,
-    "Title": "Ice Cream",
-    "Artist": "YEONJUN",
+    "SongID": 1274848053,
+    "Title": "Ta Burama",
+    "Artist": "KARM6, Serdar Ortaç",
     "Artists": [
       {
-        "Artist": "YEONJUN",
-        "SpotifyURL": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        "Artist": "KARM6",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
+      },
+      {
+        "Artist": "Serdar Ortaç",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273507b4d02c0225d567b3871f4",
-    "SpotifyURL": "https://open.spotify.com/track/10aWlzB6sD6iF58yKPMgVB",
-    "TotalScore": 3734.972305,
-    "SpotifyScore": 2361.82366,
-    "AppleScore": 12.78225,
-    "YouTubeScore": 1209.132523,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734dd7f8bc55d7f125e184bc18",
+    "SpotifyURL": "https://open.spotify.com/track/1ljQ6p7H1xYqiuOYF67MUQ",
+    "TotalScore": 1647.13077,
+    "SpotifyScore": 1299.704616,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
-    "PlatformCount": 3
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
   },
   {
     "Position": 12,
-    "SongID": 1274848848,
-    "Title": "BON MOOD",
-    "Artist": "døpelym",
+    "SongID": 1274847644,
+    "Title": "Postinho de Gasolina",
+    "Artist": "João Gustavo e Murilo, Grelo",
     "Artists": [
       {
-        "Artist": "døpelym",
-        "SpotifyURL": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        "Artist": "João Gustavo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      },
+      {
+        "Artist": "Murilo",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
+      },
+      {
+        "Artist": "Grelo",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e25a3d72b5e7dd8fcf64e345",
-    "SpotifyURL": "https://open.spotify.com/track/7DirwTol3n95lEz63ZZ9TG",
-    "TotalScore": 3669.426709,
-    "SpotifyScore": 0.0,
-    "AppleScore": 2312.7104,
-    "YouTubeScore": 492.809035,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730d3bbd2115f8cdc4a7e72588",
+    "SpotifyURL": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB",
+    "TotalScore": 1583.861681,
+    "SpotifyScore": 1249.089345,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
   },
   {
     "Position": 13,
-    "SongID": 1274849305,
-    "Title": "Brand New",
-    "Artist": "Mrs. GREEN APPLE",
+    "SongID": 1274847143,
+    "Title": "Sal Grosso",
+    "Artist": "Anitta, KBrum",
     "Artists": [
       {
-        "Artist": "Mrs. GREEN APPLE",
-        "SpotifyURL": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        "Artist": "Anitta",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+      },
+      {
+        "Artist": "KBrum",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/7hc0T3k2vWAdkpJyucSXrw"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738bc6d0a539486bdb1a9f2968",
-    "SpotifyURL": "https://open.spotify.com/track/3Z8NMM7IRu4YKDHBo6vmX3",
-    "TotalScore": 3472.270459,
-    "SpotifyScore": 1106.682484,
-    "AppleScore": 1089.93441,
-    "YouTubeScore": 792.97582,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fc561bc173dc5cf4a08e0ab7",
+    "SpotifyURL": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL",
+    "TotalScore": 1502.446452,
+    "SpotifyScore": 1412.901383,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
-    "PlatformCount": 3
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
   },
   {
     "Position": 14,
-    "SongID": 1274845555,
-    "Title": "treat u right",
-    "Artist": "FOLA, Ayra Starr",
+    "SongID": 1274847147,
+    "Title": "Feitiço",
+    "Artist": "Anitta, Mart'nália",
     "Artists": [
       {
-        "Artist": "FOLA",
-        "SpotifyURL": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        "Artist": "Anitta",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
       },
       {
-        "Artist": "Ayra Starr",
-        "SpotifyURL": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        "Artist": "Mart'nália",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273900e9812c8d6ed75328cd8be",
-    "SpotifyURL": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl",
-    "TotalScore": 3325.148324,
-    "SpotifyScore": 761.266433,
-    "AppleScore": 1956.832224,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fc561bc173dc5cf4a08e0ab7",
+    "SpotifyURL": "https://open.spotify.com/track/0lnSxqDmMSOZd64f1QPmc9",
+    "TotalScore": 1461.252967,
+    "SpotifyScore": 1373.669493,
+    "AppleScore": 0.0,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
   },
   {
     "Position": 15,
-    "SongID": 1274845448,
-    "Title": "Malo 2.0",
-    "Artist": "Egor Kreed, OG Buda, Toxi$, Мэйби Бэйби, Baby Cute, Дора, madk1d, тёмный принц",
+    "SongID": 1274847745,
+    "Title": "Tata Tata",
+    "Artist": "Cairokee",
     "Artists": [
       {
-        "Artist": "Egor Kreed",
-        "SpotifyURL": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
-      },
-      {
-        "Artist": "OG Buda",
-        "SpotifyURL": "https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW"
-      },
-      {
-        "Artist": "Toxi$",
-        "SpotifyURL": "https://open.spotify.com/artist/7att5BiR7AQzBfXMTrnLIu"
-      },
-      {
-        "Artist": "Baby Cute",
-        "SpotifyURL": "https://open.spotify.com/artist/6DAzBc6NiyLFSKZ8dmj4Rc"
-      },
-      {
-        "Artist": "madk1d",
-        "SpotifyURL": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
+        "Artist": "Cairokee",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c19a363e6e4de6eb2e297cc7",
-    "SpotifyURL": "https://open.spotify.com/track/2mJ8dzLchsdzepJ3MUIchk",
-    "TotalScore": 2886.544322,
-    "SpotifyScore": 2177.314542,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733ee7d1ab9cde15ab301f2463",
+    "SpotifyURL": "https://open.spotify.com/track/2bkydajJOJ4tEpJPpbfetU",
+    "TotalScore": 1460.21475,
+    "SpotifyScore": 1150.1718,
     "AppleScore": 0.0,
-    "YouTubeScore": 580.816093,
+    "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
-    "PlatformCount": 2
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
   }
 ]

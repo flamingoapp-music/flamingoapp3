@@ -1,74 +1,952 @@
 [
   {
-    "SongID": 1274849504,
-    "Position": 1
-  },
-  {
-    "SongID": 1274845883,
-    "Position": 2
+    "SongID": 1274845007,
+    "Position": 1,
+    "Title": "Sparnai",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1274836725,
-    "Position": 3
+    "Position": 1,
+    "Title": "Dai Dai",
+    "Artist": "Shakira, Burna Boy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
   },
   {
-    "SongID": 1274845827,
-    "Position": 4
+    "SongID": 1274836725,
+    "Position": 1,
+    "Title": "Dai Dai",
+    "Artist": "Shakira, Burna Boy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
   },
   {
-    "SongID": 1274845826,
-    "Position": 5
+    "SongID": 1274834460,
+    "Position": 2,
+    "Title": "Шадэ",
+    "Artist": "By Индия, Xcho, МОТ",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 1274849708,
-    "Position": 6
+    "SongID": 1274834460,
+    "Position": 3,
+    "Title": "Шадэ",
+    "Artist": "By Индия, Xcho, МОТ",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 611473,
-    "Position": 7
-  },
-  {
-    "SongID": 1274847514,
-    "Position": 8
-  },
-  {
-    "SongID": 1164358,
-    "Position": 9
-  },
-  {
-    "SongID": 1276321,
-    "Position": 10
-  },
-  {
-    "SongID": 1274845985,
-    "Position": 11
-  },
-  {
-    "SongID": 1226847,
-    "Position": 12
-  },
-  {
-    "SongID": 1274847444,
-    "Position": 14
-  },
-  {
-    "SongID": 1274845833,
-    "Position": 15
+    "SongID": 1274845008,
+    "Position": 3,
+    "Title": "Užteko",
+    "Artist": "Gabrielius Vagelis",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
   },
   {
     "SongID": 1284325,
-    "Position": 17
+    "Position": 3,
+    "Title": "Laužai",
+    "Artist": "Sauben & Hiperbole",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1226847,
+    "Position": 4,
+    "Title": "Žvėris",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1284325,
+    "Position": 4,
+    "Title": "Laužai",
+    "Artist": "Sauben & Hiperbole",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1284325,
+    "Position": 4,
+    "Title": "Laužai",
+    "Artist": "Sauben & Hiperbole",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1226847,
+    "Position": 5,
+    "Title": "Žvėris",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274845006,
+    "Position": 5,
+    "Title": "Aš be Tavęs",
+    "Artist": "Pikaso",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274836725,
+    "Position": 5,
+    "Title": "Dai Dai",
+    "Artist": "Shakira, Burna Boy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274836725,
+    "Position": 5,
+    "Title": "Dai Dai",
+    "Artist": "Shakira, Burna Boy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274836725,
+    "Position": 5,
+    "Title": "Dai Dai",
+    "Artist": "Shakira, Burna Boy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274836725,
+    "Position": 5,
+    "Title": "Dai Dai",
+    "Artist": "Shakira, Burna Boy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 611473,
+    "Position": 6,
+    "Title": "Pasilik Praeity",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274844155,
+    "Position": 6,
+    "Title": "Saulė Nesileis",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1164358,
+    "Position": 6,
+    "Title": "Šokame Kartu",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1164358,
+    "Position": 6,
+    "Title": "Šokame Kartu",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1164358,
+    "Position": 6,
+    "Title": "Šokame Kartu",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 611473,
+    "Position": 6,
+    "Title": "Pasilik Praeity",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1164358,
+    "Position": 7,
+    "Title": "Šokame Kartu",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274844155,
+    "Position": 7,
+    "Title": "Saulė Nesileis",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1164358,
+    "Position": 7,
+    "Title": "Šokame Kartu",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1226847,
+    "Position": 7,
+    "Title": "Žvėris",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274841887,
+    "Position": 8,
+    "Title": "Kodėl Tu Nori",
+    "Artist": "Žemaitukai",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 611473,
+    "Position": 8,
+    "Title": "Pasilik Praeity",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274845007,
+    "Position": 8,
+    "Title": "Sparnai",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274845007,
+    "Position": 8,
+    "Title": "Sparnai",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1276321,
+    "Position": 8,
+    "Title": "Kely Sustoja Laikas",
+    "Artist": "Adomas Vyšniauskas",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 611473,
+    "Position": 8,
+    "Title": "Pasilik Praeity",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1276321,
+    "Position": 9,
+    "Title": "Kely Sustoja Laikas",
+    "Artist": "Adomas Vyšniauskas",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1164358,
+    "Position": 9,
+    "Title": "Šokame Kartu",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 611473,
+    "Position": 9,
+    "Title": "Pasilik Praeity",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
   },
   {
     "SongID": 1274836456,
-    "Position": 18
+    "Position": 9,
+    "Title": "ЭКСПОНАТ",
+    "Artist": "MIA BOYKA",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274845007,
+    "Position": 9,
+    "Title": "Sparnai",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274845007,
+    "Position": 9,
+    "Title": "Sparnai",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1226847,
+    "Position": 9,
+    "Title": "Žvėris",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1284325,
+    "Position": 10,
+    "Title": "Laužai",
+    "Artist": "Sauben & Hiperbole",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274841887,
+    "Position": 10,
+    "Title": "Kodėl Tu Nori",
+    "Artist": "Žemaitukai",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274836456,
+    "Position": 10,
+    "Title": "ЭКСПОНАТ",
+    "Artist": "MIA BOYKA",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 611473,
+    "Position": 10,
+    "Title": "Pasilik Praeity",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 611473,
+    "Position": 10,
+    "Title": "Pasilik Praeity",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1276321,
+    "Position": 10,
+    "Title": "Kely Sustoja Laikas",
+    "Artist": "Adomas Vyšniauskas",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1276321,
+    "Position": 11,
+    "Title": "Kely Sustoja Laikas",
+    "Artist": "Adomas Vyšniauskas",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1276321,
+    "Position": 11,
+    "Title": "Kely Sustoja Laikas",
+    "Artist": "Adomas Vyšniauskas",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1276321,
+    "Position": 11,
+    "Title": "Kely Sustoja Laikas",
+    "Artist": "Adomas Vyšniauskas",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1176906,
+    "Position": 11,
+    "Title": "Tu mane laikyk",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274836456,
+    "Position": 12,
+    "Title": "ЭКСПОНАТ",
+    "Artist": "MIA BOYKA",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 31714,
+    "Position": 12,
+    "Title": "Iš Lėto Leidžiasi Saulė",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274845007,
+    "Position": 12,
+    "Title": "Sparnai",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1176906,
+    "Position": 13,
+    "Title": "Tu mane laikyk",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274827003,
+    "Position": 13,
+    "Title": "Pupytės",
+    "Artist": "OG Version, Olialia Pupytės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1284325,
+    "Position": 13,
+    "Title": "Laužai",
+    "Artist": "Sauben & Hiperbole",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1164358,
+    "Position": 13,
+    "Title": "Šokame Kartu",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1226847,
+    "Position": 13,
+    "Title": "Žvėris",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1226847,
+    "Position": 13,
+    "Title": "Žvėris",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274808200,
+    "Position": 13,
+    "Title": "Su Draugais",
+    "Artist": "Žemaitukai",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1164358,
+    "Position": 13,
+    "Title": "Šokame Kartu",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1284325,
+    "Position": 14,
+    "Title": "Laužai",
+    "Artist": "Sauben & Hiperbole",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274834460,
+    "Position": 14,
+    "Title": "Шадэ",
+    "Artist": "By Индия, Xcho, МОТ",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1284325,
+    "Position": 14,
+    "Title": "Laužai",
+    "Artist": "Sauben & Hiperbole",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274845007,
+    "Position": 14,
+    "Title": "Sparnai",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1274834636,
+    "Position": 15,
+    "Title": "Ты не бойся ночи",
+    "Artist": "ENZRO",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274834636,
+    "Position": 15,
+    "Title": "Ты не бойся ночи",
+    "Artist": "ENZRO",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1226847,
+    "Position": 15,
+    "Title": "Žvėris",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274841887,
+    "Position": 15,
+    "Title": "Kodėl Tu Nori",
+    "Artist": "Žemaitukai",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274841887,
+    "Position": 15,
+    "Title": "Kodėl Tu Nori",
+    "Artist": "Žemaitukai",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274846601,
+    "Position": 15,
+    "Title": "Rise Slow",
+    "Artist": "Kimo Sounds",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
   },
   {
     "SongID": 1281164,
-    "Position": 19
+    "Position": 16,
+    "Title": "Pažįstamas Jausmas",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
   },
   {
-    "SongID": 802525,
-    "Position": 20
+    "SongID": 1176906,
+    "Position": 16,
+    "Title": "Tu mane laikyk",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1226847,
+    "Position": 16,
+    "Title": "Žvėris",
+    "Artist": "Jessica Shy",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1284325,
+    "Position": 16,
+    "Title": "Laužai",
+    "Artist": "Sauben & Hiperbole",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274827003,
+    "Position": 17,
+    "Title": "Pupytės",
+    "Artist": "OG Version, Olialia Pupytės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1281164,
+    "Position": 17,
+    "Title": "Pažįstamas Jausmas",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1176906,
+    "Position": 17,
+    "Title": "Tu mane laikyk",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1176906,
+    "Position": 17,
+    "Title": "Tu mane laikyk",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1176906,
+    "Position": 17,
+    "Title": "Tu mane laikyk",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274841887,
+    "Position": 17,
+    "Title": "Kodėl Tu Nori",
+    "Artist": "Žemaitukai",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-28",
+    "WeekFolder": "2026-W31"
+  },
+  {
+    "SongID": 1176906,
+    "Position": 17,
+    "Title": "Tu mane laikyk",
+    "Artist": "Šeškės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274836456,
+    "Position": 18,
+    "Title": "ЭКСПОНАТ",
+    "Artist": "MIA BOYKA",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843671,
+    "Position": 18,
+    "Title": "Saulė Nusileis",
+    "Artist": "ZYGGA MUSIC",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274841887,
+    "Position": 18,
+    "Title": "Kodėl Tu Nori",
+    "Artist": "Žemaitukai",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 611473,
+    "Position": 18,
+    "Title": "Pasilik Praeity",
+    "Artist": "Paulina Paukštaitytė",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-05",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 31714,
+    "Position": 18,
+    "Title": "Iš Lėto Leidžiasi Saulė",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 31714,
+    "Position": 18,
+    "Title": "Iš Lėto Leidžiasi Saulė",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274834636,
+    "Position": 18,
+    "Title": "Ты не бойся ночи",
+    "Artist": "ENZRO",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
+  },
+  {
+    "SongID": 1274843671,
+    "Position": 19,
+    "Title": "Saulė Nusileis",
+    "Artist": "ZYGGA MUSIC",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-10",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274843475,
+    "Position": 19,
+    "Title": "Aš meluosiu tau",
+    "Artist": "Marijonas Mikutavičius",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-06-11",
+    "WeekFolder": "2026-W24"
+  },
+  {
+    "SongID": 1274827003,
+    "Position": 19,
+    "Title": "Pupytės",
+    "Artist": "OG Version, Olialia Pupytės",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274835736,
+    "Position": 20,
+    "Title": "TAVO ŽVILGSNIS",
+    "Artist": "Aistè",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-02",
+    "WeekFolder": "2026-W27"
+  },
+  {
+    "SongID": 1274836456,
+    "Position": 20,
+    "Title": "ЭКСПОНАТ",
+    "Artist": "MIA BOYKA",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-06",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 1274836456,
+    "Position": 20,
+    "Title": "ЭКСПОНАТ",
+    "Artist": "MIA BOYKA",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-07-07",
+    "WeekFolder": "2026-W28"
+  },
+  {
+    "SongID": 31714,
+    "Position": 20,
+    "Title": "Iš Lėto Leidžiasi Saulė",
+    "Artist": "Jovani",
+    "PlatformCode": "youtube",
+    "CountryCode": "lt",
+    "ChartDate": "2026-08-09",
+    "WeekFolder": "2026-W32"
   }
 ]

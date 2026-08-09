@@ -1,326 +1,434 @@
 [
   {
     "Position": 1,
-    "SongID": 1274845607,
-    "Title": "Las mas bonitas son p#tas",
-    "Artist": "Anuel AA",
+    "SongID": 1274847639,
+    "Title": "Ta Pedindo Toma",
+    "Artist": "MC Leozinho ZS, MC Murilo MT, Mc DR, DJ JHOW BEATS, MC RN do Capão, Mc Pelourinho",
     "Artists": [
       {
-        "Artist": "Anuel AA",
+        "Artist": "MC Leozinho ZS",
         "Role": "main",
         "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        "SpotifyURL": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+      },
+      {
+        "Artist": "MC Murilo MT",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
+      },
+      {
+        "Artist": "Mc DR",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+      },
+      {
+        "Artist": "DJ JHOW BEATS",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
+      },
+      {
+        "Artist": "MC RN do Capão",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB"
+      },
+      {
+        "Artist": "Mc Pelourinho",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c2c4ebb82fba77deba3d6f02",
-    "SpotifyURL": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe",
-    "TotalScore": 99613.476446,
-    "SpotifyScore": 29949.916373,
-    "AppleScore": 17093.053011,
-    "YouTubeScore": 43670.751815,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273aec11d9be8c3be2643047c86",
+    "SpotifyURL": "https://open.spotify.com/track/5vKFOIYILoR6UfhxKeHXtX",
+    "TotalScore": 5170.326441,
+    "SpotifyScore": 4606.362894,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
     "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
+    "PlatformCount": 1
   },
   {
     "Position": 2,
-    "SongID": 1274845604,
-    "Title": "My Body Isn't Ready",
-    "Artist": "sombr",
+    "SongID": 1274847640,
+    "Title": "Mulher Nunca Foi Pra Menino - Ao Vivo",
+    "Artist": "Danilo e Davi",
     "Artists": [
       {
-        "Artist": "sombr",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27355615e9242bd96706c68a743",
-    "SpotifyURL": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0",
-    "TotalScore": 40677.658157,
-    "SpotifyScore": 30903.333482,
-    "AppleScore": 1333.951442,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 1767.6,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 3,
-    "SongID": 1274845805,
-    "Title": "After",
-    "Artist": "Conep",
-    "Artists": [
-      {
-        "Artist": "Conep",
+        "Artist": "Danilo",
         "Role": "main",
         "Weight": 1.0,
         "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734938cb78908ec73e8139bea1",
-    "SpotifyURL": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb",
-    "TotalScore": 26592.702303,
-    "SpotifyScore": 12270.407847,
-    "AppleScore": 7226.604871,
-    "YouTubeScore": 3480.534166,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 4,
-    "SongID": 1274845625,
-    "Title": "Look at My Life",
-    "Artist": "Gracie Abrams",
-    "Artists": [
-      {
-        "Artist": "Gracie Abrams",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
-    "SpotifyURL": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB",
-    "TotalScore": 20450.772015,
-    "SpotifyScore": 2447.809764,
-    "AppleScore": 10743.380962,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 1565.2,
-    "BillboardPresenceBonus": 140,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 5,
-    "SongID": 1274845954,
-    "Title": "BAD",
-    "Artist": "ATEEZ",
-    "Artists": [
-      {
-        "Artist": "ATEEZ",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734ebd68a063228fefd98a1cf2",
-    "SpotifyURL": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3",
-    "TotalScore": 17713.326308,
-    "SpotifyScore": 5585.40347,
-    "AppleScore": 7489.231599,
-    "YouTubeScore": 1763.833455,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 6,
-    "SongID": 1274845907,
-    "Title": "Teh Hijau",
-    "Artist": "Tulus",
-    "Artists": [
-      {
-        "Artist": "Tulus",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e4086e5f9d79cf18ed601015",
-    "SpotifyURL": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU",
-    "TotalScore": 6969.561135,
-    "SpotifyScore": 2504.392266,
-    "AppleScore": 1278.94104,
-    "YouTubeScore": 1599.772416,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 7,
-    "SongID": 1274845833,
-    "Title": "JET SET",
-    "Artist": "La Mano 1.9",
-    "Artists": [
-      {
-        "Artist": "La Mano 1.9",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27353da91af02ed9985505f7b56",
-    "SpotifyURL": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL",
-    "TotalScore": 5275.722833,
-    "SpotifyScore": 384.106042,
-    "AppleScore": 3744.661542,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 8,
-    "SongID": 1274845940,
-    "Title": "Missing",
-    "Artist": "BE:FIRST",
-    "Artists": [
-      {
-        "Artist": "BE:FIRST",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27369718e6fb874fe416b40ba34",
-    "SpotifyURL": "https://open.spotify.com/track/5vnFENiK0q4cmtAKJymZWS",
-    "TotalScore": 4800.624931,
-    "SpotifyScore": 1971.678754,
-    "AppleScore": 857.275907,
-    "YouTubeScore": 1443.029126,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 9,
-    "SongID": 1274845646,
-    "Title": "Bala Alojada",
-    "Artist": "Gusttavo Lima",
-    "Artists": [
-      {
-        "Artist": "Gusttavo Lima",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27379df431b1bbf5bb6c2283963",
-    "SpotifyURL": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq",
-    "TotalScore": 3966.205524,
-    "SpotifyScore": 1959.742786,
-    "AppleScore": 198.187441,
-    "YouTubeScore": 1470.662878,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 10,
-    "SongID": 1274845896,
-    "Title": "Bansanka",
-    "Artist": "TAEYEON",
-    "Artists": [
-      {
-        "Artist": "TAEYEON",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ec70b6ceac2050be19c87cfb",
-    "SpotifyURL": "https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf",
-    "TotalScore": 3778.797541,
-    "SpotifyScore": 1566.870768,
-    "AppleScore": 427.19625,
-    "YouTubeScore": 1428.644356,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 11,
-    "SongID": 1274845627,
-    "Title": "SUPERSTAR",
-    "Artist": "Roxy Dekker",
-    "Artists": [
-      {
-        "Artist": "Roxy Dekker",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": null
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c5aa46b4711e3bcc526cd9f5",
-    "SpotifyURL": "https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY",
-    "TotalScore": 3368.73837,
-    "SpotifyScore": 2144.631549,
-    "AppleScore": 733.191798,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 12,
-    "SongID": 1274845711,
-    "Title": "Bandolero",
-    "Artist": "Hard Rico",
-    "Artists": [
-      {
-        "Artist": "Hard Rico",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c1941e670b1ba79538221580",
-    "SpotifyURL": "https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl",
-    "TotalScore": 3305.975486,
-    "SpotifyScore": 1624.049951,
-    "AppleScore": 1137.1425,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 13,
-    "SongID": 1274845631,
-    "Title": "Розовите очила",
-    "Artist": "Preslava",
-    "Artists": [
-      {
-        "Artist": "Preslava",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738731c263e770a501e7ec88b1",
-    "SpotifyURL": "https://open.spotify.com/track/4rTcYzlAsuNwzbd1NnwK4w",
-    "TotalScore": 3096.090947,
-    "SpotifyScore": 1053.698298,
-    "AppleScore": 642.47625,
-    "YouTubeScore": 1046.467701,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 14,
-    "SongID": 1274845608,
-    "Title": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
-    "Artist": "Bizarrap, Myke Towers",
-    "Artists": [
-      {
-        "Artist": "Bizarrap",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       {
-        "Artist": "Myke Towers",
+        "Artist": "Davi",
         "Role": "secondary_main",
         "Weight": 0.62,
         "SpotifyURL": null
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739d2cb0d08c101cc97d24eebb",
-    "SpotifyURL": "https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj",
-    "TotalScore": 3071.694243,
-    "SpotifyScore": 2732.584145,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273027954f6c73503cdf880f7bb",
+    "SpotifyURL": "https://open.spotify.com/track/60fJy1RTf7LaxcKbiX2oeq",
+    "TotalScore": 3240.742272,
+    "SpotifyScore": 2883.519886,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 3,
+    "SongID": 1274847641,
+    "Title": "Não Mereço Ser Amante - Ao Vivo",
+    "Artist": "Sorriso Maroto, LUDMILLA, Kamisa 10",
+    "Artists": [
+      {
+        "Artist": "Sorriso Maroto",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+      },
+      {
+        "Artist": "LUDMILLA",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+      },
+      {
+        "Artist": "Kamisa 10",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273443788ae5005c6bd9761a3fc",
+    "SpotifyURL": "https://open.spotify.com/track/7zLGpzKdSqbqq5i4eCcgm7",
+    "TotalScore": 3160.230429,
+    "SpotifyScore": 2811.634312,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 4,
+    "SongID": 1274847050,
+    "Title": "Perdas e Danos - Ao Vivo",
+    "Artist": "Sorriso Maroto, Ferrugem, Grupo Benzadeus",
+    "Artists": [
+      {
+        "Artist": "Sorriso Maroto",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+      },
+      {
+        "Artist": "Ferrugem",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+      },
+      {
+        "Artist": "Grupo Benzadeus",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273443788ae5005c6bd9761a3fc",
+    "SpotifyURL": "https://open.spotify.com/track/537FDwjbLrfq5ypEuJVGIn",
+    "TotalScore": 2026.602159,
+    "SpotifyScore": 1799.466213,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 5,
+    "SongID": 1274848053,
+    "Title": "Ta Burama",
+    "Artist": "KARM6, Serdar Ortaç",
+    "Artists": [
+      {
+        "Artist": "KARM6",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
+      },
+      {
+        "Artist": "Serdar Ortaç",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734dd7f8bc55d7f125e184bc18",
+    "SpotifyURL": "https://open.spotify.com/track/1ljQ6p7H1xYqiuOYF67MUQ",
+    "TotalScore": 1631.193718,
+    "SpotifyScore": 1155.13837,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 6,
+    "SongID": 1274847745,
+    "Title": "Tata Tata",
+    "Artist": "Cairokee",
+    "Artists": [
+      {
+        "Artist": "Cairokee",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733ee7d1ab9cde15ab301f2463",
+    "SpotifyURL": "https://open.spotify.com/track/2bkydajJOJ4tEpJPpbfetU",
+    "TotalScore": 1550.127889,
+    "SpotifyScore": 1201.037413,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 7,
+    "SongID": 1274848056,
+    "Title": "TEXAS",
+    "Artist": "cakal",
+    "Artists": [
+      {
+        "Artist": "cakal",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736f08e743dbad96973a3325b0",
+    "SpotifyURL": "https://open.spotify.com/track/51TItWP9iMMhPraDoyB8h2",
+    "TotalScore": 1469.366285,
+    "SpotifyScore": 1301.934183,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 8,
+    "SongID": 1274847644,
+    "Title": "Postinho de Gasolina",
+    "Artist": "João Gustavo e Murilo, Grelo",
+    "Artists": [
+      {
+        "Artist": "João Gustavo",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      },
+      {
+        "Artist": "Murilo",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": null
+      },
+      {
+        "Artist": "Grelo",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730d3bbd2115f8cdc4a7e72588",
+    "SpotifyURL": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB",
+    "TotalScore": 1266.494846,
+    "SpotifyScore": 894.639176,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 9,
+    "SongID": 1274847617,
+    "Title": "Te vi",
+    "Artist": "La Joaqui, Callejero Fino",
+    "Artists": [
+      {
+        "Artist": "La Joaqui",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+      },
+      {
+        "Artist": "Callejero Fino",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27392c238e75111ff4d1b6d9442",
+    "SpotifyURL": "https://open.spotify.com/track/02gRSpvCv9BjnTxirDeFcX",
+    "TotalScore": 1217.33656,
+    "SpotifyScore": 941.044187,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 10,
+    "SongID": 1274847642,
+    "Title": "Um Peão Desse",
+    "Artist": "CountryBeat, Mari Fernandez",
+    "Artists": [
+      {
+        "Artist": "CountryBeat",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+      },
+      {
+        "Artist": "Mari Fernandez",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738e81e4e067ee4858ad3f79d1",
+    "SpotifyURL": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN",
+    "TotalScore": 988.947787,
+    "SpotifyScore": 696.391277,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 11,
+    "SongID": 1274848055,
+    "Title": "olm was rap mep",
+    "Artist": "ERAY067, Mansur, Yung Ouzo",
+    "Artists": [
+      {
+        "Artist": "ERAY067",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+      },
+      {
+        "Artist": "Mansur",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+      },
+      {
+        "Artist": "Yung Ouzo",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27385cd0e01c0b86dca3eedb120",
+    "SpotifyURL": "https://open.spotify.com/track/7AD2B8wWgaq5Sq0F8wyHej",
+    "TotalScore": 930.697781,
+    "SpotifyScore": 820.980161,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 12,
+    "SongID": 1274847968,
+    "Title": "G STRING",
+    "Artist": "Kubi Producent, Bedoes 2115, spazma",
+    "Artists": [
+      {
+        "Artist": "Kubi Producent",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+      },
+      {
+        "Artist": "Bedoes 2115",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+      },
+      {
+        "Artist": "spazma",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27376c0dcb26146ea89255fcea7",
+    "SpotifyURL": "https://open.spotify.com/track/6EbWUAwIKY47IsKYPNRtFg",
+    "TotalScore": 885.289106,
+    "SpotifyScore": 622.349362,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 13,
+    "SongID": 1274847747,
+    "Title": "Men Gheir Kalam",
+    "Artist": "TUL8TE",
+    "Artists": [
+      {
+        "Artist": "TUL8TE",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a18f4a190692590da7fdc898",
+    "SpotifyURL": "https://open.spotify.com/track/55edd3SDyaoCC8pZ9xhwFz",
+    "TotalScore": 846.069302,
+    "SpotifyScore": 594.335215,
+    "AppleScore": 0.0,
+    "YouTubeScore": 0.0,
+    "BillboardScore": 0.0,
+    "BillboardPresenceBonus": 0.0,
+    "PlatformCount": 1
+  },
+  {
+    "Position": 14,
+    "SongID": 1274847659,
+    "Title": "I Do",
+    "Artist": "Stray Kids",
+    "Artists": [
+      {
+        "Artist": "Stray Kids",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fcd5d717063c6415ae3e3770",
+    "SpotifyURL": "https://open.spotify.com/track/5YRtvhFxQFb9dhKMq2aprG",
+    "TotalScore": 844.740803,
+    "SpotifyScore": 593.386288,
     "AppleScore": 0.0,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
@@ -329,25 +437,25 @@
   },
   {
     "Position": 15,
-    "SongID": 1274845830,
-    "Title": "À tes côtés",
-    "Artist": "Djadja & Dinaz",
+    "SongID": 1274847742,
+    "Title": "Nesena",
+    "Artist": "Cairokee",
     "Artists": [
       {
-        "Artist": "Djadja & Dinaz",
+        "Artist": "Cairokee",
         "Role": "main",
         "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        "SpotifyURL": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27369fd9fbae7426907aba10ac6",
-    "SpotifyURL": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3",
-    "TotalScore": 3069.699681,
-    "SpotifyScore": 1227.822747,
-    "AppleScore": 1298.243947,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733ee7d1ab9cde15ab301f2463",
+    "SpotifyURL": "https://open.spotify.com/track/43D4HrgNzOW3DOf5Skp7wg",
+    "TotalScore": 843.424502,
+    "SpotifyScore": 648.925392,
+    "AppleScore": 0.0,
     "YouTubeScore": 0.0,
     "BillboardScore": 0.0,
     "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
+    "PlatformCount": 1
   }
 ]

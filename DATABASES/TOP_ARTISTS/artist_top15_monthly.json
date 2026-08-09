@@ -1,137 +1,167 @@
 [
   {
     "Position": 1,
+    "ArtistID": 10,
+    "Artist": "Ariana Grande",
+    "Number of hits": 1,
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 2920322.098077,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6725802588d7dc1aba076ca5",
+    "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+  },
+  {
+    "Position": 2,
+    "ArtistID": 83,
+    "Artist": "Olivia Rodrigo",
+    "Number of hits": 10,
+    "Main hits": 10,
+    "Collaborator hits": 0,
+    "ArtistScore": 1283502.605288,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
+    "SpotifyURL": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+  },
+  {
+    "Position": 3,
+    "ArtistID": null,
+    "Artist": "Taylor Swift",
+    "Number of hits": 1,
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 662496.418305,
+    "SpotifyImageURL": null,
+    "SpotifyURL": null
+  },
+  {
+    "Position": 4,
+    "ArtistID": 9639,
+    "Artist": "Jay Wheeler",
+    "Number of hits": 7,
+    "Main hits": 7,
+    "Collaborator hits": 0,
+    "ArtistScore": 279118.10833,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb537338bb3fe308a1e4c36e00",
+    "SpotifyURL": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+  },
+  {
+    "Position": 5,
+    "ArtistID": 67,
+    "Artist": "LE SSERAFIM",
+    "Number of hits": 1,
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 161566.236956,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb593f35db6f6837e1047a5e33",
+    "SpotifyURL": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+  },
+  {
+    "Position": 6,
+    "ArtistID": 174,
+    "Artist": "aespa",
+    "Number of hits": 10,
+    "Main hits": 10,
+    "Collaborator hits": 0,
+    "ArtistScore": 146275.524719,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf7a1090ad3a35a34fc0ecb57",
+    "SpotifyURL": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+  },
+  {
+    "Position": 7,
     "ArtistID": 167,
     "Artist": "Anuel AA",
     "Number of hits": 1,
-    "ArtistScore": 35122.199614,
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 143635.409124,
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba23ceb177745632b517cb7b2",
     "SpotifyURL": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
   },
   {
-    "Position": 2,
-    "ArtistID": 79772,
-    "Artist": "SIENNA SPIRO",
-    "Number of hits": 3,
-    "ArtistScore": 31179.010102,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7f30dd25b3186c39a880b30b",
-    "SpotifyURL": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-  },
-  {
-    "Position": 3,
-    "ArtistID": 6547,
-    "Artist": "Victony",
-    "Number of hits": 1,
-    "ArtistScore": 25235.76899,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2d98f7145b95d591be045e09",
-    "SpotifyURL": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-  },
-  {
-    "Position": 4,
-    "ArtistID": 774,
-    "Artist": "ATEEZ",
-    "Number of hits": 1,
-    "ArtistScore": 14788.356345,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd28d311ccd01e2fd8917cb5c",
-    "SpotifyURL": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-  },
-  {
-    "Position": 5,
-    "ArtistID": 27171,
-    "Artist": "Skippa",
-    "Number of hits": 2,
-    "ArtistScore": 11023.38649,
-    "SpotifyImageURL": null,
-    "SpotifyURL": null
-  },
-  {
-    "Position": 6,
-    "ArtistID": 73656,
-    "Artist": "JAZZWRLD",
-    "Number of hits": 2,
-    "ArtistScore": 10958.815553,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8665a17f908fbe85342b16b5",
-    "SpotifyURL": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-  },
-  {
-    "Position": 7,
-    "ArtistID": 916,
-    "Artist": "Davido",
-    "Number of hits": 1,
-    "ArtistScore": 10849.48525,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb057fdb13352beee124b79051",
-    "SpotifyURL": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-  },
-  {
     "Position": 8,
-    "ArtistID": 73925,
-    "Artist": "GL_Ceejay",
+    "ArtistID": 7865,
+    "Artist": "Omar Courtz",
     "Number of hits": 1,
-    "ArtistScore": 10849.48525,
-    "SpotifyImageURL": null,
-    "SpotifyURL": null
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 132456.621863,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6270ba142ce97c0b644024e9",
+    "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
   },
   {
     "Position": 9,
-    "ArtistID": 9122,
-    "Artist": "TUL8TE",
+    "ArtistID": null,
+    "Artist": "BABYMONSTER",
     "Number of hits": 1,
-    "ArtistScore": 9977.299814,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5f10cea1a442c10f5d970e11",
-    "SpotifyURL": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 122593.942093,
+    "SpotifyImageURL": null,
+    "SpotifyURL": null
   },
   {
     "Position": 10,
     "ArtistID": null,
-    "Artist": "COLORS",
+    "Artist": "Alyssa Grace",
     "Number of hits": 1,
-    "ArtistScore": 9977.299814,
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 108239.113636,
     "SpotifyImageURL": null,
     "SpotifyURL": null
   },
   {
     "Position": 11,
-    "ArtistID": 5952,
-    "Artist": "Conep",
-    "Number of hits": 1,
-    "ArtistScore": 9863.100335,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb49f9cf34e38cafee74160e4b",
-    "SpotifyURL": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+    "ArtistID": 797,
+    "Artist": "BLOK3",
+    "Number of hits": 10,
+    "Main hits": 10,
+    "Collaborator hits": 0,
+    "ArtistScore": 101293.968573,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1832c63df3eed67dab04b8a0",
+    "SpotifyURL": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
   },
   {
     "Position": 12,
-    "ArtistID": 228,
-    "Artist": "Beyoncé",
+    "ArtistID": 3954,
+    "Artist": "ILLIT",
     "Number of hits": 1,
-    "ArtistScore": 9297.207385,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
-    "SpotifyURL": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 100171.159101,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb32863b8dca4574c09e4b9295",
+    "SpotifyURL": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
   },
   {
     "Position": 13,
-    "ArtistID": 642,
-    "Artist": "Blessd",
-    "Number of hits": 6,
-    "ArtistScore": 8449.411074,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd50e3f663f6940344b50787a",
-    "SpotifyURL": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+    "ArtistID": null,
+    "Artist": "KATSEYE",
+    "Number of hits": 1,
+    "Main hits": 1,
+    "Collaborator hits": 0,
+    "ArtistScore": 100171.159101,
+    "SpotifyImageURL": null,
+    "SpotifyURL": null
   },
   {
     "Position": 14,
-    "ArtistID": 27541,
-    "Artist": "Aleksandra Prijovic",
-    "Number of hits": 8,
-    "ArtistScore": 8423.578833,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb701732b47682398781d4310e",
-    "SpotifyURL": "https://open.spotify.com/artist/4yvRXgtIPiDMzH3wb1JPh7"
+    "ArtistID": 2180,
+    "Artist": "TREASURE",
+    "Number of hits": 2,
+    "Main hits": 2,
+    "Collaborator hits": 0,
+    "ArtistScore": 83129.991794,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb21a582145a8ead154d2cec72",
+    "SpotifyURL": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
   },
   {
     "Position": 15,
-    "ArtistID": 5077,
-    "Artist": "Separ",
-    "Number of hits": 10,
-    "ArtistScore": 7486.467056,
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb473be2d340ce6a91cce8396e",
-    "SpotifyURL": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+    "ArtistID": 12939,
+    "Artist": "Himra",
+    "Number of hits": 16,
+    "Main hits": 16,
+    "Collaborator hits": 0,
+    "ArtistScore": 65113.766394,
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc35eda06cefddc1b9f24522f",
+    "SpotifyURL": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
   }
 ]
