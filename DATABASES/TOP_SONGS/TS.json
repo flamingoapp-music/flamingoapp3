@@ -90,6 +90,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1143,
+    "Album": "Good Girl Gone Bad: Reloaded",
+    "Duration": "4:27",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+    "Popularity": 88,
+    "ReleaseDate": "2008-06-02",
+    "Genre": ""
+  },
+  {
     "SongID": 1593,
     "Album": "Lush Life",
     "Duration": "03:21",
@@ -340,15 +349,6 @@
     "Popularity": 87,
     "ReleaseDate": "2010-01-01",
     "Genre": "reggaeton, urbano latino"
-  },
-  {
-    "SongID": 1229265,
-    "Album": "Family Matters",
-    "Duration": "07:36",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a0ac23f4b446a7264e67bf0e",
-    "Popularity": 74,
-    "ReleaseDate": "2024-05-03",
-    "Genre": "rap"
   },
   {
     "SongID": 1238335,
@@ -865,11 +865,11 @@
   },
   {
     "SongID": 1274839314,
-    "Album": "LEMONADE - The 2nd Album (KARINA Special Version)",
-    "Duration": "3:07",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732c46c378df1e1bf3ecb370e9",
-    "Popularity": 0,
-    "ReleaseDate": "2026-05-28",
+    "Album": "LEMONADE - The 2nd Album",
+    "Duration": "187000",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27353ca3f7b64b26001a22ea1c3",
+    "Popularity": 82,
+    "ReleaseDate": "2026-05-29",
     "Genre": ""
   },
   {
@@ -2043,15 +2043,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1274847398,
-    "Album": "Man vairs nav ko teikt",
-    "Duration": "156734",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f640c5ce7d594e222ac8f7fb",
-    "Popularity": 43,
-    "ReleaseDate": "2026-07-16",
-    "Genre": ""
-  },
-  {
     "SongID": 1274847403,
     "Album": "DEJA VU",
     "Duration": "223511",
@@ -2661,6 +2652,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738793e7be42cb66b97035febc",
     "Popularity": 53,
     "ReleaseDate": "2026-07-31",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274848108,
+    "Album": "Червоний мак (Karmv remix)",
+    "Duration": "196005",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273344375d408d694bd755243f9",
+    "Popularity": 48,
+    "ReleaseDate": "2026-07-10",
     "Genre": ""
   }
 ]

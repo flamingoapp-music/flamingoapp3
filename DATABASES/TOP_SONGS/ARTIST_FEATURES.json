@@ -1,5 +1,24 @@
 [
   {
+    "ArtistID": 3,
+    "Artist": "Myke Towers",
+    "Alias": "Mike Towers, Michael Anthony Torres Monge",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "PR",
+    "BeginDate": "1994-01-15",
+    "EndDate": "",
+    "Genres": "[\"reggaeton\", \"trap latino\", \"urbano latino\"]",
+    "OfficialWebsite": "",
+    "Wikipedia": "",
+    "SpotifyID": "7iK8PXO48WeuP03g8YR51W",
+    "SpotifyURL": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W",
+    "SpotifyURI": "spotify:artist:7iK8PXO48WeuP03g8YR51W",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8372345609bebaf1e948ef7f",
+    "SpotifyPopularity": 88,
+    "SpotifyFollowers": 24834168
+  },
+  {
     "ArtistID": 7,
     "Artist": "The Weeknd",
     "Alias": "Abel Tesfaye, The Weeknd, ザ・ウィークエンド, Abel Makkonen Tesfaye, The Weekend",
@@ -14,9 +33,9 @@
     "SpotifyID": "1Xyo4u8uXC1ZmMpatF05PJ",
     "SpotifyURL": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
     "SpotifyURI": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
     "SpotifyPopularity": 96,
-    "SpotifyFollowers": 105757185
+    "SpotifyFollowers": 126095040
   },
   {
     "ArtistID": 8,
@@ -46,15 +65,34 @@
     "Country": "US",
     "BeginDate": "1993-06-26",
     "EndDate": "",
-    "Genres": "2010s, ag4, awful, blue-eyed soul, contemporary r&b, dance-pop, electro house, electropop, english, female vocals, nuno, pop, pop soul, r&b, trap, trap soul",
+    "Genres": "[\"pop\"]",
     "OfficialWebsite": "https://www.arianagrande.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Ariana_Grande",
     "SpotifyID": "66CXWjxzNUsdJxJ2JdwvnR",
     "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
     "SpotifyURI": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6725802588d7dc1aba076ca5",
-    "SpotifyPopularity": 93,
-    "SpotifyFollowers": 105497624
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+    "SpotifyPopularity": 97,
+    "SpotifyFollowers": 114323078
+  },
+  {
+    "ArtistID": 16,
+    "Artist": "Bad Bunny",
+    "Alias": "Benito Antonio Martínez Ocasio",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "PR",
+    "BeginDate": "1994-03-10",
+    "EndDate": "",
+    "Genres": "pop, hip hop, spanish, latin, english, reggaeton, latin urban, latin trap, trap latino, reggaeton, trap latino, latin, urbano latino",
+    "OfficialWebsite": "",
+    "Wikipedia": "",
+    "SpotifyID": "4q3ewBCX7sLwd24euuV69X",
+    "SpotifyURL": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+    "SpotifyURI": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+    "SpotifyPopularity": 100,
+    "SpotifyFollowers": 113632196
   },
   {
     "ArtistID": 21,
@@ -65,15 +103,15 @@
     "Country": "BR",
     "BeginDate": "1993-03-30",
     "EndDate": "",
-    "Genres": "latin pop, pop soul, reggaeton, latin, anitta, teen pop, pop, funk, brazilian pop, funk pop, brazilian funk, funk carioca",
+    "Genres": "[\"brazilian pop\", \"funk pop\", \"brazilian funk\", \"funk carioca\"]",
     "OfficialWebsite": "https://anitta.com.br/en/",
     "Wikipedia": "",
     "SpotifyID": "7FNnA9vBm6EKceENgCGRMb",
     "SpotifyURL": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb",
     "SpotifyURI": "spotify:artist:7FNnA9vBm6EKceENgCGRMb",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb777419bf9a701a78fdd6515f",
-    "SpotifyPopularity": 80,
-    "SpotifyFollowers": 13389116
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc971a5b58d274b9ae7c467af",
+    "SpotifyPopularity": 85,
+    "SpotifyFollowers": 13664660
   },
   {
     "ArtistID": 28,
@@ -93,6 +131,25 @@
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebcb08296cca5a2d197caabb79",
     "SpotifyPopularity": 83,
     "SpotifyFollowers": 10241197
+  },
+  {
+    "ArtistID": 29,
+    "Artist": "Young Miko",
+    "Alias": "María Victoria Ramírez de Arellano Cardona",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "PR",
+    "BeginDate": "1997-11-08",
+    "EndDate": "",
+    "Genres": "trap latino, reggaeton",
+    "OfficialWebsite": "http://miko.s234.xrea.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Young_Miko",
+    "SpotifyID": "3qsKSpcV3ncke3hw52JSMB",
+    "SpotifyURL": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB",
+    "SpotifyURI": "spotify:artist:3qsKSpcV3ncke3hw52JSMB",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6e3c3f86459730d6c8f74232",
+    "SpotifyPopularity": 81,
+    "SpotifyFollowers": 3965159
   },
   {
     "ArtistID": 30,
@@ -122,15 +179,15 @@
     "Country": "CA",
     "BeginDate": "1986-10-24",
     "EndDate": "",
-    "Genres": "2010s, 2020s, alternative r&b, canadian hip hop, contemporary r&b, cotm candidate, hardcore hip, hardcore hip hop, hip hop, hip-hop, lesbian, luxury rap, pedophilia, pop, pop rap, r&b, rap, rap us, rapper, relic inn, trap, trap rap",
+    "Genres": "[\"rap\"]",
     "OfficialWebsite": "http://www.drakeofficial.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Drake",
     "SpotifyID": "3TVXtAsR1Inumwj472S9r4",
     "SpotifyURL": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
     "SpotifyURI": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-    "SpotifyPopularity": 97,
-    "SpotifyFollowers": 98940838
+    "SpotifyPopularity": 100,
+    "SpotifyFollowers": 115085638
   },
   {
     "ArtistID": 43,
@@ -166,9 +223,9 @@
     "SpotifyID": "08PvCOlef4xdOr20jFSTPd",
     "SpotifyURL": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd",
     "SpotifyURI": "spotify:artist:08PvCOlef4xdOr20jFSTPd",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2dd4342359c7b3aca2bca63c",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc291677459567a67702e27c9",
     "SpotifyPopularity": 73,
-    "SpotifyFollowers": 1478603
+    "SpotifyFollowers": 1848753
   },
   {
     "ArtistID": 56,
@@ -188,6 +245,25 @@
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f",
     "SpotifyPopularity": 91,
     "SpotifyFollowers": 28357918
+  },
+  {
+    "ArtistID": 61,
+    "Artist": "Coldplay",
+    "Alias": "Coolplay, 콜드플레이, コールドプレイ, Cold Play, The Coldplay",
+    "Type": "Group",
+    "Gender": "",
+    "Country": "GB",
+    "BeginDate": "1996-09",
+    "EndDate": "",
+    "Genres": "alternative rock, ambient pop, art pop, big music, britannique, british, britpop, chapel, dream pop, english, indie pop, indie rock, parlophone, piano pop, piano rock, pop, pop rock, pop/rock, post-britpop, rock, rock and indie, uk",
+    "OfficialWebsite": "http://www.coldplay.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Coldplay",
+    "SpotifyID": "4gzpq5DPGxSnKTe4SA8HAU",
+    "SpotifyURL": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
+    "SpotifyURI": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb",
+    "SpotifyPopularity": 91,
+    "SpotifyFollowers": 58558179
   },
   {
     "ArtistID": 62,
@@ -255,15 +331,15 @@
     "Country": "CO",
     "BeginDate": "1977-02-02",
     "EndDate": "",
-    "Genres": "alternative, atlantico, barranquilla, classic pop and rock, colombia, colombian, dance-pop, electropop, latin, latin pop, merengue, nuno, pop, pop rock, rock, spanish",
+    "Genres": "[\"latin pop\"]",
     "OfficialWebsite": "https://shakira-online.de/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Shakira",
     "SpotifyID": "0EmeFodog0BfCgMzAIvKQp",
     "SpotifyURL": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp",
     "SpotifyURI": "spotify:artist:0EmeFodog0BfCgMzAIvKQp",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2528c726e5ddb90a7197e527",
-    "SpotifyPopularity": 88,
-    "SpotifyFollowers": 38147744
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb17f15f351cba70561ad8bcac",
+    "SpotifyPopularity": 92,
+    "SpotifyFollowers": 44656959
   },
   {
     "ArtistID": 80,
@@ -375,9 +451,9 @@
     "SpotifyID": "0du5cEVh5yTK9QJze8zA0C",
     "SpotifyURL": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
     "SpotifyURI": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
-    "SpotifyPopularity": 93,
-    "SpotifyFollowers": 72179179
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
+    "SpotifyPopularity": 95,
+    "SpotifyFollowers": 86644541
   },
   {
     "ArtistID": 135,
@@ -388,15 +464,15 @@
     "Country": "US",
     "BeginDate": "1993-05-13",
     "EndDate": "",
-    "Genres": "country, country pop, racist",
+    "Genres": "[\"country\"]",
     "OfficialWebsite": "http://morganwallen.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Morgan_Wallen",
     "SpotifyID": "4oUHIQIBe0LHzYfvXNW4QM",
     "SpotifyURL": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM",
     "SpotifyURI": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4245b1652fcc23f2b76ccd07",
-    "SpotifyPopularity": 95,
-    "SpotifyFollowers": 12729265
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
+    "SpotifyPopularity": 92,
+    "SpotifyFollowers": 16102946
   },
   {
     "ArtistID": 140,
@@ -483,15 +559,15 @@
     "Country": "KR",
     "BeginDate": "2020-10-25",
     "EndDate": "",
-    "Genres": "2020s, 4th gen k-pop, dance-pop, electropop, girl group, k-pop, pop",
+    "Genres": "[\"k-pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/aespa",
     "SpotifyID": "6YVMFz59CuY7ngCxTxjpxE",
     "SpotifyURL": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE",
     "SpotifyURI": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf7a1090ad3a35a34fc0ecb57",
-    "SpotifyPopularity": 79,
-    "SpotifyFollowers": 8735282
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb053bbb910dda6d4ab0618b8b",
+    "SpotifyPopularity": 81,
+    "SpotifyFollowers": 11655970
   },
   {
     "ArtistID": 199,
@@ -540,15 +616,15 @@
     "Country": "BE",
     "BeginDate": "1982-05-16",
     "EndDate": "",
-    "Genres": "big room, edm, electro, electronica, house",
+    "Genres": "[\"electronica\", \"big room\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Dimitri_Vegas",
-    "SpotifyID": "73jBynjsVtofjRpdpRAJGk",
-    "SpotifyURL": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk",
-    "SpotifyURI": "spotify:artist:73jBynjsVtofjRpdpRAJGk",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc67ffae065558fd7f08a845c",
+    "SpotifyID": "2HkAI0YrEcgoR8QdaURqhO",
+    "SpotifyURL": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO",
+    "SpotifyURI": "spotify:artist:2HkAI0YrEcgoR8QdaURqhO",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb784b217707f1cd849149d58e",
     "SpotifyPopularity": 74,
-    "SpotifyFollowers": 3574935
+    "SpotifyFollowers": 518076
   },
   {
     "ArtistID": 236,
@@ -568,6 +644,44 @@
     "SpotifyImageURL": "https://i.scdn.co/image/ab67616100005174f80ec63ea7a0ef0fba60957d",
     "SpotifyPopularity": 100,
     "SpotifyFollowers": 38012734
+  },
+  {
+    "ArtistID": 247,
+    "Artist": "Rihanna",
+    "Alias": "蕾哈娜, Rhianna, Rihanna, Robyn Rihanna Fenty, Robyn R. Fenty, Rhianna, Riannah, RiRi, リアーナ, 리아나",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "BB",
+    "BeginDate": "1988-02-20",
+    "EndDate": "",
+    "Genres": "barbade, barbadian, barbadien, barbados, contemporary r b, contemporary r&b, dance, dance-pop, dancehall, electro house, electropop, female vocal, hip hop, icon, influential pop star, pop, pop and chart, pop culture, pop soul, pop star, r&b, reggae, rehab, rihanna, rnb",
+    "OfficialWebsite": "https://www.rihanna.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Rihanna",
+    "SpotifyID": "5pKCCKE2ajJHZ9KAiaK11H",
+    "SpotifyURL": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H",
+    "SpotifyURI": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb373e1be0410d4212bf72acab",
+    "SpotifyPopularity": 92,
+    "SpotifyFollowers": 67160323
+  },
+  {
+    "ArtistID": 255,
+    "Artist": "Vance Joy",
+    "Alias": "James Keogh, James Gabriel Keogh",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "AU",
+    "BeginDate": "1987-12-01",
+    "EndDate": "",
+    "Genres": "alternative rock, folk pop, indie folk, indie pop, singer-songwriter",
+    "OfficialWebsite": "http://www.vancejoy.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Vance_Joy",
+    "SpotifyID": "10exVja0key0uqUkk6LJRT",
+    "SpotifyURL": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT",
+    "SpotifyURI": "spotify:artist:10exVja0key0uqUkk6LJRT",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8f074ec8c25406680bf26422",
+    "SpotifyPopularity": 76,
+    "SpotifyFollowers": 3380369
   },
   {
     "ArtistID": 258,
@@ -597,15 +711,15 @@
     "Country": "KR",
     "BeginDate": "2017-10-17",
     "EndDate": "",
-    "Genres": "4th gen k-pop, boy band, boy group, boysband, electropop, k-pop, noise music, pop rap, trap, trap edm",
+    "Genres": "[\"k-pop\", \"noise music\"]",
     "OfficialWebsite": "http://straykids.jype.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Stray_Kids",
     "SpotifyID": "2dIgFjalVxs4ThymZ67YCE",
     "SpotifyURL": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE",
     "SpotifyURI": "spotify:artist:2dIgFjalVxs4ThymZ67YCE",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebdbe356bad5c3576e77dbf36f",
-    "SpotifyPopularity": 85,
-    "SpotifyFollowers": 19156496
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb91be1e574fd2e0992f94decb",
+    "SpotifyPopularity": 87,
+    "SpotifyFollowers": 24200205
   },
   {
     "ArtistID": 276,
@@ -684,6 +798,25 @@
     "SpotifyFollowers": 8894425
   },
   {
+    "ArtistID": 340,
+    "Artist": "Lady Gaga",
+    "Alias": "Lēdija Gāga, ስቲፋኒ ጆአኒ አንጀሊና ጀርማኖታ, 嘎嘎小姐, በሌዲ ጋጋ, ستيفاني جيرمانوتا, ليدى جاجا, Лэдзі Гага, लेडी गागा, লেডি গাগা, لیدی قاقا, Ledi Qaqa, Lejdi Gaga, Лејди Гага, Леди Гага, Λέιντι Γκάγκα, Στέφανι Τζοάν Αντζελίνα Τζερμανότα, جوآن استفانی جرمانوتا, ليدي ڭاڭا, Стэфані Джаан Анджэліна Джэрманота, Леди Гага, લેડી ગાગા, Jo Calderone, Stefani Germanotta, लेडी गागा, Լեդի Գագա, Լէյտի Կակա, ステファニー・ジョアン・アンジェリーナ・ジャーマノッタ, ಲೇಡಿ ಗಾಗಾ, 레이디 가가, لیڈی گاگا, ليدي غاغا, লেডী গাগা, Леди Гага, Лейди Гага, レディー・ガガ, لەیدی گاگا, لیدی گاگا, סטפני ג'ואן אנג'לינה ג'רמנוטה, ឡេឌី ហ្គាហ្គា, 스테퍼니 조앤 앤젤리나 제르마노타, ເລດີ້ ກາກ້າ, Лејди Гага, ലേഡി ഗാഗ, स्टेफनी जोआन अँजेलिना जर्मानोटा, ਲੇਡੀ ਗਾਗਾ, स्टेफनी जोएन एन्जेलिना जर्मनोट्टा, लेडी गागा, ଲେଡି ଗାଗା, Леди Гага, Леди Гага, ᱞᱮᱰᱤ ᱜᱟᱜᱟ, ලේඩි ගාගා, لیڈی گاگا, Стефани Џоан Анџелина Џерманота, லேடி காகா, Лейди Гага, เลดีกากา, Леди Гага, لېيدى گاگا, Сте́фані Джоа́н Анджеліна Джермано́тта, 女神卡卡, S. Germanotta, Lady Ga Ga, Stefani Joanne Angelina Germanotta, Stefanija Džoana Andželina Germanota, लेडी गागा, लेडी गागा, Джо Кальдероне, Џо Калдероне, Лејди Гага, สเตฟานี โจแอนน์ แอนเจลินา เจอร์มาน็อตตา, Леди Гага, Леді Гага, لیڈی گاگا, ליידי גאגא, 史蒂芬妮·乔安妮·安吉丽娜·杰尔马诺塔, ליידי גאגא, ლედი გაგა, Леди Гага, Лэди Гага, Стефани Жоанн Анжелина Жерманотта, လေဒီဂါဂါ, ਸਟੇਫ਼ਨੀ ਜੋਐਨ ਏਂਜੇਲੀਨਾ ਜਰਮਨੋਟਾ, Сте́фани Джоа́нн Анджели́на Джермано́тта, లేడీ గాగా",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "US",
+    "BeginDate": "1986-03-28",
+    "EndDate": "",
+    "Genres": "2000s, 2010s, 2020s, adult contemporary, american, americana, américain, art pop, britney spears, dance, dance-pop, disco, edge of glory, electro house, electronic, electropop, europop, film soundtrack, gata rahe mera dil, industrial pop, jazz, late 2000s, nuno, pop, pop rock, saxx dreams, server name, synth-pop, synthpop, the fame, united states, usa",
+    "OfficialWebsite": "https://www.ladygaga.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Lady_Gaga",
+    "SpotifyID": "1HY2Jd0NmPuamShAr6KMms",
+    "SpotifyURL": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+    "SpotifyURI": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+    "SpotifyPopularity": 94,
+    "SpotifyFollowers": 38415380
+  },
+  {
     "ArtistID": 346,
     "Artist": "Alok",
     "Alias": "Alok Achkar Peres Petrillo, Alok Petrillo",
@@ -711,15 +844,15 @@
     "Country": "CO",
     "BeginDate": "1949-12-04",
     "EndDate": "",
-    "Genres": "latin, reggaeton, schlager, urbano latino",
+    "Genres": "[\"reggaeton\", \"latin\", \"urbano latino\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "790FomKkXshlbRYZFtlgla",
     "SpotifyURL": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla",
     "SpotifyURI": "spotify:artist:790FomKkXshlbRYZFtlgla",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
-    "SpotifyPopularity": 94,
-    "SpotifyFollowers": 57943507
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
+    "SpotifyPopularity": 90,
+    "SpotifyFollowers": 66138687
   },
   {
     "ArtistID": 438,
@@ -730,15 +863,15 @@
     "Country": "BR",
     "BeginDate": "2010",
     "EndDate": "",
-    "Genres": "agronejo, arrocha, country, pop, sertanejo, sertanejo universitário",
+    "Genres": "[\"sertanejo\", \"sertanejo universitário\", \"arrocha\", \"agronejo\"]",
     "OfficialWebsite": "http://matheusekauan.com.br/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Matheus_%26_Kauan",
     "SpotifyID": "2Z0lRIqr997lIUiPtrpKCr",
     "SpotifyURL": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr",
     "SpotifyURI": "spotify:artist:2Z0lRIqr997lIUiPtrpKCr",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb41b37730f9ae1809d34f228e",
-    "SpotifyPopularity": 80,
-    "SpotifyFollowers": 12232555
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb00cac65595dca680b9000772",
+    "SpotifyPopularity": 79,
+    "SpotifyFollowers": 14001330
   },
   {
     "ArtistID": 445,
@@ -775,8 +908,8 @@
     "SpotifyURL": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd",
     "SpotifyURI": "spotify:artist:06nvjg4wBANK6DCHjqtPNd",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba685614306118c1d14c79aa0",
-    "SpotifyPopularity": 64,
-    "SpotifyFollowers": 1547812
+    "SpotifyPopularity": 66,
+    "SpotifyFollowers": 1552299
   },
   {
     "ArtistID": 492,
@@ -796,6 +929,25 @@
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc9154bd840cd45e769c4e480",
     "SpotifyPopularity": 85,
     "SpotifyFollowers": 17988949
+  },
+  {
+    "ArtistID": 501,
+    "Artist": "Keyshia Cole",
+    "Alias": "Keyshia Myeshia Cole",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "US",
+    "BeginDate": "1981-10-15",
+    "EndDate": "",
+    "Genres": "contemporary r&b, hip hop, hip hop rnb and dance hall, hip hop soul, pop soul, r&b",
+    "OfficialWebsite": "http://www.keyshiacole.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Keyshia_Cole",
+    "SpotifyID": "1vfezMIyCr4XUdYRaKIKi3",
+    "SpotifyURL": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3",
+    "SpotifyURI": "spotify:artist:1vfezMIyCr4XUdYRaKIKi3",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb432cb55e0b82419302f7cc5a",
+    "SpotifyPopularity": 72,
+    "SpotifyFollowers": 4202245
   },
   {
     "ArtistID": 522,
@@ -825,7 +977,7 @@
     "Country": "IN",
     "BeginDate": "1971-06-14",
     "EndDate": "",
-    "Genres": "bollywood, desi, film composer, filmi, hindi pop, sufi",
+    "Genres": "[\"bollywood\", \"hindi pop\", \"desi\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Pritam",
     "SpotifyID": "1wRPtKGflJrBx9BmLsSwlU",
@@ -833,7 +985,7 @@
     "SpotifyURI": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
     "SpotifyPopularity": 90,
-    "SpotifyFollowers": 51417726
+    "SpotifyFollowers": 74201415
   },
   {
     "ArtistID": 642,
@@ -863,15 +1015,15 @@
     "Country": "BR",
     "BeginDate": "1997",
     "EndDate": "",
-    "Genres": "pagode, samba",
+    "Genres": "[\"pagode\", \"samba\"]",
     "OfficialWebsite": "http://www.gruposorrisomaroto.com.br/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Sorriso_Maroto",
     "SpotifyID": "1fUSLFr4WUBx7joEcGwpvG",
     "SpotifyURL": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG",
     "SpotifyURI": "spotify:artist:1fUSLFr4WUBx7joEcGwpvG",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8640054ce797a27d14933739",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb3c7fd92646cae6da47d7f092",
     "SpotifyPopularity": 77,
-    "SpotifyFollowers": 3595080
+    "SpotifyFollowers": 4190616
   },
   {
     "ArtistID": 749,
@@ -912,6 +1064,44 @@
     "SpotifyFollowers": 10728526
   },
   {
+    "ArtistID": 768,
+    "Artist": "Katy Perry",
+    "Alias": "ケイティ・ペリー, Katy Pery, Katheryn Perry, Katheryn Elizabeth Hudson, Katy Hudson, Katheryn Hudson, Katy Perry",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "US",
+    "BeginDate": "1984-10-25",
+    "EndDate": "",
+    "Genres": "\"ur so fail\", 2010s, also fail, american, américain, bubblegum, bubblegum pop, california gurls, camp, chesty, cute, dance-pop, disco, electropop, fail, failfail, gaaaaaayyyyyyyyy, gaymeme, her expression is like shes thinking something dumb, homophobe, house, i'm gay if i am shut up, i'm gay if i am⸲ shut up, katy perry, katy perry is gay, katy pery is dumb, lame, lame lame lame lame, lolol trap?, megafail, megalmaestupiddumb, multiple ipi, nope still fail, pop, pop rock, rock, srsly i'm gay if i am shut up, srsly what's wrong with beign gay, still fail, total fail, trap, uncool, united states, ur so faaaail, ur so fail, ur so lame, usa, what's wrong with being gay? gay, ‟ur so fail”",
+    "OfficialWebsite": "https://www.katyperry.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Katy_Perry",
+    "SpotifyID": "6jJ0s89eD6GaHleKKya26X",
+    "SpotifyURL": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
+    "SpotifyURI": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0988562f78810e47a6e3325f",
+    "SpotifyPopularity": 87,
+    "SpotifyFollowers": 37223665
+  },
+  {
+    "ArtistID": 774,
+    "Artist": "ATEEZ",
+    "Alias": "ATEEZ, 에이티즈",
+    "Type": "Group",
+    "Gender": "",
+    "Country": "KR",
+    "BeginDate": "2018-10-24",
+    "EndDate": "",
+    "Genres": "4th gen k-pop, boy band, boy group, k-pop, noise music",
+    "OfficialWebsite": "http://ateez.kqent.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/ATEEZ",
+    "SpotifyID": "68KmkJeZGfwe1OUaivBa2L",
+    "SpotifyURL": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L",
+    "SpotifyURI": "spotify:artist:68KmkJeZGfwe1OUaivBa2L",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd28d311ccd01e2fd8917cb5c",
+    "SpotifyPopularity": 74,
+    "SpotifyFollowers": 4859092
+  },
+  {
     "ArtistID": 778,
     "Artist": "Hugo & Guilherme",
     "Alias": "",
@@ -939,15 +1129,15 @@
     "Country": "IN",
     "BeginDate": "1976-11-16",
     "EndDate": "",
-    "Genres": "bollywood, desi, filmi, hindi pop, lyricist",
+    "Genres": "[\"bollywood\", \"hindi pop\", \"desi\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Amitabh_Bhattacharya",
     "SpotifyID": "2fMqTqiTxUDlmcOEPaQSsx",
     "SpotifyURL": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx",
     "SpotifyURI": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb06f04f40ecb8ca92cb714908",
-    "SpotifyPopularity": 81,
-    "SpotifyFollowers": 3061005
+    "SpotifyPopularity": 83,
+    "SpotifyFollowers": 5002743
   },
   {
     "ArtistID": 797,
@@ -988,6 +1178,25 @@
     "SpotifyFollowers": 47877
   },
   {
+    "ArtistID": 879,
+    "Artist": "Burna Boy",
+    "Alias": "Damini Ogulu, Damini Ebunoluwa Ogulu",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "NG",
+    "BeginDate": "1991-07-02",
+    "EndDate": "",
+    "Genres": "[\"afrobeats\", \"afrobeat\", \"afropop\", \"afroswing\", \"dancehall\", \"afropiano\"]",
+    "OfficialWebsite": "https://www.onaspaceship.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Burna_Boy",
+    "SpotifyID": "3wcj11K77LjEY1PkEazffa",
+    "SpotifyURL": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa",
+    "SpotifyURI": "spotify:artist:3wcj11K77LjEY1PkEazffa",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb4e44d0f4e3e47af2cf06f3f",
+    "SpotifyPopularity": 86,
+    "SpotifyFollowers": 17318695
+  },
+  {
     "ArtistID": 881,
     "Artist": "Callejero Fino",
     "Alias": "Simón Nattanael Alvarenga",
@@ -996,15 +1205,15 @@
     "Country": "AR",
     "BeginDate": "1995-02-07",
     "EndDate": "",
-    "Genres": "cumbia, rkt, turreo",
+    "Genres": "[\"rkt\", \"turreo\", \"cumbia\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Callejero_Fino",
     "SpotifyID": "6GRwwWAtmusrgAL5JF9Dfr",
     "SpotifyURL": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr",
     "SpotifyURI": "spotify:artist:6GRwwWAtmusrgAL5JF9Dfr",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd243d1fff6459bbe0b7d3892",
-    "SpotifyPopularity": 65,
-    "SpotifyFollowers": 1914613
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebbcb07f510ec87bceed975add",
+    "SpotifyPopularity": 68,
+    "SpotifyFollowers": 2113376
   },
   {
     "ArtistID": 883,
@@ -1015,15 +1224,15 @@
     "Country": "DE",
     "BeginDate": "2000",
     "EndDate": "",
-    "Genres": "german, german hip hop, hip hop, rap, trap",
+    "Genres": "[\"german hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Pashanim",
     "SpotifyID": "34LetYSjEuG2fBb4Z8PwPg",
     "SpotifyURL": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg",
     "SpotifyURI": "spotify:artist:34LetYSjEuG2fBb4Z8PwPg",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebddac22a62d422c282c0a5021",
-    "SpotifyPopularity": 79,
-    "SpotifyFollowers": 1109759
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebbdd3f761310ac0f9649115ed",
+    "SpotifyPopularity": 78,
+    "SpotifyFollowers": 1475692
   },
   {
     "ArtistID": 914,
@@ -1040,9 +1249,9 @@
     "SpotifyID": "4tuJ0bMpJh08umKkEXKUI5",
     "SpotifyURL": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5",
     "SpotifyURI": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf6d51e6f5342d2d363220920",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
     "SpotifyPopularity": 87,
-    "SpotifyFollowers": 5878927
+    "SpotifyFollowers": 10018792
   },
   {
     "ArtistID": 942,
@@ -1072,15 +1281,34 @@
     "Country": "JP",
     "BeginDate": "1987-06-24",
     "EndDate": "",
-    "Genres": "pop rock, j-pop, anime, j-rock",
+    "Genres": "[\"turkish hip hop\", \"turkish pop\"]",
     "OfficialWebsite": "https://www.sonymusic.co.jp/artist/lisa/",
     "Wikipedia": "",
     "SpotifyID": "7CLojerj7StFcAX03tA8Pc",
     "SpotifyURL": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc",
     "SpotifyURI": "spotify:artist:7CLojerj7StFcAX03tA8Pc",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb68eb2dbd22845ee01cf05e59",
+    "SpotifyPopularity": 62,
+    "SpotifyFollowers": 280315
+  },
+  {
+    "ArtistID": 1038,
+    "Artist": "Ayra Starr",
+    "Alias": "Oyinkansola Sarah Aderibigbe",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "BJ",
+    "BeginDate": "2002-06-14",
+    "EndDate": "",
+    "Genres": "[\"afrobeats\", \"afrobeat\", \"afropop\", \"afro r&b\", \"afropiano\", \"afro soul\"]",
+    "OfficialWebsite": "https://www.ayrastarr.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Ayra_Starr",
+    "SpotifyID": "3ZpEKRjHaHANcpk10u6Ntq",
+    "SpotifyURL": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq",
+    "SpotifyURI": "spotify:artist:3ZpEKRjHaHANcpk10u6Ntq",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8bfd832e0547c4acabe6e67c",
+    "SpotifyPopularity": 77,
+    "SpotifyFollowers": 7462840
   },
   {
     "ArtistID": 1051,
@@ -1091,15 +1319,15 @@
     "Country": "TR",
     "BeginDate": "1995-07-31",
     "EndDate": "",
-    "Genres": "hip hop, pop rap, rage, 2010s, east coast hip hop, trap, cloud rap, millennial, emo rap, 2020s",
+    "Genres": "[\"turkish hip hop\", \"drill\"]",
     "OfficialWebsite": "https://www.liluziofficial.com/",
     "Wikipedia": "",
     "SpotifyID": "51DevdOxIJin6DB1FXJpD1",
     "SpotifyURL": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1",
     "SpotifyURI": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd1dfb1abe75dfd587db55b18",
+    "SpotifyPopularity": 78,
+    "SpotifyFollowers": 7964025
   },
   {
     "ArtistID": 1070,
@@ -1129,15 +1357,15 @@
     "Country": "BR",
     "BeginDate": "1995-04-24",
     "EndDate": "",
-    "Genres": "brazilian funk, brazilian pop, funk, funk carioca, funk pop, pagode, pagode baiano, samba",
+    "Genres": "[\"pagode\", \"brazilian pop\", \"funk pop\", \"brazilian funk\", \"pagode baiano\", \"funk carioca\", \"samba\"]",
     "OfficialWebsite": "http://www.ludmillaoficial.com.br/",
     "Wikipedia": "https://en.wikipedia.org/wiki/LUDMILLA",
     "SpotifyID": "3CDoRporvSjdzTrm99a3gi",
     "SpotifyURL": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi",
     "SpotifyURI": "spotify:artist:3CDoRporvSjdzTrm99a3gi",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc171639017f673a5ecfb92f3",
-    "SpotifyPopularity": 75,
-    "SpotifyFollowers": 8132436
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7635220f042a75ef8b4ffde9",
+    "SpotifyPopularity": 74,
+    "SpotifyFollowers": 8715741
   },
   {
     "ArtistID": 1160,
@@ -1148,15 +1376,15 @@
     "Country": "Amsterdam",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "house, tech house",
+    "Genres": "[\"house\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/ANOTR",
     "SpotifyID": "4p5WgeiPSPpqPDs7T6OkWf",
     "SpotifyURL": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf",
     "SpotifyURI": "spotify:artist:4p5WgeiPSPpqPDs7T6OkWf",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc111cb85402596b8c6c28081",
-    "SpotifyPopularity": 67,
-    "SpotifyFollowers": 159115
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb48b2dcdf9a2e05e01694cc57",
+    "SpotifyPopularity": 77,
+    "SpotifyFollowers": 291313
   },
   {
     "ArtistID": 1201,
@@ -1167,15 +1395,15 @@
     "Country": "FR",
     "BeginDate": "1999-12-04",
     "EndDate": "",
-    "Genres": "french r&b, french rap, pop urbaine",
+    "Genres": "[\"french rap\", \"pop urbaine\", \"french r&b\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Tiakola",
     "SpotifyID": "3vUMXQ9kPnZAQkMkZZ7Hfh",
     "SpotifyURL": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh",
     "SpotifyURI": "spotify:artist:3vUMXQ9kPnZAQkMkZZ7Hfh",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4d4f46d8b3b786409a8c3219",
-    "SpotifyPopularity": 76,
-    "SpotifyFollowers": 3067059
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2b35d895b61bbfe90a903856",
+    "SpotifyPopularity": 77,
+    "SpotifyFollowers": 4368422
   },
   {
     "ArtistID": 1271,
@@ -1186,15 +1414,15 @@
     "Country": "TR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "drill, turkish hip hop",
+    "Genres": "[\"turkish hip hop\", \"drill\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/cakal",
     "SpotifyID": "6CPZWzcKiOKkHn4L2XI4i2",
     "SpotifyURL": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2",
     "SpotifyURI": "spotify:artist:6CPZWzcKiOKkHn4L2XI4i2",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc9731900394e3b71f8f83da7",
-    "SpotifyPopularity": 69,
-    "SpotifyFollowers": 2625947
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb59758eaa1a2d7a9d1e78542c",
+    "SpotifyPopularity": 65,
+    "SpotifyFollowers": 3254164
   },
   {
     "ArtistID": 1359,
@@ -1243,15 +1471,15 @@
     "Country": "JP",
     "BeginDate": "2000-06-06",
     "EndDate": "",
-    "Genres": "j-pop, japan, japanese, japanese indie, pop, singer-songwriter, soul",
+    "Genres": "[\"j-pop\", \"japanese indie\", \"anime\"]",
     "OfficialWebsite": "https://vaundy.jp/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Vaundy",
     "SpotifyID": "2IUl3m1H1EQ7QfNbNWvgru",
     "SpotifyURL": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru",
     "SpotifyURI": "spotify:artist:2IUl3m1H1EQ7QfNbNWvgru",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf6be169899c276073de46a1b",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb718d2d3988005d3a72f22c9",
     "SpotifyPopularity": 74,
-    "SpotifyFollowers": 3248302
+    "SpotifyFollowers": 4064898
   },
   {
     "ArtistID": 1655,
@@ -1271,6 +1499,25 @@
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba669f860c74c9007934d2cb6",
     "SpotifyPopularity": 72,
     "SpotifyFollowers": 3022510
+  },
+  {
+    "ArtistID": 1677,
+    "Artist": "Alex Warren",
+    "Alias": "Alex Davidson",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "Edinburgh",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "[\"epadunk\", \"ragga\"]",
+    "OfficialWebsite": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/ALEX",
+    "SpotifyID": "0fTSzq9jAh4c36UVb4V7CB",
+    "SpotifyURL": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB",
+    "SpotifyURI": "spotify:artist:0fTSzq9jAh4c36UVb4V7CB",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe027df2e591e1a050e5235cc",
+    "SpotifyPopularity": 86,
+    "SpotifyFollowers": 4766291
   },
   {
     "ArtistID": 1680,
@@ -1300,15 +1547,15 @@
     "Country": "KR",
     "BeginDate": "1996-01-16",
     "EndDate": "",
-    "Genres": "2020s, 3rd gen k-pop, hip hop, k-pop, pop",
+    "Genres": "[\"k-pop\"]",
     "OfficialWebsite": "https://www.jenn.ie/",
     "Wikipedia": "https://en.wikipedia.org/wiki/JENNIE",
     "SpotifyID": "250b0Wlc5Vk0CoUsaCY84M",
     "SpotifyURL": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M",
     "SpotifyURI": "spotify:artist:250b0Wlc5Vk0CoUsaCY84M",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba8e3627e392a1d8f539cb575",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1baf2b14cf78bad62d01a8cd",
     "SpotifyPopularity": 87,
-    "SpotifyFollowers": 10476817
+    "SpotifyFollowers": 16049337
   },
   {
     "ArtistID": 1815,
@@ -1357,15 +1604,15 @@
     "Country": "BR",
     "BeginDate": "1988-10-20",
     "EndDate": "",
-    "Genres": "pagode, samba",
+    "Genres": "[\"pagode\", \"samba\"]",
     "OfficialWebsite": "http://cantorferrugem.com.br/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Ferrugem",
     "SpotifyID": "5ZfBThYiIIhL7jHMG8gDB2",
     "SpotifyURL": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2",
     "SpotifyURI": "spotify:artist:5ZfBThYiIIhL7jHMG8gDB2",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb55d58f5487c69d5fb149dd67",
-    "SpotifyPopularity": 76,
-    "SpotifyFollowers": 6018915
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebef13995944eea605a0a7a9e1",
+    "SpotifyPopularity": 78,
+    "SpotifyFollowers": 6900022
   },
   {
     "ArtistID": 2467,
@@ -1376,15 +1623,15 @@
     "Country": "BR",
     "BeginDate": "1999-02-05",
     "EndDate": "",
-    "Genres": "brazilian funk, brazilian hip hop, brazilian trap, funk, funk consciente, trap, trap funk",
+    "Genres": "[\"brazilian trap\", \"trap funk\", \"brazilian funk\", \"trap\", \"brazilian hip hop\", \"funk consciente\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Mc_Poze_do_Rodo",
     "SpotifyID": "28ie4NNTa2VW2QV4Zray8M",
     "SpotifyURL": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M",
     "SpotifyURI": "spotify:artist:28ie4NNTa2VW2QV4Zray8M",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6bb2891aba26ae4298634e4b",
-    "SpotifyPopularity": 70,
-    "SpotifyFollowers": 6765396
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4d9bf04e1937951d1796729b",
+    "SpotifyPopularity": 74,
+    "SpotifyFollowers": 6964053
   },
   {
     "ArtistID": 2470,
@@ -1395,15 +1642,15 @@
     "Country": "BR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "agronejo, piseiro, sertanejo, sertanejo universitário",
+    "Genres": "[\"agronejo\", \"sertanejo\", \"sertanejo universitário\", \"piseiro\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/US_Agroboy",
     "SpotifyID": "7gXnv2nAoF9X0XJQ3AMp7d",
     "SpotifyURL": "https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d",
     "SpotifyURI": "spotify:artist:7gXnv2nAoF9X0XJQ3AMp7d",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb78fa7d305e3abbfe70a92a0",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb814df20dd4dd2443019ff4a0",
     "SpotifyPopularity": 66,
-    "SpotifyFollowers": 690265
+    "SpotifyFollowers": 837050
   },
   {
     "ArtistID": 2693,
@@ -1439,9 +1686,9 @@
     "SpotifyID": "0PhqM7UAxtvWYi5j4MwxSl",
     "SpotifyURL": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl",
     "SpotifyURI": "spotify:artist:0PhqM7UAxtvWYi5j4MwxSl",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0ccb0dd69f722ea633cdfd10",
-    "SpotifyPopularity": 68,
-    "SpotifyFollowers": 2916530
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7e6b6acd16941485ede2b690",
+    "SpotifyPopularity": 66,
+    "SpotifyFollowers": 3315346
   },
   {
     "ArtistID": 2772,
@@ -1452,15 +1699,15 @@
     "Country": "AR",
     "BeginDate": "1994-10-24",
     "EndDate": "",
-    "Genres": "rkt, turreo",
+    "Genres": "[\"rkt\", \"turreo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://es.wikipedia.org/wiki/La_Joaqui",
     "SpotifyID": "60XHOAhvEBiV6BGBOv8ClM",
     "SpotifyURL": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM",
     "SpotifyURI": "spotify:artist:60XHOAhvEBiV6BGBOv8ClM",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb97e28d4bd2e5c82d460a768",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8d1b7b08ae3d8e6bca295cef",
     "SpotifyPopularity": 68,
-    "SpotifyFollowers": 2252474
+    "SpotifyFollowers": 2471976
   },
   {
     "ArtistID": 2848,
@@ -1490,15 +1737,15 @@
     "Country": "TR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "turkish hip hop, turkish pop",
+    "Genres": "[\"turkish pop\", \"turkish hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Reynmen",
     "SpotifyID": "1Fg19vpUJpAAPFjnKaVYVW",
     "SpotifyURL": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW",
     "SpotifyURI": "spotify:artist:1Fg19vpUJpAAPFjnKaVYVW",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb08fad1214379b74219e14f23",
-    "SpotifyPopularity": 68,
-    "SpotifyFollowers": 3093913
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1ec75745003397461f0ae364",
+    "SpotifyPopularity": 64,
+    "SpotifyFollowers": 3316553
   },
   {
     "ArtistID": 3078,
@@ -1515,13 +1762,13 @@
     "SpotifyID": "4zvO09rVUIVTeALhs6xLoB",
     "SpotifyURL": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB",
     "SpotifyURI": "spotify:artist:4zvO09rVUIVTeALhs6xLoB",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb830906da74698414815491d4",
-    "SpotifyPopularity": 69,
-    "SpotifyFollowers": 606749
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebcf58c0351bad9700e9aca2bd",
+    "SpotifyPopularity": 70,
+    "SpotifyFollowers": 702025
   },
   {
     "ArtistID": 3094,
-    "Artist": "La Rose",
+    "Artist": "De La Rose",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
@@ -1534,9 +1781,9 @@
     "SpotifyID": "54seKvtsZauR1iauN0ptpo",
     "SpotifyURL": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo",
     "SpotifyURI": "spotify:artist:54seKvtsZauR1iauN0ptpo",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe7a66e01fb32b127653840d0",
-    "SpotifyPopularity": 82,
-    "SpotifyFollowers": 931430
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb01f836b95481448a85bd7a29",
+    "SpotifyPopularity": 81,
+    "SpotifyFollowers": 2666680
   },
   {
     "ArtistID": 3225,
@@ -1577,6 +1824,25 @@
     "SpotifyFollowers": 650410
   },
   {
+    "ArtistID": 3233,
+    "Artist": "BOYNEXTDOOR",
+    "Alias": "보이넥스트도어",
+    "Type": "Group",
+    "Gender": "",
+    "Country": "KR",
+    "BeginDate": "2023-04-04",
+    "EndDate": "",
+    "Genres": "boy group, k-pop",
+    "OfficialWebsite": "https://boynextdoor-official.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/BOYNEXTDOOR",
+    "SpotifyID": "4hnHLgMSOiqERWBL4jINP1",
+    "SpotifyURL": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1",
+    "SpotifyURI": "spotify:artist:4hnHLgMSOiqERWBL4jINP1",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc535ae4937034d2dfcef858e",
+    "SpotifyPopularity": 73,
+    "SpotifyFollowers": 1483818
+  },
+  {
     "ArtistID": 3328,
     "Artist": "Yasin",
     "Alias": "",
@@ -1588,12 +1854,12 @@
     "Genres": "desi hip hop, hindi hip hop, punjabi hip hop",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Yasin",
-    "SpotifyID": "2kEU1NNJORHNJabD0tdO1E",
-    "SpotifyURL": "https://open.spotify.com/artist/2kEU1NNJORHNJabD0tdO1E",
-    "SpotifyURI": "spotify:artist:2kEU1NNJORHNJabD0tdO1E",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb20fa149bac34fd606f770f8d",
-    "SpotifyPopularity": 15,
-    "SpotifyFollowers": 5336
+    "SpotifyID": "6rYEqmajzlhGVaayOJ2bpJ",
+    "SpotifyURL": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ",
+    "SpotifyURI": "spotify:artist:6rYEqmajzlhGVaayOJ2bpJ",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb5579f47f4bd87805d121e98",
+    "SpotifyPopularity": 64,
+    "SpotifyFollowers": 427908
   },
   {
     "ArtistID": 3335,
@@ -1604,15 +1870,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "v-pop, vietnamese hip hop",
+    "Genres": "[\"v-pop\", \"vietnamese hip hop\", \"vinahouse\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/CoolKid",
     "SpotifyID": "1Qia4CTwh6x0CZbD0079zi",
     "SpotifyURL": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi",
     "SpotifyURI": "spotify:artist:1Qia4CTwh6x0CZbD0079zi",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7b36834cbded9c06825e756c",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd827dadbf77d77cf5e207c1a",
     "SpotifyPopularity": 58,
-    "SpotifyFollowers": 122996
+    "SpotifyFollowers": 207111
   },
   {
     "ArtistID": 3348,
@@ -1642,15 +1908,15 @@
     "Country": "UY",
     "BeginDate": "1995-04-29",
     "EndDate": "",
-    "Genres": "cuarteto, cumbia",
+    "Genres": "[\"cuarteto\", \"cumbia\"]",
     "OfficialWebsite": "https://matiasvaldez.com.uy/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Valdez",
     "SpotifyID": "6SGCqG5HEr5gFZR9ct8wID",
     "SpotifyURL": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID",
     "SpotifyURI": "spotify:artist:6SGCqG5HEr5gFZR9ct8wID",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf6e72978403c5aa348350cf9",
-    "SpotifyPopularity": 58,
-    "SpotifyFollowers": 218743
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb201bffbe456a273d0db7a40e",
+    "SpotifyPopularity": 63,
+    "SpotifyFollowers": 272827
   },
   {
     "ArtistID": 3505,
@@ -1661,15 +1927,15 @@
     "Country": "US",
     "BeginDate": "1955-03-11",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"v-pop\", \"vietnam indie\", \"vietnamese hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "6d0dLenjy5CnR5ZMn2agiV",
     "SpotifyURL": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV",
     "SpotifyURI": "spotify:artist:6d0dLenjy5CnR5ZMn2agiV",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9f18e7cce7be5f16dc7103f8",
+    "SpotifyPopularity": 67,
+    "SpotifyFollowers": 567282
   },
   {
     "ArtistID": 3596,
@@ -1794,15 +2060,15 @@
     "Country": "KR",
     "BeginDate": "2023-09-01",
     "EndDate": "",
-    "Genres": "5th gen k-pop, girl group, k-pop",
+    "Genres": "[\"k-pop\"]",
     "OfficialWebsite": "https://www.universal-music.co.jp/illit/",
     "Wikipedia": "https://en.wikipedia.org/wiki/ILLIT",
     "SpotifyID": "36cgvBn0aadzOijnjjwqMN",
     "SpotifyURL": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN",
     "SpotifyURI": "spotify:artist:36cgvBn0aadzOijnjjwqMN",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb32863b8dca4574c09e4b9295",
-    "SpotifyPopularity": 74,
-    "SpotifyFollowers": 2781530
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7fabcc2491d95050faa5b710",
+    "SpotifyPopularity": 84,
+    "SpotifyFollowers": 7245906
   },
   {
     "ArtistID": 4079,
@@ -1870,15 +2136,34 @@
     "Country": "Athens",
     "BeginDate": "1996-10-07",
     "EndDate": "",
-    "Genres": "trap",
+    "Genres": "[\"trap\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Strat",
     "SpotifyID": "48h12D3cJbqfn1ReVL9qbw",
     "SpotifyURL": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw",
     "SpotifyURI": "spotify:artist:48h12D3cJbqfn1ReVL9qbw",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb73430dde7f2e67f427885764",
-    "SpotifyPopularity": 63,
-    "SpotifyFollowers": 178328
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb61f8ac7a97c7dd5d3ac2e791",
+    "SpotifyPopularity": 65,
+    "SpotifyFollowers": 245117
+  },
+  {
+    "ArtistID": 4398,
+    "Artist": "Aitch",
+    "Alias": "Harrison Armstrong, Harrison James Armstrong",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "GB",
+    "BeginDate": "1999-12-09",
+    "EndDate": "",
+    "Genres": "2020s, british hip hop, drill, grime, hip hop, trap, uk drill, uk grime",
+    "OfficialWebsite": "https://www.aitchofficial.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Aitch",
+    "SpotifyID": "2PJEagPIxaBugeMjIyKVXF",
+    "SpotifyURL": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF",
+    "SpotifyURI": "spotify:artist:2PJEagPIxaBugeMjIyKVXF",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb810b2386d4b453cfd653d802",
+    "SpotifyPopularity": 69,
+    "SpotifyFollowers": 1234580
   },
   {
     "ArtistID": 4490,
@@ -1920,7 +2205,7 @@
   },
   {
     "ArtistID": 4688,
-    "Artist": "Onyx",
+    "Artist": "ONYX",
     "Alias": "Onyx",
     "Type": "Group",
     "Gender": "",
@@ -1930,12 +2215,12 @@
     "Genres": "boom bap, east coast hip hop, gangsta rap, hardcore hip hop, hip hop, hip hop rnb and dance hall, old school hip hop",
     "OfficialWebsite": "http://www.onyxdomain.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Onyx",
-    "SpotifyID": "10Khz9BDdDT2mzm3330Cvu",
-    "SpotifyURL": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu",
-    "SpotifyURI": "spotify:artist:10Khz9BDdDT2mzm3330Cvu",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1add38d33c14721df926c414",
-    "SpotifyPopularity": 52,
-    "SpotifyFollowers": 561020
+    "SpotifyID": "4zBQ2Zbwg84dtnPcogmoJU",
+    "SpotifyURL": "https://open.spotify.com/artist/4zBQ2Zbwg84dtnPcogmoJU",
+    "SpotifyURI": "spotify:artist:4zBQ2Zbwg84dtnPcogmoJU",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb53fa5c111960844307485774",
+    "SpotifyPopularity": 22,
+    "SpotifyFollowers": 170
   },
   {
     "ArtistID": 4722,
@@ -2003,15 +2288,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "agronejo, sertanejo",
+    "Genres": "[\"agronejo\", \"sertanejo\", \"sertanejo universitário\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "5IREutgMnyQqRcc8r15gWk",
     "SpotifyURL": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk",
     "SpotifyURI": "spotify:artist:5IREutgMnyQqRcc8r15gWk",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb71af8b15b6e8f9638cad973b",
-    "SpotifyPopularity": 66,
-    "SpotifyFollowers": 135542
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd55f1997e1a689689ecc790c",
+    "SpotifyPopularity": 74,
+    "SpotifyFollowers": 475292
   },
   {
     "ArtistID": 5328,
@@ -2034,41 +2319,60 @@
   },
   {
     "ArtistID": 5420,
-    "Artist": "Kaique",
+    "Artist": "Kaique e Felipe",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
     "Country": "BR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "agronejo, sertanejo, sertanejo universitário",
+    "Genres": "[\"sertanejo\", \"agronejo\", \"sertanejo universitário\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Kaique",
     "SpotifyID": "0JRPF8WIKUtSO2IUYfrcuh",
     "SpotifyURL": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh",
     "SpotifyURI": "spotify:artist:0JRPF8WIKUtSO2IUYfrcuh",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0bfb70fd6a2d0e71946a94b1",
-    "SpotifyPopularity": 65,
-    "SpotifyFollowers": 68615
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb70a3bd6e7ddd82e546640423",
+    "SpotifyPopularity": 67,
+    "SpotifyFollowers": 154876
+  },
+  {
+    "ArtistID": 5539,
+    "Artist": "Yzomandias",
+    "Alias": "Logic, Hráč Roku",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "CZ",
+    "BeginDate": "1991-03-21",
+    "EndDate": "",
+    "Genres": "drill, hip hop, trap",
+    "OfficialWebsite": "https://milionplus.cz/",
+    "Wikipedia": "https://cs.wikipedia.org/wiki/Yzomandias",
+    "SpotifyID": "721o1Z0J6jQupyzLt9RnEk",
+    "SpotifyURL": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk",
+    "SpotifyURI": "spotify:artist:721o1Z0J6jQupyzLt9RnEk",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc954b7594e648452f0e2ab40",
+    "SpotifyPopularity": 70,
+    "SpotifyFollowers": 663798
   },
   {
     "ArtistID": 5596,
-    "Artist": "Raghav",
+    "Artist": "Raghav Chaitanya",
     "Alias": "ラグハヴ",
     "Type": "Person",
     "Gender": "male",
     "Country": "CA",
     "BeginDate": "1981-04-02",
     "EndDate": "",
-    "Genres": "bollywood, desi, hindi indie, hindi pop, indian indie",
+    "Genres": "[\"hindi indie\", \"hindi pop\", \"indian indie\"]",
     "OfficialWebsite": "http://www.raghav.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Raghav",
     "SpotifyID": "3qpyErDI4i90q5EGgSRmNK",
     "SpotifyURL": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK",
     "SpotifyURI": "spotify:artist:3qpyErDI4i90q5EGgSRmNK",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf16aafe18e9e1761a79eb406",
-    "SpotifyPopularity": 67,
-    "SpotifyFollowers": 246265
+    "SpotifyPopularity": 68,
+    "SpotifyFollowers": 367152
   },
   {
     "ArtistID": 5629,
@@ -2104,9 +2408,9 @@
     "SpotifyID": "0WDJa0qnagyOnMaiD26wht",
     "SpotifyURL": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht",
     "SpotifyURI": "spotify:artist:0WDJa0qnagyOnMaiD26wht",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0fdce053be0dc7d1e91a8afb",
-    "SpotifyPopularity": 68,
-    "SpotifyFollowers": 296233
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb45eee2f28acd654c17040b83",
+    "SpotifyPopularity": 69,
+    "SpotifyFollowers": 358400
   },
   {
     "ArtistID": 5722,
@@ -2129,22 +2433,22 @@
   },
   {
     "ArtistID": 5745,
-    "Artist": "João Gustavo & Murilo",
+    "Artist": "João Gustavo e Murilo",
     "Alias": "",
     "Type": "Group",
     "Gender": "",
     "Country": "BR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "sertanejo, sertanejo universitário",
+    "Genres": "[\"sertanejo\", \"sertanejo universitário\"]",
     "OfficialWebsite": "http://www.joaogustavoemurilo.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Gustavo_%26_Murilo",
     "SpotifyID": "6xerOqBLmelL3xZNZkVbGl",
     "SpotifyURL": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl",
     "SpotifyURI": "spotify:artist:6xerOqBLmelL3xZNZkVbGl",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb06572bd58b95618fe3fb8b2e",
-    "SpotifyPopularity": 56,
-    "SpotifyFollowers": 800896
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb650a6130189f097d70060d16",
+    "SpotifyPopularity": 61,
+    "SpotifyFollowers": 823025
   },
   {
     "ArtistID": 5768,
@@ -2174,38 +2478,38 @@
     "Country": "BR",
     "BeginDate": "1994-11-03",
     "EndDate": "",
-    "Genres": "pop",
+    "Genres": "[\"brazilian pop\", \"new mpb\", \"mpb\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/J%C3%A3o",
-    "SpotifyID": "4AGwPDdh1y8hochNzHy5HC",
-    "SpotifyURL": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC",
-    "SpotifyURI": "spotify:artist:4AGwPDdh1y8hochNzHy5HC",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1fd073cc30283438f8512ba6",
-    "SpotifyPopularity": 56,
-    "SpotifyFollowers": 169979
+    "SpotifyID": "59FrDXDVJz0EKqYg39dnT2",
+    "SpotifyURL": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2",
+    "SpotifyURI": "spotify:artist:59FrDXDVJz0EKqYg39dnT2",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5dbfe3e8f34dbd87e8778901",
+    "SpotifyPopularity": 74,
+    "SpotifyFollowers": 3505649
   },
   {
     "ArtistID": 5844,
-    "Artist": "João Bosco & Vinicius",
+    "Artist": "João Bosco & Vinícius",
     "Alias": "João Bosco & Vinícius",
     "Type": "Group",
     "Gender": "",
     "Country": "BR",
     "BeginDate": "1994",
     "EndDate": "",
-    "Genres": "agronejo, arrocha, sertanejo, sertanejo tradicional, sertanejo universitário",
+    "Genres": "[\"sertanejo\", \"sertanejo universitário\", \"agronejo\", \"arrocha\", \"sertanejo tradicional\"]",
     "OfficialWebsite": "http://www.jbev.com.br/",
     "Wikipedia": "",
     "SpotifyID": "7zIRO89G0FBAQtGMHO1Wa0",
     "SpotifyURL": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0",
     "SpotifyURI": "spotify:artist:7zIRO89G0FBAQtGMHO1Wa0",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4ddc62271eecde2522979f27",
-    "SpotifyPopularity": 66,
-    "SpotifyFollowers": 3132440
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebcc24648a244c872b59fcd59e",
+    "SpotifyPopularity": 70,
+    "SpotifyFollowers": 3514929
   },
   {
     "ArtistID": 5923,
-    "Artist": "Bedo",
+    "Artist": "Bedoes 2115",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
@@ -2219,8 +2523,27 @@
     "SpotifyURL": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74",
     "SpotifyURI": "spotify:artist:0LX2VNf5w4iOHW1yyIqb74",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0f17dc6c95782ddda750fb53",
-    "SpotifyPopularity": 69,
-    "SpotifyFollowers": 1638424
+    "SpotifyPopularity": 72,
+    "SpotifyFollowers": 2024933
+  },
+  {
+    "ArtistID": 5952,
+    "Artist": "Conep",
+    "Alias": "",
+    "Type": "Person",
+    "Gender": "",
+    "Country": "Patillas",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "trap latino",
+    "OfficialWebsite": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Conep",
+    "SpotifyID": "5kCv5opFav2P7nPl8FiEQx",
+    "SpotifyURL": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx",
+    "SpotifyURI": "spotify:artist:5kCv5opFav2P7nPl8FiEQx",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb49f9cf34e38cafee74160e4b",
+    "SpotifyPopularity": 55,
+    "SpotifyFollowers": 55504
   },
   {
     "ArtistID": 6411,
@@ -2231,15 +2554,15 @@
     "Country": "US",
     "BeginDate": "1983-11-17",
     "EndDate": "",
-    "Genres": "has german audiobooks, audiobook",
+    "Genres": "[\"dansk pop\"]",
     "OfficialWebsite": "http://www.paolini.net/",
     "Wikipedia": "",
     "SpotifyID": "3zDRCqOhJXJfS2YWOEwGMC",
     "SpotifyURL": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC",
     "SpotifyURI": "spotify:artist:3zDRCqOhJXJfS2YWOEwGMC",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb5f3ac8c647304c3163e2a98",
+    "SpotifyPopularity": 65,
+    "SpotifyFollowers": 523888
   },
   {
     "ArtistID": 6433,
@@ -2250,15 +2573,15 @@
     "Country": "Cairo",
     "BeginDate": "2003",
     "EndDate": "",
-    "Genres": "arabic hip hop, egyptian hip hop, egyptian pop, mahraganat",
+    "Genres": "[\"egyptian pop\", \"egyptian hip hop\", \"arabic hip hop\", \"mahraganat\"]",
     "OfficialWebsite": "http://www.cairokee.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Cairokee",
     "SpotifyID": "2GVksDv9UpY60i4CvytrZK",
     "SpotifyURL": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK",
     "SpotifyURI": "spotify:artist:2GVksDv9UpY60i4CvytrZK",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb031d0209d9cb8abbc0505769",
-    "SpotifyPopularity": 62,
-    "SpotifyFollowers": 3878216
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5a4adbef2c5911540fb0cd8f",
+    "SpotifyPopularity": 64,
+    "SpotifyFollowers": 4942257
   },
   {
     "ArtistID": 6437,
@@ -2383,15 +2706,34 @@
     "Country": "PK",
     "BeginDate": "1984-12-18",
     "EndDate": "",
-    "Genres": "bollywood, hindi pop",
+    "Genres": "[\"bollywood\", \"hindi pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Mustafa_Zahid",
     "SpotifyID": "71oGOxg5ez52Hh1Ye41A98",
     "SpotifyURL": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98",
     "SpotifyURI": "spotify:artist:71oGOxg5ez52Hh1Ye41A98",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb858d8ef56777dd7a88e0a6dd",
-    "SpotifyPopularity": 70,
-    "SpotifyFollowers": 4563582
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9e1e7dbe7d055ed49783cf61",
+    "SpotifyPopularity": 71,
+    "SpotifyFollowers": 4792258
+  },
+  {
+    "ArtistID": 7195,
+    "Artist": "Young Jonn",
+    "Alias": "",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "NG",
+    "BeginDate": "1995-02-16",
+    "EndDate": "",
+    "Genres": "afro adura, afro r&b, afrobeat, afrobeats, afropiano, afropop",
+    "OfficialWebsite": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Young_John",
+    "SpotifyID": "4JM1zsVj1pt38Q8mhv5teI",
+    "SpotifyURL": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI",
+    "SpotifyURI": "spotify:artist:4JM1zsVj1pt38Q8mhv5teI",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb02910ae55de68b4efe48b00e",
+    "SpotifyPopularity": 65,
+    "SpotifyFollowers": 1920165
   },
   {
     "ArtistID": 7420,
@@ -2402,15 +2744,15 @@
     "Country": "TR",
     "BeginDate": "1970-02-17",
     "EndDate": "",
-    "Genres": "t-pop, turkish, turkish pop",
+    "Genres": "[\"turkish pop\", \"t-pop\"]",
     "OfficialWebsite": "http://www.serdarortac.net/",
     "Wikipedia": "",
     "SpotifyID": "7BJjzi0JHyDHAsmVe21dGa",
     "SpotifyURL": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa",
     "SpotifyURI": "spotify:artist:7BJjzi0JHyDHAsmVe21dGa",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebede6e2c2886ad29725a9ebf5",
-    "SpotifyPopularity": 71,
-    "SpotifyFollowers": 2167689
+    "SpotifyPopularity": 69,
+    "SpotifyFollowers": 2618800
   },
   {
     "ArtistID": 7488,
@@ -2433,7 +2775,7 @@
   },
   {
     "ArtistID": 7572,
-    "Artist": "Sam",
+    "Artist": "säm",
     "Alias": "Sam Cook, Samuel Cook",
     "Type": "Person",
     "Gender": "male",
@@ -2446,9 +2788,9 @@
     "SpotifyID": "6kvEy25jX5e1RtdFn1Eo3X",
     "SpotifyURL": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X",
     "SpotifyURI": "spotify:artist:6kvEy25jX5e1RtdFn1Eo3X",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebfb580920eb7b6b558899f9d6",
+    "SpotifyPopularity": 47,
+    "SpotifyFollowers": 19953
   },
   {
     "ArtistID": 7735,
@@ -2459,15 +2801,15 @@
     "Country": "BR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "pagode, samba",
+    "Genres": "[\"pagode\", \"samba\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Kamisa_10",
     "SpotifyID": "39VceBo0jXir85LCeAmAIs",
     "SpotifyURL": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs",
     "SpotifyURI": "spotify:artist:39VceBo0jXir85LCeAmAIs",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb72864558176a8e95f364428a",
-    "SpotifyPopularity": 68,
-    "SpotifyFollowers": 512678
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4db46a39b34beb19dd9aecd3",
+    "SpotifyPopularity": 70,
+    "SpotifyFollowers": 876581
   },
   {
     "ArtistID": 7770,
@@ -2478,15 +2820,15 @@
     "Country": "BR",
     "BeginDate": "1946-07-01",
     "EndDate": "",
-    "Genres": "actor, brazil, forro tradicional, forró, mpb, pernambuco, pop, producer, singer-songwriter, singer/songwriter",
+    "Genres": "[\"mpb\", \"forró tradicional\", \"forró\"]",
     "OfficialWebsite": "http://alceuvalenca.com.br/",
     "Wikipedia": "https://pt.wikipedia.org/wiki/Alceu_Valen%C3%A7a",
     "SpotifyID": "559vxOLTzlAv0zB77JMcdG",
     "SpotifyURL": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG",
     "SpotifyURI": "spotify:artist:559vxOLTzlAv0zB77JMcdG",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9e3d31645ea7b72d969394cc",
-    "SpotifyPopularity": 65,
-    "SpotifyFollowers": 1866840
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb60fc12abae5e357a0297e5a6",
+    "SpotifyPopularity": 68,
+    "SpotifyFollowers": 2025034
   },
   {
     "ArtistID": 7865,
@@ -2503,9 +2845,9 @@
     "SpotifyID": "3E12tRURRvPfHz0hAMCFYc",
     "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc",
     "SpotifyURI": "spotify:artist:3E12tRURRvPfHz0hAMCFYc",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6270ba142ce97c0b644024e9",
-    "SpotifyPopularity": 85,
-    "SpotifyFollowers": 1330762
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd317f301a85fd77964d94b4d",
+    "SpotifyPopularity": 89,
+    "SpotifyFollowers": 4379285
   },
   {
     "ArtistID": 7958,
@@ -2535,15 +2877,15 @@
     "Country": "JP",
     "BeginDate": "2019-12-11",
     "EndDate": "",
-    "Genres": "boy band, j-pop",
+    "Genres": "[\"j-pop\"]",
     "OfficialWebsite": "https://jo1.jp/",
     "Wikipedia": "https://en.wikipedia.org/wiki/JO1",
-    "SpotifyID": "4u45IgUkhkBn4KXHnuiXvm",
-    "SpotifyURL": "https://open.spotify.com/artist/4u45IgUkhkBn4KXHnuiXvm",
-    "SpotifyURI": "spotify:artist:4u45IgUkhkBn4KXHnuiXvm",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273447745aec94b54fa1f6a0f93",
-    "SpotifyPopularity": 7,
-    "SpotifyFollowers": 289
+    "SpotifyID": "2koP6FEfIEVk4l2Fe6jFhu",
+    "SpotifyURL": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu",
+    "SpotifyURI": "spotify:artist:2koP6FEfIEVk4l2Fe6jFhu",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0c255891cf482867865c7a53",
+    "SpotifyPopularity": 66,
+    "SpotifyFollowers": 290470
   },
   {
     "ArtistID": 8468,
@@ -2554,15 +2896,15 @@
     "Country": "BR",
     "BeginDate": "1965-09-25",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"samba\", \"mpb\"]",
     "OfficialWebsite": "http://www.martnalia.com.br/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Mart%E2%80%99n%C3%A1lia",
     "SpotifyID": "4EUuQxMNowMUEs5gu4BzBX",
     "SpotifyURL": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX",
     "SpotifyURI": "spotify:artist:4EUuQxMNowMUEs5gu4BzBX",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9d8e5e250bc989b9e3f0186c",
+    "SpotifyPopularity": 61,
+    "SpotifyFollowers": 411627
   },
   {
     "ArtistID": 8583,
@@ -2592,15 +2934,15 @@
     "Country": "CO",
     "BeginDate": "1997",
     "EndDate": "",
-    "Genres": "reggaeton, colombian reggaeton, trap",
+    "Genres": "[\"latin afrobeats\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3UTF2no3muGdiFXVujl94i",
     "SpotifyURL": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i",
     "SpotifyURI": "spotify:artist:3UTF2no3muGdiFXVujl94i",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7353cde951b10b3bde087251",
-    "SpotifyPopularity": 78,
-    "SpotifyFollowers": 792238
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6b8b70db0a24e4cb88d37ed7",
+    "SpotifyPopularity": 81,
+    "SpotifyFollowers": 1639175
   },
   {
     "ArtistID": 8954,
@@ -2630,15 +2972,15 @@
     "Country": "Anápolis",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "arrocha, brega, forró, piseiro, seresta, sertanejo",
+    "Genres": "[\"seresta\", \"arrocha\", \"piseiro\", \"forró\", \"brega\", \"sertanejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://pt.wikipedia.org/wiki/Grelo_(cantor)",
     "SpotifyID": "1eIYP01ZLPKEExhcV6xFgt",
     "SpotifyURL": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt",
     "SpotifyURI": "spotify:artist:1eIYP01ZLPKEExhcV6xFgt",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebad130bda3f5bff9614b0d5d7",
-    "SpotifyPopularity": 72,
-    "SpotifyFollowers": 1044493
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd77b51af68fc6c628eb17049",
+    "SpotifyPopularity": 66,
+    "SpotifyFollowers": 1295535
   },
   {
     "ArtistID": 8970,
@@ -2660,6 +3002,25 @@
     "SpotifyFollowers": 653412
   },
   {
+    "ArtistID": 8995,
+    "Artist": "KATSEYE",
+    "Alias": "کتس‌آی, 카츠아이",
+    "Type": "Group",
+    "Gender": "",
+    "Country": "US",
+    "BeginDate": "2023-11-18",
+    "EndDate": "",
+    "Genres": "[\"k-pop\"]",
+    "OfficialWebsite": "https://www.katseye.world/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/KATSEYE",
+    "SpotifyID": "3c0gDdb9lhnHGFtP4prQpn",
+    "SpotifyURL": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn",
+    "SpotifyURI": "spotify:artist:3c0gDdb9lhnHGFtP4prQpn",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe4892ff677f801f85814a02d",
+    "SpotifyPopularity": 87,
+    "SpotifyFollowers": 12033463
+  },
+  {
     "ArtistID": 9001,
     "Artist": "סטילה",
     "Alias": "דור סורוקר",
@@ -2668,15 +3029,15 @@
     "Country": "IL",
     "BeginDate": "1998-11-01",
     "EndDate": "",
-    "Genres": "mizrahi",
+    "Genres": "[\"mizrahi\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/%D7%A1%D7%98%D7%99%D7%9C%D7%94",
     "SpotifyID": "7lwdlhwSxbB36wqnOwo5Kd",
     "SpotifyURL": "https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd",
     "SpotifyURI": "spotify:artist:7lwdlhwSxbB36wqnOwo5Kd",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb40e97c469eaebaf93132d2f4",
-    "SpotifyPopularity": 55,
-    "SpotifyFollowers": 81026
+    "SpotifyPopularity": 50,
+    "SpotifyFollowers": 114129
   },
   {
     "ArtistID": 9014,
@@ -2725,15 +3086,15 @@
     "Country": "AU",
     "BeginDate": "1936-04-22",
     "EndDate": "2017-08-08",
-    "Genres": "2008 universal fire victim, baroque pop, christmas music, classic pop and rock, country, country pop, folk pop, greatest hits, nashville sound, portuguese hip hop",
+    "Genres": "[\"portuguese hip hop\"]",
     "OfficialWebsite": "http://www.glencampbell.com/",
     "Wikipedia": "",
     "SpotifyID": "2swvbEAfN70ZFcQB4Y7MaS",
     "SpotifyURL": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS",
     "SpotifyURI": "spotify:artist:2swvbEAfN70ZFcQB4Y7MaS",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb134a9d1cb98402a85633df42",
-    "SpotifyPopularity": 57,
-    "SpotifyFollowers": 324134
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4f382fb429be4a09ceb1ccd0",
+    "SpotifyPopularity": 60,
+    "SpotifyFollowers": 358824
   },
   {
     "ArtistID": 9109,
@@ -2744,15 +3105,15 @@
     "Country": "BR",
     "BeginDate": "2009",
     "EndDate": "",
-    "Genres": "agronejo, sertanejo, sertanejo universitário",
+    "Genres": "[\"sertanejo\", \"agronejo\", \"sertanejo universitário\"]",
     "OfficialWebsite": "http://www.bruninhoedavi.com.br/",
     "Wikipedia": "",
     "SpotifyID": "5DaqVKaxeqDbJuxaIP9m4u",
     "SpotifyURL": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u",
     "SpotifyURI": "spotify:artist:5DaqVKaxeqDbJuxaIP9m4u",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebef0055038a0f8ffe002ff0a8",
-    "SpotifyPopularity": 72,
-    "SpotifyFollowers": 192754
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebdd443b0b14f1f11946b44929",
+    "SpotifyPopularity": 73,
+    "SpotifyFollowers": 668498
   },
   {
     "ArtistID": 9111,
@@ -2774,6 +3135,25 @@
     "SpotifyFollowers": 613281
   },
   {
+    "ArtistID": 9116,
+    "Artist": "Ella Langley",
+    "Alias": "",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "US",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "[\"country\"]",
+    "OfficialWebsite": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Ella_Langley",
+    "SpotifyID": "6BRxQ8cD3eqnrVj6WKDok8",
+    "SpotifyURL": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8",
+    "SpotifyURI": "spotify:artist:6BRxQ8cD3eqnrVj6WKDok8",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc4670378a4188c3174ef2ca9",
+    "SpotifyPopularity": 89,
+    "SpotifyFollowers": 2194359
+  },
+  {
     "ArtistID": 9122,
     "Artist": "TUL8TE",
     "Alias": "",
@@ -2782,15 +3162,15 @@
     "Country": "EG",
     "BeginDate": "2023",
     "EndDate": "",
-    "Genres": "arabic hip hop, egyptian hip hop, egyptian pop, mahraganat",
+    "Genres": "[\"egyptian hip hop\", \"egyptian pop\", \"arabic hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/TUL8TE",
     "SpotifyID": "5QKGejJMncXUNUb9pUFbEf",
     "SpotifyURL": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf",
     "SpotifyURI": "spotify:artist:5QKGejJMncXUNUb9pUFbEf",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5f10cea1a442c10f5d970e11",
-    "SpotifyPopularity": 60,
-    "SpotifyFollowers": 1251450
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb431d8a8aed8c9f4bae7f730a",
+    "SpotifyPopularity": 71,
+    "SpotifyFollowers": 3471168
   },
   {
     "ArtistID": 9136,
@@ -2877,15 +3257,15 @@
     "Country": "BR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "brazilian funk, funk, funk consciente, trap funk",
+    "Genres": "[\"brazilian funk\", \"funk consciente\", \"trap funk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "1mV9h1AwhRXSjBFcYpajgY",
     "SpotifyURL": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY",
     "SpotifyURI": "spotify:artist:1mV9h1AwhRXSjBFcYpajgY",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf152af1acbec01cb9b1bc5f1",
-    "SpotifyPopularity": 72,
-    "SpotifyFollowers": 1226785
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb61b0dd7c13b3186c6108939b",
+    "SpotifyPopularity": 84,
+    "SpotifyFollowers": 2155298
   },
   {
     "ArtistID": 9267,
@@ -2915,15 +3295,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "german hip hop",
+    "Genres": "[\"german hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Selim61",
     "SpotifyID": "1u2sYra3g7wawqCHEkmwP6",
     "SpotifyURL": "https://open.spotify.com/artist/1u2sYra3g7wawqCHEkmwP6",
     "SpotifyURI": "spotify:artist:1u2sYra3g7wawqCHEkmwP6",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4624e1fbfb2b4fe3eb39a24f",
-    "SpotifyPopularity": 55,
-    "SpotifyFollowers": 8365
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe91e97b4d3a08e8b19d8d864",
+    "SpotifyPopularity": 60,
+    "SpotifyFollowers": 26222
   },
   {
     "ArtistID": 9360,
@@ -2953,15 +3333,15 @@
     "Country": "Athens",
     "BeginDate": "1994-08-16",
     "EndDate": "",
-    "Genres": "trap",
+    "Genres": "[\"trap\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/BeTaf_Beats",
     "SpotifyID": "5qDpS8QhKjNRZ6aRrcpY1Z",
     "SpotifyURL": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z",
     "SpotifyURI": "spotify:artist:5qDpS8QhKjNRZ6aRrcpY1Z",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8a392924d207a95ff7005ee0",
-    "SpotifyPopularity": 65,
-    "SpotifyFollowers": 29573
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb3996ab18d27ecbfed54437de",
+    "SpotifyPopularity": 66,
+    "SpotifyFollowers": 41847
   },
   {
     "ArtistID": 9639,
@@ -3018,7 +3398,7 @@
     "SpotifyURI": "spotify:artist:3meJIgRw7YleJrmbpbJK6S",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7de827ab626c867816052015",
     "SpotifyPopularity": 88,
-    "SpotifyFollowers": 1159790
+    "SpotifyFollowers": 1283564
   },
   {
     "ArtistID": 10562,
@@ -3035,9 +3415,9 @@
     "SpotifyID": "6g6DtbtyBi3Ir0mxiDlouJ",
     "SpotifyURL": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ",
     "SpotifyURI": "spotify:artist:6g6DtbtyBi3Ir0mxiDlouJ",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba915dc57636c20294a34b997",
-    "SpotifyPopularity": 49,
-    "SpotifyFollowers": 93963
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc2b523357ddfcfee533fd369",
+    "SpotifyPopularity": 47,
+    "SpotifyFollowers": 126749
   },
   {
     "ArtistID": 10857,
@@ -3059,6 +3439,25 @@
     "SpotifyFollowers": 959880
   },
   {
+    "ArtistID": 11575,
+    "Artist": "Ravyn Lenae",
+    "Alias": "Ravyn Lenae Washington",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "US",
+    "BeginDate": "1999-01-22",
+    "EndDate": "",
+    "Genres": "alternative r&b, pop, r&b, singer-songwriter",
+    "OfficialWebsite": "https://www.ravynlenae.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Ravyn_Lenae",
+    "SpotifyID": "5RTLRtXjbXI2lSXc6jxlAz",
+    "SpotifyURL": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz",
+    "SpotifyURI": "spotify:artist:5RTLRtXjbXI2lSXc6jxlAz",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb138d70fe372dedacdca53b61",
+    "SpotifyPopularity": 78,
+    "SpotifyFollowers": 623017
+  },
+  {
     "ArtistID": 11577,
     "Artist": "ERAY067",
     "Alias": "",
@@ -3067,15 +3466,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "turkish hip hop",
+    "Genres": "[\"turkish hip hop\", \"pop rap\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "7l1AEP7z8ERNZzknXqPUFT",
     "SpotifyURL": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT",
     "SpotifyURI": "spotify:artist:7l1AEP7z8ERNZzknXqPUFT",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0cb8b9eb0de2ab23db8c4f10",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb72adcac92cb41fe56cd138c9",
     "SpotifyPopularity": 67,
-    "SpotifyFollowers": 89759
+    "SpotifyFollowers": 540394
   },
   {
     "ArtistID": 11685,
@@ -3105,15 +3504,15 @@
     "Country": "TR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "turkish hip hop",
+    "Genres": "[\"turkish hip hop\", \"pop rap\", \"arabesk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "250LLR8V4fFq1XFzAB1ZN5",
     "SpotifyURL": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5",
     "SpotifyURI": "spotify:artist:250LLR8V4fFq1XFzAB1ZN5",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0834afc1d44f03b149e78fef",
-    "SpotifyPopularity": 73,
-    "SpotifyFollowers": 229707
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb02dfa3c9117759aa8d150e1a",
+    "SpotifyPopularity": 74,
+    "SpotifyFollowers": 2029352
   },
   {
     "ArtistID": 12151,
@@ -3206,9 +3605,9 @@
     "SpotifyID": "6c2qQFq3xfxFJndX6wSe4f",
     "SpotifyURL": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f",
     "SpotifyURI": "spotify:artist:6c2qQFq3xfxFJndX6wSe4f",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb83c1fdcef36a94e020994b51",
-    "SpotifyPopularity": 64,
-    "SpotifyFollowers": 154828
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb80e8456f3ecc34f93ceebdde",
+    "SpotifyPopularity": 69,
+    "SpotifyFollowers": 446921
   },
   {
     "ArtistID": 12316,
@@ -3249,6 +3648,25 @@
     "SpotifyFollowers": 502462
   },
   {
+    "ArtistID": 12491,
+    "Artist": "Idaly",
+    "Alias": "",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "NL",
+    "BeginDate": "1995",
+    "EndDate": "",
+    "Genres": "",
+    "OfficialWebsite": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Idaly",
+    "SpotifyID": "1EYdbYpGAuJy6uZo4sVMoM",
+    "SpotifyURL": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM",
+    "SpotifyURI": "spotify:artist:1EYdbYpGAuJy6uZo4sVMoM",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd28526cf30ec62194514224d",
+    "SpotifyPopularity": 64,
+    "SpotifyFollowers": 117253
+  },
+  {
     "ArtistID": 12493,
     "Artist": "Frsh",
     "Alias": "",
@@ -3263,9 +3681,9 @@
     "SpotifyID": "19CxlXaWOlZh2pqZrJlHxN",
     "SpotifyURL": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN",
     "SpotifyURI": "spotify:artist:19CxlXaWOlZh2pqZrJlHxN",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0fdc136ebede346c2088a58c",
+    "SpotifyPopularity": 66,
+    "SpotifyFollowers": 78663
   },
   {
     "ArtistID": 12537,
@@ -3287,23 +3705,42 @@
     "SpotifyFollowers": 64060
   },
   {
+    "ArtistID": 12540,
+    "Artist": "Naykilla",
+    "Alias": "",
+    "Type": "",
+    "Gender": "",
+    "Country": "ID",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "dangdut, funkot, indonesian pop, lagu timur, malay, malay rap",
+    "OfficialWebsite": "",
+    "Wikipedia": "",
+    "SpotifyID": "79omf4LgzaVAnXIRWPkJUq",
+    "SpotifyURL": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq",
+    "SpotifyURI": "spotify:artist:79omf4LgzaVAnXIRWPkJUq",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc36aa8671e08e0a7845aae9a",
+    "SpotifyPopularity": 71,
+    "SpotifyFollowers": 84262
+  },
+  {
     "ArtistID": 12804,
-    "Artist": "DJ Jhow Beats",
+    "Artist": "DJ JHOW BEATS",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
     "Country": "BR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "brazilian funk, funk",
+    "Genres": "[\"brazilian funk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/DJ_Jhow_Beats",
     "SpotifyID": "4CpxOMOqIfPQmEet9UnWhe",
     "SpotifyURL": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe",
     "SpotifyURI": "spotify:artist:4CpxOMOqIfPQmEet9UnWhe",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebed97d7a33fbf9cbdb76b1ddd",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf55c892426c2b84a46af8f3d",
     "SpotifyPopularity": 63,
-    "SpotifyFollowers": 4891
+    "SpotifyFollowers": 28947
   },
   {
     "ArtistID": 12939,
@@ -3314,15 +3751,15 @@
     "Country": "CI",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "asakaa",
+    "Genres": "[\"rap ivoire\", \"coupé décalé\", \"asakaa\", \"french rap\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "39SBljHcUD66edvRmiRqlS",
     "SpotifyURL": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS",
     "SpotifyURI": "spotify:artist:39SBljHcUD66edvRmiRqlS",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc35eda06cefddc1b9f24522f",
-    "SpotifyPopularity": 64,
-    "SpotifyFollowers": 487033
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba7151af64d57b7177796b234",
+    "SpotifyPopularity": 70,
+    "SpotifyFollowers": 1611664
   },
   {
     "ArtistID": 12995,
@@ -3333,15 +3770,15 @@
     "Country": "ES",
     "BeginDate": "1959-07-11",
     "EndDate": "",
-    "Genres": "2008 universal fire victim, alternative folk, alternative rock, art pop, chamber pop, classic pop and rock, contemporary folk, cumbia norteña, downtempo, folk, folk pop, folk rock, indie rock, pop, pop rock, ranchera, singer-songwriter, singer/songwriter, stay awake",
+    "Genres": "[\"ranchera\", \"cumbia norteña\"]",
     "OfficialWebsite": "https://www.suzannevega.com/",
     "Wikipedia": "",
     "SpotifyID": "5JMJt80HJWR1e4hMw63Z5t",
     "SpotifyURL": "https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t",
     "SpotifyURI": "spotify:artist:5JMJt80HJWR1e4hMw63Z5t",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb972b8ca48c837b6fcb9d9885",
-    "SpotifyPopularity": 53,
-    "SpotifyFollowers": 102493
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb393ab75806e03743e79ac22c",
+    "SpotifyPopularity": 55,
+    "SpotifyFollowers": 151923
   },
   {
     "ArtistID": 13213,
@@ -3401,6 +3838,44 @@
     "SpotifyFollowers": ""
   },
   {
+    "ArtistID": 18155,
+    "Artist": "Nagy Bogi",
+    "Alias": "",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "HU",
+    "BeginDate": "2002-04-22",
+    "EndDate": "",
+    "Genres": "",
+    "OfficialWebsite": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Nagy_Bogi",
+    "SpotifyID": "3VgOKuwKvAYU4aT7atESfM",
+    "SpotifyURL": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM",
+    "SpotifyURI": "spotify:artist:3VgOKuwKvAYU4aT7atESfM",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb573c8667dd7032340e1dea0a",
+    "SpotifyPopularity": 42,
+    "SpotifyFollowers": 13999
+  },
+  {
+    "ArtistID": 18911,
+    "Artist": "Cris MJ",
+    "Alias": "Francisco Gabilondo Soler, Cri Cri",
+    "Type": "Character",
+    "Gender": "other",
+    "Country": "MX",
+    "BeginDate": "1934",
+    "EndDate": "",
+    "Genres": "[\"reggaeton chileno\", \"chilean trap\", \"chilean mambo\", \"reggaeton\"]",
+    "OfficialWebsite": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Cri%E2%80%90Cr%C3%AD",
+    "SpotifyID": "1Yj5Xey7kTwvZla8sqdsdE",
+    "SpotifyURL": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE",
+    "SpotifyURI": "spotify:artist:1Yj5Xey7kTwvZla8sqdsdE",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb199654eb9083bcc0a5551549",
+    "SpotifyPopularity": 84,
+    "SpotifyFollowers": 8454952
+  },
+  {
     "ArtistID": 19084,
     "Artist": "LFERDA",
     "Alias": "",
@@ -3409,15 +3884,15 @@
     "Country": "MA",
     "BeginDate": "1992",
     "EndDate": "",
-    "Genres": "arabic hip hop, moroccan pop, moroccan rap",
+    "Genres": "[\"moroccan rap\", \"moroccan pop\", \"arabic hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/LFERDA",
     "SpotifyID": "0bmKQDkU4J3gUykZS8tb6v",
     "SpotifyURL": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v",
     "SpotifyURI": "spotify:artist:0bmKQDkU4J3gUykZS8tb6v",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe7bf9c7f8fe5502904019b2e",
-    "SpotifyPopularity": 56,
-    "SpotifyFollowers": 1534865
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb70c1aebce8c86432be628f9c",
+    "SpotifyPopularity": 60,
+    "SpotifyFollowers": 2692912
   },
   {
     "ArtistID": 19203,
@@ -3428,15 +3903,15 @@
     "Country": "NL",
     "BeginDate": "1983",
     "EndDate": "",
-    "Genres": "rock, electronic, post-rock, synthpop, pop, norwegian, new wave, synth-pop, electropop, 1980s, 1990s, 2000s, dance-pop, pop rock, new romantic, european, norsk, synth pop, video, pop and chart, euro-pop, euro-dance, sophisti-pop, punk/new wave, club/dance, dance-rock, alphaville, euro-rock",
+    "Genres": "[\"hollands\"]",
     "OfficialWebsite": "http://a-ha.com/",
     "Wikipedia": "",
     "SpotifyID": "36WPIJMvnC1lSvjwMHrGAR",
     "SpotifyURL": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR",
     "SpotifyURI": "spotify:artist:36WPIJMvnC1lSvjwMHrGAR",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb11c258c9298d7b15b2498272",
+    "SpotifyPopularity": 64,
+    "SpotifyFollowers": 20990
   },
   {
     "ArtistID": 19393,
@@ -3447,15 +3922,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"afro adura\", \"afro r&b\", \"afro soul\", \"afrobeat\", \"afrobeats\", \"alté\", \"afropop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3hz0ZIs5SlEnlK0ML7FmNc",
     "SpotifyURL": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc",
     "SpotifyURI": "spotify:artist:3hz0ZIs5SlEnlK0ML7FmNc",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebdc2373fddb9a211195b1853e",
+    "SpotifyPopularity": 62,
+    "SpotifyFollowers": 405905
   },
   {
     "ArtistID": 19912,
@@ -3474,7 +3949,7 @@
     "SpotifyURI": "spotify:artist:070tdNOiP3pIsGlqNfVkG3",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb77ab243d31559fb3d1f74eeb",
     "SpotifyPopularity": 56,
-    "SpotifyFollowers": 226408
+    "SpotifyFollowers": 253038
   },
   {
     "ArtistID": 20508,
@@ -3488,12 +3963,12 @@
     "Genres": "anime, soundtrack",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Shiro",
-    "SpotifyID": "5k3NfhEeZHpouIGDpjKOPo",
-    "SpotifyURL": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo",
-    "SpotifyURI": "spotify:artist:5k3NfhEeZHpouIGDpjKOPo",
-    "SpotifyImageURL": "https://i.scdn.co/image/f92fa0801a9a2ecc9ff854c5d80b847afb684e6c",
-    "SpotifyPopularity": 63,
-    "SpotifyFollowers": 238918
+    "SpotifyID": "2r9JAY6ISvp0VvZsT6cBJo",
+    "SpotifyURL": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo",
+    "SpotifyURI": "spotify:artist:2r9JAY6ISvp0VvZsT6cBJo",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebef35a38d4beddf1911f31cdc",
+    "SpotifyPopularity": 55,
+    "SpotifyFollowers": 53365
   },
   {
     "ArtistID": 21026,
@@ -3504,15 +3979,15 @@
     "Country": "CH",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "sertanejo, sertanejo tradicional",
+    "Genres": "[\"cumbia\", \"cuarteto\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Luana",
-    "SpotifyID": "5CjfexCf8RGNsBpE4dqiy7",
-    "SpotifyURL": "https://open.spotify.com/artist/5CjfexCf8RGNsBpE4dqiy7",
-    "SpotifyURI": "spotify:artist:5CjfexCf8RGNsBpE4dqiy7",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb008252ca5304bc33647e5bb1",
-    "SpotifyPopularity": 53,
-    "SpotifyFollowers": 5276
+    "SpotifyID": "6uJKnn4CV4IIop8mg4kCUy",
+    "SpotifyURL": "https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy",
+    "SpotifyURI": "spotify:artist:6uJKnn4CV4IIop8mg4kCUy",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb660fed9c03b2e7257142c68f",
+    "SpotifyPopularity": 50,
+    "SpotifyFollowers": 99594
   },
   {
     "ArtistID": 21513,
@@ -3542,15 +4017,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "hardstyle",
+    "Genres": "[\"hardstyle\", \"frenchcore\", \"tekno\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/%D0%B2%D0%BB%D0%B0%D0%B4_%D0%BF%D0%B8%D0%B2%D0%BE",
     "SpotifyID": "3k8nJjlX4arHWhC2WFelg9",
     "SpotifyURL": "https://open.spotify.com/artist/3k8nJjlX4arHWhC2WFelg9",
     "SpotifyURI": "spotify:artist:3k8nJjlX4arHWhC2WFelg9",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb187037a3d76e49e1ac52cc5a",
-    "SpotifyPopularity": 53,
-    "SpotifyFollowers": 30976
+    "SpotifyPopularity": 54,
+    "SpotifyFollowers": 39778
   },
   {
     "ArtistID": 22220,
@@ -3561,15 +4036,15 @@
     "Country": "RO",
     "BeginDate": "1999",
     "EndDate": "",
-    "Genres": "2000s, dance-pop, electropop, europop, romanian, romanian band",
+    "Genres": "[\"disco polo\", \"disco\"]",
     "OfficialWebsite": "http://www.akcentonline.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Akcent",
-    "SpotifyID": "57Pw3FSi1qi2fOY4wKOKjK",
-    "SpotifyURL": "https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK",
-    "SpotifyURI": "spotify:artist:57Pw3FSi1qi2fOY4wKOKjK",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd815650542d096e24c1f0df8",
+    "SpotifyID": "10wjV72OetIdsUQEcjSnOd",
+    "SpotifyURL": "https://open.spotify.com/artist/10wjV72OetIdsUQEcjSnOd",
+    "SpotifyURI": "spotify:artist:10wjV72OetIdsUQEcjSnOd",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb92232ae8a21885d67b11fe70",
     "SpotifyPopularity": 55,
-    "SpotifyFollowers": 214158
+    "SpotifyFollowers": 123922
   },
   {
     "ArtistID": 22228,
@@ -3599,15 +4074,15 @@
     "Country": "HK",
     "BeginDate": "1972-08-19",
     "EndDate": "",
-    "Genres": "1990s, 1990s hong kong debut, 2000s, 2010s, 2020s, actress, c-pop, cantopop, chinese, dance-pop, female vocals, mandopop",
+    "Genres": "[\"cantopop\", \"c-pop\", \"mandopop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3XCnp5UV5wnNw49Xuka9qH",
     "SpotifyURL": "https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH",
     "SpotifyURI": "spotify:artist:3XCnp5UV5wnNw49Xuka9qH",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2919c457e1fe417ab3053bc6",
-    "SpotifyPopularity": 55,
-    "SpotifyFollowers": 431294
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb19fef81c3997064588c011d9",
+    "SpotifyPopularity": 58,
+    "SpotifyFollowers": 476828
   },
   {
     "ArtistID": 23202,
@@ -3649,41 +4124,60 @@
   },
   {
     "ArtistID": 23541,
-    "Artist": "Rush Hour",
+    "Artist": "Team Rush Hour",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
     "Country": "GB",
     "BeginDate": "1966-10-14",
     "EndDate": "",
-    "Genres": "moombahton",
+    "Genres": "[\"moombahton\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Rush_Hour",
     "SpotifyID": "3GV34zJlfaSxsr8YZ1zEbP",
     "SpotifyURL": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP",
     "SpotifyURI": "spotify:artist:3GV34zJlfaSxsr8YZ1zEbP",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb4fcf5cc968eadce401d0573",
-    "SpotifyPopularity": 43,
-    "SpotifyFollowers": 29317
+    "SpotifyPopularity": 51,
+    "SpotifyFollowers": 36520
   },
   {
     "ArtistID": 23547,
-    "Artist": "Brace! Brace!",
+    "Artist": "Brace",
     "Alias": "",
     "Type": "Group",
     "Gender": "",
     "Country": "",
     "BeginDate": "2016",
     "EndDate": "",
-    "Genres": "nederpop",
+    "Genres": "[\"hollands\", \"nederpop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Brace%21_Brace%21",
     "SpotifyID": "2eHZ1Vns5972fZNdhnjopG",
     "SpotifyURL": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG",
     "SpotifyURI": "spotify:artist:2eHZ1Vns5972fZNdhnjopG",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb204769e879ec1c631ef6a320",
-    "SpotifyPopularity": 51,
-    "SpotifyFollowers": 34347
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb39817d4602f5e677fee764b5",
+    "SpotifyPopularity": 53,
+    "SpotifyFollowers": 36464
+  },
+  {
+    "ArtistID": 23808,
+    "Artist": "Andiex",
+    "Alias": "",
+    "Type": "",
+    "Gender": "",
+    "Country": "nan",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "",
+    "OfficialWebsite": "",
+    "Wikipedia": "",
+    "SpotifyID": "4vICqNWZlcu4zoSfTG05RY",
+    "SpotifyURL": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY",
+    "SpotifyURI": "spotify:artist:4vICqNWZlcu4zoSfTG05RY",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb881e7e0ea0a8ed5f81a695b8",
+    "SpotifyPopularity": 52,
+    "SpotifyFollowers": 95678
   },
   {
     "ArtistID": 24844,
@@ -3706,22 +4200,22 @@
   },
   {
     "ArtistID": 25429,
-    "Artist": "Khánh Linh",
+    "Artist": "Phùng Khánh Linh",
     "Alias": "",
     "Type": "Person",
     "Gender": "female",
     "Country": "VN",
     "BeginDate": "1983-08-29",
     "EndDate": "",
-    "Genres": "city pop, ns hà nội, v-pop, vietnam indie",
+    "Genres": "[\"v-pop\", \"vietnam indie\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://vi.wikipedia.org/wiki/Kh%C3%A1nh_Linh",
     "SpotifyID": "23Gbd21nBxC1kCtcG2Cd0C",
     "SpotifyURL": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C",
     "SpotifyURI": "spotify:artist:23Gbd21nBxC1kCtcG2Cd0C",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6c08b3a0938f074611a46c73",
-    "SpotifyPopularity": 48,
-    "SpotifyFollowers": 89509
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb3d72fd994882153be8113e7d",
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 307640
   },
   {
     "ArtistID": 26070,
@@ -3743,25 +4237,6 @@
     "SpotifyFollowers": ""
   },
   {
-    "ArtistID": 26374,
-    "Artist": "Deniss",
-    "Alias": "Deniss Stepanovs",
-    "Type": "Person",
-    "Gender": "male",
-    "Country": "LV",
-    "BeginDate": "",
-    "EndDate": "",
-    "Genres": "latin folklore",
-    "OfficialWebsite": "",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Deniss",
-    "SpotifyID": "7Buj3BepqTe1ACFEa8x93l",
-    "SpotifyURL": "https://open.spotify.com/artist/7Buj3BepqTe1ACFEa8x93l",
-    "SpotifyURI": "spotify:artist:7Buj3BepqTe1ACFEa8x93l",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd320d356142252a3d05719ea",
-    "SpotifyPopularity": 42,
-    "SpotifyFollowers": 9036
-  },
-  {
     "ArtistID": 26416,
     "Artist": "Pam Rabbit",
     "Alias": "",
@@ -3776,9 +4251,9 @@
     "SpotifyID": "60jJZhMQOPHeCvoBosXVWU",
     "SpotifyURL": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU",
     "SpotifyURI": "spotify:artist:60jJZhMQOPHeCvoBosXVWU",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf6ad7fefc950120f6741601d",
-    "SpotifyPopularity": 44,
-    "SpotifyFollowers": 21004
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebcea938fed97a9bdf385f9a82",
+    "SpotifyPopularity": 42,
+    "SpotifyFollowers": 27230
   },
   {
     "ArtistID": 26491,
@@ -3789,15 +4264,15 @@
     "Country": "",
     "BeginDate": "1984",
     "EndDate": "",
-    "Genres": "american, classic pop and rock, cumbia, dream pop, indie rock, noise pop, rock, the lost generation",
+    "Genres": "[\"cumbia\"]",
     "OfficialWebsite": "http://yolatengo.com/",
     "Wikipedia": "",
     "SpotifyID": "07y4PkqTJCaJAjQ1jCKoJx",
     "SpotifyURL": "https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx",
     "SpotifyURI": "spotify:artist:07y4PkqTJCaJAjQ1jCKoJx",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebfc9a96ac176b8185bfcfe411",
-    "SpotifyPopularity": 54,
-    "SpotifyFollowers": 9867
+    "SpotifyPopularity": 56,
+    "SpotifyFollowers": 27504
   },
   {
     "ArtistID": 26566,
@@ -3814,9 +4289,9 @@
     "SpotifyID": "7jAs1uPnpfNmT6e5qtEPxq",
     "SpotifyURL": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq",
     "SpotifyURI": "spotify:artist:7jAs1uPnpfNmT6e5qtEPxq",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb09f46b0620b7bd9b3b8f4b4e",
-    "SpotifyPopularity": 71,
-    "SpotifyFollowers": 126053
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb10005060dce88f193affee3d",
+    "SpotifyPopularity": 69,
+    "SpotifyFollowers": 150727
   },
   {
     "ArtistID": 26795,
@@ -3827,15 +4302,15 @@
     "Country": "DE",
     "BeginDate": "1948-08-15",
     "EndDate": "",
-    "Genres": "arabesk, fantezi, turkish, turkish pop",
+    "Genres": "[\"turkish pop\", \"arabesk\"]",
     "OfficialWebsite": "http://www.selamisahin.com.tr/",
     "Wikipedia": "",
     "SpotifyID": "7p71hjdN4GlGgIsmCQIvuC",
     "SpotifyURL": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC",
     "SpotifyURI": "spotify:artist:7p71hjdN4GlGgIsmCQIvuC",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc03c44fc9a6ba906e538efb8",
-    "SpotifyPopularity": 64,
-    "SpotifyFollowers": 336690
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb83828a1ffb694f8f50b50f70",
+    "SpotifyPopularity": 62,
+    "SpotifyFollowers": 523343
   },
   {
     "ArtistID": 27064,
@@ -3896,22 +4371,41 @@
   },
   {
     "ArtistID": 27918,
-    "Artist": "Mauvais Djo",
+    "Artist": "Mauvais djo",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
     "Country": "US",
     "BeginDate": "1992-04-24",
     "EndDate": "",
-    "Genres": "indie rock, neo-psychedelia, bedroom pop, indie pop",
+    "Genres": "[\"shatta\"]",
     "OfficialWebsite": "https://www.djomusic.com/",
     "Wikipedia": "",
     "SpotifyID": "51OKuyM4BiiYxFm8Mi6fa9",
     "SpotifyURL": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9",
     "SpotifyURI": "spotify:artist:51OKuyM4BiiYxFm8Mi6fa9",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb45949d60720204a5791189ec",
+    "SpotifyPopularity": 80,
+    "SpotifyFollowers": 124222
+  },
+  {
+    "ArtistID": 29853,
+    "Artist": "Yan Block",
+    "Alias": "",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "US",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "",
+    "OfficialWebsite": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Yan_Block",
+    "SpotifyID": "6TKygPpVT29oGUogu4J9Ec",
+    "SpotifyURL": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec",
+    "SpotifyURI": "spotify:artist:6TKygPpVT29oGUogu4J9Ec",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1da4b46f64bb40d556b5684f",
+    "SpotifyPopularity": 82,
+    "SpotifyFollowers": 836796
   },
   {
     "ArtistID": 29911,
@@ -3922,15 +4416,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "german hip hop",
+    "Genres": "[\"german hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "0OgTLK8owUVL3LHNkWtam0",
     "SpotifyURL": "https://open.spotify.com/artist/0OgTLK8owUVL3LHNkWtam0",
     "SpotifyURI": "spotify:artist:0OgTLK8owUVL3LHNkWtam0",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4b666279a6d195a639a5c636",
-    "SpotifyPopularity": 54,
-    "SpotifyFollowers": 9549
+    "SpotifyPopularity": 53,
+    "SpotifyFollowers": 13927
   },
   {
     "ArtistID": 30089,
@@ -3960,72 +4454,72 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "1 16 217528 150 13231 25894 39556 62358 75112 86121 96491 108473 122788 134485 144086 155376 166189 186497 197822, 101 moments in music, 2001 space odyssey, 2014, 2017, 21 throwback jams, 5099265803, 50cents, 80 s fresh new, [various artists], a crooner collection, absolute reggae, absolute voices, acoustic best, adam beyer, africa middle east, alirio diaz, alternative pop ballad club dance electro france chanson german trance hip-hop rnb rock music soul vocal house, ambient, andrade, andre powels, andrew york, apparently people are unable to comprehend what \"various artists\" is, armin van buuren, artist, backstreet boys, bareto, basque, beethoven, berlin school, bflaminio, billboard 1 hits, binaural beats, bioshock soundtrack, birthday, bluegrass, blues, blues rock, boot land, bravo hits, bravo hits 82, breakout artists, bring up on-par with the other spa's and put this in brackets, calypso, candombe, casanovas, cdnnnow128, cdx, celtic celebration, celtic spirit vol 7, chicago, chillout, choral, christmas, classic, classical, classique, classwar karaoke, club, cobles, compilatie, compilation, corrido, corridos bélicos, country, country rock, dedicated to you vol 1, desperado, devotional, devotional buddhist chants, dfree843, die drei, do not using this for artist credits, don t rate the va artist, don t tag the va artist (yes i am aware of this irony), don t use this for artist credits you are to lazy to look-up/make, don't rate the va artist, don't rate the va artist ffs what, don't tag or rate the various artist, don't tag the va artist, don't tag the va artist wtf, don't use this for artist credits you are to lazy to look-up/make, dresch, driven by 80s anthems, drum bass, educacion, elc chritmas, electro, electronic, es lebe der punk, español, eurodance, every-time you and others downvote. it registers in your tags. then i remove my vote. presto! you're the only one keeping it here!, experience the classics, experimental, f to the i to the x to the m to the e, faaaaaail, fail tags, failtags, fix, fix me, fix mess, fix tags, fix your tags, fixme, fix‌me, fjord, folk, folklore, foreign language, frédéric chopin, full of fail tags, fusion, futebol, fuzzy artist, glass, gospel religious, goth, grase, greatest ever! punk & new wave: the definitive collection, groom to the gallows, gérard palaprat, has german audiobooks, healing sixes, hemi-sync, hillbilly, hip hop, hollywood hits, hot hits, http musicbrainz org release-group b2aa521d-001b-34ad-a5e9-ca310e55b254 html, http://www.musik-sammler.de/cover/734500/734011.jpg, i give up on the immature people in the tags here., ibiza, indie, infantil, instrumental, japan, jazz, john coltrane, josquin, jucanto, jungle, kinderchöre, kinderliedjes kapiteinwinokio humo, kindly fix, kindly fixme, klaus baumgart, kpop, la grande sophie, label as artist, latin, leaving on a jet plan, legion of von, likedis auto, lil eazy-e, liturgic, live, liz, liz andrade, local music of iran, loosers that downvote fixmetags are ..., los 24 grandes éxitos de la zarzuela, lounge, marilyn manson, mary j blige, mashup, meditation, mega, megafixme, mess, mess mess, mess mess mess, messy tags, meta artist, metal, michael jackson, mimicking birds, miroque, mohsen namjoo, montuno, more 70, musica, musical, my sharona, m‌ess, ncs, nederlands, new age, new generations, new generations philip glass, new wave, niroshima, nitzer ebb, no matter how long you keep voting down the \"fixme\" tag i will fight you. this should be fixed, no this is still a mess, nox, number 1, old skool of rock disc 1, oldest artist #1, oldest artist rowid, opera, orthodox, ost, papeete, pavarotti, piosenka poetycka muzyka autorska, please consider not using this for artist credits, please fix, please rename to [various artists], pop, pop-rock, popular, practically all these tags are fail, progressive trance, psychobilly, psytrance, punk, punk rock, put in brackets, pzzqxnzt6snn_ekrngheoblbupu-, r&b, ragga, rap, razieq, reggae, release, rename into [various artists], rhythm del mundo, rock, rock and roll, rockabilly, ronak bhatt, s.a. souvenirs, shankar jaikishan, shine 4, shwetabh sucks, ska, soft rock, sonic seducer cold hands vi, soul cargo, special purpose, special purpose artist, sprechgesang, still a mess, stop using this for artist credits period!, stop using this for artist credits you are to lazy to look-up/make, stop using this for artist credits you are to lazy to look-up/make. ffs!, stop using this for artist credits you are to lazy to look-up/make. srsly, sunshine, tag spam, tagmess, tags, tagsmess, tango, tejano, the welcome committee, to the guy that keeps downvoting *every* tag on the va artist, trance, trikitixa, tunguska chillout grooves, ultimate love songs greatest love of all disc 1, ultimatecore, unknown, ussr ministry of culture chamber choir, va - we were first - 180 hits in their original versions (2014), various, various artist; not *every* artist, various artists, venezolana, vera kaa, visions, volkstümliche musik, we ll never stop living this way a ghostly primer, why are you downvoting the \"mess\" tag? it is a mess!, why are you voting down tags that explain stuff, wireharp, world, you *should* fix your tags, you do realise that every time you downvote a fixme-tag below 0 i unvote it and that tag now permanently stays in the expanded list?, z103 5 street mix 2k7, zero t 51, zweiohr, ƒk₷ℳ€, мелодии рождества, ḟixme, 嫌われ松子の歌たち",
+    "Genres": "[\"corrido\", \"corridos bélicos\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "0ocHleb3SllGNQQcDH35Xz",
     "SpotifyURL": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz",
     "SpotifyURI": "spotify:artist:0ocHleb3SllGNQQcDH35Xz",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb95f04ebb08238e8e0cbb050e",
-    "SpotifyPopularity": 70,
-    "SpotifyFollowers": 539470
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5ad15cb6704907b9e5c3f4c5",
+    "SpotifyPopularity": 77,
+    "SpotifyFollowers": 1519085
   },
   {
     "ArtistID": 30945,
-    "Artist": "Benza",
+    "Artist": "Grupo Benzadeus",
     "Alias": "",
     "Type": "Person",
     "Gender": "",
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "pagode, samba",
+    "Genres": "[\"pagode\", \"samba\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Benza",
     "SpotifyID": "66aYJzbeqXd9LyYc1qppzy",
     "SpotifyURL": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy",
     "SpotifyURI": "spotify:artist:66aYJzbeqXd9LyYc1qppzy",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5328da7a14744d513481f6b5",
-    "SpotifyPopularity": 53,
-    "SpotifyFollowers": 24071
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6d7c821eb32df937f41af741",
+    "SpotifyPopularity": 63,
+    "SpotifyFollowers": 74702
   },
   {
     "ArtistID": 31180,
-    "Artist": "Ryan & Ryan",
+    "Artist": "Ryan Castro",
     "Alias": "",
     "Type": "Group",
     "Gender": "",
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "reggaeton",
+    "Genres": "[\"reggaeton\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Ryan_%26_Ryan",
     "SpotifyID": "7j6DKwmjbxvpQO8h914uEz",
     "SpotifyURL": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz",
     "SpotifyURI": "spotify:artist:7j6DKwmjbxvpQO8h914uEz",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc2dd4c5924ae5899f162bebd",
-    "SpotifyPopularity": 80,
-    "SpotifyFollowers": 3997854
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebaa3d392b9f2b4470bde531c6",
+    "SpotifyPopularity": 83,
+    "SpotifyFollowers": 5680065
   },
   {
     "ArtistID": 31286,
-    "Artist": "MC Leozinho",
+    "Artist": "MC Leozinho ZS",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
     "Country": "BR",
     "BeginDate": "1977-05-06",
     "EndDate": "",
-    "Genres": "brazilian funk, funk, funk consciente, funk melody, trap funk",
+    "Genres": "[\"funk consciente\", \"brazilian funk\", \"trap funk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/MC_Leozinho",
     "SpotifyID": "6VyttZwyEMGBl90oGdKCB8",
     "SpotifyURL": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8",
     "SpotifyURI": "spotify:artist:6VyttZwyEMGBl90oGdKCB8",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6844372d02198200322e5c1b",
-    "SpotifyPopularity": 66,
-    "SpotifyFollowers": 732632
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb066efc22eef254591332f9f2",
+    "SpotifyPopularity": 74,
+    "SpotifyFollowers": 1116315
   },
   {
     "ArtistID": 32821,
@@ -4048,22 +4542,22 @@
   },
   {
     "ArtistID": 33001,
-    "Artist": "LeMond",
+    "Artist": "Edy Lemond",
     "Alias": "",
     "Type": "Group",
     "Gender": "",
     "Country": "AT",
     "BeginDate": "2022",
     "EndDate": "",
-    "Genres": "brazilian funk, funk",
+    "Genres": "[\"brazilian funk\", \"agronejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/LeMond",
     "SpotifyID": "65lnOtC17SrJDt6CYdixJI",
     "SpotifyURL": "https://open.spotify.com/artist/65lnOtC17SrJDt6CYdixJI",
     "SpotifyURI": "spotify:artist:65lnOtC17SrJDt6CYdixJI",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1553b3658e4b0f3a657dca45",
-    "SpotifyPopularity": 47,
-    "SpotifyFollowers": 55760
+    "SpotifyPopularity": 60,
+    "SpotifyFollowers": 66872
   },
   {
     "ArtistID": 33123,
@@ -4099,9 +4593,9 @@
     "SpotifyID": "7FRQP6Ivwv3DQCLxpR3I6Z",
     "SpotifyURL": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z",
     "SpotifyURI": "spotify:artist:7FRQP6Ivwv3DQCLxpR3I6Z",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1ab3bd438a3bcc3496f496a2",
-    "SpotifyPopularity": 52,
-    "SpotifyFollowers": 12208
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2ca990d2b92be8f739b868ac",
+    "SpotifyPopularity": 46,
+    "SpotifyFollowers": 15204
   },
   {
     "ArtistID": 35228,
@@ -4118,9 +4612,9 @@
     "SpotifyID": "13NAXNT9stnvGPXbkj7d9u",
     "SpotifyURL": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u",
     "SpotifyURI": "spotify:artist:13NAXNT9stnvGPXbkj7d9u",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb74fd3bc4779df656d0bbc03b",
-    "SpotifyPopularity": 47,
-    "SpotifyFollowers": 21527
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb340df98561998eb917e2e2b6",
+    "SpotifyPopularity": 53,
+    "SpotifyFollowers": 100428
   },
   {
     "ArtistID": 35264,
@@ -4156,9 +4650,9 @@
     "SpotifyID": "7cXMWfc13FEkHKaO1gYaMR",
     "SpotifyURL": "https://open.spotify.com/artist/7cXMWfc13FEkHKaO1gYaMR",
     "SpotifyURI": "spotify:artist:7cXMWfc13FEkHKaO1gYaMR",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc8f717bc978a43836698b8e4",
+    "SpotifyPopularity": 38,
+    "SpotifyFollowers": 6557
   },
   {
     "ArtistID": 36701,
@@ -4169,15 +4663,15 @@
     "Country": "GB",
     "BeginDate": "1995",
     "EndDate": "",
-    "Genres": "british, classic pop and rock, indie rock, indietronica, sadcore, scottish, slowcore, uk",
+    "Genres": "[\"trap\"]",
     "OfficialWebsite": "http://www.arabstrap.co.uk/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Arab",
     "SpotifyID": "3h3WR8UDyRk15U74xAXE7a",
     "SpotifyURL": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a",
     "SpotifyURI": "spotify:artist:3h3WR8UDyRk15U74xAXE7a",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc2d3a236b12f1283913f75b3",
-    "SpotifyPopularity": 62,
-    "SpotifyFollowers": 123503
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf21c1af8376039c13f6d57a3",
+    "SpotifyPopularity": 68,
+    "SpotifyFollowers": 217877
   },
   {
     "ArtistID": 36727,
@@ -4226,15 +4720,15 @@
     "Country": "FR",
     "BeginDate": "1958-10",
     "EndDate": "",
-    "Genres": "accordion, french, jazz",
+    "Genres": "[\"dansk pop\", \"dansktop\"]",
     "OfficialWebsite": "http://www.daniel-mille.com/",
     "Wikipedia": "https://en.wikipedia.org/wiki/Mille",
-    "SpotifyID": "4LLpKhyESsyAXpc4laK94U",
-    "SpotifyURL": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U",
-    "SpotifyURI": "spotify:artist:4LLpKhyESsyAXpc4laK94U",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a",
-    "SpotifyPopularity": 84,
-    "SpotifyFollowers": 11832258
+    "SpotifyID": "1WLr84Nec3Bb8xuxgQZGb9",
+    "SpotifyURL": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9",
+    "SpotifyURI": "spotify:artist:1WLr84Nec3Bb8xuxgQZGb9",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb422ca510fe5a6126e8cf7216",
+    "SpotifyPopularity": 61,
+    "SpotifyFollowers": 34268
   },
   {
     "ArtistID": 36996,
@@ -4245,26 +4739,45 @@
     "Country": "nan",
     "BeginDate": "1989-05-14",
     "EndDate": "",
-    "Genres": "laïko",
+    "Genres": "[\"laïko\"]",
     "OfficialWebsite": "",
     "Wikipedia": "https://en.wikipedia.org/wiki/Ria_Ellinidou",
     "SpotifyID": "5xs1rri2ZKfDpkKLqreHlc",
     "SpotifyURL": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc",
     "SpotifyURI": "spotify:artist:5xs1rri2ZKfDpkKLqreHlc",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd4ebc782fad38e2a64ec68c3",
-    "SpotifyPopularity": 54,
-    "SpotifyFollowers": 16544
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebff6a700e6a2cc29a322aab0e",
+    "SpotifyPopularity": 57,
+    "SpotifyFollowers": 65056
+  },
+  {
+    "ArtistID": 37000,
+    "Artist": "Ryan Castro",
+    "Alias": "Christian Sáinz Valdés Castro, Christian Castro, Cristian",
+    "Type": "Person",
+    "Gender": "male",
+    "Country": "CO",
+    "BeginDate": "1974-12-08",
+    "EndDate": "",
+    "Genres": "latin, latin pop, reggaeton, yolandita monge",
+    "OfficialWebsite": "http://www.cristiancastro.com/",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Ryan_Castro",
+    "SpotifyID": "7j6DKwmjbxvpQO8h914uEz",
+    "SpotifyURL": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz",
+    "SpotifyURI": "spotify:artist:7j6DKwmjbxvpQO8h914uEz",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc2dd4c5924ae5899f162bebd",
+    "SpotifyPopularity": 80,
+    "SpotifyFollowers": 4001954
   },
   {
     "ArtistID": 38097,
-    "Artist": "Pluuto",
+    "Artist": "pluuto",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
     "Country": "EE",
     "BeginDate": "2002-11-04",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"liquid funk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3BtEY5R06YAu1KVF2rvNjg",
@@ -4272,7 +4785,7 @@
     "SpotifyURI": "spotify:artist:3BtEY5R06YAu1KVF2rvNjg",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb731a6a6803f4b11b64f6775c",
     "SpotifyPopularity": 35,
-    "SpotifyFollowers": 7121
+    "SpotifyFollowers": 7226
   },
   {
     "ArtistID": 38760,
@@ -4302,34 +4815,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "turkish pop",
+    "Genres": "[\"turkish pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "0d43Fqs68Oboh6XXo4ztgn",
     "SpotifyURL": "https://open.spotify.com/artist/0d43Fqs68Oboh6XXo4ztgn",
     "SpotifyURI": "spotify:artist:0d43Fqs68Oboh6XXo4ztgn",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebcad68273a334dfc5fe862618",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8f78e100894ab27177e16e5a",
     "SpotifyPopularity": 50,
-    "SpotifyFollowers": 24977
-  },
-  {
-    "ArtistID": 40942,
-    "Artist": "Sudrabu Sirds",
-    "Alias": "",
-    "Type": "Person",
-    "Gender": "male",
-    "Country": "",
-    "BeginDate": "",
-    "EndDate": "",
-    "Genres": "",
-    "OfficialWebsite": "",
-    "Wikipedia": "",
-    "SpotifyID": "5IxWv5qXFhkzRt91O4i6gU",
-    "SpotifyURL": "https://open.spotify.com/artist/5IxWv5qXFhkzRt91O4i6gU",
-    "SpotifyURI": "spotify:artist:5IxWv5qXFhkzRt91O4i6gU",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8e6a032441ae06d85501901d",
-    "SpotifyPopularity": 45,
-    "SpotifyFollowers": 9511
+    "SpotifyFollowers": 37405
   },
   {
     "ArtistID": 41611,
@@ -4343,12 +4837,12 @@
     "Genres": "american, emo, indie, indie rock",
     "OfficialWebsite": "http://www.owenmusic.com/",
     "Wikipedia": "",
-    "SpotifyID": "2hRgsNuAo7lhUqmrl25WD5",
-    "SpotifyURL": "https://open.spotify.com/artist/2hRgsNuAo7lhUqmrl25WD5",
-    "SpotifyURI": "spotify:artist:2hRgsNuAo7lhUqmrl25WD5",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb604a6798902efab5cb8ad91",
-    "SpotifyPopularity": 24,
-    "SpotifyFollowers": 1662
+    "SpotifyID": "0Q5gLNKbp5mpfEvquAaHCl",
+    "SpotifyURL": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl",
+    "SpotifyURI": "spotify:artist:0Q5gLNKbp5mpfEvquAaHCl",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6e879f75d1d75f04b7a76b89",
+    "SpotifyPopularity": 53,
+    "SpotifyFollowers": 70546
   },
   {
     "ArtistID": 42806,
@@ -4362,12 +4856,31 @@
     "Genres": "hardstyle",
     "OfficialWebsite": "",
     "Wikipedia": "",
-    "SpotifyID": "7Dq2NReQjrw6PJHSMCQQEi",
-    "SpotifyURL": "https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi",
-    "SpotifyURI": "spotify:artist:7Dq2NReQjrw6PJHSMCQQEi",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb465195e7c93a95c530acdfe4",
-    "SpotifyPopularity": 54,
-    "SpotifyFollowers": 30549
+    "SpotifyID": "1gxdThXHiWiUTGIrOS7kpw",
+    "SpotifyURL": "https://open.spotify.com/artist/1gxdThXHiWiUTGIrOS7kpw",
+    "SpotifyURI": "spotify:artist:1gxdThXHiWiUTGIrOS7kpw",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb32efaab3c38fd7975c6ca052",
+    "SpotifyPopularity": 34,
+    "SpotifyFollowers": 2328
+  },
+  {
+    "ArtistID": 43238,
+    "Artist": "Kolibri",
+    "Alias": "",
+    "Type": "",
+    "Gender": "",
+    "Country": "",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "[\"iskelmä\"]",
+    "OfficialWebsite": "",
+    "Wikipedia": "",
+    "SpotifyID": "7AAG9IPa2aBGQAAajyaBWS",
+    "SpotifyURL": "https://open.spotify.com/artist/7AAG9IPa2aBGQAAajyaBWS",
+    "SpotifyURI": "spotify:artist:7AAG9IPa2aBGQAAajyaBWS",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273f11c6591539f00f15400e828",
+    "SpotifyPopularity": 49,
+    "SpotifyFollowers": 8889
   },
   {
     "ArtistID": 43311,
@@ -4378,15 +4891,15 @@
     "Country": "CA",
     "BeginDate": "2015",
     "EndDate": "",
-    "Genres": "alternative dance, death metal, thrash metal",
+    "Genres": "[\"disco polo\", \"disco\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
-    "SpotifyID": "6fXEqmGQEt6ONuqVmwrN46",
-    "SpotifyURL": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46",
-    "SpotifyURI": "spotify:artist:6fXEqmGQEt6ONuqVmwrN46",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6c3906aa2c7558f9e97d2059",
-    "SpotifyPopularity": 56,
-    "SpotifyFollowers": 248768
+    "SpotifyID": "2DbjUTClGggo6WEBC7D5Re",
+    "SpotifyURL": "https://open.spotify.com/artist/2DbjUTClGggo6WEBC7D5Re",
+    "SpotifyURI": "spotify:artist:2DbjUTClGggo6WEBC7D5Re",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb876e015a0ad5f240de72405f",
+    "SpotifyPopularity": 45,
+    "SpotifyFollowers": 2978
   },
   {
     "ArtistID": 43448,
@@ -4416,15 +4929,15 @@
     "Country": "BE",
     "BeginDate": "2001",
     "EndDate": "",
-    "Genres": "dance, dance trance, euro trance, euro-trance, eurodance, eurotrance, female vocal dance, female vocal trance, pop trance, trance, trance pop, vocal dance, vocal trance",
+    "Genres": "[\"eurodance\"]",
     "OfficialWebsite": "http://www.sylversite.be/",
     "Wikipedia": "",
     "SpotifyID": "1i9NxPRrKcoW34XTMnvzJy",
     "SpotifyURL": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy",
     "SpotifyURI": "spotify:artist:1i9NxPRrKcoW34XTMnvzJy",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb3382e8fea069a4d471c863f2",
-    "SpotifyPopularity": 49,
-    "SpotifyFollowers": 79730
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 91296
   },
   {
     "ArtistID": 48568,
@@ -4504,22 +5017,22 @@
   },
   {
     "ArtistID": 48932,
-    "Artist": "Farias",
+    "Artist": "FARIAS",
     "Alias": "",
     "Type": "Group",
     "Gender": "",
     "Country": "IT",
     "BeginDate": "1990",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"agronejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "1C7swBbZLPAFNdk5nFGwgC",
     "SpotifyURL": "https://open.spotify.com/artist/1C7swBbZLPAFNdk5nFGwgC",
     "SpotifyURI": "spotify:artist:1C7swBbZLPAFNdk5nFGwgC",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9646cbf6bd49a9cd70242d96",
+    "SpotifyPopularity": 57,
+    "SpotifyFollowers": 2062
   },
   {
     "ArtistID": 49414,
@@ -4549,15 +5062,15 @@
     "Country": "BR",
     "BeginDate": "1940-02-17",
     "EndDate": "2021-12-12",
-    "Genres": "latin, national folk, ranchera",
+    "Genres": "[\"piseiro\", \"sertanejo\", \"forró\", \"arrocha\", \"agronejo\", \"sertanejo universitário\"]",
     "OfficialWebsite": "http://vicentefernandez.mx/",
     "Wikipedia": "",
     "SpotifyID": "0BHm7qbh3ENxvXzkQAG7MP",
     "SpotifyURL": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP",
     "SpotifyURI": "spotify:artist:0BHm7qbh3ENxvXzkQAG7MP",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe6f36606b265e5c3e9297940",
+    "SpotifyPopularity": 71,
+    "SpotifyFollowers": 4299070
   },
   {
     "ArtistID": 50035,
@@ -4587,15 +5100,15 @@
     "Country": "TW",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "c-pop, chinese r&b, mandopop, taiwanese pop",
+    "Genres": "[\"mandopop\", \"c-pop\", \"taiwanese pop\", \"chinese r&b\", \"malay pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "5fEQLwq1BWWQNR8GzhOIvi",
     "SpotifyURL": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi",
     "SpotifyURI": "spotify:artist:5fEQLwq1BWWQNR8GzhOIvi",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb32cabef34602bad95decc49e",
-    "SpotifyPopularity": 67,
-    "SpotifyFollowers": 1688970
+    "SpotifyPopularity": 66,
+    "SpotifyFollowers": 1860192
   },
   {
     "ArtistID": 50102,
@@ -4606,15 +5119,15 @@
     "Country": "IT",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"mizrahi\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "2ygecp3YQJwBHL7LNzDgwe",
     "SpotifyURL": "https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe",
     "SpotifyURI": "spotify:artist:2ygecp3YQJwBHL7LNzDgwe",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebaaa4a8cfdf67b59623991f58",
+    "SpotifyPopularity": 48,
+    "SpotifyFollowers": 50518
   },
   {
     "ArtistID": 50563,
@@ -4625,15 +5138,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "folk pop, oyun havasi",
+    "Genres": "[\"folk pop\", \"oyun havası\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "1vAwQYTE1k5MBhNsvqphp1",
     "SpotifyURL": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1",
     "SpotifyURI": "spotify:artist:1vAwQYTE1k5MBhNsvqphp1",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2e75d7611beed37ed2d18781",
-    "SpotifyPopularity": 56,
-    "SpotifyFollowers": 140537
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2ed86c6cdc2c24d35a94c6ce",
+    "SpotifyPopularity": 54,
+    "SpotifyFollowers": 171589
   },
   {
     "ArtistID": 51409,
@@ -4644,15 +5157,15 @@
     "Country": "TR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "turkish hip hop",
+    "Genres": "[\"turkish hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3VooEK5HkkcSc4Tv7FCBzb",
     "SpotifyURL": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb",
     "SpotifyURI": "spotify:artist:3VooEK5HkkcSc4Tv7FCBzb",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe07bdddae44bcdbeba74c984",
-    "SpotifyPopularity": 57,
-    "SpotifyFollowers": 122970
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb98ba550d4266a7b274b1669f",
+    "SpotifyPopularity": 68,
+    "SpotifyFollowers": 196742
   },
   {
     "ArtistID": 53935,
@@ -4663,15 +5176,15 @@
     "Country": "XW",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "1 10 188043 183 17153 34783 54830 72970 97673 116825 128263 157073 171433, ambient, bing crosby fank sinatra louis armstorng nat king cole doris day, black metal, bogus, bogus artist, british, classical, cleanup, composer, cotm, death metal, don't rate the [unknown] artist, dumping ground, easy listening soundtracks and musicals, fix, fix tags, fixme, fixme [spa] mess, fixme or cleanup, fixme-probably not a real artist, has german audiobooks, johny johny yes papa, kids hut, kids songs, lazy asses, merge, merge all the unrighteous fellows are all unpardonable!, merge into [anonymous] or [traditional], merge me, mergeme, meta artist, nursery rhymes, nursery rhymes collection, nursery rhymes playlist, pop and chart, portuguese hip hop, relaxation, rhymes, software company as artist, soundtrack, spamess, special purpose, special purpose artist, stop merging crap so my tags get fucked up, test merging tags test, traditional, uk, unknown, wheels on the bus",
+    "Genres": "[\"portuguese hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "5W4i9lwHlsuhSL6Mw4KvCQ",
     "SpotifyURL": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ",
     "SpotifyURI": "spotify:artist:5W4i9lwHlsuhSL6Mw4KvCQ",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe518ef08ad86fa3539388de7",
-    "SpotifyPopularity": 46,
-    "SpotifyFollowers": 8284
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb406323bcf8cc2f91e8fd1f5b",
+    "SpotifyPopularity": 44,
+    "SpotifyFollowers": 12249
   },
   {
     "ArtistID": 53954,
@@ -4682,15 +5195,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "portuguese hip hop",
+    "Genres": "[\"portuguese hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "6WecxeaCHGhmwXiyBQPv61",
     "SpotifyURL": "https://open.spotify.com/artist/6WecxeaCHGhmwXiyBQPv61",
     "SpotifyURI": "spotify:artist:6WecxeaCHGhmwXiyBQPv61",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2737aa4e04c8a697a4a53f71061",
-    "SpotifyPopularity": 41,
-    "SpotifyFollowers": 16002
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2734bab42be80032ac1ec31bb71",
+    "SpotifyPopularity": 42,
+    "SpotifyFollowers": 23855
   },
   {
     "ArtistID": 53969,
@@ -4701,15 +5214,15 @@
     "Country": "US",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"manele\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "2nMFC7hWK0haX8ilvRpb59",
     "SpotifyURL": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59",
     "SpotifyURI": "spotify:artist:2nMFC7hWK0haX8ilvRpb59",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb30363e5f22ff11d510968e50",
+    "SpotifyPopularity": 55,
+    "SpotifyFollowers": 241034
   },
   {
     "ArtistID": 54186,
@@ -4758,15 +5271,15 @@
     "Country": "GB",
     "BeginDate": "1980",
     "EndDate": "",
-    "Genres": "rock, alternative rock, punk, british, post-punk, folk rock, classic pop and rock",
+    "Genres": "[\"turkish pop\", \"anatolian rock\"]",
     "OfficialWebsite": "http://www.newmodelarmy.org/",
     "Wikipedia": "",
     "SpotifyID": "23xJQJM7peht77DF6YNEoq",
     "SpotifyURL": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq",
     "SpotifyURI": "spotify:artist:23xJQJM7peht77DF6YNEoq",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb3670f10bb0563bd9ce13b424",
+    "SpotifyPopularity": 65,
+    "SpotifyFollowers": 1895494
   },
   {
     "ArtistID": 54406,
@@ -4777,15 +5290,15 @@
     "Country": "TR",
     "BeginDate": "1985",
     "EndDate": "",
-    "Genres": "turkish, turkish pop",
+    "Genres": "[\"turkish pop\", \"arabesk\"]",
     "OfficialWebsite": "http://www.yurtseven-kardesler.com/",
     "Wikipedia": "",
     "SpotifyID": "4Jah47VbnOtQGLtmdrDRXp",
     "SpotifyURL": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp",
     "SpotifyURI": "spotify:artist:4Jah47VbnOtQGLtmdrDRXp",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb92d0b9c579409c84c93914f3",
-    "SpotifyPopularity": 64,
-    "SpotifyFollowers": 84345
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb6a67efe8561eba681da69f01",
+    "SpotifyPopularity": 62,
+    "SpotifyFollowers": 195228
   },
   {
     "ArtistID": 54508,
@@ -4815,15 +5328,15 @@
     "Country": "ES",
     "BeginDate": "1965-09-21",
     "EndDate": "",
-    "Genres": "candombe",
+    "Genres": "[\"cumbia\"]",
     "OfficialWebsite": "http://www.juanjomena.com/ing/home.php",
     "Wikipedia": "",
     "SpotifyID": "2WZW6Gsj5R7JlRNFikJvPE",
     "SpotifyURL": "https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE",
     "SpotifyURI": "spotify:artist:2WZW6Gsj5R7JlRNFikJvPE",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd041125a98fbb34e8e9d63b2",
-    "SpotifyPopularity": 48,
-    "SpotifyFollowers": 19381
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb861f0862789006309a2a85e9",
+    "SpotifyPopularity": 52,
+    "SpotifyFollowers": 28324
   },
   {
     "ArtistID": 57330,
@@ -4840,9 +5353,9 @@
     "SpotifyID": "20rxrauVfrXfc2vgZNvxot",
     "SpotifyURL": "https://open.spotify.com/artist/20rxrauVfrXfc2vgZNvxot",
     "SpotifyURI": "spotify:artist:20rxrauVfrXfc2vgZNvxot",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebfe2ce8f1353242fc5d10288e",
+    "SpotifyPopularity": 36,
+    "SpotifyFollowers": 5375
   },
   {
     "ArtistID": 58390,
@@ -4872,53 +5385,53 @@
     "Country": "US",
     "BeginDate": "1989-08-17",
     "EndDate": "",
-    "Genres": "rap, hip hop, west coast hip hop, cloud rap",
+    "Genres": "[\"hardstyle\", \"hardcore techno\", \"hardcore\", \"gabber\", \"freestyle\"]",
     "OfficialWebsite": "http://www.basedworld.com/",
     "Wikipedia": "",
     "SpotifyID": "6kLbQrRfstOkAju82Vrhmb",
     "SpotifyURL": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb",
     "SpotifyURI": "spotify:artist:6kLbQrRfstOkAju82Vrhmb",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba5c63fc23a6a4a1310c7d68a",
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 55845
   },
   {
     "ArtistID": 60147,
-    "Artist": "Ivan",
+    "Artist": "IVAN",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
     "Country": "IT",
     "BeginDate": "1945-10-06",
     "EndDate": "1997-01-01",
-    "Genres": "singer-songwriter, pop rock, rock",
+    "Genres": "[\"v-pop\"]",
     "OfficialWebsite": "http://ivangraziani.it/",
     "Wikipedia": "",
     "SpotifyID": "0BaA7hESJdlOMitd8QM7jY",
     "SpotifyURL": "https://open.spotify.com/artist/0BaA7hESJdlOMitd8QM7jY",
     "SpotifyURI": "spotify:artist:0BaA7hESJdlOMitd8QM7jY",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb52849bed30e3e858116e295d",
+    "SpotifyPopularity": 51,
+    "SpotifyFollowers": 5792
   },
   {
     "ArtistID": 64353,
-    "Artist": "MC RN DO CAPÃO",
+    "Artist": "MC RN do Capão",
     "Alias": "",
     "Type": "Person",
     "Gender": "male",
     "Country": "PT",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"brazilian funk\", \"funk consciente\", \"trap funk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "0ktgQZv6VIj48TP9VupyFB",
     "SpotifyURL": "https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB",
     "SpotifyURI": "spotify:artist:0ktgQZv6VIj48TP9VupyFB",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebcbe2ad614e47739e94f275b0",
+    "SpotifyPopularity": 66,
+    "SpotifyFollowers": 158220
   },
   {
     "ArtistID": 64944,
@@ -4929,15 +5442,15 @@
     "Country": "United Kingdom of Great Britain and Ireland",
     "BeginDate": "1941-05-24",
     "EndDate": "",
-    "Genres": "1 13 165900 150 7672 22647 34612 48720 59280 74602 87545 95495 107182 131087 141522 153710, 1960s, 1970s, 1980s, 1990s, 2000s, album;live, american, blues, blues rock, classic pop and rock, classic rock, contemporary folk, country, country rock, dylan bootleg series, favoritos, folk, folk rock, gospel, greenwich village scene, icon, jazz, pledging my time, pop rock, pop/rock, rare, rock, roots rock, singer-songwriter, singer/songwriter, siple twist of fate, teater konsert, traditional pop, v-pop, vietnamese hip hop",
+    "Genres": "[\"v-pop\", \"vietnamese hip hop\"]",
     "OfficialWebsite": "https://bobdylan.com/",
     "Wikipedia": "",
     "SpotifyID": "1pKPrziZw7C4GvOlBIXqP5",
     "SpotifyURL": "https://open.spotify.com/artist/1pKPrziZw7C4GvOlBIXqP5",
     "SpotifyURI": "spotify:artist:1pKPrziZw7C4GvOlBIXqP5",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe5cc05f59b1d1f61b8a483cf",
-    "SpotifyPopularity": 60,
-    "SpotifyFollowers": 257474
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb07acd610dcd9331a409abe41",
+    "SpotifyPopularity": 56,
+    "SpotifyFollowers": 394833
   },
   {
     "ArtistID": 65114,
@@ -4986,15 +5499,15 @@
     "Country": "GB",
     "BeginDate": "1991-02-17",
     "EndDate": "",
-    "Genres": "singer, uk, dance-pop, folk, music for soccer moms, singer-songwriter, 2010s, persian pop, singer/songwriter, gradually watermelon, rapper, guitarist, folk pop, pop soul, pop rap, ed sheeran does not make sillyname tracks ಠ_ಠ, pop, manele",
+    "Genres": "[\"manele\"]",
     "OfficialWebsite": "https://www.edsheeran.com/",
     "Wikipedia": "",
     "SpotifyID": "23l5vFzRRC5iUKVCH2eb4T",
     "SpotifyURL": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T",
     "SpotifyURI": "spotify:artist:23l5vFzRRC5iUKVCH2eb4T",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1bc7bcc63f9189f3f147d3c2",
-    "SpotifyPopularity": 43,
-    "SpotifyFollowers": 1264
+    "SpotifyPopularity": 53,
+    "SpotifyFollowers": 12317
   },
   {
     "ArtistID": 65237,
@@ -5100,15 +5613,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "agronejo, sertanejo",
+    "Genres": "[\"agronejo\", \"sertanejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3la3vRfIuDMsydpPfUBryR",
     "SpotifyURL": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR",
     "SpotifyURI": "spotify:artist:3la3vRfIuDMsydpPfUBryR",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5c3658fe3b7c4debb23ce718",
-    "SpotifyPopularity": 71,
-    "SpotifyFollowers": 32517
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb452b8d73265837904d3943ab",
+    "SpotifyPopularity": 67,
+    "SpotifyFollowers": 51869
   },
   {
     "ArtistID": 65908,
@@ -5119,15 +5632,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "bollywood",
+    "Genres": "[\"bollywood\", \"hindi pop\", \"sufi\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "2pGRniGOJSOvYoK3dGaBb8",
     "SpotifyURL": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8",
     "SpotifyURI": "spotify:artist:2pGRniGOJSOvYoK3dGaBb8",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebbdfd29578354426263be7897",
-    "SpotifyPopularity": 61,
-    "SpotifyFollowers": 11508
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb14a57d7e162d32020e68cc88",
+    "SpotifyPopularity": 81,
+    "SpotifyFollowers": 47676
   },
   {
     "ArtistID": 66153,
@@ -5157,15 +5670,15 @@
     "Country": "SE",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "turkish hip hop",
+    "Genres": "[\"turkish hip hop\", \"pop rap\"]",
     "OfficialWebsite": "http://www.tarekmansur.com/",
     "Wikipedia": "",
     "SpotifyID": "1nXS8JvKsTNSGw75Axv6rm",
     "SpotifyURL": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm",
     "SpotifyURI": "spotify:artist:1nXS8JvKsTNSGw75Axv6rm",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb917265953686c97e247a4a2a",
-    "SpotifyPopularity": 69,
-    "SpotifyFollowers": 63179
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb735f943be658c01e865f9f50",
+    "SpotifyPopularity": 67,
+    "SpotifyFollowers": 331370
   },
   {
     "ArtistID": 66268,
@@ -5176,7 +5689,7 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "brazilian trap, trap funk, trap, brazilian hip hop",
+    "Genres": "[\"brazilian trap\", \"trap funk\", \"trap\", \"brazilian hip hop\", \"brazilian funk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "2vWGxqWbGgmgxVDZ5CBvBP",
@@ -5184,7 +5697,7 @@
     "SpotifyURI": "spotify:artist:2vWGxqWbGgmgxVDZ5CBvBP",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7d14b158cf57e949f00fe06f",
     "SpotifyPopularity": 62,
-    "SpotifyFollowers": 570416
+    "SpotifyFollowers": 613829
   },
   {
     "ArtistID": 66288,
@@ -5214,15 +5727,34 @@
     "Country": "BR",
     "BeginDate": "1988",
     "EndDate": "",
-    "Genres": "forró, forró tradicional, nova mpb",
+    "Genres": "[\"forró\", \"forró tradicional\", \"new mpb\", \"piseiro\"]",
     "OfficialWebsite": "http://www.mestrinho.com/",
     "Wikipedia": "",
     "SpotifyID": "2yAXXiCbFgXSaKcYNioFBx",
     "SpotifyURL": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx",
     "SpotifyURI": "spotify:artist:2yAXXiCbFgXSaKcYNioFBx",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb211dc3b32626d505bf38a5b7",
-    "SpotifyPopularity": 69,
-    "SpotifyFollowers": 68284
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb143bf058e6001973232a98b3",
+    "SpotifyPopularity": 72,
+    "SpotifyFollowers": 118730
+  },
+  {
+    "ArtistID": 66938,
+    "Artist": "Los Money Makers",
+    "Alias": "",
+    "Type": "Group",
+    "Gender": "",
+    "Country": "PR",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "",
+    "OfficialWebsite": "",
+    "Wikipedia": "",
+    "SpotifyID": "3xqON5f18PRtZ7jqPIXOHx",
+    "SpotifyURL": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx",
+    "SpotifyURI": "spotify:artist:3xqON5f18PRtZ7jqPIXOHx",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba64ba5f19cd0115257536328",
+    "SpotifyPopularity": 62,
+    "SpotifyFollowers": 3527
   },
   {
     "ArtistID": 67701,
@@ -5233,15 +5765,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "funk, trap funk",
+    "Genres": "[\"brazilian funk\", \"trap funk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "5ffbqOCrcxCejQ7oqfWXm9",
     "SpotifyURL": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9",
     "SpotifyURI": "spotify:artist:5ffbqOCrcxCejQ7oqfWXm9",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb75f0db858ceb94e2d6d44733",
-    "SpotifyPopularity": 67,
-    "SpotifyFollowers": 22813
+    "SpotifyPopularity": 73,
+    "SpotifyFollowers": 274005
   },
   {
     "ArtistID": 68045,
@@ -5271,15 +5803,15 @@
     "Country": "BR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "brazilian funk, funk",
+    "Genres": "[\"brazilian funk\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "7xjBn5rLzBR2MsY3SN5odx",
     "SpotifyURL": "https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx",
     "SpotifyURI": "spotify:artist:7xjBn5rLzBR2MsY3SN5odx",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb441eaa1e81fa75e929f575ee",
-    "SpotifyPopularity": 49,
-    "SpotifyFollowers": 9584
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd03a26826d090fa8ea51bd9d",
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 11456
   },
   {
     "ArtistID": 68365,
@@ -5296,9 +5828,9 @@
     "SpotifyID": "7Djt5FHbKywvcpV4yplfcF",
     "SpotifyURL": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF",
     "SpotifyURI": "spotify:artist:7Djt5FHbKywvcpV4yplfcF",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4299fa4a19f93044d4984558",
-    "SpotifyPopularity": 63,
-    "SpotifyFollowers": 13482
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb825b921cac51dd45769d897",
+    "SpotifyPopularity": 65,
+    "SpotifyFollowers": 18614
   },
   {
     "ArtistID": 68748,
@@ -5328,15 +5860,15 @@
     "Country": "nan",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "bollywood, desi pop",
+    "Genres": "[\"bollywood\", \"desi pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "5X6ShVeOR0RNA0QLpFksuj",
     "SpotifyURL": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj",
     "SpotifyURI": "spotify:artist:5X6ShVeOR0RNA0QLpFksuj",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1eecdd60608cdf80932e72ec",
-    "SpotifyPopularity": 55,
-    "SpotifyFollowers": 311513
+    "SpotifyPopularity": 52,
+    "SpotifyFollowers": 320645
   },
   {
     "ArtistID": 69073,
@@ -5347,15 +5879,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "disco polo",
+    "Genres": "[\"disco polo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3K5gIlI52RvGBMonWwBmVf",
     "SpotifyURL": "https://open.spotify.com/artist/3K5gIlI52RvGBMonWwBmVf",
     "SpotifyURI": "spotify:artist:3K5gIlI52RvGBMonWwBmVf",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273ba84272a6e5f947bc4aa69a5",
-    "SpotifyPopularity": 53,
-    "SpotifyFollowers": 15084
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb70dfa29df35ad1ac09df5b64",
+    "SpotifyPopularity": 49,
+    "SpotifyFollowers": 22247
   },
   {
     "ArtistID": 70918,
@@ -5366,15 +5898,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "corrido, corridos bélicos",
+    "Genres": "[\"corrido\", \"corridos bélicos\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "4VPLEp6rYxqpf6n0QEkS5z",
     "SpotifyURL": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z",
     "SpotifyURI": "spotify:artist:4VPLEp6rYxqpf6n0QEkS5z",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7749c21f5331f91569d08260",
-    "SpotifyPopularity": 56,
-    "SpotifyFollowers": 116520
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe533d876281ea654d9391c55",
+    "SpotifyPopularity": 68,
+    "SpotifyFollowers": 171498
   },
   {
     "ArtistID": 71509,
@@ -5385,15 +5917,15 @@
     "Country": "",
     "BeginDate": "1995-11-11",
     "EndDate": "",
-    "Genres": "funk, brazilian funk, funk consciente",
+    "Genres": "[\"brazilian funk\", \"funk consciente\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "0KelBuBLAY4mPbrEdNtzlP",
     "SpotifyURL": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP",
     "SpotifyURI": "spotify:artist:0KelBuBLAY4mPbrEdNtzlP",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb376095e90f2b6449a8632d9b",
-    "SpotifyPopularity": 50,
-    "SpotifyFollowers": 31545
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5fa30045fa73a2a69b80a94b",
+    "SpotifyPopularity": 58,
+    "SpotifyFollowers": 34652
   },
   {
     "ArtistID": 73653,
@@ -5410,9 +5942,9 @@
     "SpotifyID": "5PeCMyf2BO8RlAujWP0erY",
     "SpotifyURL": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY",
     "SpotifyURI": "spotify:artist:5PeCMyf2BO8RlAujWP0erY",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc4320d83d4fb64dacffceded",
-    "SpotifyPopularity": 36,
-    "SpotifyFollowers": 2841
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1d05269c1d3ce058867d6fbc",
+    "SpotifyPopularity": 63,
+    "SpotifyFollowers": 88057
   },
   {
     "ArtistID": 73719,
@@ -5505,9 +6037,9 @@
     "SpotifyID": "2yyLYHJEdPcHJyfvn7OWHk",
     "SpotifyURL": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk",
     "SpotifyURI": "spotify:artist:2yyLYHJEdPcHJyfvn7OWHk",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe12f168f3fd40c07a61bc535",
-    "SpotifyPopularity": 30,
-    "SpotifyFollowers": 707
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd9808a726f66c9ac99113124",
+    "SpotifyPopularity": 35,
+    "SpotifyFollowers": 1686
   },
   {
     "ArtistID": 78061,
@@ -5525,8 +6057,8 @@
     "SpotifyURL": "https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7",
     "SpotifyURI": "spotify:artist:6bmmtf7rBNZvwxMOlmomN7",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1d734a69e95e0bf1683ff6fe",
-    "SpotifyPopularity": 50,
-    "SpotifyFollowers": 16362
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 62563
   },
   {
     "ArtistID": 78153,
@@ -5543,9 +6075,9 @@
     "SpotifyID": "4UsmVGTdKwCWC0B86P6N7L",
     "SpotifyURL": "https://open.spotify.com/artist/4UsmVGTdKwCWC0B86P6N7L",
     "SpotifyURI": "spotify:artist:4UsmVGTdKwCWC0B86P6N7L",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb548d638cd3dcf8d6fdb2e37c",
+    "SpotifyPopularity": 61,
+    "SpotifyFollowers": 18340
   },
   {
     "ArtistID": 78853,
@@ -5575,15 +6107,15 @@
     "Country": "AR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"cuarteto\", \"cumbia\"]",
     "OfficialWebsite": "http://www.mamalauta.de/",
     "Wikipedia": "",
     "SpotifyID": "5ELYwDwhy00ecTXhfsKWci",
     "SpotifyURL": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci",
     "SpotifyURI": "spotify:artist:5ELYwDwhy00ecTXhfsKWci",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb9801446525c6dd9f01e87406",
-    "SpotifyPopularity": 39,
-    "SpotifyFollowers": 5224
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4153f7ca4ef7e43fe78b6018",
+    "SpotifyPopularity": 69,
+    "SpotifyFollowers": 59425
   },
   {
     "ArtistID": 80745,
@@ -5605,6 +6137,25 @@
     "SpotifyFollowers": 836471
   },
   {
+    "ArtistID": 86093,
+    "Artist": "BabyDaiz",
+    "Alias": "",
+    "Type": "",
+    "Gender": "",
+    "Country": "",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "",
+    "OfficialWebsite": "",
+    "Wikipedia": "",
+    "SpotifyID": "75ffkjzl2yQm2wRvP5QL4s",
+    "SpotifyURL": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s",
+    "SpotifyURI": "spotify:artist:75ffkjzl2yQm2wRvP5QL4s",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb3a44fbfb9d5d7921acedeef8",
+    "SpotifyPopularity": 39,
+    "SpotifyFollowers": 57102
+  },
+  {
     "ArtistID": 86204,
     "Artist": "ARIA VEGA",
     "Alias": "Suzanne Nadine Vega, Susanne Vega, Vega, Suzanne",
@@ -5613,15 +6164,15 @@
     "Country": "US",
     "BeginDate": "1959-07-11",
     "EndDate": "",
-    "Genres": "downtempo, pop, folk, singer-songwriter, folk rock, pop rock, contemporary folk, folk pop, chamber pop, classic pop and rock, stay awake, alternative folk, singer/songwriter, art pop, 2008 universal fire victim, latin afrobeats, pop urbano, champeta",
+    "Genres": "[\"latin afrobeats\", \"champeta\"]",
     "OfficialWebsite": "https://www.suzannevega.com/",
     "Wikipedia": "",
     "SpotifyID": "3e9aKKEgSOjIQS9gv2Nr1X",
     "SpotifyURL": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X",
     "SpotifyURI": "spotify:artist:3e9aKKEgSOjIQS9gv2Nr1X",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebcd2973e53d94f6b01c31ee40",
-    "SpotifyPopularity": 60,
-    "SpotifyFollowers": 32040
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebe8113f608079f792b6ffb47c",
+    "SpotifyPopularity": 70,
+    "SpotifyFollowers": 130184
   },
   {
     "ArtistID": 86338,
@@ -5681,6 +6232,25 @@
     "SpotifyFollowers": 5010
   },
   {
+    "ArtistID": 86636,
+    "Artist": "Temper City",
+    "Alias": "",
+    "Type": "Group",
+    "Gender": "",
+    "Country": "XG",
+    "BeginDate": "1972",
+    "EndDate": "2022-12-30",
+    "Genres": "pop rock, hard rock, city, german, deutschrock, progressive rock, rock",
+    "OfficialWebsite": "http://city-internet.de/",
+    "Wikipedia": "",
+    "SpotifyID": "5mHUmlJWkcoOk1NbjfrXWz",
+    "SpotifyURL": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+    "SpotifyURI": "spotify:artist:5mHUmlJWkcoOk1NbjfrXWz",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf9808c3f9f50a2be81fb95c3",
+    "SpotifyPopularity": 57,
+    "SpotifyFollowers": 14848
+  },
+  {
     "ArtistID": 86665,
     "Artist": "Jeninho",
     "Alias": "",
@@ -5689,15 +6259,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "agronejo, sertanejo",
+    "Genres": "[\"agronejo\", \"sertanejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "6MV2UXdX8Pqy25rI7dl6os",
     "SpotifyURL": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os",
     "SpotifyURI": "spotify:artist:6MV2UXdX8Pqy25rI7dl6os",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb17295dcc5b69035f47243a2a",
-    "SpotifyPopularity": 49,
-    "SpotifyFollowers": 19815
+    "SpotifyPopularity": 71,
+    "SpotifyFollowers": 53557
   },
   {
     "ArtistID": 87173,
@@ -5730,12 +6300,12 @@
     "Genres": "reggaeton chileno, chilean trap, chilean mambo, rkt",
     "OfficialWebsite": "",
     "Wikipedia": "",
-    "SpotifyID": "7CWDAYGiG32qhfwu7Q8zoL",
-    "SpotifyURL": "https://open.spotify.com/artist/7CWDAYGiG32qhfwu7Q8zoL",
-    "SpotifyURI": "spotify:artist:7CWDAYGiG32qhfwu7Q8zoL",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273adc5d8b31825e24590843d7a",
-    "SpotifyPopularity": 40,
-    "SpotifyFollowers": 1666
+    "SpotifyID": "6L2DyVdMndLfvkAelI8vFe",
+    "SpotifyURL": "https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe",
+    "SpotifyURI": "spotify:artist:6L2DyVdMndLfvkAelI8vFe",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1840f01c35878e57515b76c6",
+    "SpotifyPopularity": 55,
+    "SpotifyFollowers": 6139
   },
   {
     "ArtistID": 88826,
@@ -5753,8 +6323,8 @@
     "SpotifyURL": "https://open.spotify.com/artist/4EbLbgd9yIjJG39ePWOVXO",
     "SpotifyURI": "spotify:artist:4EbLbgd9yIjJG39ePWOVXO",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd865bc978a1bdcaed2fd03fa",
-    "SpotifyPopularity": 28,
-    "SpotifyFollowers": 2581
+    "SpotifyPopularity": 34,
+    "SpotifyFollowers": 3223
   },
   {
     "ArtistID": 91208,
@@ -5784,15 +6354,15 @@
     "Country": "BR",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "brazilian pop",
+    "Genres": "[\"brazilian pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "0j1Tuh5A6zWMI4nAjPjBsW",
     "SpotifyURL": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW",
     "SpotifyURI": "spotify:artist:0j1Tuh5A6zWMI4nAjPjBsW",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0fa1d6c84faa56f42463a2ab",
-    "SpotifyPopularity": 46,
-    "SpotifyFollowers": 2375
+    "SpotifyPopularity": 62,
+    "SpotifyFollowers": 5844
   },
   {
     "ArtistID": 94112,
@@ -5803,15 +6373,34 @@
     "Country": "US",
     "BeginDate": "1941-11-21",
     "EndDate": "2019-06-06",
-    "Genres": "jazz, folk, blues, funk, soul, psychedelic rock, blues rock, rhythm and blues, classic pop and rock, new orleans r&b, rhythm & blues, bassline, bass house, drum and bass, g-house, uk garage",
+    "Genres": "[\"funk consciente\", \"brazilian funk\", \"trap funk\"]",
     "OfficialWebsite": "http://www.nitetripper.com/",
     "Wikipedia": "",
-    "SpotifyID": "2U5JmM5bTJuARrzQYnDAKn",
-    "SpotifyURL": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn",
-    "SpotifyURI": "spotify:artist:2U5JmM5bTJuARrzQYnDAKn",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0623ebb80a9bf70c4a375056",
-    "SpotifyPopularity": 42,
-    "SpotifyFollowers": 12448
+    "SpotifyID": "02RhvXTIhg46MyWF8yN6GG",
+    "SpotifyURL": "https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG",
+    "SpotifyURI": "spotify:artist:02RhvXTIhg46MyWF8yN6GG",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb0c2bf8f6e722db58a22f5270",
+    "SpotifyPopularity": 62,
+    "SpotifyFollowers": 187075
+  },
+  {
+    "ArtistID": 95057,
+    "Artist": "Alyssa Grace",
+    "Alias": "G. Jones, Crace Jones, Grace Mendoza, Grace Beverly Jones",
+    "Type": "Person",
+    "Gender": "female",
+    "Country": "US",
+    "BeginDate": "1948-05-19",
+    "EndDate": "",
+    "Genres": "disco, 80s, funk, soul, new wave, pop, strange, classic pop and rock",
+    "OfficialWebsite": "https://www.gracejones.com/",
+    "Wikipedia": "",
+    "SpotifyID": "4eZer1QvRM8Pna0rLToV1K",
+    "SpotifyURL": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
+    "SpotifyURI": "spotify:artist:4eZer1QvRM8Pna0rLToV1K",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc2415aef247b0bbccaeb32f5",
+    "SpotifyPopularity": 56,
+    "SpotifyFollowers": 63908
   },
   {
     "ArtistID": 95153,
@@ -5828,9 +6417,9 @@
     "SpotifyID": "1BPSehApxg5JCnTH4TPHxI",
     "SpotifyURL": "https://open.spotify.com/artist/1BPSehApxg5JCnTH4TPHxI",
     "SpotifyURI": "spotify:artist:1BPSehApxg5JCnTH4TPHxI",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebd988ffee5add6cbcc4ed2d6f",
-    "SpotifyPopularity": 40,
-    "SpotifyFollowers": 25249
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1ca15dc960a5e3a03c34ea65",
+    "SpotifyPopularity": 47,
+    "SpotifyFollowers": 27549
   },
   {
     "ArtistID": 95196,
@@ -5847,9 +6436,9 @@
     "SpotifyID": "6frPaFExVlZlfhJKOr4mi6",
     "SpotifyURL": "https://open.spotify.com/artist/6frPaFExVlZlfhJKOr4mi6",
     "SpotifyURI": "spotify:artist:6frPaFExVlZlfhJKOr4mi6",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7469091194690c8cb9b855e5",
+    "SpotifyPopularity": 46,
+    "SpotifyFollowers": 7260
   },
   {
     "ArtistID": 95245,
@@ -5866,9 +6455,9 @@
     "SpotifyID": "7B6ihAIQ58KBbvtml9LLz7",
     "SpotifyURL": "https://open.spotify.com/artist/7B6ihAIQ58KBbvtml9LLz7",
     "SpotifyURI": "spotify:artist:7B6ihAIQ58KBbvtml9LLz7",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273da40b33b9a63674820b1a05e",
-    "SpotifyPopularity": 32,
-    "SpotifyFollowers": 1129
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2739a212c2f731c6f1856f845a9",
+    "SpotifyPopularity": 49,
+    "SpotifyFollowers": 8048
   },
   {
     "ArtistID": 95356,
@@ -5923,9 +6512,9 @@
     "SpotifyID": "0kKtbMV7UCjoGqZK9F7pXn",
     "SpotifyURL": "https://open.spotify.com/artist/0kKtbMV7UCjoGqZK9F7pXn",
     "SpotifyURI": "spotify:artist:0kKtbMV7UCjoGqZK9F7pXn",
-    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb5b2b460784a8554a9ee49405",
-    "SpotifyPopularity": 33,
-    "SpotifyFollowers": 10205
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb77802e3968613c5dcf9f3dba",
+    "SpotifyPopularity": 46,
+    "SpotifyFollowers": 13406
   },
   {
     "ArtistID": 98375,
@@ -6000,8 +6589,8 @@
     "SpotifyURL": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7",
     "SpotifyURI": "spotify:artist:453JLa1zShRo3qMqna91v7",
     "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb75e940dc354dc5f2dc0ed70f",
-    "SpotifyPopularity": 54,
-    "SpotifyFollowers": 630
+    "SpotifyPopularity": 63,
+    "SpotifyFollowers": 1172
   },
   {
     "ArtistID": 99240,
@@ -6021,6 +6610,25 @@
     "SpotifyImageURL": "",
     "SpotifyPopularity": "",
     "SpotifyFollowers": ""
+  },
+  {
+    "ArtistID": 99374,
+    "Artist": "Zlata Ko",
+    "Alias": "Ko&Ko, Ko & Ko, KO&KO",
+    "Type": "Group",
+    "Gender": "",
+    "Country": "NL",
+    "BeginDate": "1999",
+    "EndDate": "",
+    "Genres": "",
+    "OfficialWebsite": "http://gebroedersko.nl/",
+    "Wikipedia": "",
+    "SpotifyID": "5hPQKLOBDVCvbsDm7zXOF8",
+    "SpotifyURL": "https://open.spotify.com/artist/5hPQKLOBDVCvbsDm7zXOF8",
+    "SpotifyURI": "spotify:artist:5hPQKLOBDVCvbsDm7zXOF8",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273f11c6591539f00f15400e828",
+    "SpotifyPopularity": 48,
+    "SpotifyFollowers": 985
   },
   {
     "ArtistID": 99590,
@@ -6088,15 +6696,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"t-pop\", \"turkish pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "6NDMASsBLAUDX3QsJvki3r",
     "SpotifyURL": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r",
     "SpotifyURI": "spotify:artist:6NDMASsBLAUDX3QsJvki3r",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb68a00a6d9080d058926f56b0",
+    "SpotifyPopularity": 61,
+    "SpotifyFollowers": 70397
   },
   {
     "ArtistID": 100059,
@@ -6113,9 +6721,9 @@
     "SpotifyID": "1Z0sJgBY5vP651KUWJTbjh",
     "SpotifyURL": "https://open.spotify.com/artist/1Z0sJgBY5vP651KUWJTbjh",
     "SpotifyURI": "spotify:artist:1Z0sJgBY5vP651KUWJTbjh",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2d5294cc49912eb4e344c919",
+    "SpotifyPopularity": 55,
+    "SpotifyFollowers": 5452
   },
   {
     "ArtistID": 100082,
@@ -6132,9 +6740,9 @@
     "SpotifyID": "37furtvEyv5bePdtW1xmur",
     "SpotifyURL": "https://open.spotify.com/artist/37furtvEyv5bePdtW1xmur",
     "SpotifyURI": "spotify:artist:37furtvEyv5bePdtW1xmur",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2731eee87f534e60f5984150f9f",
+    "SpotifyPopularity": 39,
+    "SpotifyFollowers": 9410
   },
   {
     "ArtistID": 100085,
@@ -6145,15 +6753,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"grime\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "7hc0T3k2vWAdkpJyucSXrw",
     "SpotifyURL": "https://open.spotify.com/artist/7hc0T3k2vWAdkpJyucSXrw",
     "SpotifyURI": "spotify:artist:7hc0T3k2vWAdkpJyucSXrw",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb8319fec0d61f37e7bbe6b877",
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 4979
   },
   {
     "ArtistID": 100086,
@@ -6164,15 +6772,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"agronejo\", \"sertanejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "6dBSnoW8EMfIdFC0K8ll9R",
     "SpotifyURL": "https://open.spotify.com/artist/6dBSnoW8EMfIdFC0K8ll9R",
     "SpotifyURI": "spotify:artist:6dBSnoW8EMfIdFC0K8ll9R",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eba5aa6fda0dbb0a08ff5bdcea",
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 8290
   },
   {
     "ArtistID": 100087,
@@ -6183,15 +6791,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"agronejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "6bJJCcH6BM1tugUPZvGZE0",
     "SpotifyURL": "https://open.spotify.com/artist/6bJJCcH6BM1tugUPZvGZE0",
     "SpotifyURI": "spotify:artist:6bJJCcH6BM1tugUPZvGZE0",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273b9a9e4b06f6b669d5417c20c",
+    "SpotifyPopularity": 63,
+    "SpotifyFollowers": 7597
   },
   {
     "ArtistID": 100088,
@@ -6202,15 +6810,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"agronejo\", \"sertanejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3SvkFXAurqVn8u5iQNV0Oo",
     "SpotifyURL": "https://open.spotify.com/artist/3SvkFXAurqVn8u5iQNV0Oo",
     "SpotifyURI": "spotify:artist:3SvkFXAurqVn8u5iQNV0Oo",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb2e3930abbfb90d5769874279",
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 5538
   },
   {
     "ArtistID": 100089,
@@ -6221,15 +6829,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"agronejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3i0IzGLyhllwKoQnjcYGsn",
     "SpotifyURL": "https://open.spotify.com/artist/3i0IzGLyhllwKoQnjcYGsn",
     "SpotifyURI": "spotify:artist:3i0IzGLyhllwKoQnjcYGsn",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebdff60fd01e28f9c5412c7f6f",
+    "SpotifyPopularity": 57,
+    "SpotifyFollowers": 4907
   },
   {
     "ArtistID": 100090,
@@ -6240,15 +6848,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"agronejo\", \"sertanejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "4vtRfcSGNc3rOtQtztZqKy",
     "SpotifyURL": "https://open.spotify.com/artist/4vtRfcSGNc3rOtQtztZqKy",
     "SpotifyURI": "spotify:artist:4vtRfcSGNc3rOtQtztZqKy",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7f00dfde9e6d0f8001b8c8b2",
+    "SpotifyPopularity": 58,
+    "SpotifyFollowers": 2803
   },
   {
     "ArtistID": 100091,
@@ -6259,15 +6867,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"agronejo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "1O8tIO7VVaFL1a70HHprTn",
     "SpotifyURL": "https://open.spotify.com/artist/1O8tIO7VVaFL1a70HHprTn",
     "SpotifyURI": "spotify:artist:1O8tIO7VVaFL1a70HHprTn",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273ea187c2f3be3b2df9f8463f9",
+    "SpotifyPopularity": 53,
+    "SpotifyFollowers": 273
   },
   {
     "ArtistID": 100115,
@@ -6284,9 +6892,9 @@
     "SpotifyID": "7000IuYPwlAtyAz4xLzVM3",
     "SpotifyURL": "https://open.spotify.com/artist/7000IuYPwlAtyAz4xLzVM3",
     "SpotifyURI": "spotify:artist:7000IuYPwlAtyAz4xLzVM3",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273f4173fcab39a73852731d73a",
+    "SpotifyPopularity": 19,
+    "SpotifyFollowers": 9
   },
   {
     "ArtistID": 100135,
@@ -6303,9 +6911,9 @@
     "SpotifyID": "1dWf4FUHnUgKHkSNmPofYx",
     "SpotifyURL": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx",
     "SpotifyURI": "spotify:artist:1dWf4FUHnUgKHkSNmPofYx",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb1f4bed9b3e759bb3b25fe44c",
+    "SpotifyPopularity": 60,
+    "SpotifyFollowers": 1448
   },
   {
     "ArtistID": 100142,
@@ -6322,9 +6930,9 @@
     "SpotifyID": "6etuSg79YgQ6Gvd8kIdMFP",
     "SpotifyURL": "https://open.spotify.com/artist/6etuSg79YgQ6Gvd8kIdMFP",
     "SpotifyURI": "spotify:artist:6etuSg79YgQ6Gvd8kIdMFP",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebf26460d520a83e7254109042",
+    "SpotifyPopularity": 18,
+    "SpotifyFollowers": 82
   },
   {
     "ArtistID": 100143,
@@ -6341,9 +6949,9 @@
     "SpotifyID": "4SNdnbYs3PJkvpJvI3wJ3p",
     "SpotifyURL": "https://open.spotify.com/artist/4SNdnbYs3PJkvpJvI3wJ3p",
     "SpotifyURI": "spotify:artist:4SNdnbYs3PJkvpJvI3wJ3p",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb4e8c7623aae75536fb2698e3",
+    "SpotifyPopularity": 18,
+    "SpotifyFollowers": 24
   },
   {
     "ArtistID": 100197,
@@ -6354,15 +6962,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"v-pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "2dLayz7AThHVFmsIbsvTKh",
     "SpotifyURL": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh",
     "SpotifyURI": "spotify:artist:2dLayz7AThHVFmsIbsvTKh",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebef47893dec64432d962263e2",
+    "SpotifyPopularity": 63,
+    "SpotifyFollowers": 23758
   },
   {
     "ArtistID": 100202,
@@ -6373,15 +6981,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"v-pop\", \"vinahouse\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "7G5AEkY5idIoHytk72GGyf",
     "SpotifyURL": "https://open.spotify.com/artist/7G5AEkY5idIoHytk72GGyf",
     "SpotifyURI": "spotify:artist:7G5AEkY5idIoHytk72GGyf",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb7ab6bfcf1113fb6e9aec5a2c",
+    "SpotifyPopularity": 50,
+    "SpotifyFollowers": 3225
   },
   {
     "ArtistID": 100204,
@@ -6392,15 +7000,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"v-pop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "0xhFMncGgY5cKn4FmLeM2a",
     "SpotifyURL": "https://open.spotify.com/artist/0xhFMncGgY5cKn4FmLeM2a",
     "SpotifyURI": "spotify:artist:0xhFMncGgY5cKn4FmLeM2a",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc608eb5c71a9f8d81d7761af",
+    "SpotifyPopularity": 41,
+    "SpotifyFollowers": 264
   },
   {
     "ArtistID": 100226,
@@ -6417,9 +7025,9 @@
     "SpotifyID": "6TxoyfbTssFOXMZcIIT0QY",
     "SpotifyURL": "https://open.spotify.com/artist/6TxoyfbTssFOXMZcIIT0QY",
     "SpotifyURI": "spotify:artist:6TxoyfbTssFOXMZcIIT0QY",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b273c52e949640d09210ced933c7",
+    "SpotifyPopularity": 46,
+    "SpotifyFollowers": 2450
   },
   {
     "ArtistID": 100238,
@@ -6430,15 +7038,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"celtic punk\", \"celtic rock\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "68lZHeroea1NAuEDsfBUjv",
     "SpotifyURL": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv",
     "SpotifyURI": "spotify:artist:68lZHeroea1NAuEDsfBUjv",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb03f56994a217f1b83a66c4ef",
+    "SpotifyPopularity": 44,
+    "SpotifyFollowers": 54198
   },
   {
     "ArtistID": 100251,
@@ -6455,9 +7063,9 @@
     "SpotifyID": "5VsVGGGJmlp5XcFCzVxdKe",
     "SpotifyURL": "https://open.spotify.com/artist/5VsVGGGJmlp5XcFCzVxdKe",
     "SpotifyURI": "spotify:artist:5VsVGGGJmlp5XcFCzVxdKe",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebb9038ebdedffc609ccfbe59a",
+    "SpotifyPopularity": 16,
+    "SpotifyFollowers": 102
   },
   {
     "ArtistID": 100252,
@@ -6474,9 +7082,9 @@
     "SpotifyID": "6oRkvjvktBxVvvSt2kGbJm",
     "SpotifyURL": "https://open.spotify.com/artist/6oRkvjvktBxVvvSt2kGbJm",
     "SpotifyURI": "spotify:artist:6oRkvjvktBxVvvSt2kGbJm",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2732742eb186e0c9318f26c1887",
+    "SpotifyPopularity": 16,
+    "SpotifyFollowers": 12
   },
   {
     "ArtistID": 100268,
@@ -6487,15 +7095,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"hollands\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "5N0fvYueADU53qanvPfmV7",
     "SpotifyURL": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7",
     "SpotifyURI": "spotify:artist:5N0fvYueADU53qanvPfmV7",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb80aa9fa87d489b27f40beb46",
+    "SpotifyPopularity": 59,
+    "SpotifyFollowers": 10643
   },
   {
     "ArtistID": 100271,
@@ -6506,15 +7114,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"hollands\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "1FrJF7ob2Mov0nd7Kv7Lz2",
     "SpotifyURL": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2",
     "SpotifyURI": "spotify:artist:1FrJF7ob2Mov0nd7Kv7Lz2",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb13b99f3329315295ad43dd2a",
+    "SpotifyPopularity": 50,
+    "SpotifyFollowers": 32708
   },
   {
     "ArtistID": 100279,
@@ -6531,9 +7139,9 @@
     "SpotifyID": "1EBJRC9rAAPpR2Ru3O6OY0",
     "SpotifyURL": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0",
     "SpotifyURI": "spotify:artist:1EBJRC9rAAPpR2Ru3O6OY0",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebc85350a396d3b91bb7555133",
+    "SpotifyPopularity": 51,
+    "SpotifyFollowers": 8060
   },
   {
     "ArtistID": 100284,
@@ -6544,15 +7152,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"portuguese hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "7CavEPjn72x5sMA52MYGMp",
     "SpotifyURL": "https://open.spotify.com/artist/7CavEPjn72x5sMA52MYGMp",
     "SpotifyURI": "spotify:artist:7CavEPjn72x5sMA52MYGMp",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2736bb17a23684ed42926133b93",
+    "SpotifyPopularity": 30,
+    "SpotifyFollowers": 692
   },
   {
     "ArtistID": 100285,
@@ -6563,15 +7171,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"portuguese hip hop\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "1XOodUVHVv7pyG8geJAWLO",
     "SpotifyURL": "https://open.spotify.com/artist/1XOodUVHVv7pyG8geJAWLO",
     "SpotifyURI": "spotify:artist:1XOodUVHVv7pyG8geJAWLO",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab67616d0000b2736bb17a23684ed42926133b93",
+    "SpotifyPopularity": 30,
+    "SpotifyFollowers": 132
   },
   {
     "ArtistID": 100310,
@@ -6582,15 +7190,15 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"guaracha\", \"rkt\", \"techengue\", \"turreo\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "3IDSgsRz0ONWsEd56qsaK6",
     "SpotifyURL": "https://open.spotify.com/artist/3IDSgsRz0ONWsEd56qsaK6",
     "SpotifyURI": "spotify:artist:3IDSgsRz0ONWsEd56qsaK6",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebacbe9efafaa1230eebdbfa84",
+    "SpotifyPopularity": 43,
+    "SpotifyFollowers": 5243
   },
   {
     "ArtistID": 100317,
@@ -6601,14 +7209,33 @@
     "Country": "",
     "BeginDate": "",
     "EndDate": "",
-    "Genres": "",
+    "Genres": "[\"maskandi\"]",
     "OfficialWebsite": "",
     "Wikipedia": "",
     "SpotifyID": "4JCDP5R05UkKUSiQDnjDi3",
     "SpotifyURL": "https://open.spotify.com/artist/4JCDP5R05UkKUSiQDnjDi3",
     "SpotifyURI": "spotify:artist:4JCDP5R05UkKUSiQDnjDi3",
-    "SpotifyImageURL": "",
-    "SpotifyPopularity": "",
-    "SpotifyFollowers": ""
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5eb09b4a8b7c28ff06b38cf3545",
+    "SpotifyPopularity": 53,
+    "SpotifyFollowers": 93938
+  },
+  {
+    "ArtistID": 100319,
+    "Artist": "karmv",
+    "Alias": "",
+    "Type": "",
+    "Gender": "",
+    "Country": "",
+    "BeginDate": "",
+    "EndDate": "",
+    "Genres": "",
+    "OfficialWebsite": "",
+    "Wikipedia": "",
+    "SpotifyID": "3MuLMPempfsj17Xc9OAGnA",
+    "SpotifyURL": "https://open.spotify.com/artist/3MuLMPempfsj17Xc9OAGnA",
+    "SpotifyURI": "spotify:artist:3MuLMPempfsj17Xc9OAGnA",
+    "SpotifyImageURL": "https://i.scdn.co/image/ab6761610000e5ebea28638e9f3a469144a43606",
+    "SpotifyPopularity": 37,
+    "SpotifyFollowers": 1641
   }
 ]
