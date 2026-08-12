@@ -1,129 +1,452 @@
 document.addEventListener("DOMContentLoaded", function () {
-	const basePath = "DATABASES/TOP_ARTISTS/";
-	const artistFeaturesFile = basePath + "ARTIST_FEATURES.json";
+    const basePath = "DATABASES/TOP_ARTISTS/";
 
-	// ✅ Fallback cover (ruta web relativa, NO ruta Windows)
-	const DEFAULT_COVER = "images/backgroundlogo.png";
+    const topListSelect =
+        document.getElementById("topListSelect");
+    const listName =
+        document.getElementById("listName");
+    const songList =
+        document.getElementById("songList");
+    const platformLogo =
+        document.getElementById("platformLogo");
 
-	const topListSelect = document.getElementById("topListSelect");
-	const listName = document.getElementById("listName");
-	const songList = document.getElementById("songList");
-	const platformLogo = document.getElementById("platformLogo");
+    const defaultImage =
+        "images/default_cover.jpg";
 
-	function loadArtistData(listFile) {
-		Promise.all([
-			fetch(basePath + listFile + ".json").then(r => r.json()),
-			fetch(artistFeaturesFile).then(r => r.json())
-		])
-			.then(([rankingData, artistFeatures]) => {
-				const artistMap = Object.fromEntries(
-					(Array.isArray(artistFeatures) ? artistFeatures : []).map(a => [String(a.ArtistID), a])
-				);
+    async function fetchJson(url, required = true) {
+        try {
+            const response = await fetch(
+                url,
+                {
+                    cache: "no-store"
+                }
+            );
 
-				const merged = (Array.isArray(rankingData) ? rankingData : []).map(entry => {
-					const artistObj = artistMap[String(entry.ArtistID)] || {};
+            if (!response.ok) {
+                throw new Error(
+                    `HTTP ${response.status}: ${url}`
+                );
+            }
 
-					// ✅ imagen robusta: si falta/está vacía -> DEFAULT_COVER
-					const imgCandidate = artistObj.SpotifyImageURL;
-					const finalImg =
-						typeof imgCandidate === "string" && imgCandidate.trim() !== ""
-							? imgCandidate
-							: DEFAULT_COVER;
+            return await response.json();
+        } catch (error) {
+            if (required) {
+                throw error;
+            }
 
-					return {
-						Position: entry.Position,
-						Artist: entry.Artist,
-						Image: finalImg,
-						URL: artistObj.SpotifyURL || null,
-						Hits: entry["Number of hits"]
-					};
-				});
+            console.warn(
+                "Optional artist JSON unavailable:",
+                url,
+                error.message
+            );
 
-				renderList(merged);
-			})
-			.catch(err => {
-				console.error("Error loading artist data:", err);
-				songList.innerHTML = `<li>Error loading artist data.</li>`;
-			});
-	}
+            return [];
+        }
+    }
 
-	function renderList(artists) {
-		songList.innerHTML = "";
+    function normalizeText(value) {
+        return String(value || "")
+            .trim()
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(
+                /[\u0300-\u036f]/g,
+                ""
+            )
+            .replace(/\s+/g, " ");
+    }
 
-		artists.forEach(artist => {
-			const li = document.createElement("li");
+    function buildArtistMaps(artistFeatures) {
+        const byID =
+            new Map();
+        const byName =
+            new Map();
 
-			const rank = document.createElement("div");
-			rank.className = "song-rank";
-			rank.textContent = `${artist.Position}.`;
+        (artistFeatures || []).forEach(
+            artist => {
+                if (
+                    artist.ArtistID !== null &&
+                    artist.ArtistID !== undefined &&
+                    artist.ArtistID !== ""
+                ) {
+                    byID.set(
+                        String(artist.ArtistID),
+                        artist
+                    );
+                }
 
-			const img = document.createElement("img");
-			img.src = artist.Image || DEFAULT_COVER;
-			img.alt = `${artist.Artist} Image`;
+                const nameKey =
+                    normalizeText(
+                        artist.Artist
+                    );
 
-			// ✅ fallback si la imagen falla al cargar
-			img.onerror = () => {
-				img.src = DEFAULT_COVER;
-			};
+                if (nameKey) {
+                    byName.set(
+                        nameKey,
+                        artist
+                    );
+                }
+            }
+        );
 
-			const info = document.createElement("div");
-			info.className = "song-info-list";
+        return {
+            byID,
+            byName
+        };
+    }
 
-			const title = document.createElement("span");
-			title.className = "song-title";
-			title.textContent = artist.Artist;
+    function getFeatureForEntry(
+        entry,
+        maps
+    ) {
+        const artistID =
+            entry?.ArtistID;
 
-			const hits = document.createElement("div");
-			hits.className = "song-artist";
-			hits.textContent = `Hits: ${artist.Hits}`;
+        if (
+            artistID !== null &&
+            artistID !== undefined &&
+            artistID !== ""
+        ) {
+            const byID =
+                maps.byID.get(
+                    String(artistID)
+                );
 
-			info.appendChild(title);
-			info.appendChild(hits);
+            if (byID) {
+                return byID;
+            }
+        }
 
-			li.appendChild(rank);
-			li.appendChild(img);
-			li.appendChild(info);
+        const nameKey =
+            normalizeText(
+                entry?.Artist
+            );
 
-			li.addEventListener("click", () => {
-				document.querySelectorAll(".song-list li").forEach(el => el.classList.remove("selected"));
-				li.classList.add("selected");
-			});
+        if (nameKey) {
+            return (
+                maps.byName.get(
+                    nameKey
+                ) ||
+                {}
+            );
+        }
 
-			if (artist.URL) {
-				img.style.cursor = "pointer";
-				img.addEventListener("click", () => {
-					const isSelected = li.classList.contains("selected");
-					if (!isSelected) {
-						document.querySelectorAll(".song-list li").forEach(el => el.classList.remove("selected"));
-						li.classList.add("selected");
-					} else {
-						window.open(artist.URL, "_blank");
-					}
-				});
-			}
+        return {};
+    }
 
-			songList.appendChild(li);
-		});
-	}
+    async function loadArtistData(
+        listFile
+    ) {
+        if (!songList) {
+            return;
+        }
 
-	// Dropdown listener
-	if (topListSelect) {
-		topListSelect.addEventListener("change", function () {
-			const selected = this.value;
-			listName.textContent = `TOP ARTISTS - ${selected.replace("artists_", "").toUpperCase()}`;
-			platformLogo.src = "images/logo.png";
-			loadArtistData(selected);
-		});
-	}
+        songList.innerHTML =
+            "<li>Loading artist data...</li>";
 
-	// Get chart query parameter
-	const urlParams = new URLSearchParams(window.location.search);
-	const chartParam = urlParams.get("chart") || "artists_weekly";
+        try {
+            /*
+             * SCORE_MASTER V4 now writes SpotifyImageURL/SpotifyURL
+             * directly into EVERY ranking JSON.
+             *
+             * ARTIST_FEATURES.json remains an optional fallback for
+             * compatibility with older generated files.
+             */
+            const [
+                rankingData,
+                artistFeatures
+            ] = await Promise.all([
+                fetchJson(
+                    basePath +
+                    listFile +
+                    ".json",
+                    true
+                ),
+                fetchJson(
+                    basePath +
+                    "ARTIST_FEATURES.json",
+                    false
+                )
+            ]);
 
-	// Update list name title
-	listName.textContent = `TOP ARTISTS - ${chartParam.replace("artists_", "").toUpperCase()}`;
-	platformLogo.src = "images/logo.png";
+            if (
+                !Array.isArray(rankingData)
+            ) {
+                throw new Error(
+                    `${listFile}.json is not an array.`
+                );
+            }
 
-	// Load chart
-	loadArtistData(chartParam);
+            const maps =
+                buildArtistMaps(
+                    artistFeatures
+                );
+
+            const merged =
+                rankingData.map(
+                    (entry, index) => {
+                        const fallback =
+                            getFeatureForEntry(
+                                entry,
+                                maps
+                            );
+
+                        return {
+                            Position:
+                                Number(
+                                    entry.Position
+                                ) ||
+                                index + 1,
+
+                            Artist:
+                                entry.Artist ||
+                                fallback.Artist ||
+                                "Unknown Artist",
+
+                            Image:
+                                entry.SpotifyImageURL ||
+                                fallback.SpotifyImageURL ||
+                                defaultImage,
+
+                            URL:
+                                entry.SpotifyURL ||
+                                fallback.SpotifyURL ||
+                                null,
+
+                            Hits:
+                                entry["Number of hits"] ??
+                                entry.Hits ??
+                                0
+                        };
+                    }
+                );
+
+            renderList(merged);
+
+        } catch (error) {
+            console.error(
+                "Error loading artist data:",
+                error
+            );
+
+            songList.innerHTML =
+                "<li>Error loading artist data.</li>";
+        }
+    }
+
+    function renderList(artists) {
+        if (!songList) {
+            return;
+        }
+
+        songList.innerHTML = "";
+
+        if (
+            !Array.isArray(artists) ||
+            artists.length === 0
+        ) {
+            songList.innerHTML =
+                "<li>No artist data available.</li>";
+            return;
+        }
+
+        artists.forEach(artist => {
+            const li =
+                document.createElement("li");
+
+            const rank =
+                document.createElement("div");
+            rank.className =
+                "song-rank";
+            rank.textContent =
+                `${artist.Position}.`;
+
+            const img =
+                document.createElement("img");
+            img.src =
+                artist.Image ||
+                defaultImage;
+            img.alt =
+                `${artist.Artist} Image`;
+
+            img.addEventListener(
+                "error",
+                () => {
+                    img.src =
+                        defaultImage;
+                },
+                {
+                    once: true
+                }
+            );
+
+            const info =
+                document.createElement("div");
+            info.className =
+                "song-info-list";
+
+            const title =
+                document.createElement("span");
+            title.className =
+                "song-title";
+            title.textContent =
+                artist.Artist;
+
+            const hits =
+                document.createElement("div");
+            hits.className =
+                "song-artist";
+            hits.textContent =
+                `Hits: ${artist.Hits}`;
+
+            info.appendChild(title);
+            info.appendChild(hits);
+
+            li.appendChild(rank);
+            li.appendChild(img);
+            li.appendChild(info);
+
+            li.addEventListener(
+                "click",
+                () => {
+                    document
+                        .querySelectorAll(
+                            ".song-list li"
+                        )
+                        .forEach(el =>
+                            el.classList.remove(
+                                "selected"
+                            )
+                        );
+
+                    li.classList.add(
+                        "selected"
+                    );
+                }
+            );
+
+            if (artist.URL) {
+                img.style.cursor =
+                    "pointer";
+
+                img.addEventListener(
+                    "click",
+                    event => {
+                        event.stopPropagation();
+
+                        const isSelected =
+                            li.classList.contains(
+                                "selected"
+                            );
+
+                        if (!isSelected) {
+                            document
+                                .querySelectorAll(
+                                    ".song-list li"
+                                )
+                                .forEach(el =>
+                                    el.classList.remove(
+                                        "selected"
+                                    )
+                                );
+
+                            li.classList.add(
+                                "selected"
+                            );
+                        } else {
+                            window.open(
+                                artist.URL,
+                                "_blank",
+                                "noopener"
+                            );
+                        }
+                    }
+                );
+            }
+
+            songList.appendChild(li);
+        });
+    }
+
+    function setListTitle(value) {
+        if (!listName) {
+            return;
+        }
+
+        listName.textContent =
+            `TOP ARTISTS - ${
+                String(value || "")
+                    .replace(
+                        "artists_",
+                        ""
+                    )
+                    .toUpperCase()
+            }`;
+    }
+
+    if (topListSelect) {
+        topListSelect.addEventListener(
+            "change",
+            function () {
+                const selected =
+                    this.value;
+
+                setListTitle(
+                    selected
+                );
+
+                if (platformLogo) {
+                    platformLogo.src =
+                        "images/logo.png";
+                }
+
+                loadArtistData(
+                    selected
+                );
+            }
+        );
+    }
+
+    const urlParams =
+        new URLSearchParams(
+            window.location.search
+        );
+
+    let chartParam =
+        urlParams.get("chart") ||
+        "artists_weekly";
+
+    const validOptions =
+        topListSelect
+            ? Array.from(
+                topListSelect.options
+            ).map(
+                option =>
+                    option.value
+            )
+            : [];
+
+    if (
+        validOptions.length > 0 &&
+        !validOptions.includes(
+            chartParam
+        )
+    ) {
+        chartParam =
+            "artists_weekly";
+    }
+
+    if (topListSelect) {
+        topListSelect.value =
+            chartParam;
+    }
+
+    setListTitle(chartParam);
+
+    if (platformLogo) {
+        platformLogo.src =
+            "images/logo.png";
+    }
+
+    loadArtistData(chartParam);
 });
