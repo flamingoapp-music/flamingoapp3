@@ -554,7 +554,7 @@
 		const chartGroups = {
 			spotify:         [["us", "gb", "es", "mx", "kr"]],
 			apple_music:     [["us", "uk", "gb", "es", "mx", "kr"]],
-			youtubeInsights: [["us", "uk", "gb", "es", "mx", "kr"]],
+			youtubeInsights: [["us", "uk", "es", "mx", "kr"]],
 			billboard:       [["hot100", "global200"]],
 		};
 
