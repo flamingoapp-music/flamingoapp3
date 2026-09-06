@@ -1,335 +1,37 @@
 [
   {
     "Position": 1,
-    "SongID": 1274847607,
-    "Title": "petal",
-    "Artist": "Ariana Grande",
+    "SongID": 1274800369,
+    "Title": "Training Season",
+    "Artist": "Dua Lipa",
     "Artists": [
       {
-        "Artist": "Ariana Grande",
+        "Artist": "Dua Lipa",
         "Role": "main",
         "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        "SpotifyURL": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
       }
     ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e",
-    "TotalScore": 469501.252727,
-    "SpotifyScore": 142193.012292,
-    "AppleScore": 240856.117205,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732f8790ed72296c2614607575",
+    "SpotifyURL": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26",
+    "TotalScore": 82.8308,
+    "Trend": "RISING_FAST",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 69.9766,
+    "MomentumScore": 100.0,
+    "PersistenceScore": 57.7411,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 74.01,
+    "FreshnessScore": 25.0,
+    "PlatformCount": 4,
+    "CountryCount": 81,
+    "WeeksPresent": 6,
+    "ConsecutiveWeeks": 6
   },
   {
     "Position": 2,
-    "SongID": 1274847669,
-    "Title": "oh well",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx",
-    "TotalScore": 144523.350373,
-    "SpotifyScore": 2199.860201,
-    "AppleScore": 110277.256947,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 3,
-    "SongID": 1274847613,
-    "Title": "like i do",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU",
-    "TotalScore": 101923.159171,
-    "SpotifyScore": 4257.470185,
-    "AppleScore": 75413.348264,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 4,
-    "SongID": 1274847614,
-    "Title": "stay",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/0QltPqkR4dnhbINyBOU5SY",
-    "TotalScore": 101623.15125,
-    "SpotifyScore": 2248.669752,
-    "AppleScore": 76927.205845,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 5,
-    "SongID": 1274847668,
-    "Title": "kiss me",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw",
-    "TotalScore": 95410.819751,
-    "SpotifyScore": 2368.13333,
-    "AppleScore": 72000.08573,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 6,
-    "SongID": 1274847670,
-    "Title": "big feelings",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4",
-    "TotalScore": 66411.688399,
-    "SpotifyScore": 1097.99088,
-    "AppleScore": 50589.703893,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 7,
-    "SongID": 1274847667,
-    "Title": "never get over me",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY",
-    "TotalScore": 53426.293133,
-    "SpotifyScore": 2856.840762,
-    "AppleScore": 38978.440589,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 8,
-    "SongID": 1274848037,
-    "Title": "freak",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K",
-    "TotalScore": 39007.219209,
-    "SpotifyScore": 299.375211,
-    "AppleScore": 30007.390507,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 9,
-    "SongID": 1274847181,
-    "Title": "MATADORA",
-    "Artist": "KAROL G",
-    "Artists": [
-      {
-        "Artist": "KAROL G",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
-    "SpotifyURL": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon",
-    "TotalScore": 35209.017977,
-    "SpotifyScore": 20825.699316,
-    "AppleScore": 5792.474765,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 10,
-    "SongID": 1274848035,
-    "Title": "bad thing (bunny hop)",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
-    "TotalScore": 34298.709209,
-    "SpotifyScore": 690.056921,
-    "AppleScore": 26011.991815,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 11,
-    "SongID": 1274847616,
-    "Title": "ZIZI",
-    "Artist": "Ozuna, Omar Courtz",
-    "Artists": [
-      {
-        "Artist": "Ozuna",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-      },
-      {
-        "Artist": "Omar Courtz",
-        "Role": "secondary_main",
-        "Weight": 0.62,
-        "SpotifyURL": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738860ab8ec81b98dfcd20080d",
-    "SpotifyURL": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX",
-    "TotalScore": 20128.400177,
-    "SpotifyScore": 17961.785872,
-    "AppleScore": 0.0,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 1
-  },
-  {
-    "Position": 12,
-    "SongID": 1274848034,
-    "Title": "nowhere, nobody",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
-    "TotalScore": 18857.027094,
-    "SpotifyScore": 679.653075,
-    "AppleScore": 14032.155008,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 2
-  },
-  {
-    "Position": 13,
-    "SongID": 1274847623,
-    "Title": "This & That",
-    "Artist": "Stray Kids",
-    "Artists": [
-      {
-        "Artist": "Stray Kids",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fcd5d717063c6415ae3e3770",
-    "SpotifyURL": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP",
-    "TotalScore": 18055.286192,
-    "SpotifyScore": 6479.256843,
-    "AppleScore": 5713.24828,
-    "YouTubeScore": 1140.222192,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 3
-  },
-  {
-    "Position": 14,
-    "SongID": 1274848038,
-    "Title": "warning signs (interlude)",
-    "Artist": "Ariana Grande",
-    "Artists": [
-      {
-        "Artist": "Ariana Grande",
-        "Role": "main",
-        "Weight": 1.0,
-        "SpotifyURL": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ],
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
-    "SpotifyURL": "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6",
-    "TotalScore": 15043.730951,
-    "SpotifyScore": 0.0,
-    "AppleScore": 11671.219683,
-    "YouTubeScore": 0.0,
-    "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 1
-  },
-  {
-    "Position": 15,
-    "SongID": 1274847692,
+    "SongID": 1274848083,
     "Title": "BbY WOW",
     "Artist": "KAROL G, Judeline, rusowsky",
     "Artists": [
@@ -343,23 +45,432 @@
         "Artist": "Judeline",
         "Role": "secondary_main",
         "Weight": 0.62,
-        "SpotifyURL": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        "SpotifyURL": null
       },
       {
         "Artist": "rusowsky",
         "Role": "secondary_main",
         "Weight": 0.62,
-        "SpotifyURL": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        "SpotifyURL": null
       }
     ],
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368",
     "SpotifyURL": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr",
-    "TotalScore": 14473.352347,
-    "SpotifyScore": 11297.306521,
-    "AppleScore": 0.0,
-    "YouTubeScore": 0.0,
+    "TotalScore": 75.2887,
+    "Trend": "NEW_ENTRY",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 69.6245,
+    "MomentumScore": 68.0,
+    "PersistenceScore": 44.0435,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 83.44,
+    "FreshnessScore": 82.0,
+    "PlatformCount": 4,
+    "CountryCount": 31,
+    "WeeksPresent": 1,
+    "ConsecutiveWeeks": 1
+  },
+  {
+    "Position": 3,
+    "SongID": 1273311,
+    "Title": "Choosin' Texas",
+    "Artist": "Ella Langley",
+    "Artists": [
+      {
+        "Artist": "Ella Langley",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27390958927fbba47a62c3e63f8",
+    "SpotifyURL": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc",
+    "TotalScore": 74.4562,
+    "Trend": "STABLE",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 79.6152,
+    "MomentumScore": 56.5939,
+    "PersistenceScore": 78.2278,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 89.795,
+    "FreshnessScore": 38.0,
+    "PlatformCount": 4,
+    "CountryCount": 39,
+    "WeeksPresent": 6,
+    "ConsecutiveWeeks": 6
+  },
+  {
+    "Position": 4,
+    "SongID": 1726,
+    "Title": "9 to 5",
+    "Artist": "Dolly Parton",
+    "Artists": [
+      {
+        "Artist": "Dolly Parton",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273060ccf36ab5b0e0a739799ec",
+    "SpotifyURL": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+    "TotalScore": 73.5671,
+    "Trend": "NEW_ENTRY",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 71.2177,
+    "MomentumScore": 68.0,
+    "PersistenceScore": 44.9197,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 81.595,
+    "FreshnessScore": 25.0,
+    "PlatformCount": 4,
+    "CountryCount": 19,
+    "WeeksPresent": 1,
+    "ConsecutiveWeeks": 1
+  },
+  {
+    "Position": 5,
+    "SongID": 198507,
+    "Title": "Jolene",
+    "Artist": "Dolly Parton",
+    "Artists": [
+      {
+        "Artist": "Dolly Parton",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27314021e9ab9da5813bc6791cb",
+    "SpotifyURL": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn",
+    "TotalScore": 73.5443,
+    "Trend": "NEW_ENTRY",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 70.8413,
+    "MomentumScore": 68.0,
+    "PersistenceScore": 44.7127,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 83.85,
+    "FreshnessScore": 25.0,
+    "PlatformCount": 4,
+    "CountryCount": 24,
+    "WeeksPresent": 1,
+    "ConsecutiveWeeks": 1
+  },
+  {
+    "Position": 6,
+    "SongID": 1274813184,
+    "Title": "Boston",
+    "Artist": "STELLA LEFTY",
+    "Artists": [
+      {
+        "Artist": "STELLA LEFTY",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e6cb19b02e38d18246ac334f",
+    "SpotifyURL": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN",
+    "TotalScore": 72.21,
+    "Trend": "STABLE",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 78.0375,
+    "MomentumScore": 56.3664,
+    "PersistenceScore": 75.1388,
+    "CrossPlatformScore": 80.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 87.95,
+    "FreshnessScore": 48.0,
+    "PlatformCount": 3,
+    "CountryCount": 18,
+    "WeeksPresent": 6,
+    "ConsecutiveWeeks": 6
+  },
+  {
+    "Position": 7,
+    "SongID": 1274845604,
+    "Title": "My Body Isn't Ready",
+    "Artist": "sombr",
+    "Artists": [
+      {
+        "Artist": "sombr",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27355615e9242bd96706c68a743",
+    "SpotifyURL": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0",
+    "TotalScore": 71.9416,
+    "Trend": "RISING_FAST",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 60.4818,
+    "MomentumScore": 81.2207,
+    "PersistenceScore": 51.4081,
+    "CrossPlatformScore": 80.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 65.81,
+    "FreshnessScore": 60.0,
+    "PlatformCount": 3,
+    "CountryCount": 17,
+    "WeeksPresent": 4,
+    "ConsecutiveWeeks": 4
+  },
+  {
+    "Position": 8,
+    "SongID": 1272627,
+    "Title": "Ordinary",
+    "Artist": "Alex Warren",
+    "Artists": [
+      {
+        "Artist": "Alex Warren",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27342fe69c0e7e5c92f01ece8ce",
+    "SpotifyURL": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe",
+    "TotalScore": 71.5618,
+    "Trend": "STABLE",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 74.1535,
+    "MomentumScore": 56.8424,
+    "PersistenceScore": 74.4147,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 87.13,
+    "FreshnessScore": 25.0,
+    "PlatformCount": 4,
+    "CountryCount": 54,
+    "WeeksPresent": 6,
+    "ConsecutiveWeeks": 6
+  },
+  {
+    "Position": 9,
+    "SongID": 1274838900,
+    "Title": "Movin' To The Sun",
+    "Artist": "HUGEL, Imael Angel, Ultra Naté",
+    "Artists": [
+      {
+        "Artist": "HUGEL",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      {
+        "Artist": "Imael Angel",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+      },
+      {
+        "Artist": "Ultra Naté",
+        "Role": "secondary_main",
+        "Weight": 0.62,
+        "SpotifyURL": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273193241cda50c27e1ce5ba626",
+    "SpotifyURL": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2",
+    "TotalScore": 71.463,
+    "Trend": "STABLE",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 73.7974,
+    "MomentumScore": 55.5865,
+    "PersistenceScore": 71.0434,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 79.34,
+    "FreshnessScore": 48.0,
+    "PlatformCount": 4,
+    "CountryCount": 58,
+    "WeeksPresent": 6,
+    "ConsecutiveWeeks": 6
+  },
+  {
+    "Position": 10,
+    "SongID": 1274848079,
+    "Title": "Great Expectation",
+    "Artist": "SIENNA SPIRO",
+    "Artists": [
+      {
+        "Artist": "SIENNA SPIRO",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
+    "SpotifyURL": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
+    "TotalScore": 71.4051,
+    "Trend": "NEW_ENTRY",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 64.9331,
+    "MomentumScore": 68.0,
+    "PersistenceScore": 41.4632,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 66.22,
+    "FreshnessScore": 60.0,
+    "PlatformCount": 4,
+    "CountryCount": 41,
+    "WeeksPresent": 1,
+    "ConsecutiveWeeks": 1
+  },
+  {
+    "Position": 11,
+    "SongID": 1243660,
+    "Title": "Loser",
+    "Artist": "Tame Impala",
+    "Artists": [
+      {
+        "Artist": "Tame Impala",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+    "SpotifyURL": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR",
+    "TotalScore": 71.4029,
+    "Trend": "STABLE",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 75.8885,
+    "MomentumScore": 52.7512,
+    "PersistenceScore": 51.9809,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 85.49,
+    "FreshnessScore": 38.0,
+    "PlatformCount": 4,
+    "CountryCount": 81,
+    "WeeksPresent": 2,
+    "ConsecutiveWeeks": 2
+  },
+  {
+    "Position": 12,
+    "SongID": 179330,
+    "Title": "Paraluman",
+    "Artist": "Adie",
+    "Artists": [
+      {
+        "Artist": "Adie",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/6V394G6torkxVfqL39qEgK"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ac3364edd3104f123584d1be",
+    "SpotifyURL": "https://open.spotify.com/track/2jbf9EytR7fzpSrPWAYCf9",
+    "TotalScore": 70.9014,
+    "Trend": "COMEBACK",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 83.5034,
+    "MomentumScore": 98.0,
+    "PersistenceScore": 44.5928,
+    "CrossPlatformScore": 30.0,
+    "GeographicScore": 11.0,
     "BillboardScore": 0.0,
-    "BillboardPresenceBonus": 0.0,
-    "PlatformCount": 1
+    "FreshnessScore": 25.0,
+    "PlatformCount": 1,
+    "CountryCount": 1,
+    "WeeksPresent": 3,
+    "ConsecutiveWeeks": 1
+  },
+  {
+    "Position": 13,
+    "SongID": 1274804841,
+    "Title": "Dracula",
+    "Artist": "Tame Impala",
+    "Artists": [
+      {
+        "Artist": "Tame Impala",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+    "SpotifyURL": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM",
+    "TotalScore": 70.6381,
+    "Trend": "RISING",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 61.4898,
+    "MomentumScore": 74.6153,
+    "PersistenceScore": 63.9212,
+    "CrossPlatformScore": 80.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 86.925,
+    "FreshnessScore": 38.0,
+    "PlatformCount": 3,
+    "CountryCount": 50,
+    "WeeksPresent": 6,
+    "ConsecutiveWeeks": 6
+  },
+  {
+    "Position": 14,
+    "SongID": 1274848094,
+    "Title": "Animal",
+    "Artist": "KATSEYE",
+    "Artists": [
+      {
+        "Artist": "KATSEYE",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": null
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739e8d48f27391ce383862b8e8",
+    "SpotifyURL": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX",
+    "TotalScore": 69.7935,
+    "Trend": "NEW_ENTRY",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 58.1227,
+    "MomentumScore": 68.0,
+    "PersistenceScore": 37.7175,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 80.365,
+    "FreshnessScore": 70.0,
+    "PlatformCount": 4,
+    "CountryCount": 57,
+    "WeeksPresent": 1,
+    "ConsecutiveWeeks": 1
+  },
+  {
+    "Position": 15,
+    "SongID": 473,
+    "Title": "Iris",
+    "Artist": "Goo Goo Dolls",
+    "Artists": [
+      {
+        "Artist": "Goo Goo Dolls",
+        "Role": "main",
+        "Weight": 1.0,
+        "SpotifyURL": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+      }
+    ],
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
+    "SpotifyURL": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+    "TotalScore": 69.7376,
+    "Trend": "STABLE",
+    "CurrentWeek": "2026-W36",
+    "CurrentStrength": 72.8959,
+    "MomentumScore": 53.5612,
+    "PersistenceScore": 72.5286,
+    "CrossPlatformScore": 100.0,
+    "GeographicScore": 100.0,
+    "BillboardScore": 83.03,
+    "FreshnessScore": 25.0,
+    "PlatformCount": 4,
+    "CountryCount": 48,
+    "WeeksPresent": 6,
+    "ConsecutiveWeeks": 6
   }
 ]
