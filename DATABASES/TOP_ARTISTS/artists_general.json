@@ -1,27 +1,27 @@
 [
   {
     "Position": 1,
+    "ArtistID": 16,
+    "Artist": "Bad Bunny",
+    "Number of hits": 92,
+    "Main hits": 92,
+    "Collaborator hits": 0,
+    "AverageMomentum": 30.5851,
+    "AverageCurrentStrength": 23.6853,
+    "MaxCountryReach": 44,
+    "ArtistScore": 402.668921
+  },
+  {
+    "Position": 2,
     "ArtistID": 83,
     "Artist": "Olivia Rodrigo",
     "Number of hits": 26,
     "Main hits": 26,
     "Collaborator hits": 0,
-    "AverageMomentum": 43.9749,
-    "AverageCurrentStrength": 32.1429,
-    "MaxCountryReach": 78,
-    "ArtistScore": 403.137075
-  },
-  {
-    "Position": 2,
-    "ArtistID": null,
-    "Artist": "Bad Bunny",
-    "Number of hits": 92,
-    "Main hits": 92,
-    "Collaborator hits": 0,
-    "AverageMomentum": 30.5873,
-    "AverageCurrentStrength": 23.7129,
-    "MaxCountryReach": 44,
-    "ArtistScore": 402.732057
+    "AverageMomentum": 43.9067,
+    "AverageCurrentStrength": 32.0599,
+    "MaxCountryReach": 79,
+    "ArtistScore": 400.421636
   },
   {
     "Position": 3,
@@ -30,10 +30,10 @@
     "Number of hits": 161,
     "Main hits": 161,
     "Collaborator hits": 0,
-    "AverageMomentum": 35.5645,
-    "AverageCurrentStrength": 18.7747,
+    "AverageMomentum": 35.587,
+    "AverageCurrentStrength": 18.7235,
     "MaxCountryReach": 101,
-    "ArtistScore": 390.025572
+    "ArtistScore": 390.73639
   },
   {
     "Position": 4,
@@ -42,10 +42,10 @@
     "Number of hits": 67,
     "Main hits": 67,
     "Collaborator hits": 0,
-    "AverageMomentum": 32.5728,
-    "AverageCurrentStrength": 28.8735,
+    "AverageMomentum": 32.6057,
+    "AverageCurrentStrength": 28.8357,
     "MaxCountryReach": 23,
-    "ArtistScore": 382.733763
+    "ArtistScore": 382.565558
   },
   {
     "Position": 5,
@@ -54,10 +54,10 @@
     "Number of hits": 31,
     "Main hits": 31,
     "Collaborator hits": 0,
-    "AverageMomentum": 41.7096,
-    "AverageCurrentStrength": 31.593,
+    "AverageMomentum": 41.6969,
+    "AverageCurrentStrength": 31.5619,
     "MaxCountryReach": 33,
-    "ArtistScore": 378.704167
+    "ArtistScore": 378.701599
   },
   {
     "Position": 6,
@@ -66,10 +66,10 @@
     "Number of hits": 16,
     "Main hits": 16,
     "Collaborator hits": 0,
-    "AverageMomentum": 41.8699,
-    "AverageCurrentStrength": 33.5733,
-    "MaxCountryReach": 68,
-    "ArtistScore": 374.969384
+    "AverageMomentum": 41.9273,
+    "AverageCurrentStrength": 33.584,
+    "MaxCountryReach": 69,
+    "ArtistScore": 375.128844
   },
   {
     "Position": 7,
@@ -78,10 +78,10 @@
     "Number of hits": 61,
     "Main hits": 61,
     "Collaborator hits": 0,
-    "AverageMomentum": 36.8898,
-    "AverageCurrentStrength": 25.7235,
+    "AverageMomentum": 36.8986,
+    "AverageCurrentStrength": 25.7343,
     "MaxCountryReach": 93,
-    "ArtistScore": 374.373471
+    "ArtistScore": 374.362064
   },
   {
     "Position": 8,
@@ -90,10 +90,10 @@
     "Number of hits": 21,
     "Main hits": 21,
     "Collaborator hits": 0,
-    "AverageMomentum": 46.3037,
-    "AverageCurrentStrength": 49.3051,
-    "MaxCountryReach": 11,
-    "ArtistScore": 374.226998
+    "AverageMomentum": 46.162,
+    "AverageCurrentStrength": 49.1529,
+    "MaxCountryReach": 12,
+    "ArtistScore": 374.311879
   },
   {
     "Position": 9,
@@ -102,34 +102,34 @@
     "Number of hits": 41,
     "Main hits": 41,
     "Collaborator hits": 0,
-    "AverageMomentum": 36.3868,
-    "AverageCurrentStrength": 36.4964,
+    "AverageMomentum": 36.3672,
+    "AverageCurrentStrength": 36.4795,
     "MaxCountryReach": 20,
-    "ArtistScore": 373.572759
+    "ArtistScore": 373.570351
   },
   {
     "Position": 10,
-    "ArtistID": 113,
-    "Artist": "Bruno Mars",
-    "Number of hits": 36,
-    "Main hits": 36,
-    "Collaborator hits": 0,
-    "AverageMomentum": 25.1719,
-    "AverageCurrentStrength": 25.1877,
-    "MaxCountryReach": 71,
-    "ArtistScore": 367.697447
-  },
-  {
-    "Position": 11,
     "ArtistID": null,
     "Artist": "Ella Langley",
     "Number of hits": 10,
     "Main hits": 10,
     "Collaborator hits": 0,
-    "AverageMomentum": 44.5675,
-    "AverageCurrentStrength": 44.9659,
+    "AverageMomentum": 44.5832,
+    "AverageCurrentStrength": 44.9795,
     "MaxCountryReach": 36,
-    "ArtistScore": 367.670055
+    "ArtistScore": 367.733218
+  },
+  {
+    "Position": 11,
+    "ArtistID": 113,
+    "Artist": "Bruno Mars",
+    "Number of hits": 36,
+    "Main hits": 36,
+    "Collaborator hits": 0,
+    "AverageMomentum": 25.1805,
+    "AverageCurrentStrength": 25.1754,
+    "MaxCountryReach": 71,
+    "ArtistScore": 367.650382
   },
   {
     "Position": 12,
@@ -138,10 +138,10 @@
     "Number of hits": 64,
     "Main hits": 64,
     "Collaborator hits": 0,
-    "AverageMomentum": 26.6524,
-    "AverageCurrentStrength": 13.7864,
-    "MaxCountryReach": 65,
-    "ArtistScore": 363.762107
+    "AverageMomentum": 26.7254,
+    "AverageCurrentStrength": 13.9362,
+    "MaxCountryReach": 66,
+    "ArtistScore": 365.669489
   },
   {
     "Position": 13,
@@ -150,10 +150,10 @@
     "Number of hits": 33,
     "Main hits": 33,
     "Collaborator hits": 0,
-    "AverageMomentum": 34.0251,
-    "AverageCurrentStrength": 30.5331,
+    "AverageMomentum": 34.0126,
+    "AverageCurrentStrength": 30.5221,
     "MaxCountryReach": 19,
-    "ArtistScore": 357.993539
+    "ArtistScore": 357.881442
   },
   {
     "Position": 14,
@@ -162,10 +162,10 @@
     "Number of hits": 38,
     "Main hits": 38,
     "Collaborator hits": 0,
-    "AverageMomentum": 32.7881,
-    "AverageCurrentStrength": 16.8185,
+    "AverageMomentum": 32.8793,
+    "AverageCurrentStrength": 16.8269,
     "MaxCountryReach": 79,
-    "ArtistScore": 355.541241
+    "ArtistScore": 356.084825
   },
   {
     "Position": 15,
@@ -174,82 +174,82 @@
     "Number of hits": 25,
     "Main hits": 25,
     "Collaborator hits": 0,
-    "AverageMomentum": 45.466,
-    "AverageCurrentStrength": 46.2609,
+    "AverageMomentum": 45.2714,
+    "AverageCurrentStrength": 46.0781,
     "MaxCountryReach": 15,
-    "ArtistScore": 353.347023
+    "ArtistScore": 353.1201
   },
   {
     "Position": 16,
+    "ArtistID": 7,
+    "Artist": "The Weeknd",
+    "Number of hits": 68,
+    "Main hits": 68,
+    "Collaborator hits": 0,
+    "AverageMomentum": 37.594,
+    "AverageCurrentStrength": 21.2124,
+    "MaxCountryReach": 62,
+    "ArtistScore": 350.083425
+  },
+  {
+    "Position": 17,
     "ArtistID": 236,
     "Artist": "BTS",
     "Number of hits": 54,
     "Main hits": 54,
     "Collaborator hits": 0,
-    "AverageMomentum": 21.424,
-    "AverageCurrentStrength": 17.4873,
+    "AverageMomentum": 22.897,
+    "AverageCurrentStrength": 18.1043,
     "MaxCountryReach": 51,
-    "ArtistScore": 349.256377
-  },
-  {
-    "Position": 17,
-    "ArtistID": 7,
-    "Artist": "The Weeknd",
-    "Number of hits": 67,
-    "Main hits": 67,
-    "Collaborator hits": 0,
-    "AverageMomentum": 36.6396,
-    "AverageCurrentStrength": 20.9422,
-    "MaxCountryReach": 62,
-    "ArtistScore": 347.761999
+    "ArtistScore": 349.172441
   },
   {
     "Position": 18,
-    "ArtistID": null,
-    "Artist": "Stormy",
-    "Number of hits": 35,
-    "Main hits": 35,
-    "Collaborator hits": 0,
-    "AverageMomentum": 43.6895,
-    "AverageCurrentStrength": 50.7742,
-    "MaxCountryReach": 3,
-    "ArtistScore": 346.506064
-  },
-  {
-    "Position": 19,
     "ArtistID": 258,
     "Artist": "Justin Bieber",
     "Number of hits": 50,
     "Main hits": 50,
     "Collaborator hits": 0,
-    "AverageMomentum": 26.8414,
-    "AverageCurrentStrength": 15.4345,
-    "MaxCountryReach": 87,
-    "ArtistScore": 346.414123
+    "AverageMomentum": 26.7973,
+    "AverageCurrentStrength": 15.3715,
+    "MaxCountryReach": 88,
+    "ArtistScore": 346.487076
+  },
+  {
+    "Position": 19,
+    "ArtistID": null,
+    "Artist": "Stormy",
+    "Number of hits": 35,
+    "Main hits": 35,
+    "Collaborator hits": 0,
+    "AverageMomentum": 43.6038,
+    "AverageCurrentStrength": 50.6608,
+    "MaxCountryReach": 3,
+    "ArtistScore": 344.954655
   },
   {
     "Position": 20,
-    "ArtistID": 34646,
-    "Artist": "ADÉLA",
-    "Number of hits": 11,
-    "Main hits": 11,
-    "Collaborator hits": 0,
-    "AverageMomentum": 61.9286,
-    "AverageCurrentStrength": 48.9586,
-    "MaxCountryReach": 71,
-    "ArtistScore": 345.841152
-  },
-  {
-    "Position": 21,
     "ArtistID": 18,
     "Artist": "Quevedo",
     "Number of hits": 29,
     "Main hits": 29,
     "Collaborator hits": 0,
-    "AverageMomentum": 34.6012,
-    "AverageCurrentStrength": 32.4531,
+    "AverageMomentum": 34.5674,
+    "AverageCurrentStrength": 32.4239,
     "MaxCountryReach": 13,
-    "ArtistScore": 344.261083
+    "ArtistScore": 343.875404
+  },
+  {
+    "Position": 21,
+    "ArtistID": 34646,
+    "Artist": "ADÉLA",
+    "Number of hits": 11,
+    "Main hits": 11,
+    "Collaborator hits": 0,
+    "AverageMomentum": 61.9042,
+    "AverageCurrentStrength": 48.9263,
+    "MaxCountryReach": 71,
+    "ArtistScore": 343.866942
   },
   {
     "Position": 22,
@@ -258,10 +258,10 @@
     "Number of hits": 32,
     "Main hits": 32,
     "Collaborator hits": 0,
-    "AverageMomentum": 37.0506,
-    "AverageCurrentStrength": 31.1345,
+    "AverageMomentum": 36.9919,
+    "AverageCurrentStrength": 31.0842,
     "MaxCountryReach": 20,
-    "ArtistScore": 343.007697
+    "ArtistScore": 342.760969
   },
   {
     "Position": 23,
@@ -270,10 +270,10 @@
     "Number of hits": 21,
     "Main hits": 21,
     "Collaborator hits": 0,
-    "AverageMomentum": 37.7511,
-    "AverageCurrentStrength": 40.2917,
+    "AverageMomentum": 37.9116,
+    "AverageCurrentStrength": 40.4763,
     "MaxCountryReach": 39,
-    "ArtistScore": 341.519249
+    "ArtistScore": 341.218916
   },
   {
     "Position": 24,
@@ -282,10 +282,10 @@
     "Number of hits": 77,
     "Main hits": 77,
     "Collaborator hits": 0,
-    "AverageMomentum": 40.7695,
-    "AverageCurrentStrength": 29.2979,
+    "AverageMomentum": 40.7149,
+    "AverageCurrentStrength": 29.2458,
     "MaxCountryReach": 8,
-    "ArtistScore": 341.048274
+    "ArtistScore": 340.844513
   },
   {
     "Position": 25,
@@ -297,7 +297,7 @@
     "AverageMomentum": 36.4346,
     "AverageCurrentStrength": 22.5568,
     "MaxCountryReach": 11,
-    "ArtistScore": 339.171681
+    "ArtistScore": 338.967343
   },
   {
     "Position": 26,
@@ -306,10 +306,10 @@
     "Number of hits": 42,
     "Main hits": 42,
     "Collaborator hits": 0,
-    "AverageMomentum": 30.5459,
-    "AverageCurrentStrength": 17.4481,
+    "AverageMomentum": 32.2333,
+    "AverageCurrentStrength": 18.2483,
     "MaxCountryReach": 39,
-    "ArtistScore": 337.224545
+    "ArtistScore": 337.618983
   },
   {
     "Position": 27,
@@ -318,10 +318,10 @@
     "Number of hits": 29,
     "Main hits": 29,
     "Collaborator hits": 0,
-    "AverageMomentum": 36.4757,
-    "AverageCurrentStrength": 50.4992,
+    "AverageMomentum": 36.6945,
+    "AverageCurrentStrength": 50.5489,
     "MaxCountryReach": 3,
-    "ArtistScore": 337.194958
+    "ArtistScore": 337.188752
   },
   {
     "Position": 28,
@@ -330,13 +330,25 @@
     "Number of hits": 28,
     "Main hits": 28,
     "Collaborator hits": 0,
-    "AverageMomentum": 40.8063,
-    "AverageCurrentStrength": 33.1422,
+    "AverageMomentum": 40.8742,
+    "AverageCurrentStrength": 33.2009,
     "MaxCountryReach": 9,
-    "ArtistScore": 336.260955
+    "ArtistScore": 336.841715
   },
   {
     "Position": 29,
+    "ArtistID": null,
+    "Artist": "Ramy Sabry",
+    "Number of hits": 27,
+    "Main hits": 27,
+    "Collaborator hits": 0,
+    "AverageMomentum": 47.7704,
+    "AverageCurrentStrength": 45.9516,
+    "MaxCountryReach": 13,
+    "ArtistScore": 334.473934
+  },
+  {
+    "Position": 30,
     "ArtistID": 642,
     "Artist": "Blessd",
     "Number of hits": 40,
@@ -345,22 +357,22 @@
     "AverageMomentum": 34.8458,
     "AverageCurrentStrength": 28.0839,
     "MaxCountryReach": 19,
-    "ArtistScore": 332.825384
-  },
-  {
-    "Position": 30,
-    "ArtistID": null,
-    "Artist": "Ramy Sabry",
-    "Number of hits": 27,
-    "Main hits": 27,
-    "Collaborator hits": 0,
-    "AverageMomentum": 47.635,
-    "AverageCurrentStrength": 45.8575,
-    "MaxCountryReach": 13,
-    "ArtistScore": 332.766252
+    "ArtistScore": 332.425384
   },
   {
     "Position": 31,
+    "ArtistID": 27064,
+    "Artist": "Malie Donn",
+    "Number of hits": 63,
+    "Main hits": 63,
+    "Collaborator hits": 0,
+    "AverageMomentum": 46.7468,
+    "AverageCurrentStrength": 28.9545,
+    "MaxCountryReach": 20,
+    "ArtistScore": 330.361309
+  },
+  {
+    "Position": 32,
     "ArtistID": null,
     "Artist": "AHTI",
     "Number of hits": 14,
@@ -369,19 +381,7 @@
     "AverageMomentum": 65.5132,
     "AverageCurrentStrength": 49.1326,
     "MaxCountryReach": 1,
-    "ArtistScore": 331.647199
-  },
-  {
-    "Position": 32,
-    "ArtistID": 27064,
-    "Artist": "Malie Donn",
-    "Number of hits": 63,
-    "Main hits": 63,
-    "Collaborator hits": 0,
-    "AverageMomentum": 46.4629,
-    "AverageCurrentStrength": 28.7903,
-    "MaxCountryReach": 20,
-    "ArtistScore": 329.872489
+    "ArtistScore": 330.273714
   },
   {
     "Position": 33,
@@ -390,10 +390,10 @@
     "Number of hits": 51,
     "Main hits": 51,
     "Collaborator hits": 0,
-    "AverageMomentum": 36.4854,
-    "AverageCurrentStrength": 35.1027,
+    "AverageMomentum": 36.4836,
+    "AverageCurrentStrength": 35.1011,
     "MaxCountryReach": 5,
-    "ArtistScore": 327.835726
+    "ArtistScore": 327.798675
   },
   {
     "Position": 34,
@@ -409,15 +409,15 @@
   },
   {
     "Position": 35,
-    "ArtistID": null,
-    "Artist": "manifest",
-    "Number of hits": 18,
-    "Main hits": 18,
+    "ArtistID": 1635,
+    "Artist": "Mrs. GREEN APPLE",
+    "Number of hits": 32,
+    "Main hits": 32,
     "Collaborator hits": 0,
-    "AverageMomentum": 37.41,
-    "AverageCurrentStrength": 46.9932,
-    "MaxCountryReach": 3,
-    "ArtistScore": 323.715438
+    "AverageMomentum": 36.2506,
+    "AverageCurrentStrength": 39.8931,
+    "MaxCountryReach": 2,
+    "ArtistScore": 323.82606
   },
   {
     "Position": 36,
@@ -426,121 +426,133 @@
     "Number of hits": 24,
     "Main hits": 24,
     "Collaborator hits": 0,
-    "AverageMomentum": 49.2846,
-    "AverageCurrentStrength": 47.5457,
+    "AverageMomentum": 49.2051,
+    "AverageCurrentStrength": 47.281,
     "MaxCountryReach": 2,
-    "ArtistScore": 323.506638
+    "ArtistScore": 323.319585
   },
   {
     "Position": 37,
-    "ArtistID": 1635,
-    "Artist": "Mrs. GREEN APPLE",
-    "Number of hits": 32,
-    "Main hits": 32,
+    "ArtistID": null,
+    "Artist": "manifest",
+    "Number of hits": 18,
+    "Main hits": 18,
     "Collaborator hits": 0,
-    "AverageMomentum": 35.8592,
-    "AverageCurrentStrength": 39.7394,
-    "MaxCountryReach": 2,
-    "ArtistScore": 323.203706
+    "AverageMomentum": 37.3374,
+    "AverageCurrentStrength": 46.8633,
+    "MaxCountryReach": 3,
+    "ArtistScore": 323.039053
   },
   {
     "Position": 38,
-    "ArtistID": 3953,
-    "Artist": "Neton Vega",
-    "Number of hits": 21,
-    "Main hits": 21,
-    "Collaborator hits": 0,
-    "AverageMomentum": 44.731,
-    "AverageCurrentStrength": 35.9324,
-    "MaxCountryReach": 7,
-    "ArtistScore": 322.481005
-  },
-  {
-    "Position": 39,
-    "ArtistID": null,
-    "Artist": "Harry Styles",
-    "Number of hits": 26,
-    "Main hits": 26,
-    "Collaborator hits": 0,
-    "AverageMomentum": 39.9516,
-    "AverageCurrentStrength": 25.3739,
-    "MaxCountryReach": 47,
-    "ArtistScore": 321.910523
-  },
-  {
-    "Position": 40,
-    "ArtistID": 50923,
-    "Artist": "Hafdís Huld",
-    "Number of hits": 20,
-    "Main hits": 20,
-    "Collaborator hits": 0,
-    "AverageMomentum": 53.7331,
-    "AverageCurrentStrength": 66.1061,
-    "MaxCountryReach": 1,
-    "ArtistScore": 321.677642
-  },
-  {
-    "Position": 41,
     "ArtistID": 12,
     "Artist": "Dua Lipa",
     "Number of hits": 25,
     "Main hits": 25,
     "Collaborator hits": 0,
-    "AverageMomentum": 38.8588,
-    "AverageCurrentStrength": 22.1863,
+    "AverageMomentum": 39.0964,
+    "AverageCurrentStrength": 22.3283,
     "MaxCountryReach": 86,
-    "ArtistScore": 321.654089
+    "ArtistScore": 322.728856
+  },
+  {
+    "Position": 39,
+    "ArtistID": 50923,
+    "Artist": "Hafdís Huld",
+    "Number of hits": 20,
+    "Main hits": 20,
+    "Collaborator hits": 0,
+    "AverageMomentum": 53.896,
+    "AverageCurrentStrength": 66.1458,
+    "MaxCountryReach": 1,
+    "ArtistScore": 322.08541
+  },
+  {
+    "Position": 40,
+    "ArtistID": null,
+    "Artist": "Harry Styles",
+    "Number of hits": 26,
+    "Main hits": 26,
+    "Collaborator hits": 0,
+    "AverageMomentum": 39.9583,
+    "AverageCurrentStrength": 25.3797,
+    "MaxCountryReach": 47,
+    "ArtistScore": 321.971299
+  },
+  {
+    "Position": 41,
+    "ArtistID": 3953,
+    "Artist": "Neton Vega",
+    "Number of hits": 21,
+    "Main hits": 21,
+    "Collaborator hits": 0,
+    "AverageMomentum": 44.5824,
+    "AverageCurrentStrength": 35.8039,
+    "MaxCountryReach": 7,
+    "ArtistScore": 321.635341
   },
   {
     "Position": 42,
     "ArtistID": null,
     "Artist": "Werenoi",
-    "Number of hits": 40,
-    "Main hits": 40,
+    "Number of hits": 41,
+    "Main hits": 41,
     "Collaborator hits": 0,
-    "AverageMomentum": 32.3989,
-    "AverageCurrentStrength": 19.4437,
+    "AverageMomentum": 35.1656,
+    "AverageCurrentStrength": 20.3299,
     "MaxCountryReach": 11,
-    "ArtistScore": 320.564849
+    "ArtistScore": 320.958576
   },
   {
     "Position": 43,
     "ArtistID": null,
-    "Artist": "Rauw Alejandro",
-    "Number of hits": 29,
-    "Main hits": 29,
+    "Artist": "Lil Naay",
+    "Number of hits": 27,
+    "Main hits": 27,
     "Collaborator hits": 0,
-    "AverageMomentum": 36.1107,
-    "AverageCurrentStrength": 26.8462,
-    "MaxCountryReach": 19,
-    "ArtistScore": 319.757016
+    "AverageMomentum": 41.9275,
+    "AverageCurrentStrength": 40.8051,
+    "MaxCountryReach": 10,
+    "ArtistScore": 319.781761
   },
   {
     "Position": 44,
-    "ArtistID": null,
-    "Artist": "Lil Naay",
-    "Number of hits": 26,
-    "Main hits": 26,
-    "Collaborator hits": 0,
-    "AverageMomentum": 40.8851,
-    "AverageCurrentStrength": 40.1989,
-    "MaxCountryReach": 10,
-    "ArtistScore": 319.243322
-  },
-  {
-    "Position": 45,
     "ArtistID": null,
     "Artist": "Fally Ipupa",
     "Number of hits": 63,
     "Main hits": 63,
     "Collaborator hits": 0,
-    "AverageMomentum": 29.2095,
-    "AverageCurrentStrength": 18.8121,
+    "AverageMomentum": 29.2515,
+    "AverageCurrentStrength": 18.8354,
     "MaxCountryReach": 8,
-    "ArtistScore": 318.968116
+    "ArtistScore": 319.369523
+  },
+  {
+    "Position": 45,
+    "ArtistID": 54,
+    "Artist": "Rauw Alejandro",
+    "Number of hits": 29,
+    "Main hits": 29,
+    "Collaborator hits": 0,
+    "AverageMomentum": 36.0478,
+    "AverageCurrentStrength": 26.7702,
+    "MaxCountryReach": 19,
+    "ArtistScore": 318.831486
   },
   {
     "Position": 46,
+    "ArtistID": 226,
+    "Artist": "Fleetwood Mac",
+    "Number of hits": 15,
+    "Main hits": 15,
+    "Collaborator hits": 0,
+    "AverageMomentum": 41.098,
+    "AverageCurrentStrength": 34.0133,
+    "MaxCountryReach": 14,
+    "ArtistScore": 318.752354
+  },
+  {
+    "Position": 47,
     "ArtistID": 4075,
     "Artist": "Isac Elliot",
     "Number of hits": 23,
@@ -549,46 +561,22 @@
     "AverageMomentum": 35.7978,
     "AverageCurrentStrength": 43.1724,
     "MaxCountryReach": 1,
-    "ArtistScore": 318.915928
-  },
-  {
-    "Position": 47,
-    "ArtistID": 226,
-    "Artist": "Fleetwood Mac",
-    "Number of hits": 15,
-    "Main hits": 15,
-    "Collaborator hits": 0,
-    "AverageMomentum": 40.6842,
-    "AverageCurrentStrength": 33.8848,
-    "MaxCountryReach": 14,
-    "ArtistScore": 317.756413
+    "ArtistScore": 318.556111
   },
   {
     "Position": 48,
-    "ArtistID": null,
-    "Artist": "Yzomandias",
-    "Number of hits": 43,
-    "Main hits": 43,
-    "Collaborator hits": 0,
-    "AverageMomentum": 45.9111,
-    "AverageCurrentStrength": 39.0446,
-    "MaxCountryReach": 2,
-    "ArtistScore": 317.649301
-  },
-  {
-    "Position": 49,
     "ArtistID": null,
     "Artist": "VINI",
     "Number of hits": 17,
     "Main hits": 17,
     "Collaborator hits": 0,
-    "AverageMomentum": 39.7679,
-    "AverageCurrentStrength": 47.8473,
+    "AverageMomentum": 39.8949,
+    "AverageCurrentStrength": 47.9096,
     "MaxCountryReach": 1,
-    "ArtistScore": 317.645006
+    "ArtistScore": 318.021491
   },
   {
-    "Position": 50,
+    "Position": 49,
     "ArtistID": 61553,
     "Artist": "Dalvin La Melodia",
     "Number of hits": 14,
@@ -600,28 +588,40 @@
     "ArtistScore": 317.582976
   },
   {
-    "Position": 51,
-    "ArtistID": 1993,
-    "Artist": "back number",
-    "Number of hits": 28,
-    "Main hits": 28,
+    "Position": 50,
+    "ArtistID": null,
+    "Artist": "Yzomandias",
+    "Number of hits": 43,
+    "Main hits": 43,
     "Collaborator hits": 0,
-    "AverageMomentum": 43.029,
-    "AverageCurrentStrength": 47.4012,
+    "AverageMomentum": 45.9111,
+    "AverageCurrentStrength": 39.0446,
     "MaxCountryReach": 2,
-    "ArtistScore": 316.479543
+    "ArtistScore": 317.196345
   },
   {
-    "Position": 52,
+    "Position": 51,
     "ArtistID": 8,
     "Artist": "Billie Eilish",
     "Number of hits": 17,
     "Main hits": 17,
     "Collaborator hits": 0,
-    "AverageMomentum": 38.174,
-    "AverageCurrentStrength": 21.0764,
+    "AverageMomentum": 38.3318,
+    "AverageCurrentStrength": 21.0713,
     "MaxCountryReach": 45,
-    "ArtistScore": 316.376224
+    "ArtistScore": 316.933248
+  },
+  {
+    "Position": 52,
+    "ArtistID": 1993,
+    "Artist": "back number",
+    "Number of hits": 28,
+    "Main hits": 28,
+    "Collaborator hits": 0,
+    "AverageMomentum": 43.0868,
+    "AverageCurrentStrength": 47.4223,
+    "MaxCountryReach": 2,
+    "ArtistScore": 316.891159
   },
   {
     "Position": 53,
@@ -630,10 +630,10 @@
     "Number of hits": 84,
     "Main hits": 84,
     "Collaborator hits": 0,
-    "AverageMomentum": 29.4625,
-    "AverageCurrentStrength": 18.569,
+    "AverageMomentum": 29.4947,
+    "AverageCurrentStrength": 18.6697,
     "MaxCountryReach": 13,
-    "ArtistScore": 315.624932
+    "ArtistScore": 316.116957
   },
   {
     "Position": 54,
@@ -657,7 +657,7 @@
     "AverageMomentum": 50.9546,
     "AverageCurrentStrength": 67.8433,
     "MaxCountryReach": 1,
-    "ArtistScore": 314.866441
+    "ArtistScore": 312.360195
   },
   {
     "Position": 56,
@@ -690,37 +690,73 @@
     "Number of hits": 27,
     "Main hits": 27,
     "Collaborator hits": 0,
-    "AverageMomentum": 41.3339,
-    "AverageCurrentStrength": 39.2927,
+    "AverageMomentum": 41.3818,
+    "AverageCurrentStrength": 39.3042,
     "MaxCountryReach": 1,
-    "ArtistScore": 311.909818
+    "ArtistScore": 311.542104
   },
   {
     "Position": 59,
+    "ArtistID": 63860,
+    "Artist": "M!LK",
+    "Number of hits": 13,
+    "Main hits": 13,
+    "Collaborator hits": 0,
+    "AverageMomentum": 50.2634,
+    "AverageCurrentStrength": 55.4355,
+    "MaxCountryReach": 2,
+    "ArtistScore": 310.471223
+  },
+  {
+    "Position": 60,
     "ArtistID": null,
     "Artist": "SADU",
     "Number of hits": 14,
     "Main hits": 14,
     "Collaborator hits": 0,
-    "AverageMomentum": 37.8844,
-    "AverageCurrentStrength": 46.8415,
+    "AverageMomentum": 37.8516,
+    "AverageCurrentStrength": 46.8131,
     "MaxCountryReach": 1,
-    "ArtistScore": 310.011455
+    "ArtistScore": 309.900347
   },
   {
-    "Position": 60,
+    "Position": 61,
     "ArtistID": 77,
     "Artist": "Luke Combs",
     "Number of hits": 15,
     "Main hits": 15,
     "Collaborator hits": 0,
-    "AverageMomentum": 45.9575,
-    "AverageCurrentStrength": 37.1255,
+    "AverageMomentum": 45.6784,
+    "AverageCurrentStrength": 36.8426,
     "MaxCountryReach": 5,
-    "ArtistScore": 308.904649
+    "ArtistScore": 308.377155
   },
   {
-    "Position": 61,
+    "Position": 62,
+    "ArtistID": 26563,
+    "Artist": "Masicka",
+    "Number of hits": 49,
+    "Main hits": 49,
+    "Collaborator hits": 0,
+    "AverageMomentum": 35.5208,
+    "AverageCurrentStrength": 28.1357,
+    "MaxCountryReach": 14,
+    "ArtistScore": 308.343157
+  },
+  {
+    "Position": 63,
+    "ArtistID": 50603,
+    "Artist": "Alkaline",
+    "Number of hits": 90,
+    "Main hits": 90,
+    "Collaborator hits": 0,
+    "AverageMomentum": 42.6663,
+    "AverageCurrentStrength": 26.618,
+    "MaxCountryReach": 17,
+    "ArtistScore": 307.85392
+  },
+  {
+    "Position": 64,
     "ArtistID": 65381,
     "Artist": "TOQUEL",
     "Number of hits": 44,
@@ -729,34 +765,10 @@
     "AverageMomentum": 44.646,
     "AverageCurrentStrength": 41.1045,
     "MaxCountryReach": 2,
-    "ArtistScore": 308.797463
+    "ArtistScore": 307.516727
   },
   {
-    "Position": 62,
-    "ArtistID": 63860,
-    "Artist": "M!LK",
-    "Number of hits": 13,
-    "Main hits": 13,
-    "Collaborator hits": 0,
-    "AverageMomentum": 49.5252,
-    "AverageCurrentStrength": 54.6567,
-    "MaxCountryReach": 2,
-    "ArtistScore": 308.413184
-  },
-  {
-    "Position": 63,
-    "ArtistID": 4078,
-    "Artist": "Gareth.T",
-    "Number of hits": 21,
-    "Main hits": 21,
-    "Collaborator hits": 0,
-    "AverageMomentum": 37.3359,
-    "AverageCurrentStrength": 35.2822,
-    "MaxCountryReach": 5,
-    "ArtistScore": 307.476613
-  },
-  {
-    "Position": 64,
+    "Position": 65,
     "ArtistID": 1998,
     "Artist": "Humlan Djojj",
     "Number of hits": 15,
@@ -768,31 +780,7 @@
     "ArtistScore": 307.418752
   },
   {
-    "Position": 65,
-    "ArtistID": 26563,
-    "Artist": "Masicka",
-    "Number of hits": 49,
-    "Main hits": 49,
-    "Collaborator hits": 0,
-    "AverageMomentum": 35.4119,
-    "AverageCurrentStrength": 28.0016,
-    "MaxCountryReach": 14,
-    "ArtistScore": 307.345466
-  },
-  {
     "Position": 66,
-    "ArtistID": 50603,
-    "Artist": "Alkaline",
-    "Number of hits": 90,
-    "Main hits": 90,
-    "Collaborator hits": 0,
-    "AverageMomentum": 42.5433,
-    "AverageCurrentStrength": 26.5206,
-    "MaxCountryReach": 17,
-    "ArtistScore": 307.342333
-  },
-  {
-    "Position": 67,
     "ArtistID": 20,
     "Artist": "Peso Pluma",
     "Number of hits": 31,
@@ -804,31 +792,7 @@
     "ArtistScore": 307.224612
   },
   {
-    "Position": 68,
-    "ArtistID": 36700,
-    "Artist": "Anson Lo 盧瀚霆",
-    "Number of hits": 13,
-    "Main hits": 13,
-    "Collaborator hits": 0,
-    "AverageMomentum": 41.9292,
-    "AverageCurrentStrength": 61.0804,
-    "MaxCountryReach": 1,
-    "ArtistScore": 306.371035
-  },
-  {
-    "Position": 69,
-    "ArtistID": 473,
-    "Artist": "Romeo Santos",
-    "Number of hits": 21,
-    "Main hits": 21,
-    "Collaborator hits": 0,
-    "AverageMomentum": 37.2916,
-    "AverageCurrentStrength": 26.7486,
-    "MaxCountryReach": 17,
-    "ArtistScore": 305.989576
-  },
-  {
-    "Position": 70,
+    "Position": 67,
     "ArtistID": 5077,
     "Artist": "Separ",
     "Number of hits": 35,
@@ -840,31 +804,91 @@
     "ArtistScore": 305.968341
   },
   {
+    "Position": 68,
+    "ArtistID": 473,
+    "Artist": "Romeo Santos",
+    "Number of hits": 21,
+    "Main hits": 21,
+    "Collaborator hits": 0,
+    "AverageMomentum": 37.2862,
+    "AverageCurrentStrength": 26.7439,
+    "MaxCountryReach": 17,
+    "ArtistScore": 305.94479
+  },
+  {
+    "Position": 69,
+    "ArtistID": 4078,
+    "Artist": "Gareth.T",
+    "Number of hits": 21,
+    "Main hits": 21,
+    "Collaborator hits": 0,
+    "AverageMomentum": 36.824,
+    "AverageCurrentStrength": 34.7894,
+    "MaxCountryReach": 5,
+    "ArtistScore": 305.561971
+  },
+  {
+    "Position": 70,
+    "ArtistID": 36700,
+    "Artist": "Anson Lo 盧瀚霆",
+    "Number of hits": 13,
+    "Main hits": 13,
+    "Collaborator hits": 0,
+    "AverageMomentum": 41.9292,
+    "AverageCurrentStrength": 61.0804,
+    "MaxCountryReach": 1,
+    "ArtistScore": 305.556572
+  },
+  {
     "Position": 71,
+    "ArtistID": 27076,
+    "Artist": "Valiant",
+    "Number of hits": 26,
+    "Main hits": 26,
+    "Collaborator hits": 0,
+    "AverageMomentum": 36.7905,
+    "AverageCurrentStrength": 22.9564,
+    "MaxCountryReach": 23,
+    "ArtistScore": 305.347438
+  },
+  {
+    "Position": 72,
     "ArtistID": null,
     "Artist": "Seyi Vibez",
     "Number of hits": 28,
     "Main hits": 28,
     "Collaborator hits": 0,
-    "AverageMomentum": 40.6294,
-    "AverageCurrentStrength": 29.4061,
+    "AverageMomentum": 41.1272,
+    "AverageCurrentStrength": 29.525,
     "MaxCountryReach": 7,
-    "ArtistScore": 305.392996
+    "ArtistScore": 305.016596
   },
   {
-    "Position": 72,
+    "Position": 73,
+    "ArtistID": 15788,
+    "Artist": "Ewa Farna",
+    "Number of hits": 18,
+    "Main hits": 18,
+    "Collaborator hits": 0,
+    "AverageMomentum": 34.0497,
+    "AverageCurrentStrength": 35.1826,
+    "MaxCountryReach": 1,
+    "ArtistScore": 304.868678
+  },
+  {
+    "Position": 74,
     "ArtistID": 7389,
     "Artist": "PUN",
     "Number of hits": 18,
     "Main hits": 18,
     "Collaborator hits": 0,
-    "AverageMomentum": 45.2013,
-    "AverageCurrentStrength": 44.0768,
+    "AverageMomentum": 45.1217,
+    "AverageCurrentStrength": 44.0079,
     "MaxCountryReach": 3,
-    "ArtistScore": 305.359057
+    "ArtistScore": 304.821242
   },
   {
-    "Position": 73,
+    "Position": 75,
     "ArtistID": null,
     "Artist": "SNIK",
     "Number of hits": 32,
@@ -873,43 +897,19 @@
     "AverageMomentum": 47.2659,
     "AverageCurrentStrength": 31.9135,
     "MaxCountryReach": 2,
-    "ArtistScore": 305.08453
+    "ArtistScore": 304.73253
   },
   {
-    "Position": 74,
+    "Position": 76,
     "ArtistID": 92,
     "Artist": "Ed Sheeran",
     "Number of hits": 23,
     "Main hits": 23,
     "Collaborator hits": 0,
-    "AverageMomentum": 38.0415,
-    "AverageCurrentStrength": 21.8992,
+    "AverageMomentum": 38.0002,
+    "AverageCurrentStrength": 21.8634,
     "MaxCountryReach": 49,
-    "ArtistScore": 304.669346
-  },
-  {
-    "Position": 75,
-    "ArtistID": 27076,
-    "Artist": "Valiant",
-    "Number of hits": 26,
-    "Main hits": 26,
-    "Collaborator hits": 0,
-    "AverageMomentum": 36.7594,
-    "AverageCurrentStrength": 23.2113,
-    "MaxCountryReach": 23,
-    "ArtistScore": 304.195234
-  },
-  {
-    "Position": 76,
-    "ArtistID": 15788,
-    "Artist": "Ewa Farna",
-    "Number of hits": 18,
-    "Main hits": 18,
-    "Collaborator hits": 0,
-    "AverageMomentum": 33.9308,
-    "AverageCurrentStrength": 35.0947,
-    "MaxCountryReach": 1,
-    "ArtistScore": 304.150181
+    "ArtistScore": 304.437832
   },
   {
     "Position": 77,
@@ -918,10 +918,10 @@
     "Number of hits": 42,
     "Main hits": 42,
     "Collaborator hits": 0,
-    "AverageMomentum": 35.1222,
-    "AverageCurrentStrength": 31.2712,
+    "AverageMomentum": 36.426,
+    "AverageCurrentStrength": 32.2469,
     "MaxCountryReach": 1,
-    "ArtistScore": 303.860385
+    "ArtistScore": 303.787347
   },
   {
     "Position": 78,
@@ -930,10 +930,10 @@
     "Number of hits": 28,
     "Main hits": 28,
     "Collaborator hits": 0,
-    "AverageMomentum": 32.0254,
-    "AverageCurrentStrength": 30.3464,
+    "AverageMomentum": 32.6772,
+    "AverageCurrentStrength": 30.6028,
     "MaxCountryReach": 1,
-    "ArtistScore": 302.357711
+    "ArtistScore": 302.422678
   },
   {
     "Position": 79,
@@ -942,10 +942,10 @@
     "Number of hits": 21,
     "Main hits": 21,
     "Collaborator hits": 0,
-    "AverageMomentum": 35.2642,
-    "AverageCurrentStrength": 22.4865,
+    "AverageMomentum": 35.2748,
+    "AverageCurrentStrength": 22.4957,
     "MaxCountryReach": 57,
-    "ArtistScore": 301.528131
+    "ArtistScore": 301.616178
   },
   {
     "Position": 80,
@@ -954,25 +954,61 @@
     "Number of hits": 26,
     "Main hits": 26,
     "Collaborator hits": 0,
-    "AverageMomentum": 43.6922,
-    "AverageCurrentStrength": 37.6934,
+    "AverageMomentum": 43.6115,
+    "AverageCurrentStrength": 37.5921,
     "MaxCountryReach": 1,
-    "ArtistScore": 301.437571
+    "ArtistScore": 300.704859
   },
   {
     "Position": 81,
+    "ArtistID": 916,
+    "Artist": "Davido",
+    "Number of hits": 36,
+    "Main hits": 36,
+    "Collaborator hits": 0,
+    "AverageMomentum": 38.9349,
+    "AverageCurrentStrength": 21.1676,
+    "MaxCountryReach": 15,
+    "ArtistScore": 300.389891
+  },
+  {
+    "Position": 82,
     "ArtistID": null,
     "Artist": "Wizkid",
     "Number of hits": 34,
     "Main hits": 34,
     "Collaborator hits": 0,
-    "AverageMomentum": 28.4726,
-    "AverageCurrentStrength": 19.4137,
+    "AverageMomentum": 28.5424,
+    "AverageCurrentStrength": 19.4622,
     "MaxCountryReach": 20,
-    "ArtistScore": 299.697293
+    "ArtistScore": 300.238632
   },
   {
-    "Position": 82,
+    "Position": 83,
+    "ArtistID": 6437,
+    "Artist": "Amr Diab",
+    "Number of hits": 48,
+    "Main hits": 48,
+    "Collaborator hits": 0,
+    "AverageMomentum": 37.2402,
+    "AverageCurrentStrength": 27.8039,
+    "MaxCountryReach": 11,
+    "ArtistScore": 299.3871
+  },
+  {
+    "Position": 84,
+    "ArtistID": 76,
+    "Artist": "Shakira",
+    "Number of hits": 27,
+    "Main hits": 27,
+    "Collaborator hits": 0,
+    "AverageMomentum": 27.3924,
+    "AverageCurrentStrength": 16.5786,
+    "MaxCountryReach": 123,
+    "ArtistScore": 299.258197
+  },
+  {
+    "Position": 85,
     "ArtistID": 13182,
     "Artist": "P T K",
     "Number of hits": 30,
@@ -981,58 +1017,34 @@
     "AverageMomentum": 47.7176,
     "AverageCurrentStrength": 39.6036,
     "MaxCountryReach": 2,
-    "ArtistScore": 299.434175
+    "ArtistScore": 298.717535
   },
   {
-    "Position": 83,
-    "ArtistID": 76,
-    "Artist": "Shakira",
-    "Number of hits": 27,
-    "Main hits": 27,
+    "Position": 86,
+    "ArtistID": 879,
+    "Artist": "Burna Boy",
+    "Number of hits": 42,
+    "Main hits": 42,
     "Collaborator hits": 0,
-    "AverageMomentum": 27.3622,
-    "AverageCurrentStrength": 16.5756,
+    "AverageMomentum": 26.0646,
+    "AverageCurrentStrength": 18.1773,
     "MaxCountryReach": 123,
-    "ArtistScore": 299.12525
+    "ArtistScore": 298.357073
   },
   {
-    "Position": 84,
-    "ArtistID": 916,
-    "Artist": "Davido",
-    "Number of hits": 36,
-    "Main hits": 36,
-    "Collaborator hits": 0,
-    "AverageMomentum": 38.8019,
-    "AverageCurrentStrength": 20.9999,
-    "MaxCountryReach": 15,
-    "ArtistScore": 299.113417
-  },
-  {
-    "Position": 85,
+    "Position": 87,
     "ArtistID": 163,
     "Artist": "Ozuna",
     "Number of hits": 21,
     "Main hits": 21,
     "Collaborator hits": 0,
-    "AverageMomentum": 36.0677,
-    "AverageCurrentStrength": 21.7928,
+    "AverageMomentum": 36.0477,
+    "AverageCurrentStrength": 21.7755,
     "MaxCountryReach": 19,
-    "ArtistScore": 298.383137
+    "ArtistScore": 298.090042
   },
   {
-    "Position": 86,
-    "ArtistID": 6437,
-    "Artist": "Amr Diab",
-    "Number of hits": 48,
-    "Main hits": 48,
-    "Collaborator hits": 0,
-    "AverageMomentum": 37.1224,
-    "AverageCurrentStrength": 27.8257,
-    "MaxCountryReach": 11,
-    "ArtistScore": 297.872641
-  },
-  {
-    "Position": 87,
+    "Position": 88,
     "ArtistID": 4252,
     "Artist": "Saske",
     "Number of hits": 29,
@@ -1044,28 +1056,16 @@
     "ArtistScore": 297.341796
   },
   {
-    "Position": 88,
-    "ArtistID": null,
-    "Artist": "Burna Boy",
-    "Number of hits": 42,
-    "Main hits": 42,
-    "Collaborator hits": 0,
-    "AverageMomentum": 26.199,
-    "AverageCurrentStrength": 18.435,
-    "MaxCountryReach": 123,
-    "ArtistScore": 297.317179
-  },
-  {
     "Position": 89,
     "ArtistID": null,
     "Artist": "Itay Levi",
     "Number of hits": 24,
     "Main hits": 24,
     "Collaborator hits": 0,
-    "AverageMomentum": 33.1326,
-    "AverageCurrentStrength": 33.0629,
+    "AverageMomentum": 33.0525,
+    "AverageCurrentStrength": 32.9936,
     "MaxCountryReach": 1,
-    "ArtistScore": 297.151324
+    "ArtistScore": 296.679106
   },
   {
     "Position": 90,
@@ -1074,25 +1074,13 @@
     "Number of hits": 34,
     "Main hits": 34,
     "Collaborator hits": 0,
-    "AverageMomentum": 44.7915,
-    "AverageCurrentStrength": 29.5324,
+    "AverageMomentum": 44.8308,
+    "AverageCurrentStrength": 29.5843,
     "MaxCountryReach": 13,
-    "ArtistScore": 296.189781
+    "ArtistScore": 295.919557
   },
   {
     "Position": 91,
-    "ArtistID": null,
-    "Artist": "Lil Baby",
-    "Number of hits": 33,
-    "Main hits": 33,
-    "Collaborator hits": 0,
-    "AverageMomentum": 33.6178,
-    "AverageCurrentStrength": 21.0701,
-    "MaxCountryReach": 30,
-    "ArtistScore": 295.725982
-  },
-  {
-    "Position": 92,
     "ArtistID": 789,
     "Artist": "Sfera Ebbasta",
     "Number of hits": 22,
@@ -1104,31 +1092,67 @@
     "ArtistScore": 295.598398
   },
   {
+    "Position": 92,
+    "ArtistID": 3721,
+    "Artist": "Calin",
+    "Number of hits": 20,
+    "Main hits": 20,
+    "Collaborator hits": 0,
+    "AverageMomentum": 39.216,
+    "AverageCurrentStrength": 39.3466,
+    "MaxCountryReach": 2,
+    "ArtistScore": 295.591139
+  },
+  {
     "Position": 93,
+    "ArtistID": null,
+    "Artist": "Lil Baby",
+    "Number of hits": 33,
+    "Main hits": 33,
+    "Collaborator hits": 0,
+    "AverageMomentum": 33.5159,
+    "AverageCurrentStrength": 20.9414,
+    "MaxCountryReach": 30,
+    "ArtistScore": 295.452519
+  },
+  {
+    "Position": 94,
     "ArtistID": 36699,
     "Artist": "Annika",
     "Number of hits": 24,
     "Main hits": 24,
     "Collaborator hits": 0,
-    "AverageMomentum": 45.1126,
-    "AverageCurrentStrength": 42.3576,
+    "AverageMomentum": 45.1929,
+    "AverageCurrentStrength": 42.3726,
     "MaxCountryReach": 1,
-    "ArtistScore": 295.452409
-  },
-  {
-    "Position": 94,
-    "ArtistID": 165,
-    "Artist": "J Balvin",
-    "Number of hits": 34,
-    "Main hits": 34,
-    "Collaborator hits": 0,
-    "AverageMomentum": 30.7084,
-    "AverageCurrentStrength": 18.3193,
-    "MaxCountryReach": 22,
-    "ArtistScore": 294.946767
+    "ArtistScore": 295.403463
   },
   {
     "Position": 95,
+    "ArtistID": 1781,
+    "Artist": "JENNIE",
+    "Number of hits": 16,
+    "Main hits": 16,
+    "Collaborator hits": 0,
+    "AverageMomentum": 37.0403,
+    "AverageCurrentStrength": 25.7631,
+    "MaxCountryReach": 24,
+    "ArtistScore": 295.106716
+  },
+  {
+    "Position": 96,
+    "ArtistID": 1985,
+    "Artist": "GIMS",
+    "Number of hits": 43,
+    "Main hits": 43,
+    "Collaborator hits": 0,
+    "AverageMomentum": 22.1961,
+    "AverageCurrentStrength": 13.1726,
+    "MaxCountryReach": 14,
+    "ArtistScore": 295.004419
+  },
+  {
+    "Position": 97,
     "ArtistID": 49343,
     "Artist": "Junior H",
     "Number of hits": 28,
@@ -1140,31 +1164,31 @@
     "ArtistScore": 294.879253
   },
   {
-    "Position": 96,
-    "ArtistID": 3721,
-    "Artist": "Calin",
-    "Number of hits": 20,
-    "Main hits": 20,
+    "Position": 98,
+    "ArtistID": 165,
+    "Artist": "J Balvin",
+    "Number of hits": 34,
+    "Main hits": 34,
     "Collaborator hits": 0,
-    "AverageMomentum": 39.1059,
-    "AverageCurrentStrength": 39.2581,
-    "MaxCountryReach": 2,
-    "ArtistScore": 294.758005
+    "AverageMomentum": 30.6822,
+    "AverageCurrentStrength": 18.2966,
+    "MaxCountryReach": 22,
+    "ArtistScore": 294.597515
   },
   {
-    "Position": 97,
+    "Position": 99,
     "ArtistID": 42381,
     "Artist": "Gangaa",
     "Number of hits": 18,
     "Main hits": 18,
     "Collaborator hits": 0,
-    "AverageMomentum": 45.4608,
-    "AverageCurrentStrength": 44.7027,
+    "AverageMomentum": 45.4975,
+    "AverageCurrentStrength": 44.712,
     "MaxCountryReach": 1,
-    "ArtistScore": 294.303148
+    "ArtistScore": 294.451828
   },
   {
-    "Position": 98,
+    "Position": 100,
     "ArtistID": 542,
     "Artist": "Pritam",
     "Number of hits": 51,
@@ -1174,29 +1198,5 @@
     "AverageCurrentStrength": 26.4576,
     "MaxCountryReach": 4,
     "ArtistScore": 294.238988
-  },
-  {
-    "Position": 99,
-    "ArtistID": null,
-    "Artist": "Cheema Y",
-    "Number of hits": 23,
-    "Main hits": 23,
-    "Collaborator hits": 0,
-    "AverageMomentum": 46.1607,
-    "AverageCurrentStrength": 37.1834,
-    "MaxCountryReach": 2,
-    "ArtistScore": 294.098135
-  },
-  {
-    "Position": 100,
-    "ArtistID": 1781,
-    "Artist": "JENNIE",
-    "Number of hits": 16,
-    "Main hits": 16,
-    "Collaborator hits": 0,
-    "AverageMomentum": 35.9625,
-    "AverageCurrentStrength": 25.444,
-    "MaxCountryReach": 24,
-    "ArtistScore": 293.973602
   }
 ]
