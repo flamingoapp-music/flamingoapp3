@@ -1,32 +1,1912 @@
 [
   {
-    "SongID": 1274813304,
+    "SongID": 1274850445,
+    "Position": 1,
+    "Title": "Gâter Pourri",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274816491,
+    "Position": 2,
+    "Title": "Pineapple",
+    "Artist": "Leto",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848100,
+    "Position": 3,
+    "Title": "Wagyu",
+    "Artist": "Mauvais djo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274813305,
+    "Position": 4,
+    "Title": "À l'aise",
+    "Artist": "TRIANGLE DES BERMUDES, L2B, MC YOSHI, Mauvais djo, Kokosvoice",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848101,
+    "Position": 5,
+    "Title": "VIVE LA MONNAIE",
+    "Artist": "GIMS, Mauvais djo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274850446,
+    "Position": 7,
+    "Title": "Pejy Araiky",
+    "Artist": "Rim-Ka, Fokawa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799840,
+    "Position": 8,
+    "Title": "Number One",
+    "Artist": "Ckycky, Majesty, Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802824,
+    "Position": 10,
+    "Title": "Maladie",
+    "Artist": "Mauvais djo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274834371,
+    "Position": 11,
+    "Title": "Sexy Nana",
+    "Artist": "Aya Nakamura, La Rvfleuze",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274840777,
+    "Position": 12,
+    "Title": "Mopao aye",
+    "Artist": "TRIANGLE DES BERMUDES, MC YOSHI, Mauvais djo, Kokosvoice",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845628,
+    "Position": 13,
+    "Title": "Mélo Décalé",
+    "Artist": "Tiakola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274842003,
+    "Position": 15,
+    "Title": "La pétasse",
+    "Artist": "Aya Nakamura",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805423,
+    "Position": 16,
+    "Title": "Jalouse",
+    "Artist": "Werenoi, SDM, Vacra",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804078,
+    "Position": 17,
+    "Title": "Glita",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274811948,
+    "Position": 18,
+    "Title": "Full",
+    "Artist": "Bilouki",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799701,
+    "Position": 19,
+    "Title": "Milliard",
+    "Artist": "Ceasar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274840778,
     "Position": 20,
+    "Title": "Nao entende",
+    "Artist": "TRIANGLE DES BERMUDES, Francis Mercier, MC YOSHI, Mauvais djo, Kokosvoice",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1249892,
+    "Position": 21,
+    "Title": "Raindance",
+    "Artist": "Dave, Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274846410,
+    "Position": 22,
+    "Title": "Ricky rosé",
+    "Artist": "TRIANGLE DES BERMUDES, MC YOSHI, Mauvais djo, Kokosvoice",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848797,
+    "Position": 23,
+    "Title": "Uber",
+    "Artist": "Franglish, KeBlack, Mauvais djo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848105,
+    "Position": 24,
+    "Title": "Lululemon",
+    "Artist": "Leto",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855058,
+    "Position": 25,
+    "Title": "Oh No",
+    "Artist": "Rema",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274813304,
+    "Position": 26,
     "Title": "Balek",
     "Artist": "TRIANGLE DES BERMUDES, Aya Nakamura, MC YOSHI, Mauvais djo, Kokosvoice",
     "PlatformCode": "apple_music",
     "CountryCode": "mg",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 800002,
+    "Position": 28,
+    "Title": "Risk It All",
+    "Artist": "Bruno Mars",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802436,
+    "Position": 29,
+    "Title": "Mamy",
+    "Artist": "Ljo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1247728,
+    "Position": 30,
+    "Title": "Je pense à toi",
+    "Artist": "Guy2Bezbar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274850448,
+    "Position": 31,
+    "Title": "You & I",
+    "Artist": "Basta Lion",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 203723,
+    "Position": 32,
+    "Title": "Ε. Signaler",
+    "Artist": "Damso",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848464,
+    "Position": 33,
+    "Title": "SLICK",
+    "Artist": "Victony",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845598,
+    "Position": 34,
+    "Title": "honeybee",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1290394,
+    "Position": 35,
+    "Title": "Pilé",
+    "Artist": "Mauvais djo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274846397,
+    "Position": 36,
+    "Title": "Allo Doudou",
+    "Artist": "Niska, litleboy lsbeats767, Miimii KDS",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799704,
+    "Position": 37,
+    "Title": "Mampanota",
+    "Artist": "Ceasar, Ngiah Tax Olo Fotsy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804082,
+    "Position": 38,
+    "Title": "Vadiko",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848104,
+    "Position": 39,
+    "Title": "LEVEL UP - Nouvelle École",
+    "Artist": "Nayte, Nouvelle École",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804083,
+    "Position": 40,
+    "Title": "Very Jery",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848292,
+    "Position": 41,
+    "Title": "MAKA SHIT",
+    "Artist": "Lawskie",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228178,
+    "Position": 42,
+    "Title": "Pélican",
+    "Artist": "L2B",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274850449,
+    "Position": 43,
+    "Title": "KOMANDO",
+    "Artist": "Tefihaja, Bob Tobias, Jonas Androx",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274846407,
+    "Position": 44,
+    "Title": "PAPA DES FLINGUEURS",
+    "Artist": "Guy2Bezbar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804077,
+    "Position": 45,
+    "Title": "Bonbon Mamy",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802206,
+    "Position": 46,
+    "Title": "Only",
+    "Artist": "L2B",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228186,
+    "Position": 47,
+    "Title": "NANANI NANANA",
+    "Artist": "Gazo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848079,
+    "Position": 49,
+    "Title": "Great Expectation",
+    "Artist": "SIENNA SPIRO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274810272,
+    "Position": 50,
+    "Title": "You & I - Tananao",
+    "Artist": "Rim-Ka, Ckycky",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274820356,
+    "Position": 51,
+    "Title": "Nosy Boraha",
+    "Artist": "Melo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848799,
+    "Position": 52,
+    "Title": "12",
+    "Artist": "Mauvais djo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 11272,
+    "Position": 53,
+    "Title": "Cinderella",
+    "Artist": "Mac Miller",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 121070,
+    "Position": 54,
+    "Title": "Compliqué",
+    "Artist": "Dadju",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228237,
+    "Position": 55,
+    "Title": "Overbooking",
+    "Artist": "L2B",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274812985,
+    "Position": 56,
+    "Title": "Koa Andeha",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 8930,
+    "Position": 57,
+    "Title": "Jefe",
+    "Artist": "Ninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272920,
+    "Position": 58,
+    "Title": "melodrama",
+    "Artist": "disiz, Theodora",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799839,
+    "Position": 59,
+    "Title": "Riziky",
+    "Artist": "Ckycky",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805658,
+    "Position": 60,
+    "Title": "MELODIE",
+    "Artist": "Zakai",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274810271,
+    "Position": 61,
+    "Title": "Taigna Izy",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272933,
+    "Position": 62,
+    "Title": "Génération impolie",
+    "Artist": "Franglish, KeBlack",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799715,
+    "Position": 63,
+    "Title": "Destiny",
+    "Artist": "Ceis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274854883,
+    "Position": 64,
+    "Title": "CASH - Nouvelle École",
+    "Artist": "Nayte, Nouvelle École",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 501280,
+    "Position": 65,
+    "Title": "Die With A Smile",
+    "Artist": "Lady Gaga, Bruno Mars",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1239254,
+    "Position": 66,
+    "Title": "Locked out of Heaven",
+    "Artist": "Bruno Mars",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 12451,
-    "Position": 38,
+    "Position": 67,
     "Title": "BIRDS OF A FEATHER",
     "Artist": "Billie Eilish",
     "PlatformCode": "apple_music",
     "CountryCode": "mg",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855591,
+    "Position": 68,
+    "Title": "BOKOU",
+    "Artist": "Tefihaja, Bob Tobias, GASKAI, Jonas Androx",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 34661,
+    "Position": 69,
+    "Title": "Tout en Gucci",
+    "Artist": "Ninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 150,
+    "Position": 70,
+    "Title": "When I Was Your Man",
+    "Artist": "Bruno Mars",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272684,
+    "Position": 71,
+    "Title": "So Easy (To Fall In Love)",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845828,
+    "Position": 72,
+    "Title": "Réanymé",
+    "Artist": "Tayc, Anyme023",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272666,
+    "Position": 73,
+    "Title": "Man I Need",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848093,
+    "Position": 74,
+    "Title": "Ain't In LA",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804081,
+    "Position": 75,
+    "Title": "Mahery",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 534050,
+    "Position": 76,
+    "Title": "PSYCHOLOGIQUE",
+    "Artist": "Tiakola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828912,
+    "Position": 77,
+    "Title": "Gasy Tsara",
+    "Artist": "Basta Lion",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849183,
+    "Position": 78,
+    "Title": "TERRIBLE MAN",
+    "Artist": "OG Plugging",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855592,
+    "Position": 79,
+    "Title": "Horonantsary",
+    "Artist": "Hosea Marlyn",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274803919,
+    "Position": 80,
+    "Title": "Mood (feat. D2 & kulturr)",
+    "Artist": "R2, D2, kulturr",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799714,
+    "Position": 81,
+    "Title": "Call",
+    "Artist": "Ceis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 209,
+    "Position": 82,
+    "Title": "traitor",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 118993,
+    "Position": 83,
+    "Title": "La vie qu'on mène",
+    "Artist": "Ninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848886,
+    "Position": 84,
+    "Title": "Sans risque - Nouvelle École",
+    "Artist": "Base 221, Nouvelle École",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 540177,
+    "Position": 85,
+    "Title": "Gasolina (feat. Rsko)",
+    "Artist": "Tiakola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272382,
+    "Position": 86,
+    "Title": "A Couple Minutes",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 203722,
+    "Position": 87,
+    "Title": "Γ. Mosaïque solitaire",
+    "Artist": "Damso",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804079,
+    "Position": 88,
+    "Title": "Kafiry",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274840323,
+    "Position": 89,
+    "Title": "the cure",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 559047,
+    "Position": 90,
+    "Title": "Macarena",
+    "Artist": "Damso",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800995,
+    "Position": 91,
+    "Title": "Congolaise",
+    "Artist": "Gradur, L2B",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845831,
+    "Position": 92,
+    "Title": "Sicario",
+    "Artist": "Timal",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228192,
+    "Position": 93,
+    "Title": "CARTIER SANTOS",
+    "Artist": "SDM",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 538742,
+    "Position": 94,
+    "Title": "POUR ELLE",
+    "Artist": "SDM",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 848,
+    "Position": 95,
+    "Title": "Always",
+    "Artist": "Daniel Caesar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272903,
+    "Position": 96,
+    "Title": "Adriano",
+    "Artist": "Niska",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228167,
+    "Position": 97,
+    "Title": "KYKY2BONDY",
+    "Artist": "Hamza",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 802467,
+    "Position": 98,
+    "Title": "méli-mélo",
+    "Artist": "kulturr",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 800046,
+    "Position": 99,
+    "Title": "The Visitor",
+    "Artist": "SIENNA SPIRO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 109824,
+    "Position": 100,
+    "Title": "Happier Than Ever",
+    "Artist": "Billie Eilish",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 12959,
+    "Position": 101,
+    "Title": "WILDFLOWER",
+    "Artist": "Billie Eilish",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274851636,
+    "Position": 102,
+    "Title": "Namany",
+    "Artist": "Vazo Lee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272929,
+    "Position": 103,
+    "Title": "LOVE YOU",
+    "Artist": "Nono La Grinta",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799960,
+    "Position": 104,
+    "Title": "I love you",
+    "Artist": "Dadju, Tayc",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274839364,
+    "Position": 105,
+    "Title": "hate that i made you love me",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 146517,
+    "Position": 106,
+    "Title": "On the Low",
+    "Artist": "Burna Boy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848108,
+    "Position": 107,
+    "Title": "Cote à la hausse",
+    "Artist": "Bouss",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274851634,
+    "Position": 109,
+    "Title": "Tia Raha",
+    "Artist": "Zakai",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1166754,
+    "Position": 110,
+    "Title": "Pas Jalouse",
+    "Artist": "Bamby & Kerchak",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228199,
+    "Position": 111,
+    "Title": "Poney",
+    "Artist": "Werenoi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 802525,
+    "Position": 112,
+    "Title": "Self Aware",
+    "Artist": "Temper City",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 121035,
+    "Position": 113,
+    "Title": "Dégaine",
+    "Artist": "Aya Nakamura",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804259,
+    "Position": 114,
+    "Title": "Too Good At Goodbyes",
+    "Artist": "Sam Smith",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805026,
+    "Position": 115,
+    "Title": "1h55",
+    "Artist": "Tiakola, Rsko, Hamza",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848762,
+    "Position": 116,
+    "Title": "Nicole Kidman",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272627,
+    "Position": 117,
+    "Title": "Ordinary",
+    "Artist": "Alex Warren",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845596,
+    "Position": 118,
+    "Title": "stupid song",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 6478,
+    "Position": 119,
+    "Title": "Charm",
+    "Artist": "Rema",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805164,
+    "Position": 120,
+    "Title": "Tsy Fangalagna",
+    "Artist": "Tukson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1859,
+    "Position": 121,
+    "Title": "Stuck with U (with Justin Bieber)",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272932,
+    "Position": 122,
+    "Title": "MON BÉBÉ",
+    "Artist": "RnBoi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1509,
+    "Position": 123,
+    "Title": "Someone Like You",
+    "Artist": "Adele",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 8129,
+    "Position": 124,
+    "Title": "Mr. Ocho",
+    "Artist": "SDM",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804549,
+    "Position": 125,
+    "Title": "Hiara dia",
+    "Artist": "Shyn",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274798975,
+    "Position": 126,
+    "Title": "6000 Euro",
+    "Artist": "Anatal",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1291569,
+    "Position": 127,
+    "Title": "AVEC MOI",
+    "Artist": "RnBoi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228177,
+    "Position": 128,
+    "Title": "4 Kampé",
+    "Artist": "Joé Dwèt Filé",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1266,
+    "Position": 129,
+    "Title": "Me & U",
+    "Artist": "Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855593,
+    "Position": 130,
+    "Title": "Bisous",
+    "Artist": "Ceis, Basta Lion",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274816924,
+    "Position": 131,
+    "Title": "Ranomasoko",
+    "Artist": "Rootsman",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 144978,
+    "Position": 132,
+    "Title": "Tu le sais",
+    "Artist": "Kalash",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801680,
+    "Position": 133,
+    "Title": "Bonbon à la menthe",
+    "Artist": "Jok'air, Mallaury",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799337,
+    "Position": 134,
+    "Title": "Vérité",
+    "Artist": "Basta Lion",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804147,
+    "Position": 135,
+    "Title": "200 KM/H",
+    "Artist": "Ronisia, Gazo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274809813,
+    "Position": 136,
+    "Title": "La Zone",
+    "Artist": "L2B",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805462,
+    "Position": 137,
+    "Title": "Tsy Mahavita",
+    "Artist": "WizKing, Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 145126,
+    "Position": 138,
+    "Title": "Dis-moi que tu m'aimes",
+    "Artist": "Ninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 7188,
+    "Position": 139,
+    "Title": "Le temps",
+    "Artist": "Tayc",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274810247,
+    "Position": 140,
+    "Title": "Any Ho Any",
+    "Artist": "REKO BAND",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848891,
+    "Position": 141,
+    "Title": "Petit matin",
+    "Artist": "TRIANGLE DES BERMUDES, Tiakola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274829513,
+    "Position": 142,
+    "Title": "Atovo Tonga Agny",
+    "Artist": "Lion Hill",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848876,
+    "Position": 143,
+    "Title": "Still",
+    "Artist": "KAROL G, Bruno Mars",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 121057,
+    "Position": 144,
+    "Title": "Salé",
+    "Artist": "Niska",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799718,
+    "Position": 145,
+    "Title": "Tabac",
+    "Artist": "Ceis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274813272,
+    "Position": 146,
+    "Title": "EXPLICIT 69",
+    "Artist": "Timar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848098,
+    "Position": 147,
+    "Title": "Pure",
+    "Artist": "SIENNA SPIRO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274851637,
+    "Position": 148,
+    "Title": "Mike T.",
+    "Artist": "Dahalo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855594,
+    "Position": 149,
+    "Title": "MBOLA ANAO",
+    "Artist": "Tukson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272919,
+    "Position": 150,
+    "Title": "Paddle",
+    "Artist": "TKS 2G, Maureen",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272927,
+    "Position": 151,
+    "Title": "Die On This Hill",
+    "Artist": "SIENNA SPIRO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800907,
+    "Position": 152,
+    "Title": "MAMI WATA",
+    "Artist": "Gazo, Tiakola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274829834,
+    "Position": 153,
+    "Title": "D&G",
+    "Artist": "Ratsilahy, Ryan Anthony, GIDRO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272894,
+    "Position": 154,
+    "Title": "Pa Pa Paw",
+    "Artist": "Damso, SARAH SEY",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1239809,
+    "Position": 155,
+    "Title": "when the party's over",
+    "Artist": "Billie Eilish",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274803922,
+    "Position": 156,
+    "Title": "Aleo Izy Ho Any",
+    "Artist": "Raboussa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 501873,
+    "Position": 157,
+    "Title": "Monaco",
+    "Artist": "Guy2Bezbar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228193,
+    "Position": 159,
+    "Title": "Impardonnable",
+    "Artist": "Damso",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799717,
+    "Position": 160,
+    "Title": "Mougou",
+    "Artist": "Ceis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274841459,
+    "Position": 161,
+    "Title": "Boss",
+    "Artist": "Meryl, LeJuh",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845603,
+    "Position": 162,
+    "Title": "less",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274827109,
+    "Position": 163,
+    "Title": "Efa Fantatrao",
+    "Artist": "Raboussa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 27,
+    "Position": 164,
+    "Title": "Beautiful Things",
+    "Artist": "Benson Boone",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855595,
+    "Position": 165,
+    "Title": "Zanak'Antesaka",
+    "Artist": "Sakaté Boy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 147211,
+    "Position": 166,
+    "Title": "One Last Time (Attends-Moi)",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849182,
+    "Position": 167,
+    "Title": "Werawera",
+    "Artist": "Basta Lion",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802415,
+    "Position": 169,
+    "Title": "Mamay",
+    "Artist": "Lima",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274809848,
+    "Position": 171,
+    "Title": "Tsy kinia - Radio edit",
+    "Artist": "Lion Hill",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 203712,
+    "Position": 172,
+    "Title": "Δ. Dieu ne ment jamais",
+    "Artist": "Damso",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 118891,
+    "Position": 173,
+    "Title": "Lettre à une femme",
+    "Artist": "Ninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 9083,
+    "Position": 174,
+    "Title": "Attentat",
+    "Artist": "PLK",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804080,
+    "Position": 175,
+    "Title": "Karakaraiko",
+    "Artist": "Rim-Ka",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274806496,
+    "Position": 176,
+    "Title": "PARLU",
+    "Artist": "La Rvfleuze",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799958,
+    "Position": 177,
+    "Title": "Grand bain",
+    "Artist": "Dadju, Ninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1295284,
+    "Position": 178,
+    "Title": "Argent Sale - A COLORS SHOW",
+    "Artist": "La Rvfleuze",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274820463,
+    "Position": 179,
+    "Title": "Elle pleut",
+    "Artist": "Nekfeu, Nemir",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805023,
+    "Position": 180,
+    "Title": "PONA NINI",
+    "Artist": "Tiakola, Genezio, Prototype",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1242754,
+    "Position": 181,
+    "Title": "TITANIC",
+    "Artist": "Leto",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 1288587,
-    "Position": 65,
+    "Position": 182,
     "Title": "LES DIAMANTS DE BOKASSA",
     "Artist": "Ninho",
     "PlatformCode": "apple_music",
     "CountryCode": "mg",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 119144,
+    "Position": 183,
+    "Title": "Réseaux",
+    "Artist": "Niska",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805129,
+    "Position": 184,
+    "Title": "Colombian",
+    "Artist": "Tribal Kush, Basta Lion, Kybba",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799986,
+    "Position": 185,
+    "Title": "Best Part (feat. H.E.R.)",
+    "Artist": "Daniel Caesar, H.E.R.",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 108650,
+    "Position": 186,
+    "Title": "The One That Got Away",
+    "Artist": "Katy Perry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 7192,
+    "Position": 187,
+    "Title": "Reine",
+    "Artist": "Dadju",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274851632,
+    "Position": 188,
+    "Title": "Mona Lisa",
+    "Artist": "OBOY",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799336,
+    "Position": 189,
+    "Title": "Make Money",
+    "Artist": "Basta Lion",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274812040,
+    "Position": 190,
+    "Title": "Saramba",
+    "Artist": "Ckycky",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 540572,
+    "Position": 191,
+    "Title": "One Dance",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855596,
+    "Position": 192,
+    "Title": "VIENS VOIR",
+    "Artist": "Ashvma",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 145583,
+    "Position": 193,
+    "Title": "Sur paname",
+    "Artist": "Ninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 108947,
+    "Position": 194,
+    "Title": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "Artist": "Post Malone, Swae Lee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 3475,
+    "Position": 195,
+    "Title": "Kiss It Better",
+    "Artist": "Rihanna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 2730,
+    "Position": 196,
+    "Title": "Meuda",
+    "Artist": "Tiakola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 17286,
+    "Position": 197,
+    "Title": "Amour toxic",
+    "Artist": "Dadju",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274808603,
+    "Position": 198,
+    "Title": "Ravitoto",
+    "Artist": "BOLO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848802,
+    "Position": 199,
+    "Title": "Sorry - Nouvelle École",
+    "Artist": "Badara, Nayte, Nouvelle École",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 12106,
+    "Position": 200,
+    "Title": "VVS",
+    "Artist": "Ninho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "mg",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   }
 ]

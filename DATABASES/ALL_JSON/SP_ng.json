@@ -1,92 +1,1882 @@
 [
   {
-    "SongID": 1274849718,
+    "SongID": 1274855058,
+    "Position": 1,
+    "Title": "Oh No",
+    "Artist": "Rema",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828884,
+    "Position": 3,
+    "Title": "Gratitude",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855059,
+    "Position": 4,
+    "Title": "it's over",
+    "Artist": "FOLA, Bella Shmurda, Zlatan",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848812,
+    "Position": 5,
+    "Title": "BIG PERFORMER",
+    "Artist": "Blaqbonez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848811,
+    "Position": 6,
+    "Title": "GTA",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848925,
+    "Position": 7,
+    "Title": "BACK 2 U",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848818,
+    "Position": 8,
+    "Title": "Find My Babe",
+    "Artist": "Mavo",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828883,
+    "Position": 9,
+    "Title": "Forgiveness",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802019,
+    "Position": 10,
+    "Title": "Big Bum Bum",
+    "Artist": "Kidd Carder, Mavo",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274838538,
+    "Position": 11,
+    "Title": "Chanel (feat. Asake)",
+    "Artist": "Blaqbonez, Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828886,
+    "Position": 12,
+    "Title": "MCBH",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274826101,
+    "Position": 13,
+    "Title": "Back Outside",
+    "Artist": "BNXN, Sarz",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849104,
+    "Position": 14,
+    "Title": "TEA",
+    "Artist": "Rema",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849272,
+    "Position": 15,
+    "Title": "Diamond or Gold",
+    "Artist": "Tml Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848922,
+    "Position": 16,
+    "Title": "Tap Am",
+    "Artist": "Famous Pluto",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274841844,
+    "Position": 17,
+    "Title": "Elumelu",
+    "Artist": "Young Jonn",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848464,
+    "Position": 19,
+    "Title": "SLICK",
+    "Artist": "Victony",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849164,
+    "Position": 20,
+    "Title": "attention!",
+    "Artist": "FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848465,
     "Position": 21,
+    "Title": "treat u right",
+    "Artist": "FOLA, Ayra Starr",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848468,
+    "Position": 22,
+    "Title": "Ice Cream",
+    "Artist": "Mavo",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845981,
+    "Position": 23,
+    "Title": "I Know Who I Be",
+    "Artist": "Davido, JAZZWRLD, GL_Ceejay",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849718,
+    "Position": 24,
     "Title": "Baba",
     "Artist": "Hotkeed, Zlatan",
     "PlatformCode": "spotify",
     "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828890,
+    "Position": 25,
+    "Title": "Wa",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848469,
+    "Position": 27,
+    "Title": "MLM",
+    "Artist": "Muyeez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849717,
+    "Position": 29,
+    "Title": "Sunita",
+    "Artist": "Rybeena, Tml Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1250185,
+    "Position": 30,
+    "Title": "MONEY CONSTANT",
+    "Artist": "DJ Maphorisa",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274840301,
+    "Position": 32,
+    "Title": "MOTION SICKNESS (feat. Zlatan)",
+    "Artist": "ODUMODUBLVCK, Zlatan",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1287628,
+    "Position": 33,
+    "Title": "Nakupenda",
+    "Artist": "TxC",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799132,
+    "Position": 34,
+    "Title": "WORSHIP",
+    "Artist": "Asake, DJ Snake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1237751,
+    "Position": 35,
+    "Title": "Tumo Weto",
+    "Artist": "Mavo",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855060,
+    "Position": 36,
+    "Title": "A LOT A LOT",
+    "Artist": "Abefe",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 14096,
-    "Position": 29,
+    "Position": 37,
     "Title": "Remember",
     "Artist": "Asake",
     "PlatformCode": "spotify",
     "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849720,
+    "Position": 39,
+    "Title": "Chokehold",
+    "Artist": "Rhythm Vault, T.I BLAZE",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848467,
+    "Position": 40,
+    "Title": "BB Lifestyle",
+    "Artist": "Mavo, SSSoundGawd",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1243756,
+    "Position": 41,
+    "Title": "FUN",
+    "Artist": "Rema",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 1226904,
-    "Position": 37,
+    "Position": 42,
     "Title": "Very Soon",
     "Artist": "BNXN",
     "PlatformCode": "spotify",
     "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1289970,
+    "Position": 43,
+    "Title": "Jogodo",
+    "Artist": "Wizkid",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849723,
+    "Position": 44,
+    "Title": "Pass By",
+    "Artist": "Yan Yan",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1236685,
+    "Position": 45,
+    "Title": "you",
+    "Artist": "FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1295716,
+    "Position": 46,
+    "Title": "Aura Salad",
+    "Artist": "SSSoundGawd & Mavo",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845982,
+    "Position": 47,
+    "Title": "Tornado",
+    "Artist": "Ayra Starr",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 1274849273,
-    "Position": 39,
+    "Position": 48,
     "Title": "Anybody",
     "Artist": "Kidd Carder",
     "PlatformCode": "spotify",
     "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
-    "SongID": 1274849358,
-    "Position": 81,
-    "Title": "Water",
-    "Artist": "Muyeez",
+    "SongID": 1274849037,
+    "Position": 49,
+    "Title": "THAT GIRL!",
+    "Artist": "Darkoo, Asake",
     "PlatformCode": "spotify",
     "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848466,
+    "Position": 50,
+    "Title": "Already Falling",
+    "Artist": "Davido",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800683,
+    "Position": 51,
+    "Title": "UNETHICAL",
+    "Artist": "Faouzia",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274826386,
+    "Position": 52,
+    "Title": "fine ting (fine $hit)",
+    "Artist": "FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1162468,
+    "Position": 53,
+    "Title": "Get Better",
+    "Artist": "Zlatan",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274843642,
+    "Position": 54,
+    "Title": "FRE$H",
+    "Artist": "Victony",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 19440,
+    "Position": 55,
+    "Title": "Nzaza",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848472,
+    "Position": 56,
+    "Title": "Abefeholics",
+    "Artist": "Abefe",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849719,
+    "Position": 57,
+    "Title": "Dantata",
+    "Artist": "Zinoleesky",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274816373,
+    "Position": 58,
+    "Title": "Colorado",
+    "Artist": "Johnny Drille, Ayra Starr, Young Jonn",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835821,
+    "Position": 59,
+    "Title": "Aanu Ni",
+    "Artist": "BisiManuel",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274812854,
+    "Position": 60,
+    "Title": "I AM",
+    "Artist": "OMAH LAY",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855061,
+    "Position": 61,
+    "Title": "No Competition",
+    "Artist": "Iceking Ochacho",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1243968,
+    "Position": 63,
+    "Title": "caricature",
+    "Artist": "FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805840,
+    "Position": 64,
+    "Title": "Romeo and juliet",
+    "Artist": "Abefe",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 804892,
+    "Position": 65,
+    "Title": "Mofe",
+    "Artist": "Mavo",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174511,
+    "Position": 66,
+    "Title": "Pidgin & English",
+    "Artist": "Bnxn",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 6477,
+    "Position": 67,
+    "Title": "KANTE",
+    "Artist": "Davido",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1292234,
+    "Position": 68,
+    "Title": "Turbulence",
+    "Artist": "Wizkid",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 12892,
+    "Position": 69,
+    "Title": "Ototo",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 536357,
+    "Position": 70,
+    "Title": "Mentally",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1269896,
+    "Position": 71,
+    "Title": "Waist",
+    "Artist": "Omah Lay",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828882,
+    "Position": 72,
+    "Title": "BADMAN GANGSTA",
+    "Artist": "Asake, Tiakola",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848475,
+    "Position": 73,
+    "Title": "Orekelewa",
+    "Artist": "Abefe",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174514,
+    "Position": 74,
+    "Title": "Karma",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1162469,
+    "Position": 75,
+    "Title": "LEGOLAS",
+    "Artist": "ODUMODUBLVCK",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835828,
+    "Position": 76,
+    "Title": "Already",
+    "Artist": "BNXN, Sarz",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849357,
+    "Position": 77,
+    "Title": "Kaluba",
+    "Artist": "Mayorkun",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848474,
+    "Position": 78,
+    "Title": "Superwoman",
+    "Artist": "Mavo",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848817,
+    "Position": 79,
+    "Title": "Ako - Live in London",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855062,
+    "Position": 80,
+    "Title": "MOVE",
+    "Artist": "Shoday",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1249892,
+    "Position": 81,
+    "Title": "Raindance",
+    "Artist": "Dave, Tems",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 536340,
+    "Position": 82,
+    "Title": "Doha",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 536326,
+    "Position": 83,
+    "Title": "MMS",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848471,
+    "Position": 84,
+    "Title": "Tease Me",
+    "Artist": "Zaylevelten",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 1274843745,
-    "Position": 82,
+    "Position": 86,
     "Title": "bloodstream",
     "Artist": "Alyssa Grace",
     "PlatformCode": "spotify",
     "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
-    "SongID": 1274848473,
-    "Position": 107,
-    "Title": "Ego - Live in London",
+    "SongID": 175052,
+    "Position": 87,
+    "Title": "23",
+    "Artist": "Burna Boy",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1018574,
+    "Position": 88,
+    "Title": "Arike",
+    "Artist": "Kunmie",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1226900,
+    "Position": 89,
+    "Title": "99",
+    "Artist": "Olamide",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828887,
+    "Position": 90,
+    "Title": "Oba",
     "Artist": "Asake",
     "PlatformCode": "spotify",
     "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
-  },
-  {
-    "SongID": 25593,
-    "Position": 111,
-    "Title": "Dupe",
-    "Artist": "Asake",
-    "PlatformCode": "spotify",
-    "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 175357,
-    "Position": 113,
+    "Position": 91,
     "Title": "Mad Over You",
     "Artist": "Runtown",
     "PlatformCode": "spotify",
     "CountryCode": "ng",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1285274,
+    "Position": 92,
+    "Title": "Bandana",
+    "Artist": "Fireboy DML",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800681,
+    "Position": 93,
+    "Title": "Ewo",
+    "Artist": "Famous Pluto, Shallipopi, Zerrydl",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1243654,
+    "Position": 94,
+    "Title": "Different Species",
+    "Artist": "Offset&Gunna",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845983,
+    "Position": 95,
+    "Title": "Ripper's Fate",
+    "Artist": "6uff, TUFF KING",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849358,
+    "Position": 96,
+    "Title": "Water",
+    "Artist": "Muyeez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828888,
+    "Position": 97,
+    "Title": "Rora",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 2884,
+    "Position": 98,
+    "Title": "Lonely At The Top",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855063,
+    "Position": 99,
+    "Title": "Hold Somebody",
+    "Artist": "Young Jonn",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274836038,
+    "Position": 100,
+    "Title": "Lakute",
+    "Artist": "Famous Pluto",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849277,
+    "Position": 101,
+    "Title": "Lifestyle (YA MAN)",
+    "Artist": "Ayo Maff",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1286626,
+    "Position": 102,
+    "Title": "Paparazzi",
+    "Artist": "Shoday",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1011070,
+    "Position": 103,
+    "Title": "WHY LOVE",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1162471,
+    "Position": 104,
+    "Title": "Dangbana Riddim",
+    "Artist": "Bella Shmurda",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274836852,
+    "Position": 105,
+    "Title": "Hello",
+    "Artist": "Tml Vibez, Victony",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849275,
+    "Position": 106,
+    "Title": "Lagos",
+    "Artist": "SAMAD, Bella Shmurda",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1228750,
+    "Position": 107,
+    "Title": "Laye Mi",
+    "Artist": "BNXN",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174466,
+    "Position": 108,
+    "Title": "PRAY",
+    "Artist": "Bnxn",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 2106,
+    "Position": 109,
+    "Title": "Runaway",
+    "Artist": "AURORA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274798245,
+    "Position": 110,
+    "Title": "God Abeg",
+    "Artist": "Boy Muller",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848473,
+    "Position": 111,
+    "Title": "Ego - Live in London",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274839137,
+    "Position": 112,
+    "Title": "Juice & Liquor",
+    "Artist": "Magixx, FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174489,
+    "Position": 113,
+    "Title": "Man of The Year",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174449,
+    "Position": 114,
+    "Title": "Party No Dey Stop",
+    "Artist": "Adekunle Gold",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828881,
+    "Position": 115,
+    "Title": "Asambe",
+    "Artist": "Asake, Kabza De Small",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1233494,
+    "Position": 116,
+    "Title": "One Condition",
+    "Artist": "DJ Tunez, Wizkid & FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 536324,
+    "Position": 117,
+    "Title": "Awolowo",
+    "Artist": "Fido",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1250188,
+    "Position": 118,
+    "Title": "BODY (danz)",
+    "Artist": "CKay",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1230948,
+    "Position": 119,
+    "Title": "Oh No",
+    "Artist": "Oberz",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1261642,
+    "Position": 120,
+    "Title": "Isaka II (6am)",
+    "Artist": "Ciza, Tems & Omah Lay",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1246660,
+    "Position": 121,
+    "Title": "Happiness ​(f​eat​. Asake, Gunna​)",
+    "Artist": "Sarz",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174719,
+    "Position": 123,
+    "Title": "Ye",
+    "Artist": "Burna Boy",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805954,
+    "Position": 124,
+    "Title": "With You",
+    "Artist": "Chidokeyz, Davido",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1230383,
+    "Position": 125,
+    "Title": "Love",
+    "Artist": "Burna Boy",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 722748,
+    "Position": 126,
+    "Title": "who does that?",
+    "Artist": "FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 25593,
+    "Position": 127,
+    "Title": "Dupe",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800727,
+    "Position": 128,
+    "Title": "Joy is Coming",
+    "Artist": "Fido",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845986,
+    "Position": 129,
+    "Title": "GLACIER GIRL",
+    "Artist": "scottyolorin, DaveTheOracle, Kobilou",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174691,
+    "Position": 130,
+    "Title": "Blessing",
+    "Artist": "Mohbad",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849724,
+    "Position": 131,
+    "Title": "TYPO",
+    "Artist": "Victony",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1291010,
+    "Position": 132,
+    "Title": "wgft",
+    "Artist": "Gunna, Burna Boy",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274806290,
+    "Position": 133,
+    "Title": "2Factor",
+    "Artist": "Young Jonn, Asake, Focalistic",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849722,
+    "Position": 134,
+    "Title": "SHON PE (Count Your Money)",
+    "Artist": "Tml Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1287630,
+    "Position": 135,
+    "Title": "Lalala",
+    "Artist": "Young Jonn",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1137141,
+    "Position": 136,
+    "Title": "Na Scra",
+    "Artist": "Famous Pluto",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174942,
+    "Position": 137,
+    "Title": "Blessings",
+    "Artist": "Fridayy",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 7694,
+    "Position": 138,
+    "Title": "Terminator",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1292237,
+    "Position": 140,
+    "Title": "MY HEALER",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804815,
+    "Position": 141,
+    "Title": "Beamer",
+    "Artist": "T.I BLAZE",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1054004,
+    "Position": 142,
+    "Title": "MARIO KART",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174459,
+    "Position": 143,
+    "Title": "DOG EAT DOG II",
+    "Artist": "ODUMODUBLVCK",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855064,
+    "Position": 144,
+    "Title": "Believe",
+    "Artist": "Yedika",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 536338,
+    "Position": 145,
+    "Title": "Where I’m from",
+    "Artist": "Tml Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 6020,
+    "Position": 146,
+    "Title": "Basquiat",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274811972,
+    "Position": 147,
+    "Title": "GWAGWALADA",
+    "Artist": "BNXN, Kizz Daniel, Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 14097,
+    "Position": 148,
+    "Title": "I Believe",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1283562,
+    "Position": 149,
+    "Title": "Guapanese",
+    "Artist": "Mavo",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828889,
+    "Position": 150,
+    "Title": "Skilful",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 242072,
+    "Position": 151,
+    "Title": "Stronger",
+    "Artist": "Young Jonn",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 146517,
+    "Position": 153,
+    "Title": "On the Low",
+    "Artist": "Burna Boy",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 196,
+    "Position": 154,
+    "Title": "Dandelions",
+    "Artist": "Ruth B.",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805459,
+    "Position": 155,
+    "Title": "Essence (feat. Tems)",
+    "Artist": "Wizkid, Tems",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1250184,
+    "Position": 156,
+    "Title": "Who’s Dat Girl",
+    "Artist": "Ayra Starr",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274838164,
+    "Position": 157,
+    "Title": "Stars Misaligned II",
+    "Artist": "Shiloh Yodellé, oSHAMO, Abefe",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 804969,
+    "Position": 158,
+    "Title": "Do You",
+    "Artist": "Boi Chase",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174453,
+    "Position": 159,
+    "Title": "Asiwaju",
+    "Artist": "Ruger",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 563769,
+    "Position": 160,
+    "Title": "Today",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 536412,
+    "Position": 161,
+    "Title": "My Way",
+    "Artist": "Hotkeed",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1243049,
+    "Position": 162,
+    "Title": "eko",
+    "Artist": "FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 241998,
+    "Position": 163,
+    "Title": "Instagram",
+    "Artist": "Vibez Inc",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274825899,
+    "Position": 164,
+    "Title": "Yori yori",
+    "Artist": "Abefe",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174778,
+    "Position": 165,
+    "Title": "Bounce",
+    "Artist": "Ruger",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 130764,
+    "Position": 166,
+    "Title": "WAIT FOR U",
+    "Artist": "Future",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 242100,
+    "Position": 167,
+    "Title": "let it breathe",
+    "Artist": "Gunna",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274828880,
+    "Position": 168,
+    "Title": "Amen",
+    "Artist": "Asake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802370,
+    "Position": 169,
+    "Title": "All My Life (feat. J. Cole)",
+    "Artist": "Lil Durk, J. Cole",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174510,
+    "Position": 170,
+    "Title": "Cana",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1163051,
+    "Position": 171,
+    "Title": "lost",
+    "Artist": "FOLA",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1164397,
+    "Position": 172,
+    "Title": "Call My Name",
+    "Artist": "Kidd Carder",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1245933,
+    "Position": 173,
+    "Title": "Go Crazy",
+    "Artist": "Kidd Carder",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799585,
+    "Position": 174,
+    "Title": "Last Last",
+    "Artist": "Burna Boy",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 242282,
+    "Position": 175,
+    "Title": "i’m a mess",
+    "Artist": "Omah Lay",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1000073,
+    "Position": 176,
+    "Title": "Baby (Is it a Crime)",
+    "Artist": "Rema",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 174512,
+    "Position": 177,
+    "Title": "Dejavu",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1164395,
+    "Position": 178,
+    "Title": "Lameda",
+    "Artist": "SAMAD",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 242214,
+    "Position": 179,
+    "Title": "Ojuelegba",
+    "Artist": "Wizkid",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 15794,
+    "Position": 180,
+    "Title": "Real Life",
+    "Artist": "Burna Boy",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1164813,
+    "Position": 181,
+    "Title": "Pressure",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1246656,
+    "Position": 182,
+    "Title": "INDUSTRY MACHINE",
+    "Artist": "ODUMODUBLVCK",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274803447,
+    "Position": 183,
+    "Title": "WOTOWOTO SEASONING (feat. Black Sherif)",
+    "Artist": "ODUMODUBLVCK, Black Sherif",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799135,
+    "Position": 184,
+    "Title": "Omo Ope (feat. Olamide)",
+    "Artist": "Asake, Olamide",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 601287,
+    "Position": 185,
+    "Title": "Chandelier",
+    "Artist": "Monaky",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848470,
+    "Position": 186,
+    "Title": "Jungle",
+    "Artist": "Delamore, Boy Muller",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 99,
+    "Position": 187,
+    "Title": "Mockingbird",
+    "Artist": "Eminem",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1236537,
+    "Position": 188,
+    "Title": "forever be mine (feat. Wizkid)",
+    "Artist": "Gunna",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849165,
+    "Position": 190,
+    "Title": "Misunderstood",
+    "Artist": "Ayra Starr",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274820150,
+    "Position": 191,
+    "Title": "Gobe",
+    "Artist": "Kidd Carder",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1248549,
+    "Position": 192,
+    "Title": "BIG TIME",
+    "Artist": "ODUMODUBLVCK",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 556089,
+    "Position": 193,
+    "Title": "What If I Say",
+    "Artist": "Fireboy DML",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1292235,
+    "Position": 194,
+    "Title": "Alaye",
+    "Artist": "Wizkid",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1226911,
+    "Position": 195,
+    "Title": "Che Che",
+    "Artist": "Young Jonn",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1269899,
+    "Position": 196,
+    "Title": "FUJI MOTO",
+    "Artist": "Seyi Vibez",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274805458,
+    "Position": 197,
+    "Title": "Come Closer (feat. Drake)",
+    "Artist": "Wizkid, Drake",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 115648,
+    "Position": 198,
+    "Title": "lovely",
+    "Artist": "Billie Eilish",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274819486,
+    "Position": 199,
+    "Title": "Gimme Dat",
+    "Artist": "Ayra Starr, Wizkid",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 816583,
+    "Position": 200,
+    "Title": "I Alone",
+    "Artist": "BNXN",
+    "PlatformCode": "spotify",
+    "CountryCode": "ng",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   }
 ]

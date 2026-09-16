@@ -1,112 +1,1852 @@
 [
   {
+    "SongID": 1274855131,
+    "Position": 2,
+    "Title": "uMoya 2.0 - Tycoon Remix",
+    "Artist": "Darque, Atmos Blaq, Zawadi Yamungu, Tycoon, Soulful Disciple",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274846203,
+    "Position": 3,
+    "Title": "Remember",
+    "Artist": "Tman Xpress, Mellow & Sleazy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849251,
+    "Position": 4,
+    "Title": "Ama hem hem",
+    "Artist": "Thatohatsi, Sjava, Shaunmusiq",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848686,
+    "Position": 5,
+    "Title": "Wo Lo",
+    "Artist": "Mihlali The Guy, Dankie Boi, Mr Thela, Cairo CPT, Sino Msolo, Konke",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855130,
+    "Position": 6,
+    "Title": "He Belongs",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849454,
+    "Position": 7,
+    "Title": "Luqale sakudlala",
+    "Artist": "G-Jealous",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848682,
+    "Position": 8,
+    "Title": "Isesheli",
+    "Artist": "Mzukulu, OmaThwala",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848683,
+    "Position": 9,
+    "Title": "H’s On The Table",
+    "Artist": "Royal MusiQ",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855132,
+    "Position": 10,
+    "Title": "Ghost",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848684,
+    "Position": 12,
+    "Title": "TEZE",
+    "Artist": "W4DE, Royal MusiQ",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855133,
+    "Position": 13,
+    "Title": "Ceiling (Freestyle)",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835960,
+    "Position": 14,
+    "Title": "Janice STFU",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855135,
+    "Position": 15,
+    "Title": "Break",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1162734,
+    "Position": 17,
+    "Title": "Abantwana Bakho",
+    "Artist": "DJ Maphorisa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849453,
+    "Position": 19,
+    "Title": "Distance",
+    "Artist": "Zulu Queens, Lwah Ndlunkulu, MaWhoo, Feza",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855137,
+    "Position": 20,
+    "Title": "Nothing Nice to Say",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1566,
+    "Position": 22,
+    "Title": "Headlines",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
     "SongID": 1231541,
-    "Position": 27,
+    "Position": 23,
     "Title": "Ngyozama (feat. Sykes, Young Stunna, Nkosazana Daughter, Tracy & Thatohatsi)",
     "Artist": "Kabza De Small & Dlala Thukzin",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
-    "SongID": 1294264,
-    "Position": 53,
-    "Title": "UKHETHE MINA",
-    "Artist": "Ntencane",
+    "SongID": 1274801833,
+    "Position": 24,
+    "Title": "Ufunani (feat. Aymos, Kelvin Momo & Jay Sax)",
+    "Artist": "Kabza De Small, Aymos, Kelvin Momo, Jay Sax",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855134,
+    "Position": 25,
+    "Title": "Ubukho Bakhe",
+    "Artist": "Jabulile Majola, Thando Zide",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855136,
+    "Position": 26,
+    "Title": "Wild Cat(s)",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855139,
+    "Position": 27,
+    "Title": "Lullaby",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855138,
+    "Position": 28,
+    "Title": "You",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 540568,
+    "Position": 29,
+    "Title": "Hold On, We're Going Home",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855150,
+    "Position": 30,
+    "Title": "Don't Be That Guy",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848856,
+    "Position": 31,
+    "Title": "As Planned",
+    "Artist": "Nasty C, Tellaman",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848694,
+    "Position": 32,
+    "Title": "Rapela",
+    "Artist": "Sam Deep, Aidah, Njelic, Thatohatsi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274840535,
+    "Position": 33,
+    "Title": "Izospana",
+    "Artist": "Sam Deep, Thatohatsi, Zuma, Marvin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1236714,
+    "Position": 34,
+    "Title": "Shela (feat. Mano)",
+    "Artist": "Sam Deep, Nia Pearl & Boohle",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855141,
+    "Position": 35,
+    "Title": "Beach Boy",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 1274835974,
-    "Position": 55,
+    "Position": 36,
     "Title": "Shabang",
     "Artist": "Drake",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
-    "SongID": 1274838179,
-    "Position": 58,
-    "Title": "Phumelela",
-    "Artist": "Skillz, Simmy, Zeh McGeba",
+    "SongID": 1274835978,
+    "Position": 37,
+    "Title": "Whisper My Name",
+    "Artist": "Drake",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
-    "SongID": 1245669,
-    "Position": 72,
-    "Title": "uValo",
-    "Artist": "JAZZWRLD",
+    "SongID": 2909,
+    "Position": 39,
+    "Title": "Marvins Room",
+    "Artist": "Drake",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801845,
+    "Position": 40,
+    "Title": "Khanya Njalo",
+    "Artist": "Kabza De Small, Zawadi Yamungu",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1271566,
+    "Position": 41,
+    "Title": "Umaqondana",
+    "Artist": "Feza",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274827600,
+    "Position": 42,
+    "Title": "Ngithathiwe",
+    "Artist": "Zee Nxumalo, Funky Qla, Dlala Thukzin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274829013,
+    "Position": 43,
+    "Title": "Everybody Wanna Be In Love",
+    "Artist": "Calvin Fallo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855174,
+    "Position": 44,
+    "Title": "Mine",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835981,
+    "Position": 45,
+    "Title": "B's On The Table (feat. 21 Savage)",
+    "Artist": "Drake, 21 Savage",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272666,
+    "Position": 46,
+    "Title": "Man I Need",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 605624,
+    "Position": 47,
+    "Title": "Bo Thata (feat. Stixx & Nvcho)",
+    "Artist": "Babalwa M",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855140,
+    "Position": 48,
+    "Title": "Unicorn",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800349,
+    "Position": 49,
+    "Title": "Pound Cake / Paris Morton Music 2",
+    "Artist": "Drake, JAŸ-Z",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274840182,
+    "Position": 50,
+    "Title": "Vuma",
+    "Artist": "MENZI MUSIC",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848855,
+    "Position": 51,
+    "Title": "Setla",
+    "Artist": "Uncool MC, DJ Maphorisa, N T S A K O XVI, Focalistic, Shaun 101",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1249892,
+    "Position": 52,
+    "Title": "Raindance",
+    "Artist": "Dave, Tems",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 1274835968,
-    "Position": 81,
+    "Position": 53,
     "Title": "Plot Twist",
     "Artist": "Drake",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
-    "SongID": 1274829370,
+    "SongID": 1274855175,
+    "Position": 54,
+    "Title": "I Don't Mind",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1294264,
+    "Position": 55,
+    "Title": "UKHETHE MINA",
+    "Artist": "Ntencane",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 987,
+    "Position": 56,
+    "Title": "Girls Need Love",
+    "Artist": "Summer Walker",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274846193,
+    "Position": 57,
+    "Title": "SASEZOLA",
+    "Artist": "Novex, Born Kxng, MOONLIGHT AFRIQA, S.N.E",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1289508,
+    "Position": 58,
+    "Title": "Ungenzani",
+    "Artist": "Dlala Thukzin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1227105,
+    "Position": 59,
+    "Title": "Amalanga",
+    "Artist": "Piano City",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1278246,
+    "Position": 60,
+    "Title": "Thandaza",
+    "Artist": "Sam Deep",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274837604,
+    "Position": 61,
+    "Title": "Ran To Atlanta (feat. Future & Molly Santana)",
+    "Artist": "Drake, Future, Molly Santana",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274838179,
+    "Position": 62,
+    "Title": "Phumelela",
+    "Artist": "Skillz, Simmy, Zeh McGeba",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801949,
+    "Position": 63,
+    "Title": "Izono (feat. Mawhoo & Babalwa M & Chley)",
+    "Artist": "Kelvin Momo, Babalwa M, Chley, MaWhoo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272382,
+    "Position": 64,
+    "Title": "A Couple Minutes",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855189,
+    "Position": 65,
+    "Title": "A Living Light",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835966,
+    "Position": 66,
+    "Title": "National Treasures",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 252808,
+    "Position": 67,
+    "Title": "Ungukuphila",
+    "Artist": "Xolly Mncwango",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274843357,
+    "Position": 68,
+    "Title": "Sengithole Omunye - Remix",
+    "Artist": "Feza, Chulumanco M",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855190,
+    "Position": 69,
+    "Title": "Nami’s Haiku",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 898,
+    "Position": 70,
+    "Title": "Power Trip (feat. Miguel)",
+    "Artist": "J. Cole",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849837,
+    "Position": 71,
+    "Title": "Hey Wena",
+    "Artist": "Samthing Soweto, Entity MusiQ, Alie-Keys",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835962,
+    "Position": 72,
+    "Title": "Make Them Cry",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1250333,
+    "Position": 73,
+    "Title": "Thandolwethu",
+    "Artist": "Mzukulu",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855218,
+    "Position": 74,
+    "Title": "FAMILY N FRIENDS",
+    "Artist": "BABYLOWSK1",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 45028,
+    "Position": 75,
+    "Title": "Amalobolo (feat. Stixx, Nia Pearl)",
+    "Artist": "Kelvin Momo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 502904,
+    "Position": 76,
+    "Title": "Bala (feat. SYKES)",
+    "Artist": "Kelvin Momo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 187303,
+    "Position": 77,
+    "Title": "Thath'Indawo (Live)",
+    "Artist": "Spirit Of Praise",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1249057,
+    "Position": 78,
+    "Title": "Methodist Medley",
+    "Artist": "Nothando Hlophe",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801953,
+    "Position": 79,
+    "Title": "Langa'elihle (feat. Babalwa M, Yallunder & Sia Mzizi)",
+    "Artist": "Kelvin Momo, Stixx, Babalwa M, Yallunder, Sia Mzizi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801637,
+    "Position": 80,
+    "Title": "The Worst",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799392,
+    "Position": 81,
+    "Title": "Dance for You",
+    "Artist": "Beyoncé",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 304,
+    "Position": 82,
+    "Title": "God's Plan",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1235113,
+    "Position": 83,
+    "Title": "Is It a Crime",
+    "Artist": "Mariah the Scientist",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801843,
+    "Position": 84,
+    "Title": "Siyabonga (feat. Nontokozo Mkhize & Mthunzi)",
+    "Artist": "Kabza De Small, Nontokozo Mkhize, Mthunzi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848861,
+    "Position": 86,
+    "Title": "THAT GIRL",
+    "Artist": "Tyla",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849258,
+    "Position": 87,
+    "Title": "Hours In Silence",
+    "Artist": "Royal MusiQ",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 130764,
+    "Position": 88,
+    "Title": "WAIT FOR U",
+    "Artist": "Future",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800479,
+    "Position": 89,
+    "Title": "Jesus Be The Name (feat. Tiffany Hudson)",
+    "Artist": "Elevation Worship, Tiffany Hudson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 187288,
+    "Position": 90,
+    "Title": "Sukakude",
+    "Artist": "Kelvin Momo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1484,
+    "Position": 91,
+    "Title": "Money Trees",
+    "Artist": "Kendrick Lamar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835951,
     "Position": 92,
-    "Title": "Ningikhonzele",
-    "Artist": "JAZZWRLD, Thatohatsi, Thukuthela",
+    "Title": "Burning Bridges",
+    "Artist": "Drake",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
-    "SongID": 1274817241,
+    "SongID": 1274835964,
     "Position": 93,
-    "Title": "Lwetse 2.0 (feat. Uncle Waffles, Dj Maphorisa & Mluusician)",
-    "Artist": "Xduppy, Angekebabuye Mc, Focalistic, Benzoo, Uncle Waffles, DJ Maphorisa, Mluusician",
+    "Title": "Make Them Pay",
+    "Artist": "Drake",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
-    "SongID": 1274800043,
-    "Position": 100,
-    "Title": "John Wick",
-    "Artist": "De Mthuda, Sir Trill, Da Muziqal Chef",
+    "SongID": 1274800343,
+    "Position": 94,
+    "Title": "What Did I Miss?",
+    "Artist": "Drake",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801840,
+    "Position": 95,
+    "Title": "Amazwe (feat. Mawhoo)",
+    "Artist": "Kabza De Small, Mthunzi, MaWhoo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274837600,
+    "Position": 96,
+    "Title": "Fortworth (feat. PARTYNEXTDOOR)",
+    "Artist": "Drake, PARTYNEXTDOOR",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1245669,
+    "Position": 97,
+    "Title": "uValo",
+    "Artist": "JAZZWRLD",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274816505,
+    "Position": 98,
+    "Title": "Ama Baffalo Nama Elephant",
+    "Artist": "LIMIT NALA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 549963,
+    "Position": 99,
+    "Title": "Khusela (feat. Msaki)",
+    "Artist": "Kabza De Small",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801844,
+    "Position": 100,
+    "Title": "Sponono (feat. Wizkid, Burna Boy, Cassper Nyovest & Madumane)",
+    "Artist": "Kabza De Small, Madumane, Wizkid, Burna Boy, Cassper Nyovest",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1605,
+    "Position": 101,
+    "Title": "Broken Clocks",
+    "Artist": "SZA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 6186,
+    "Position": 102,
+    "Title": "Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",
+    "Artist": "Kabza De Small",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1243654,
+    "Position": 103,
+    "Title": "Different Species",
+    "Artist": "Offset&Gunna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 723054,
+    "Position": 104,
+    "Title": "Bo Gogo",
+    "Artist": "Kelvin Momo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800244,
+    "Position": 105,
+    "Title": "Banyana (feat. Sir Trill, Daliwonga & Kabza De Small)",
+    "Artist": "DJ Maphorisa, Tyler ICU, Kabza De Small, Sir Trill, Daliwonga",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 81,
+    "Position": 106,
+    "Title": "Snooze",
+    "Artist": "SZA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 253095,
+    "Position": 108,
+    "Title": "N o C h i l l",
+    "Artist": "PARTYNEXTDOOR",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800475,
+    "Position": 109,
+    "Title": "God I'm Just Grateful",
+    "Artist": "Elevation Worship, Chandler Moore",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274837602,
+    "Position": 112,
+    "Title": "I'm Spent (feat. Loe Shimmy)",
+    "Artist": "Drake, Loe Shimmy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848762,
+    "Position": 113,
+    "Title": "Nicole Kidman",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274817938,
+    "Position": 114,
+    "Title": "Get You (feat. Kali Uchis)",
+    "Artist": "Daniel Caesar, Kali Uchis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800286,
+    "Position": 115,
+    "Title": "iPlan",
+    "Artist": "Dlala Thukzin, Zaba, Sykes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 3475,
+    "Position": 116,
+    "Title": "Kiss It Better",
+    "Artist": "Rihanna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 1272627,
-    "Position": 127,
+    "Position": 117,
     "Title": "Ordinary",
     "Artist": "Alex Warren",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835980,
+    "Position": 118,
+    "Title": "WNBA",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1273311,
+    "Position": 119,
+    "Title": "Choosin' Texas",
+    "Artist": "Ella Langley",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801946,
+    "Position": 120,
+    "Title": "Emhlabeni (feat. Thatohatsi & Tracy)",
+    "Artist": "Kelvin Momo, Da Muziqal Chef, Thatohatsi, Tracy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835954,
+    "Position": 121,
+    "Title": "Dust",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272853,
+    "Position": 122,
+    "Title": "Rein Me In",
+    "Artist": "Sam Fender, Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272684,
+    "Position": 124,
+    "Title": "So Easy (To Fall In Love)",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855817,
+    "Position": 125,
+    "Title": "Mandla",
+    "Artist": "Jabulile Majola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 924,
+    "Position": 126,
+    "Title": "Teenage Fever",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274829370,
+    "Position": 127,
+    "Title": "Ningikhonzele",
+    "Artist": "JAZZWRLD, Thatohatsi, Thukuthela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274812815,
+    "Position": 129,
+    "Title": "Usungikhombisile",
+    "Artist": "Nkeshemba",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849455,
+    "Position": 130,
+    "Title": "Savumela izitha",
+    "Artist": "Sanele Ngubane",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 619054,
+    "Position": 131,
+    "Title": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
+    "Artist": "Elevation Worship",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 7833,
+    "Position": 132,
+    "Title": "Body",
+    "Artist": "Summer Walker",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 545970,
-    "Position": 183,
+    "Position": 133,
     "Title": "prada dem (feat. Offset)",
     "Artist": "Gunna",
     "PlatformCode": "apple_music",
     "CountryCode": "za",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855815,
+    "Position": 134,
+    "Title": "Umuzi Okhanyayo (Libo)",
+    "Artist": "Jabulile Majola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1227096,
+    "Position": 135,
+    "Title": "Bengicela",
+    "Artist": "MaWhoo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274823473,
+    "Position": 136,
+    "Title": "Ithuba (feat. Q Bonke)",
+    "Artist": "Felo Le Tee, Miikey Ndlovu, Mlooda, Q Bonke",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 553130,
+    "Position": 137,
+    "Title": "Song Cry (feat. Mhaw Keys)",
+    "Artist": "Kelvin Momo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848858,
+    "Position": 138,
+    "Title": "2 Spin Jikeleza",
+    "Artist": "Focalistic, Uncle Waffles, Shaunmusiq",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1231546,
+    "Position": 139,
+    "Title": "Iphupho (feat. Thatohatsi)",
+    "Artist": "Kabza De Small & Kelvin Momo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1227498,
+    "Position": 140,
+    "Title": "Residuals",
+    "Artist": "Chris Brown",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274836725,
+    "Position": 141,
+    "Title": "Dai Dai",
+    "Artist": "Shakira, Burna Boy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835975,
+    "Position": 142,
+    "Title": "Slap The City",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1278104,
+    "Position": 143,
+    "Title": "Ma c sta disc",
+    "Artist": "Boro",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274856076,
+    "Position": 144,
+    "Title": "eZimbali",
+    "Artist": "GoldMax",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 538,
+    "Position": 145,
+    "Title": "Don't",
+    "Artist": "Bryson Tiller",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274797340,
+    "Position": 146,
+    "Title": "Hamba Nam",
+    "Artist": "W4DE & Malemon",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274846196,
+    "Position": 147,
+    "Title": "Khanyisa - Live",
+    "Artist": "Phelelani Vox",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835963,
+    "Position": 148,
+    "Title": "Make Them Know",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274807717,
+    "Position": 149,
+    "Title": "Mzala (feat. Tango Supreme)",
+    "Artist": "Shakes & Les, Zee Nxumalo, Tango Supreme",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274803627,
+    "Position": 150,
+    "Title": "SOMEBODY LOVES ME",
+    "Artist": "PARTYNEXTDOOR, Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845596,
+    "Position": 151,
+    "Title": "stupid song",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800043,
+    "Position": 152,
+    "Title": "John Wick",
+    "Artist": "De Mthuda, Sir Trill, Da Muziqal Chef",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 559964,
+    "Position": 153,
+    "Title": "To Summer, From Cole - Audio Hug",
+    "Artist": "Summer Walker",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1291010,
+    "Position": 154,
+    "Title": "wgft",
+    "Artist": "Gunna, Burna Boy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801963,
+    "Position": 155,
+    "Title": "Poetic Justice",
+    "Artist": "Kendrick Lamar, Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804801,
+    "Position": 156,
+    "Title": "30 For 30 (with Kendrick Lamar)",
+    "Artist": "SZA, Kendrick Lamar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 6081,
+    "Position": 157,
+    "Title": "Deja Vu",
+    "Artist": "J. Cole",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 11272,
+    "Position": 158,
+    "Title": "Cinderella",
+    "Artist": "Mac Miller",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 27,
+    "Position": 159,
+    "Title": "Beautiful Things",
+    "Artist": "Benson Boone",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1245670,
+    "Position": 160,
+    "Title": "Uzizwa Kanjan",
+    "Artist": "JAZZWRLD",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1011425,
+    "Position": 161,
+    "Title": "Collide",
+    "Artist": "Lady Zamar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 103,
+    "Position": 162,
+    "Title": "Pink + White",
+    "Artist": "Frank Ocean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849456,
+    "Position": 163,
+    "Title": "BAHAMBA BONKE",
+    "Artist": "Inkos'yamagcokama",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1250185,
+    "Position": 164,
+    "Title": "MONEY CONSTANT",
+    "Artist": "DJ Maphorisa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 187995,
+    "Position": 165,
+    "Title": "Umcebo",
+    "Artist": "Sjava",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804071,
+    "Position": 166,
+    "Title": "Work",
+    "Artist": "Rihanna, Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274846197,
+    "Position": 167,
+    "Title": "Ibandla",
+    "Artist": "Ruff, Emtee, Sjava, Saudi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800044,
+    "Position": 168,
+    "Title": "Gijima",
+    "Artist": "De Mthuda, Zawadi Yamungu, Sipho Magudulela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274826976,
+    "Position": 169,
+    "Title": "Orbiter",
+    "Artist": "Noah Kahan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272686,
+    "Position": 170,
+    "Title": "Baby Steps",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 102,
+    "Position": 172,
+    "Title": "No Role Modelz",
+    "Artist": "J. Cole",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835953,
+    "Position": 173,
+    "Title": "Don’t Worry",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1248701,
+    "Position": 174,
+    "Title": "Isibaya Sikababa",
+    "Artist": "Nkeshemba",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 397,
+    "Position": 175,
+    "Title": "Love On The Brain",
+    "Artist": "Rihanna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1539,
+    "Position": 176,
+    "Title": "Love Galore (feat. Travis Scott)",
+    "Artist": "SZA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1606,
+    "Position": 177,
+    "Title": "Nonstop",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 902,
+    "Position": 178,
+    "Title": "Novacane",
+    "Artist": "Frank Ocean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1295736,
+    "Position": 180,
+    "Title": "Bang'bonile (feat. Djy Vino, MBUZI & Seun1401)",
+    "Artist": "Xduppy, Mphoet, Thatohatsi & DJ Maphorisa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1235135,
+    "Position": 181,
+    "Title": "Lutho",
+    "Artist": "Dj Jaivane",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801638,
+    "Position": 182,
+    "Title": "While We're Young",
+    "Artist": "Jhené Aiko",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 2016,
+    "Position": 183,
+    "Title": "Nights",
+    "Artist": "Frank Ocean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800359,
+    "Position": 184,
+    "Title": "Yebba’s Heartbreak",
+    "Artist": "Drake, Yebba",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855820,
+    "Position": 185,
+    "Title": "Hope",
+    "Artist": "Jabulile Majola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 300,
+    "Position": 186,
+    "Title": "Passionfruit",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848093,
+    "Position": 187,
+    "Title": "Ain't In LA",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 605620,
+    "Position": 188,
+    "Title": "Sohlala Sisonke (feat. Zeh McGeba & MK Productions)",
+    "Artist": "Dlala Thukzin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274839364,
+    "Position": 189,
+    "Title": "hate that i made you love me",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1221,
+    "Position": 190,
+    "Title": "Nice For What",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274846381,
+    "Position": 191,
+    "Title": "IS IT LOVE",
+    "Artist": "Tyla",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1590,
+    "Position": 192,
+    "Title": "Exchange",
+    "Artist": "Bryson Tiller",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848079,
+    "Position": 193,
+    "Title": "Great Expectation",
+    "Artist": "SIENNA SPIRO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 605930,
+    "Position": 194,
+    "Title": "Amapholas (feat. Mr JazziQ)",
+    "Artist": "Sam Deep & Zuma",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855220,
+    "Position": 195,
+    "Title": "Restart",
+    "Artist": "Justin99",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 253136,
+    "Position": 196,
+    "Title": "M a k e I t T o T h e M o r n i n g",
+    "Artist": "PARTYNEXTDOOR",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799372,
+    "Position": 197,
+    "Title": "Elshadai Adonaih",
+    "Artist": "Benjamin Dube",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274835979,
+    "Position": 198,
+    "Title": "White Bone",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855818,
+    "Position": 200,
+    "Title": "Baba Wethu",
+    "Artist": "Jabulile Majola",
+    "PlatformCode": "apple_music",
+    "CountryCode": "za",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   }
 ]

@@ -1,22 +1,1992 @@
 [
   {
-    "SongID": 204834,
-    "Position": 141,
-    "Title": "Aquela Pessoa - Ao Vivo",
+    "SongID": 1274848762,
+    "Position": 1,
+    "Title": "Nicole Kidman",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848093,
+    "Position": 2,
+    "Title": "Ain't In LA",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272899,
+    "Position": 3,
+    "Title": "Midnight Sun",
+    "Artist": "Zara Larsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274842415,
+    "Position": 4,
+    "Title": "Cuida do Pet",
+    "Artist": "Oldilla, Mc Iguinho Ct, MC Willian, Aaron Modesto, Mc Negão Original, DU'L, Dj Aladin GDB",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274839364,
+    "Position": 5,
+    "Title": "hate that i made you love me",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848707,
+    "Position": 6,
+    "Title": "Bass Persuades",
+    "Artist": "Miley Cyrus",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274840323,
+    "Position": 7,
+    "Title": "the cure",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1247691,
+    "Position": 8,
+    "Title": "The Fate of Ophelia",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849961,
+    "Position": 9,
+    "Title": "Você Já Sabe",
+    "Artist": "Anitta, Los Brasileros",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848136,
+    "Position": 10,
+    "Title": "Não Me Cutuca",
+    "Artist": "Anitta, Alceu Valença",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 11178,
+    "Position": 11,
+    "Title": "Nocaute",
+    "Artist": "Jorge & Mateus",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845596,
+    "Position": 12,
+    "Title": "stupid song",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849545,
+    "Position": 13,
+    "Title": "Sal Grosso",
+    "Artist": "Anitta, KBrum",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848107,
+    "Position": 14,
+    "Title": "petal",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849962,
+    "Position": 15,
+    "Title": "Feitiço",
+    "Artist": "Anitta, Mart'nália",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801601,
+    "Position": 16,
+    "Title": "Peão Todo Tatuado",
+    "Artist": "Jeninho, Mariana Fagundes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 123054,
+    "Position": 17,
+    "Title": "Wonderwall - Remastered",
+    "Artist": "Oasis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 11170,
+    "Position": 18,
+    "Title": "Os Anjos Cantam",
+    "Artist": "Jorge & Mateus",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 205263,
+    "Position": 19,
+    "Title": "Whisky e Gelo - Acústico",
+    "Artist": "Zé Neto & Cristiano",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274854882,
+    "Position": 20,
+    "Title": "Joseph",
+    "Artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1245452,
+    "Position": 21,
+    "Title": "Eu Te Seguro - Ao Vivo",
+    "Artist": "Panda, MJ Records",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1273098,
+    "Position": 22,
+    "Title": "P do Pecado - Ao Vivo",
+    "Artist": "Grupo Menos É Mais, Simone Mendes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1239705,
+    "Position": 23,
+    "Title": "Sign of the Times",
+    "Artist": "Harry Styles",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848776,
+    "Position": 24,
+    "Title": "SaWaDiKa",
+    "Artist": "LISA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1593,
+    "Position": 25,
+    "Title": "Lush Life",
+    "Artist": "Zara Larsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272627,
+    "Position": 26,
+    "Title": "Ordinary",
+    "Artist": "Alex Warren",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848113,
+    "Position": 27,
+    "Title": "Hootie Frutti",
+    "Artist": "KATSEYE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799088,
+    "Position": 28,
+    "Title": "no tears left to cry",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274836725,
+    "Position": 29,
+    "Title": "Dai Dai",
+    "Artist": "Shakira, Burna Boy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 2015,
+    "Position": 30,
+    "Title": "Into You",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 925,
+    "Position": 31,
+    "Title": "New Rules",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849964,
+    "Position": 32,
+    "Title": "Divino Sexual",
+    "Artist": "Anitta",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849963,
+    "Position": 33,
+    "Title": "Okê",
+    "Artist": "Anitta, Brô MC's, Katu Mirim",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 121681,
+    "Position": 34,
+    "Title": "Tempo Perdido",
+    "Artist": "Legião Urbana",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799087,
+    "Position": 35,
+    "Title": "7 rings",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274819449,
+    "Position": 36,
+    "Title": "Mandinga",
+    "Artist": "Anitta, Marina Sena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 538690,
+    "Position": 37,
+    "Title": "Última Saudade - Ao Vivo",
     "Artist": "Henrique & Juliano",
     "PlatformCode": "apple_music",
     "CountryCode": "br",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848127,
+    "Position": 38,
+    "Title": "Ta Pedindo Toma",
+    "Artist": "MC Leozinho ZS, MC Murilo MT, Mc DR, DJ JHOW BEATS, MC RN do Capão, Mc Pelourinho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 207,
+    "Position": 39,
+    "Title": "Sweet Child O' Mine",
+    "Artist": "Guns N' Roses",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 538947,
+    "Position": 40,
+    "Title": "Arruma Um Bão",
+    "Artist": "Israel & Rodolffo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849971,
+    "Position": 41,
+    "Title": "brand new chanel$",
+    "Artist": "Slayyyter",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845644,
+    "Position": 42,
+    "Title": "Pau Pra Toda Obra",
+    "Artist": "Mc Jacaré, MC Ryan SP, Mc Lele JP, Mc IG",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274819447,
+    "Position": 43,
+    "Title": "Desgraça",
+    "Artist": "Anitta",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800369,
+    "Position": 44,
+    "Title": "Training Season",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1249039,
+    "Position": 45,
+    "Title": "Stateside + Zara Larsson",
+    "Artist": "PinkPantheress, Zara Larsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 501280,
+    "Position": 46,
+    "Title": "Die With A Smile",
+    "Artist": "Lady Gaga, Bruno Mars",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1273151,
+    "Position": 47,
+    "Title": "Posso Até Não Te Dar Flores",
+    "Artist": "DJ Japa NK, MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1287544,
+    "Position": 48,
+    "Title": "JETSKI",
+    "Artist": "PEDRO SAMPAIO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848133,
+    "Position": 49,
+    "Title": "Puxa o Lança",
+    "Artist": "MC Jvila, KayBlack, Veigh, Vulgo FK, Honaiser, Nagalli, Stick, Toledo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1680,
+    "Position": 50,
+    "Title": "Cool for the Summer",
+    "Artist": "Demi Lovato",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 108652,
+    "Position": 51,
+    "Title": "Beauty And A Beat",
+    "Artist": "Justin Bieber, Nicki Minaj",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1288867,
+    "Position": 52,
+    "Title": "Gauchinha",
+    "Artist": "DJ Japa NK",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849982,
+    "Position": 53,
+    "Title": "Aurora",
+    "Artist": "Jão",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849965,
+    "Position": 54,
+    "Title": "Tudo Isso",
+    "Artist": "Anitta",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 121856,
+    "Position": 55,
+    "Title": "Melhor Que Muita Gente (O Copo Não Mente)",
+    "Artist": "Israel & Rodolffo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 199,
+    "Position": 56,
+    "Title": "In The End",
+    "Artist": "Linkin Park",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 914,
+    "Position": 57,
+    "Title": "Billie Jean",
+    "Artist": "Michael Jackson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849968,
+    "Position": 58,
+    "Title": "Ponta Do Pé",
+    "Artist": "Anitta",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845600,
+    "Position": 59,
+    "Title": "maggots for brains",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274820501,
+    "Position": 60,
+    "Title": "drop dead",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 27,
+    "Position": 61,
+    "Title": "Beautiful Things",
+    "Artist": "Benson Boone",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 113593,
+    "Position": 62,
+    "Title": "Blinding Lights",
+    "Artist": "The Weeknd",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 12447,
+    "Position": 63,
+    "Title": "Espresso",
+    "Artist": "Sabrina Carpenter",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849966,
+    "Position": 64,
+    "Title": "Ruído Marrom Para Dormir (Pt. 01)",
+    "Artist": "Ruído Marrom de TraxLab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1239704,
+    "Position": 65,
+    "Title": "Shape of You",
+    "Artist": "Ed Sheeran",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 572799,
+    "Position": 66,
+    "Title": "É Ele",
+    "Artist": "Drops INA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272666,
+    "Position": 67,
+    "Title": "Man I Need",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848764,
+    "Position": 68,
+    "Title": "oh well",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1224,
+    "Position": 69,
+    "Title": "thank u, next",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 12451,
+    "Position": 70,
+    "Title": "BIRDS OF A FEATHER",
+    "Artist": "Billie Eilish",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274838995,
+    "Position": 71,
+    "Title": "AH, JESUS / CORAÇÃO IGUAL AO TEU",
+    "Artist": "Julliany Souza",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849970,
+    "Position": 72,
+    "Title": "Eu Não Sou Santa",
+    "Artist": "Anitta, Mestrinho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1273138,
+    "Position": 73,
+    "Title": "Pela Última Vez - Ao Vivo",
+    "Artist": "Grupo Menos É Mais, NATTAN",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849969,
+    "Position": 74,
+    "Title": "Pra Você Gostar De Mim",
+    "Artist": "Anitta",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274842104,
+    "Position": 75,
+    "Title": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
+    "Artist": "dj andreoli, Mc Jacaré, MC Ryan SP, ZANOLINI, Mc Lele JP, MC LUUKY",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 14493,
+    "Position": 76,
+    "Title": "Expectativa x Realidade",
+    "Artist": "Matheus & Kauan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1226428,
+    "Position": 77,
+    "Title": "Manchild",
+    "Artist": "Sabrina Carpenter",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1431,
+    "Position": 78,
+    "Title": "Leão",
+    "Artist": "Marília Mendonça",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802754,
+    "Position": 79,
+    "Title": "Esqueça-Me Se For Capaz",
+    "Artist": "Marília Mendonça, Maiara & Maraisa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855200,
+    "Position": 80,
+    "Title": "crank 2",
+    "Artist": "Slayyyter",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 532777,
+    "Position": 81,
+    "Title": "Apaga Apaga Apaga - Ao Vivo",
+    "Artist": "Danilo e Davi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 205108,
+    "Position": 82,
+    "Title": "Tu és + Águas Purificadoras - Ao Vivo",
+    "Artist": "fhop music, Hamilton Rabelo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 975183,
+    "Position": 83,
+    "Title": "Abracadabra",
+    "Artist": "Lady Gaga",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1273084,
+    "Position": 84,
+    "Title": "Tubarões - Ao Vivo",
+    "Artist": "Diego & Victor Hugo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855201,
+    "Position": 85,
+    "Title": "Me Leva Pra Você - Ao Vivo",
+    "Artist": "Matheus & Kauan, Panda",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1227752,
+    "Position": 86,
+    "Title": "Creep",
+    "Artist": "Radiohead",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 12959,
+    "Position": 87,
+    "Title": "WILDFLOWER",
+    "Artist": "Billie Eilish",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274806049,
+    "Position": 88,
+    "Title": "Famoso Ímã | O poderoso chatão",
+    "Artist": "Mc Lele JP, Mc Poze do Rodo, MC Leozinho ZS, DJ GORDINHO DA VF",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274815814,
+    "Position": 89,
+    "Title": "Choka Choka",
+    "Artist": "Anitta, Shakira",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 106,
+    "Position": 90,
+    "Title": "Perfect",
+    "Artist": "Ed Sheeran",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274799089,
+    "Position": 91,
+    "Title": "positions",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 130782,
+    "Position": 92,
+    "Title": "Smells Like Teen Spirit",
+    "Artist": "Nirvana",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848094,
+    "Position": 93,
+    "Title": "Animal",
+    "Artist": "KATSEYE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 443,
+    "Position": 94,
+    "Title": "Levitating",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 501603,
+    "Position": 95,
+    "Title": "Coração Partido (Corazón Partío) - Ao Vivo",
+    "Artist": "Grupo Menos É Mais",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849973,
+    "Position": 96,
+    "Title": "Abre Caminho",
+    "Artist": "Anitta, Alexandre Carlo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 205427,
+    "Position": 97,
+    "Title": "Online - Ao Vivo",
+    "Artist": "Henrique & Juliano",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 473,
+    "Position": 98,
+    "Title": "Iris",
+    "Artist": "Goo Goo Dolls",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849974,
+    "Position": 99,
+    "Title": "Sem Pressa",
+    "Artist": "Anitta, Mc Tha",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 8906,
+    "Position": 100,
+    "Title": "Molhando o Volante",
+    "Artist": "Jorge & Mateus",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274800193,
+    "Position": 101,
+    "Title": "Pirulito Vermelho",
+    "Artist": "Diego & Victor Hugo, Luan Pereira",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 274,
+    "Position": 102,
+    "Title": "Numb",
+    "Artist": "Linkin Park",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802815,
+    "Position": 103,
+    "Title": "Paraquedas",
+    "Artist": "Matheus & Kauan, Gusttavo Lima",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 204922,
+    "Position": 104,
+    "Title": "Pra Sempre Com Você - Ao Vivo",
+    "Artist": "Jorge & Mateus",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845598,
+    "Position": 105,
+    "Title": "honeybee",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 600807,
+    "Position": 106,
+    "Title": "Romântico - Ao Vivo",
+    "Artist": "Henrique & Juliano",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 2012,
+    "Position": 107,
+    "Title": "Dangerous Woman",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1243660,
+    "Position": 108,
+    "Title": "Loser",
+    "Artist": "Tame Impala",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848750,
+    "Position": 109,
+    "Title": "like i do",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 624201,
+    "Position": 110,
+    "Title": "Numa Ilha",
+    "Artist": "Marina Sena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 955,
+    "Position": 111,
+    "Title": "Bênçãos Que Não Têm Fim (Counting My Blessings)",
+    "Artist": "Isadora Pompeo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1227823,
+    "Position": 112,
+    "Title": "Quem É Esse?(Live)",
+    "Artist": "Julliany Souza",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 51,
+    "Position": 113,
+    "Title": "As It Was",
+    "Artist": "Harry Styles",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274804685,
+    "Position": 114,
+    "Title": "Chuva e Trovoadas, Pt. 21",
+    "Artist": "Som De Chuva e Trovoadas",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1194188,
+    "Position": 115,
+    "Title": "Lua Cheia",
+    "Artist": "Marina Sena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 84580,
+    "Position": 116,
+    "Title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+    "Artist": "Elton John",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274801145,
+    "Position": 117,
+    "Title": "Completa A Frase (Completa Aí) (Ao Vivo)",
+    "Artist": "Henrique & Juliano, Marília Mendonça",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849115,
+    "Position": 118,
+    "Title": "big feelings",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1292815,
+    "Position": 119,
+    "Title": "Reliquia do 2T",
+    "Artist": "DJ Gu",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845646,
+    "Position": 120,
+    "Title": "Bala Alojada",
+    "Artist": "Gusttavo Lima",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272648,
+    "Position": 121,
+    "Title": "Golden",
+    "Artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848810,
+    "Position": 122,
+    "Title": "kiss me",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274823199,
+    "Position": 123,
+    "Title": "KGB",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1273142,
+    "Position": 124,
+    "Title": "SEQUÊNCIA FEITICEIRA",
+    "Artist": "PEDRO SAMPAIO, Mc Gw, Mc Jhey, Mc Rodrigo do CN, MC Nito",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1239018,
+    "Position": 125,
+    "Title": "Só Os Loucos Sabem",
+    "Artist": "Charlie Brown Jr.",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 3990,
+    "Position": 126,
+    "Title": "Black",
+    "Artist": "Pearl Jam",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1061515,
+    "Position": 127,
+    "Title": "Anjos (Pra Quem Tem Fé) [Ao Vivo]",
+    "Artist": "O Rappa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 293,
+    "Position": 128,
+    "Title": "Livin' On A Prayer",
+    "Artist": "Bon Jovi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274808634,
+    "Position": 129,
+    "Title": "SWIM",
+    "Artist": "BTS",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855202,
+    "Position": 130,
+    "Title": "Catedral",
+    "Artist": "Jão",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1165414,
+    "Position": 131,
+    "Title": "Desmitificar",
+    "Artist": "Marina Sena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 611610,
+    "Position": 132,
+    "Title": "Don't Stop Believin' (Live)",
+    "Artist": "Journey",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274819445,
+    "Position": 133,
+    "Title": "Caminhador",
+    "Artist": "Anitta, Liniker",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 131,
+    "Position": 134,
+    "Title": "Everybody Wants To Rule The World",
+    "Artist": "Tears For Fears",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 393,
+    "Position": 135,
+    "Title": "West Coast",
+    "Artist": "Lana Del Rey",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1227569,
+    "Position": 136,
+    "Title": "Lose Control",
+    "Artist": "Teddy Swims",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274802237,
+    "Position": 137,
+    "Title": "Telephone",
+    "Artist": "Lady Gaga, Beyoncé",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274843482,
+    "Position": 138,
+    "Title": "Carnívoro",
+    "Artist": "Mc Jacaré, Mc Lele JP, Mc Negão Original, DJ Japa NK",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1992,
+    "Position": 139,
+    "Title": "Heart Attack",
+    "Artist": "Demi Lovato",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 8889,
+    "Position": 140,
+    "Title": "Be the One",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274845655,
+    "Position": 141,
+    "Title": "EXAGERADO",
+    "Artist": "MC Jvila, MC Meno K, Mc Rodrigo do CN, DJ Glenner",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849136,
+    "Position": 142,
+    "Title": "stay",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 677,
+    "Position": 143,
+    "Title": "Bad Romance",
+    "Artist": "Lady Gaga",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1999,
+    "Position": 144,
+    "Title": "Blame",
+    "Artist": "Calvin Harris, John Newman",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848840,
+    "Position": 145,
+    "Title": "Deus Mãe",
+    "Artist": "Anitta, KING Saints",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274819371,
+    "Position": 146,
+    "Title": "Pra Não Esquecer De Mim",
+    "Artist": "Aaron Modesto, Mc Magal, MC Meno K, DJ Glenner",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 318,
+    "Position": 147,
+    "Title": "Summertime Sadness",
+    "Artist": "Lana Del Rey",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849975,
+    "Position": 148,
+    "Title": "Ogum Me Rodeia",
+    "Artist": "Anitta, Maria Bethânia, Letícia Fialho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1273949,
+    "Position": 149,
+    "Title": "Every Breath You Take",
+    "Artist": "The Police",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 32176,
+    "Position": 150,
+    "Title": "Foi por Conveniência",
+    "Artist": "Marília Mendonça",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 306,
+    "Position": 151,
+    "Title": "One Kiss",
+    "Artist": "Calvin Harris, Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 12499,
+    "Position": 152,
+    "Title": "CHIHIRO",
+    "Artist": "Billie Eilish",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 131267,
+    "Position": 153,
+    "Title": "Cruel Summer",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848765,
+    "Position": 154,
+    "Title": "I'm The Man",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 151,
+    "Position": 155,
+    "Title": "Do I Wanna Know?",
+    "Artist": "Arctic Monkeys",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274819448,
+    "Position": 156,
+    "Title": "Deus Existe",
+    "Artist": "Anitta, Ponto De Equilíbrio",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848128,
+    "Position": 157,
+    "Title": "Postinho de Gasolina",
+    "Artist": "João Gustavo e Murilo, Grelo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1144,
+    "Position": 158,
+    "Title": "Just Dance",
+    "Artist": "Lady Gaga, Colby O'Donis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272684,
+    "Position": 159,
+    "Title": "So Easy (To Fall In Love)",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 632,
+    "Position": 160,
+    "Title": "Back In Black",
+    "Artist": "AC/DC",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 204882,
+    "Position": 161,
+    "Title": "Cidade Vizinha - Ao Vivo",
+    "Artist": "Henrique & Juliano",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1239254,
+    "Position": 162,
+    "Title": "Locked out of Heaven",
+    "Artist": "Bruno Mars",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 397,
+    "Position": 163,
+    "Title": "Love On The Brain",
+    "Artist": "Rihanna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274823516,
+    "Position": 164,
+    "Title": "Transa Pendente",
+    "Artist": "Gusttavo Lima",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 113457,
+    "Position": 165,
+    "Title": "What Do You Mean?",
+    "Artist": "Justin Bieber",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 105,
+    "Position": 166,
+    "Title": "Believer",
+    "Artist": "Imagine Dragons",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274812131,
+    "Position": 167,
+    "Title": "Se...",
+    "Artist": "Djavan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 64,
+    "Position": 168,
+    "Title": "Sweater Weather",
+    "Artist": "The Neighbourhood",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274855203,
+    "Position": 169,
+    "Title": "Por Você",
+    "Artist": "Jão",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 198183,
+    "Position": 170,
+    "Title": "Propaganda - Ao Vivo",
+    "Artist": "Jorge & Mateus",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274819450,
+    "Position": 171,
+    "Title": "Meia Noite",
+    "Artist": "Anitta, Los Brasileros",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 528,
+    "Position": 172,
+    "Title": "Payphone",
+    "Artist": "Maroon 5, Wiz Khalifa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 905,
+    "Position": 173,
+    "Title": "Feel So Close - Radio Edit",
+    "Artist": "Calvin Harris",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   },
   {
     "SongID": 298,
-    "Position": 176,
+    "Position": 174,
     "Title": "Treat You Better",
     "Artist": "Shawn Mendes",
     "PlatformCode": "apple_music",
     "CountryCode": "br",
-    "ChartDate": "2026-09-12",
-    "WeekFolder": "2026-W37"
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 500,
+    "Position": 175,
+    "Title": "Bring Me To Life",
+    "Artist": "Evanescence",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 204864,
+    "Position": 176,
+    "Title": "Áudio - Ao Vivo em Brasília",
+    "Artist": "Diego & Victor Hugo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849981,
+    "Position": 177,
+    "Title": "Danceteria",
+    "Artist": "Madonna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 605272,
+    "Position": 178,
+    "Title": "Let Me Love You",
+    "Artist": "DJ Snake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1272717,
+    "Position": 179,
+    "Title": "DtMF",
+    "Artist": "Bad Bunny",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 20771,
+    "Position": 180,
+    "Title": "Yellow",
+    "Artist": "Coldplay",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 110776,
+    "Position": 181,
+    "Title": "Animals",
+    "Artist": "Maroon 5",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 204834,
+    "Position": 182,
+    "Title": "Aquela Pessoa - Ao Vivo",
+    "Artist": "Henrique & Juliano",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 105785,
+    "Position": 183,
+    "Title": "The Hills",
+    "Artist": "The Weeknd",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 109,
+    "Position": 184,
+    "Title": "Watermelon Sugar",
+    "Artist": "Harry Styles",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1273311,
+    "Position": 185,
+    "Title": "Choosin' Texas",
+    "Artist": "Ella Langley",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274851124,
+    "Position": 186,
+    "Title": "Plano C - Ao Vivo",
+    "Artist": "Zé Neto & Cristiano",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274829536,
+    "Position": 187,
+    "Title": "Bring Your Love",
+    "Artist": "Madonna, Sabrina Carpenter",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 3083,
+    "Position": 188,
+    "Title": "Born To Die",
+    "Artist": "Lana Del Rey",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274819712,
+    "Position": 189,
+    "Title": "Give Your Heart a Break",
+    "Artist": "Demi Lovato",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1146,
+    "Position": 190,
+    "Title": "Poker Face",
+    "Artist": "Lady Gaga",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 917,
+    "Position": 191,
+    "Title": "Sugar",
+    "Artist": "Maroon 5",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848132,
+    "Position": 192,
+    "Title": "POR AÍ",
+    "Artist": "DJ TOPO, Mc Livinho",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1238335,
+    "Position": 193,
+    "Title": "Beat It",
+    "Artist": "Michael Jackson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274854888,
+    "Position": 194,
+    "Title": "Me Encontra",
+    "Artist": "Charlie Brown Jr.",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 501282,
+    "Position": 195,
+    "Title": "Taste",
+    "Artist": "Sabrina Carpenter",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274848083,
+    "Position": 196,
+    "Title": "BbY WOW",
+    "Artist": "KAROL G, Judeline, rusowsky",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274849979,
+    "Position": 197,
+    "Title": "Contemplação",
+    "Artist": "Anitta, Grupo Ofa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 2705,
+    "Position": 198,
+    "Title": "Your Love",
+    "Artist": "The Outfield",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
+  },
+  {
+    "SongID": 1274817306,
+    "Position": 200,
+    "Title": "Cadeira Cativa - Ao Vivo",
+    "Artist": "Zé Neto & Cristiano",
+    "PlatformCode": "apple_music",
+    "CountryCode": "br",
+    "ChartDate": "2026-09-16",
+    "WeekFolder": "2026-W38"
   }
 ]
