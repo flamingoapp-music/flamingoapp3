@@ -3,20 +3,20 @@ document.addEventListener("DOMContentLoaded", function () {
 
     /*
      * MASTER V4:
-     * JSON_UPDATE_MASTER.py exports lowercase chart filenames:
+     * JSON_UPDATE_MASTER.py currently exports Billboard charts as:
+     *   billboard_us.json      -> Billboard Hot 100
+     *   billboard_global.json  -> Billboard Global 200
      *
-     * billboard_hot100.json
-     * billboard_global200.json
-     *
-     * GitHub Pages is case-sensitive, so do not use
-     * BILLBOARD_hot100.json / BILLBOARD_global200.json here.
+     * Keep the legacy names as fallbacks so older exports still work.
      */
     const chartOptions = {
         hot100: [
+            JSON_BASE + "billboard_us.json",
             JSON_BASE + "billboard_hot100.json",
             JSON_BASE + "BILLBOARD_hot100.json"
         ],
         global200: [
+            JSON_BASE + "billboard_global.json",
             JSON_BASE + "billboard_global200.json",
             JSON_BASE + "BILLBOARD_global200.json"
         ]
