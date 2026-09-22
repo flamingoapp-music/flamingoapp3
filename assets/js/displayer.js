@@ -554,7 +554,7 @@
 		const chartGroups = {
 			spotify:         [["us", "gb", "es", "mx", "kr"]],
 			apple_music:     [["us", "uk", "gb", "es", "mx", "kr"]],
-			youtubeInsights: [["us", "uk", "es", "mx", "kr"]],
+			youtubeInsights: [["us", "uk", "gb", "es", "mx", "kr"]],
 			billboard:       [["hot100", "global200"]],
 		};
 
@@ -583,6 +583,7 @@
 			if (platform === "billboard") {
 				if (code === "hot100") {
 					return [
+						"billboard_us.json",
 						"billboard_hot100.json",
 						"billboard_hot_100.json",
 						"billboard_hot-100.json",
@@ -593,6 +594,7 @@
 
 				if (code === "global200") {
 					return [
+						"billboard_global.json",
 						"billboard_global200.json",
 						"billboard_global_200.json",
 						"billboard_global-200.json",
