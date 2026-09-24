@@ -107,7 +107,7 @@
 		billboardSpMap: Object.create(null),
 	};
 
-	function registerArtistFeature(a) {
+	function registerArtistFeature(a, preserveExisting = false) {
 		if (!a || !a.Artist) return;
 
 		const artistID = firstNonEmpty(a.ArtistID, a.ArtistId, a.id);
@@ -121,8 +121,11 @@
 			SpotifyImageURL: firstNonEmpty(a.SpotifyImageURL, a.Image, a.image, a.CoverImage),
 		};
 
-		if (artistID !== "") meta.artistByID[String(artistID)] = normalized;
-		if (key) meta.artistByName[key] = normalized;
+		if (artistID !== "") {
+			const idKey = String(artistID);
+			if (!preserveExisting || !meta.artistByID[idKey]) meta.artistByID[idKey] = normalized;
+		}
+		if (key && (!preserveExisting || !meta.artistByName[key])) meta.artistByName[key] = normalized;
 
 		if (a.Alias) {
 			String(a.Alias)
@@ -218,21 +221,28 @@
 		if (Array.isArray(entry.Artists) && entry.Artists.length > 0) {
 			return entry.Artists.map(a => {
 				const name = firstNonEmpty(a?.Artist, a?.name, "Unknown Artist");
-				const feature = getArtistFeatureByName(name);
+				const featureByID = getArtistFeatureByID(firstNonEmpty(a?.ArtistID, a?.ArtistId, a?.id));
+				const featureByName = getArtistFeatureByName(name);
 				return {
 					name,
-					url: firstNonEmpty(a?.SpotifyURL, feature?.SpotifyURL, null),
+					url: firstNonEmpty(featureByID?.SpotifyURL, featureByName?.SpotifyURL, a?.SpotifyURL, null),
 				};
 			});
 		}
 
 		const artistText = firstNonEmpty(entry.Artist, entry.Artists, "Unknown Artist");
+		const names = splitArtistNames(artistText);
+		const artistIDs = String(firstNonEmpty(entry.ArtistID, ""))
+			.split(",")
+			.map(x => x.trim())
+			.filter(Boolean);
 
-		return splitArtistNames(artistText).map(name => {
-			const feature = getArtistFeatureByName(name);
+		return names.map((name, index) => {
+			const featureByID = getArtistFeatureByID(artistIDs[index]);
+			const featureByName = getArtistFeatureByName(name);
 			return {
 				name,
-				url: firstNonEmpty(feature?.SpotifyURL, null),
+				url: firstNonEmpty(featureByID?.SpotifyURL, featureByName?.SpotifyURL, null),
 			};
 		});
 	}
@@ -283,11 +293,14 @@
 			meta.billboardTsMap = indexBy(billboardTs, "SongID");
 			meta.billboardSpMap = indexBy(billboardSp, "SongID", x => firstNonEmpty(x.Spotify_URL, x.SpotifyURL));
 
-			[
-				...(Array.isArray(artistFeatures) ? artistFeatures : []),
-				...(Array.isArray(appleArtistFeatures) ? appleArtistFeatures : []),
-				...(Array.isArray(billboardArtistFeatures) ? billboardArtistFeatures : []),
-			].forEach(registerArtistFeature);
+			// Global MASTER artist metadata is canonical and must never be overwritten
+			// by service-specific snapshots. Secondary sources only fill missing artists.
+			(Array.isArray(artistFeatures) ? artistFeatures : [])
+				.forEach(a => registerArtistFeature(a, false));
+			(Array.isArray(appleArtistFeatures) ? appleArtistFeatures : [])
+				.forEach(a => registerArtistFeature(a, true));
+			(Array.isArray(billboardArtistFeatures) ? billboardArtistFeatures : [])
+				.forEach(a => registerArtistFeature(a, true));
 
 			console.log("[META] Metadata cargada correctamente");
 		})();
@@ -410,7 +423,11 @@
 					return {
 						rank: entry.Position ?? "",
 						title: firstNonEmpty(entry.Title, si.Title),
-						artists: normalizeArtists({ ...entry, Artist: firstNonEmpty(entry.Artist, si.Artist) }),
+						artists: normalizeArtists({
+							...entry,
+							Artist: firstNonEmpty(entry.Artist, si.Artist),
+							ArtistID: firstNonEmpty(si.ArtistID, entry.ArtistID, ""),
+						}),
 						image: getSongImage(id, entry),
 						spotifyURL: getSongURL(id, entry),
 					};
