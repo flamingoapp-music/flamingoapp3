@@ -9,15 +9,6 @@
     "Genre": "singer-songwriter pop"
   },
   {
-    "SongID": 37,
-    "Album": "AM",
-    "Duration": "3:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-    "Popularity": 93,
-    "ReleaseDate": "2013-09-09",
-    "Genre": ""
-  },
-  {
     "SongID": 41,
     "Album": "folklore",
     "Duration": "04:21",
@@ -25,6 +16,15 @@
     "Popularity": 93,
     "ReleaseDate": "2020-07-24",
     "Genre": "pop"
+  },
+  {
+    "SongID": 50,
+    "Album": "For All The Dogs",
+    "Duration": "04:20",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+    "Popularity": 92,
+    "ReleaseDate": "2023-10-06",
+    "Genre": "canadian hip hop, canadian pop, hip hop, pop rap, rap"
   },
   {
     "SongID": 51,
@@ -72,6 +72,15 @@
     "Genre": ""
   },
   {
+    "SongID": 115,
+    "Album": "For All The Dogs",
+    "Duration": "04:07",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+    "Popularity": 90,
+    "ReleaseDate": "2023-10-06",
+    "Genre": "canadian hip hop, canadian pop, hip hop, pop rap, rap"
+  },
+  {
     "SongID": 131,
     "Album": "Songs From The Big Chair (Super Deluxe Edition)",
     "Duration": "04:11",
@@ -79,15 +88,6 @@
     "Popularity": 90,
     "ReleaseDate": "1985-02-25",
     "Genre": "new romantic, new wave, new wave pop, permanent wave, rock, sophisti-pop, synthpop"
-  },
-  {
-    "SongID": 144,
-    "Album": "All I Want Is You",
-    "Duration": "3:15",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
-    "Popularity": 88,
-    "ReleaseDate": "2010-11-30",
-    "Genre": ""
   },
   {
     "SongID": 151,
@@ -115,6 +115,15 @@
     "Popularity": 88,
     "ReleaseDate": "2000-10-24",
     "Genre": "alternative metal, nu metal, post-grunge, rap metal, rock"
+  },
+  {
+    "SongID": 200,
+    "Album": "Graduation",
+    "Duration": "3:57",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "Popularity": 90,
+    "ReleaseDate": "2007-09-11",
+    "Genre": ""
   },
   {
     "SongID": 205,
@@ -207,15 +216,6 @@
     "Genre": ""
   },
   {
-    "SongID": 301,
-    "Album": "Strange Trails",
-    "Duration": "03:28",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583",
-    "Popularity": 87,
-    "ReleaseDate": "2015-04-06",
-    "Genre": "indie folk, modern rock, stomp and holler"
-  },
-  {
     "SongID": 318,
     "Album": "Born To Die - The Paradise Edition",
     "Duration": "04:25",
@@ -270,22 +270,13 @@
     "Genre": ""
   },
   {
-    "SongID": 398,
-    "Album": "Closer",
-    "Duration": "4:04",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453",
-    "Popularity": 89,
-    "ReleaseDate": "2016-07-29",
+    "SongID": 399,
+    "Album": "Encore",
+    "Duration": "3:25",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc",
+    "Popularity": 91,
+    "ReleaseDate": "2016-08-05",
     "Genre": ""
-  },
-  {
-    "SongID": 404,
-    "Album": "Black Panther The Album Music From And Inspired By",
-    "Duration": "03:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
-    "Popularity": 86,
-    "ReleaseDate": "2018-02-09",
-    "Genre": "conscious hip hop, hip hop, rap, west coast rap"
   },
   {
     "SongID": 411,
@@ -304,15 +295,6 @@
     "Popularity": 100,
     "ReleaseDate": "2018-10-16",
     "Genre": ""
-  },
-  {
-    "SongID": 442,
-    "Album": "The Blueprint 3",
-    "Duration": "04:36",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
-    "Popularity": 86,
-    "ReleaseDate": "2009-09-08",
-    "Genre": "east coast hip hop, gangster rap, hip hop, pop rap, rap"
   },
   {
     "SongID": 443,
@@ -423,6 +405,15 @@
     "Genre": "irish rock, pop rock, rock"
   },
   {
+    "SongID": 772,
+    "Album": "Fanmail",
+    "Duration": "03:34",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95",
+    "Popularity": 84,
+    "ReleaseDate": "1999-02-23",
+    "Genre": "atl hip hop, contemporary r&b, dance pop, girl group, hip pop, r&b, urban contemporary"
+  },
+  {
     "SongID": 856,
     "Album": "Silver Side Up",
     "Duration": "3:43",
@@ -439,6 +430,15 @@
     "Popularity": 89,
     "ReleaseDate": "1982-11-30",
     "Genre": ""
+  },
+  {
+    "SongID": 1047,
+    "Album": "Metallica",
+    "Duration": "05:31",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802",
+    "Popularity": 83,
+    "ReleaseDate": "1991-08-12",
+    "Genre": "hard rock, metal, old school thrash, rock, thrash metal"
   },
   {
     "SongID": 1119,
@@ -484,6 +484,24 @@
     "Popularity": 87,
     "ReleaseDate": "1993-10-05",
     "Genre": ""
+  },
+  {
+    "SongID": 1407,
+    "Album": "Sixpence None the Richer",
+    "Duration": "03:28",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b182816802535e73e697a1a6",
+    "Popularity": 82,
+    "ReleaseDate": "1997-11-22",
+    "Genre": "lilith, pop rock"
+  },
+  {
+    "SongID": 1507,
+    "Album": "Loud (Japan Version)",
+    "Duration": "04:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+    "Popularity": 81,
+    "ReleaseDate": "2010-01-01",
+    "Genre": "barbadian pop, pop, urban contemporary"
   },
   {
     "SongID": 1578,
@@ -621,6 +639,15 @@
     "Genre": "metropopolis, pop, swedish electropop, swedish pop, swedish synthpop"
   },
   {
+    "SongID": 11272,
+    "Album": "The Divine Feminine",
+    "Duration": "08:00",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
+    "Popularity": 68,
+    "ReleaseDate": "2016-09-16",
+    "Genre": "hip hop, pittsburgh rap, rap"
+  },
+  {
     "SongID": 12447,
     "Album": "Short n' Sweet",
     "Duration": "2:55",
@@ -756,6 +783,15 @@
     "Genre": "album rock, classic rock, hard rock, heartland rock, mellow gold, rock, soft rock"
   },
   {
+    "SongID": 43263,
+    "Album": "Black Panther The Album Music From And Inspired By",
+    "Duration": "03:52",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "Popularity": 88,
+    "ReleaseDate": "2018-02-09",
+    "Genre": "conscious hip hop, hip hop, rap, west coast rap"
+  },
+  {
     "SongID": 48142,
     "Album": "Thriller",
     "Duration": "5:58",
@@ -763,6 +799,33 @@
     "Popularity": 76,
     "ReleaseDate": "1982-11-30",
     "Genre": ""
+  },
+  {
+    "SongID": 51512,
+    "Album": "Outside (feat. Ellie Goulding) [Remixes]",
+    "Duration": "04:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730976a735d1d4f75abc4c72cc",
+    "Popularity": 43,
+    "ReleaseDate": "2015-04-12",
+    "Genre": "dance pop, edm, electro house, house, pop, progressive house, uk dance"
+  },
+  {
+    "SongID": 61325,
+    "Album": "Dreamland (Real Life Edition)",
+    "Duration": "02:55",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27360d9f3955a8cc8eb67265a38",
+    "Popularity": 37,
+    "ReleaseDate": "2022-08-05",
+    "Genre": "gauze pop, indietronica, modern rock, pov: indie, shiver pop"
+  },
+  {
+    "SongID": 86364,
+    "Album": "Los Bandoleros",
+    "Duration": "02:53",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273489b94e3fbea1bf891f4053a",
+    "Popularity": 23,
+    "ReleaseDate": "2021-03-26",
+    "Genre": "latin hip hop, puerto rican pop, reggaeton, trap latino, urbano latino"
   },
   {
     "SongID": 108279,
@@ -789,15 +852,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736c20c4638a558132ba95bc39",
     "Popularity": 91,
     "ReleaseDate": "2012-06-15",
-    "Genre": ""
-  },
-  {
-    "SongID": 108947,
-    "Album": "Hollywood's Bleeding",
-    "Duration": "2:37",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
-    "Popularity": 85,
-    "ReleaseDate": "2019-09-06",
     "Genre": ""
   },
   {
@@ -828,6 +882,15 @@
     "Genre": ""
   },
   {
+    "SongID": 114980,
+    "Album": "Fleetwood Mac",
+    "Duration": "03:19  ",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273152f87dab60dcbd929169daa",
+    "Popularity": 43,
+    "ReleaseDate": "1975-07-11",
+    "Genre": "album rock, classic rock, rock, soft rock, yacht rock"
+  },
+  {
     "SongID": 118677,
     "Album": "Un Verano Sin Ti",
     "Duration": "4:03",
@@ -835,6 +898,24 @@
     "Popularity": 95,
     "ReleaseDate": "2022-05-06",
     "Genre": ""
+  },
+  {
+    "SongID": 122866,
+    "Album": "The Blueprint 3",
+    "Duration": "04:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
+    "Popularity": 83,
+    "ReleaseDate": "2009-09-08",
+    "Genre": "east coast hip hop, gangster rap, hip hop, pop rap, rap"
+  },
+  {
+    "SongID": 123842,
+    "Album": "The Truth About Love",
+    "Duration": "04:02",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739d0f0d226987b449808e7b6f",
+    "Popularity": 84,
+    "ReleaseDate": "2012-09-18",
+    "Genre": "dance pop, pop"
   },
   {
     "SongID": 130782,
@@ -871,24 +952,6 @@
     "Popularity": 75,
     "ReleaseDate": "1974",
     "Genre": "classic country pop, country, country dawn"
-  },
-  {
-    "SongID": 314997,
-    "Album": "(When You Gonna) Give It up to Me (feat. Keyshia Cole)",
-    "Duration": "04:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737fb4621c091347123be1d632",
-    "Popularity": 65,
-    "ReleaseDate": "2006-09-30",
-    "Genre": "dance pop, dancehall, pop, pop rap"
-  },
-  {
-    "SongID": 501280,
-    "Album": "Die With A Smile",
-    "Duration": "04:11",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
-    "Popularity": 98,
-    "ReleaseDate": "2024-08-16",
-    "Genre": "art pop, dance pop, pop"
   },
   {
     "SongID": 501300,
@@ -936,20 +999,38 @@
     "Genre": "canadian hip hop, canadian pop, hip hop, pop rap, rap"
   },
   {
-    "SongID": 543574,
-    "Album": "Loud",
-    "Duration": "4:03",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
-    "Popularity": 88,
+    "SongID": 544587,
+    "Album": "My World 2.0",
+    "Duration": "03:34",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
+    "Popularity": 81,
     "ReleaseDate": "2010-01-01",
-    "Genre": ""
+    "Genre": "canadian pop, pop"
+  },
+  {
+    "SongID": 552814,
+    "Album": "13 Reasons Why (Season 2)",
+    "Duration": "03:28",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273acc995be2b5bdc62d622ccd3",
+    "Popularity": 61,
+    "ReleaseDate": "2018-05-18",
+    "Genre": "indie folk, stomp and holler"
+  },
+  {
+    "SongID": 556034,
+    "Album": "Meet The Orphans",
+    "Duration": "03:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
+    "Popularity": 80,
+    "ReleaseDate": "2010-01-01",
+    "Genre": "latin hip hop, puerto rican pop, reggaeton, trap latino, urbano latino"
   },
   {
     "SongID": 600127,
     "Album": "APT.",
     "Duration": "2:49",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27346085aa1855bd888abc51a5a",
-    "Popularity": 88,
+    "Popularity": 87,
     "ReleaseDate": "2024-10-18",
     "Genre": ""
   },
@@ -979,15 +1060,6 @@
     "Popularity": 83,
     "ReleaseDate": "2016-08-05",
     "Genre": "dance pop, edm, electronic trap, pop, pop dance"
-  },
-  {
-    "SongID": 605288,
-    "Album": "The Heist",
-    "Duration": "04:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d",
-    "Popularity": 82,
-    "ReleaseDate": "2012-10-09",
-    "Genre": "pop rap, seattle hip hop"
   },
   {
     "SongID": 605467,
@@ -1089,6 +1161,15 @@
     "Genre": "pop"
   },
   {
+    "SongID": 1226469,
+    "Album": "No Broke Boys",
+    "Duration": "02:43",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27369aa159daad3e671c749f4c5",
+    "Popularity": 86,
+    "ReleaseDate": "2025-06-06",
+    "Genre": "stutter house"
+  },
+  {
     "SongID": 1227537,
     "Album": "Riptide",
     "Duration": "03:24",
@@ -1113,15 +1194,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ebea8d4457c4db5b2088f287",
     "Popularity": 90,
     "ReleaseDate": "2023-09-15",
-    "Genre": ""
-  },
-  {
-    "SongID": 1227585,
-    "Album": "Dreamland",
-    "Duration": "03:58",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
-    "Popularity": 91,
-    "ReleaseDate": "2020-08-07",
     "Genre": ""
   },
   {
@@ -1242,13 +1314,13 @@
     "Genre": "dembow"
   },
   {
-    "SongID": 1228413,
-    "Album": "Meet The Orphans",
-    "Duration": "3:18",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734640a26eb27649006be29a94",
-    "Popularity": 87,
-    "ReleaseDate": "2010-01-01",
-    "Genre": "reggaeton, urbano latino"
+    "SongID": 1228578,
+    "Album": "Die With A Smile",
+    "Duration": "04:11",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+    "Popularity": 98,
+    "ReleaseDate": "2024-08-16",
+    "Genre": "art pop, pop"
   },
   {
     "SongID": 1229249,
@@ -1258,15 +1330,6 @@
     "Popularity": 18,
     "ReleaseDate": "2016-09-13",
     "Genre": ""
-  },
-  {
-    "SongID": 1229265,
-    "Album": "Family Matters",
-    "Duration": "07:36",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a0ac23f4b446a7264e67bf0e",
-    "Popularity": 74,
-    "ReleaseDate": "2024-05-03",
-    "Genre": "rap"
   },
   {
     "SongID": 1234921,
@@ -1314,15 +1377,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1239254,
-    "Album": "Unorthodox Jukebox",
-    "Duration": "3:53",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
-    "Popularity": 93,
-    "ReleaseDate": "2012-12-07",
-    "Genre": ""
-  },
-  {
     "SongID": 1239704,
     "Album": "÷ (Deluxe)",
     "Duration": "3:53",
@@ -1359,15 +1413,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1247691,
-    "Album": "The Life of a Showgirl",
-    "Duration": "03:46",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "Popularity": 100,
-    "ReleaseDate": "2025-10-03",
-    "Genre": "pop"
-  },
-  {
     "SongID": 1247692,
     "Album": "The Life of a Showgirl",
     "Duration": "03:55",
@@ -1377,13 +1422,13 @@
     "Genre": "pop"
   },
   {
-    "SongID": 1249039,
+    "SongID": 1248611,
     "Album": "Fancy Some More?",
-    "Duration": "3:04",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
-    "Popularity": 97,
+    "Duration": "03:04",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d2b382c8096f4bdeceedcd0f",
+    "Popularity": 35,
     "ReleaseDate": "2025-10-10",
-    "Genre": ""
+    "Genre": "bedroom pop"
   },
   {
     "SongID": 1249892,
@@ -1395,11 +1440,38 @@
     "Genre": ""
   },
   {
-    "SongID": 1251220,
+    "SongID": 1257681,
+    "Album": "DeBÍ TiRAR MáS FOToS",
+    "Duration": "03:57",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "Popularity": 91,
+    "ReleaseDate": "2025-01-05",
+    "Genre": "reggaeton, trap latino, urbano latino, latin"
+  },
+  {
+    "SongID": 1259841,
+    "Album": "Show Me Love",
+    "Duration": "02:56",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f67307349b14986af73d4fa0",
+    "Popularity": 86,
+    "ReleaseDate": "2025-02-07",
+    "Genre": ""
+  },
+  {
+    "SongID": 1261361,
+    "Album": "The Life of a Showgirl",
+    "Duration": "03:46",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "Popularity": 100,
+    "ReleaseDate": "2025-10-03",
+    "Genre": ""
+  },
+  {
+    "SongID": 1261517,
     "Album": "NO BATIDÃO",
-    "Duration": "01:47",
+    "Duration": "1:29",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737bff89cf90806ae22a6b72df",
-    "Popularity": 73,
+    "Popularity": 86,
     "ReleaseDate": "2025-09-05",
     "Genre": "phonk, brazilian phonk"
   },
@@ -1456,24 +1528,6 @@
     "Popularity": 89,
     "ReleaseDate": "2025-06-11",
     "Genre": ""
-  },
-  {
-    "SongID": 1272648,
-    "Album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-    "Duration": "03:14",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734dcb6c5df15cf74596ab25a4",
-    "Popularity": 99,
-    "ReleaseDate": "2025-06-20",
-    "Genre": "k-pop"
-  },
-  {
-    "SongID": 1272651,
-    "Album": "No Broke Boys",
-    "Duration": "02:43",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735dcede7ece7b2cb72cee4eee",
-    "Popularity": 93,
-    "ReleaseDate": "2025-06-06",
-    "Genre": "stutter house"
   },
   {
     "SongID": 1272654,
@@ -1539,24 +1593,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1272717,
-    "Album": "DeBÍ TiRAR MáS FOToS",
-    "Duration": "3:57",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "Popularity": 100,
-    "ReleaseDate": "2025-01-05",
-    "Genre": ""
-  },
-  {
-    "SongID": 1272719,
-    "Album": "DeBÍ TiRAR MáS FOToS",
-    "Duration": "3:24",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "Popularity": 96,
-    "ReleaseDate": "2025-01-05",
-    "Genre": ""
-  },
-  {
     "SongID": 1272853,
     "Album": "Rein Me In (with Olivia Dean)",
     "Duration": "05:39",
@@ -1600,15 +1636,6 @@
     "Popularity": 83,
     "ReleaseDate": "2025-10-17",
     "Genre": "country"
-  },
-  {
-    "SongID": 1273318,
-    "Album": "Show Me Love",
-    "Duration": "02:56",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f67307349b14986af73d4fa0",
-    "Popularity": 85,
-    "ReleaseDate": "2025-02-07",
-    "Genre": ""
   },
   {
     "SongID": 1273839,
@@ -1656,13 +1683,13 @@
     "Genre": "latin house, afro house, techengue"
   },
   {
-    "SongID": 1284531,
-    "Album": "Zoo (From \"Zootopia 2\")",
-    "Duration": "03:10",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d31c6153f79226015ccbbaf3",
-    "Popularity": 78,
-    "ReleaseDate": "2025-10-10",
-    "Genre": ""
+    "SongID": 1284108,
+    "Album": "Golden (from the Netflix film KPop Demon Hunters)",
+    "Duration": "03:14",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273333392a83a4514ae635ed982",
+    "Popularity": 81,
+    "ReleaseDate": "2025-06-19",
+    "Genre": "k-pop"
   },
   {
     "SongID": 1286697,
@@ -1674,15 +1701,6 @@
     "Genre": "funk, funk rock"
   },
   {
-    "SongID": 1287696,
-    "Album": "Hurry Up Tomorrow",
-    "Duration": "04:16",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
-    "Popularity": 92,
-    "ReleaseDate": "2025-01-31",
-    "Genre": ""
-  },
-  {
     "SongID": 1287702,
     "Album": "The Idol Episode 4 (Music from the HBO Original Series)",
     "Duration": "04:04",
@@ -1690,15 +1708,6 @@
     "Popularity": 92,
     "ReleaseDate": "2023-06-23",
     "Genre": ""
-  },
-  {
-    "SongID": 1287712,
-    "Album": "Black Panther The Album Music From And Inspired By",
-    "Duration": "03:52",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
-    "Popularity": 90,
-    "ReleaseDate": "2018-02-09",
-    "Genre": "hip hop, west coast hip hop"
   },
   {
     "SongID": 1287717,
@@ -1818,11 +1827,20 @@
     "Genre": "country"
   },
   {
-    "SongID": 1292792,
+    "SongID": 1291588,
+    "Album": "McArthur",
+    "Duration": "03:51",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733095a6008ce338cea3d13fff",
+    "Popularity": 76,
+    "ReleaseDate": "2026-01-30",
+    "Genre": "country, country rock"
+  },
+  {
+    "SongID": 1292181,
     "Album": "DINASTÍA",
     "Duration": "03:17",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a9e6a250ea86a8f387873ef9",
-    "Popularity": 89,
+    "Popularity": 0,
     "ReleaseDate": "2025-12-25",
     "Genre": "corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño, sierreño, banda"
   },
@@ -1872,21 +1890,48 @@
     "Genre": ""
   },
   {
+    "SongID": 1295650,
+    "Album": "\"EMHDM\"",
+    "Duration": "03:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273709825b6fdd738afbd11dafd",
+    "Popularity": 0,
+    "ReleaseDate": "2026-02-19",
+    "Genre": "reggaeton, urbano latino"
+  },
+  {
+    "SongID": 1295786,
+    "Album": "Sumaithangi (Original Motion Picture Soundtrack)",
+    "Duration": "02:40",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273972a2ba2e1911eb4e6beb2f3",
+    "Popularity": 26,
+    "ReleaseDate": "1962-12-31",
+    "Genre": "kannada pop, sandalwood, devotional"
+  },
+  {
+    "SongID": 1295882,
+    "Album": "كلكوا خاينين",
+    "Duration": "04:01",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735aff404ba0c877e506ffa4fc",
+    "Popularity": 34,
+    "ReleaseDate": "2026-02-17",
+    "Genre": "egyptian pop, khaleeji, mahraganat"
+  },
+  {
+    "SongID": 1274797791,
+    "Album": "Talk To You",
+    "Duration": "03:11",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27343641ec45d564ece1e34981a",
+    "Popularity": 32,
+    "ReleaseDate": "2026-03-06",
+    "Genre": "house, tech house"
+  },
+  {
     "SongID": 1274798035,
     "Album": "Motion Party",
     "Duration": "1:35",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733e4f3cb23f0815e54d71e7fa",
     "Popularity": 74,
     "ReleaseDate": "2026-03-13",
-    "Genre": ""
-  },
-  {
-    "SongID": 1274799493,
-    "Album": "Cuando No Era Cantante (Remix)",
-    "Duration": "5:27",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27376ca2bb969e79a911090df63",
-    "Popularity": 89,
-    "ReleaseDate": "2025-12-10",
     "Genre": ""
   },
   {
@@ -2025,15 +2070,6 @@
     "Genre": ""
   },
   {
-    "SongID": 1274801086,
-    "Album": "McArthur",
-    "Duration": "3:51",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2733095a6008ce338cea3d13fff",
-    "Popularity": 76,
-    "ReleaseDate": "2026-01-30",
-    "Genre": ""
-  },
-  {
     "SongID": 1274801097,
     "Album": "Kiss All The Time. Disco, Occasionally.",
     "Duration": "3:33",
@@ -2052,30 +2088,12 @@
     "Genre": ""
   },
   {
-    "SongID": 1274801608,
-    "Album": "LOVE?",
-    "Duration": "4:44",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ac888ad505c39f50656eac16",
-    "Popularity": 73,
-    "ReleaseDate": "2011-04-29",
-    "Genre": ""
-  },
-  {
     "SongID": 1274801723,
     "Album": "Turn This Truck Around",
     "Duration": "3:24",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c947fa79efe86ab1107abb28",
     "Popularity": 71,
     "ReleaseDate": "2025-07-25",
-    "Genre": ""
-  },
-  {
-    "SongID": 1274801803,
-    "Album": "My World 2.0",
-    "Duration": "3:34",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
-    "Popularity": 93,
-    "ReleaseDate": "2010-01-01",
     "Genre": ""
   },
   {
@@ -2097,21 +2115,21 @@
     "Genre": ""
   },
   {
+    "SongID": 1274802572,
+    "Album": "The Heist",
+    "Duration": "4:18",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d",
+    "Popularity": 87,
+    "ReleaseDate": "2012-10-09",
+    "Genre": ""
+  },
+  {
     "SongID": 1274802890,
     "Album": "Cloud 9",
     "Duration": "3:55",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27301fe49cd6f9b1e20676f2169",
     "Popularity": 71,
     "ReleaseDate": "2026-02-20",
-    "Genre": ""
-  },
-  {
-    "SongID": 1274803587,
-    "Album": "The Truth About Love",
-    "Duration": "04:02",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27324a1ac503b55e6eef9a7bb8c",
-    "Popularity": 86,
-    "ReleaseDate": "2012-09-18",
     "Genre": ""
   },
   {
@@ -2259,6 +2277,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1274815358,
+    "Album": "Zootopia 2 (Original Motion Picture Soundtrack)",
+    "Duration": "3:10",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a6c1dcda006bbf12825b7f43",
+    "Popularity": 81,
+    "ReleaseDate": "2025-11-21",
+    "Genre": ""
+  },
+  {
     "SongID": 1274816123,
     "Album": "Dandelion",
     "Duration": "3:19",
@@ -2358,6 +2385,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1274818397,
+    "Album": "(When You Gonna) Give It Up to Me",
+    "Duration": "4:03",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27329a11127a1ccc876fe6ded9e",
+    "Popularity": 92,
+    "ReleaseDate": "2006-09-30",
+    "Genre": ""
+  },
+  {
     "SongID": 1274819571,
     "Album": "Made in Jamaica",
     "Duration": "4:38",
@@ -2391,15 +2427,6 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27334ce1667ea9ac802ae0574e2",
     "Popularity": 48,
     "ReleaseDate": "2023-08-16",
-    "Genre": ""
-  },
-  {
-    "SongID": 1274820273,
-    "Album": "The Divine Feminine",
-    "Duration": "8:00",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
-    "Popularity": 79,
-    "ReleaseDate": "2016-09-16",
     "Genre": ""
   },
   {
@@ -3285,6 +3312,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1274848707,
+    "Album": "Bass Persuades",
+    "Duration": "3:22",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27340e583b55bdddcf70516fa6c",
+    "Popularity": 86,
+    "ReleaseDate": "2026-09-03",
+    "Genre": ""
+  },
+  {
     "SongID": 1274848762,
     "Album": "PRIMA",
     "Duration": "3:01",
@@ -3462,6 +3498,15 @@
     "CoverImage": "",
     "Popularity": 79,
     "ReleaseDate": "2025-07-25",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274857681,
+    "Album": "Get To Drinkin'",
+    "Duration": "2:48",
+    "CoverImage": "",
+    "Popularity": 72,
+    "ReleaseDate": "2026-02-06",
     "Genre": ""
   }
 ]
