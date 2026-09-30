@@ -1,212 +1,852 @@
 [
   {
-    "SongID": 1274857211,
+    "SongID": 1274859099,
     "Position": 3,
+    "Title": "Patient Zero",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274845954,
+    "Position": 8,
+    "Title": "BAD",
+    "Artist": "ATEEZ",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857211,
+    "Position": 12,
     "Title": "new trick",
     "Artist": "ROSÉ",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 1274848408,
-    "Position": 12,
-    "Title": "FALLEN ANGEL",
+    "SongID": 1274848314,
+    "Position": 16,
+    "Title": "Less than a Lover",
     "Artist": "JENNIE",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 1274839364,
-    "Position": 17,
+    "Position": 28,
     "Title": "hate that i made you love me",
     "Artist": "Ariana Grande",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 1274855997,
-    "Position": 28,
-    "Title": "最後一個謊",
-    "Artist": "理想混蛋",
+    "SongID": 1274839314,
+    "Position": 31,
+    "Title": "LEMONADE",
+    "Artist": "aespa",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848408,
+    "Position": 34,
+    "Title": "FALLEN ANGEL",
+    "Artist": "JENNIE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1284108,
+    "Position": 36,
+    "Title": "Golden",
+    "Artist": "HUNTRX, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848409,
+    "Position": 37,
+    "Title": "SUN KISS",
+    "Artist": "TUIDE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274852084,
+    "Position": 39,
+    "Title": "在這裡等你",
+    "Artist": "告五人",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 108652,
+    "Position": 40,
+    "Title": "Beauty And A Beat",
+    "Artist": "Justin Bieber, Nicki Minaj",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274859101,
+    "Position": 41,
+    "Title": "Babylon",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1250151,
+    "Position": 46,
+    "Title": "Good Goodbye",
+    "Artist": "HWASA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 600127,
+    "Position": 51,
+    "Title": "APT.",
+    "Artist": "ROSÉ, Bruno Mars",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1261361,
+    "Position": 54,
+    "Title": "The Fate of Ophelia (Alone In My Tower Acoustic Version)",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274829329,
+    "Position": 55,
+    "Title": "It's Me",
+    "Artist": "ILLIT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274855010,
+    "Position": 58,
+    "Title": "Dear my crazy soulmate",
+    "Artist": "IU",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274859102,
+    "Position": 59,
+    "Title": "Pink Clouding",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 537961,
+    "Position": 61,
+    "Title": "愛你但說不出口",
+    "Artist": "Karencici",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274838841,
+    "Position": 62,
+    "Title": "玻璃",
+    "Artist": "Gareth.T",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848405,
+    "Position": 63,
+    "Title": "Pop Off Pop Off",
+    "Artist": "KiiiKiii",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274823364,
+    "Position": 64,
+    "Title": "REDRED",
+    "Artist": "CORTIS",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274859100,
+    "Position": 66,
+    "Title": "Cleveland!",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 600277,
-    "Position": 54,
+    "Position": 67,
     "Title": "Whiplash",
     "Artist": "aespa",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1292764,
+    "Position": 68,
+    "Title": "幸福在歌唱 - 電影《陽光女子合唱團》幸福版主題曲",
+    "Artist": "A-Lin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274836528,
+    "Position": 69,
+    "Title": "Heavy Serenade",
+    "Artist": "NMIXX",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1247692,
+    "Position": 71,
+    "Title": "Opalite",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 1274805823,
-    "Position": 63,
+    "Position": 72,
     "Title": "離開的一路上",
     "Artist": "理想混蛋",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274855997,
+    "Position": 73,
+    "Title": "最後一個謊",
+    "Artist": "理想混蛋",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1231009,
+    "Position": 76,
+    "Title": "若無你我欲去佗位",
+    "Artist": "黃奇斌",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 14985,
+    "Position": 79,
+    "Title": "摯友",
+    "Artist": "A-Lin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274836992,
+    "Position": 80,
+    "Title": "不愛就不愛",
+    "Artist": "艾薇",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1295712,
+    "Position": 83,
+    "Title": "RUDE!",
+    "Artist": "Hearts2Hearts",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 1274828899,
-    "Position": 76,
+    "Position": 88,
     "Title": "CHOOM",
     "Artist": "BABYMONSTER",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 13630,
-    "Position": 83,
-    "Title": "Magnetic",
-    "Artist": "ILLIT",
+    "SongID": 1136830,
+    "Position": 89,
+    "Title": "toxic till the end",
+    "Artist": "ROSÉ",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 5125,
-    "Position": 88,
-    "Title": "群青",
-    "Artist": "YOASOBI",
+    "SongID": 1274845596,
+    "Position": 92,
+    "Title": "stupid song",
+    "Artist": "Olivia Rodrigo",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 1239704,
-    "Position": 108,
-    "Title": "Shape of You",
-    "Artist": "Ed Sheeran",
+    "SongID": 1274848406,
+    "Position": 93,
+    "Title": "BiiiG",
+    "Artist": "BIGBANG",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848776,
+    "Position": 94,
+    "Title": "SaWaDiKa",
+    "Artist": "LISA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 223399,
+    "Position": 99,
+    "Title": "有一種悲傷 - 電影《比悲傷更悲傷的故事》主題曲",
+    "Artist": "A-Lin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274800369,
+    "Position": 100,
+    "Title": "Training Season",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272902,
+    "Position": 103,
+    "Title": "JUMP",
+    "Artist": "BLACKPINK",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1228578,
+    "Position": 104,
+    "Title": "Die With A Smile",
+    "Artist": "Lady Gaga",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 10344,
-    "Position": 117,
+    "Position": 106,
     "Title": "想和你看五月的晚霞",
     "Artist": "陳華",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 1291570,
-    "Position": 123,
-    "Title": "BANG BANG",
-    "Artist": "IVE",
+    "SongID": 238504,
+    "Position": 107,
+    "Title": "好不容易 (《華燈初上》片尾曲)",
+    "Artist": "告五人",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 13630,
+    "Position": 108,
+    "Title": "Magnetic",
+    "Artist": "ILLIT",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 12004,
+    "Position": 110,
+    "Title": "愛人錯過",
+    "Artist": "告五人",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1239704,
+    "Position": 115,
+    "Title": "Shape of You",
+    "Artist": "Ed Sheeran",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 544587,
+    "Position": 117,
+    "Title": "Baby",
+    "Artist": "Justin Bieber",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1228588,
+    "Position": 118,
+    "Title": "DRIP",
+    "Artist": "BABYMONSTER",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1228582,
+    "Position": 126,
+    "Title": "like JENNIE",
+    "Artist": "JENNIE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848762,
+    "Position": 127,
+    "Title": "Nicole Kidman",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1164263,
+    "Position": 140,
+    "Title": "顏色",
+    "Artist": "Gareth.T",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 5125,
+    "Position": 141,
+    "Title": "群青",
+    "Artist": "YOASOBI",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 14984,
+    "Position": 142,
+    "Title": "Without You",
+    "Artist": "高爾宣 OSN",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1228520,
+    "Position": 144,
+    "Title": "夜に駆ける",
+    "Artist": "YOASOBI",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274845893,
+    "Position": 145,
+    "Title": "Lemon Tang",
+    "Artist": "Hearts2Hearts",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849196,
+    "Position": 146,
+    "Title": "CLICK",
+    "Artist": "JISOO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 224996,
+    "Position": 147,
+    "Title": "How Sweet (Instrumental)",
+    "Artist": "NewJeans",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 106,
-    "Position": 132,
+    "Position": 148,
     "Title": "Perfect",
     "Artist": "Ed Sheeran",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 5580,
-    "Position": 135,
-    "Title": "Next Level",
-    "Artist": "aespa",
-    "PlatformCode": "apple_music",
-    "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
-  },
-  {
-    "SongID": 618625,
-    "Position": 146,
-    "Title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-    "Artist": "G-DRAGON",
-    "PlatformCode": "apple_music",
-    "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
-  },
-  {
-    "SongID": 9823,
+    "SongID": 113466,
     "Position": 149,
-    "Title": "BANG BANG BANG",
-    "Artist": "BIGBANG",
+    "Title": "Love Yourself",
+    "Artist": "Justin Bieber",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
-  },
-  {
-    "SongID": 1274848158,
-    "Position": 156,
-    "Title": "This & That",
-    "Artist": "Stray Kids",
-    "PlatformCode": "apple_music",
-    "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 69766,
-    "Position": 157,
+    "Position": 150,
     "Title": "披星戴月的想你",
     "Artist": "告五人",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 1274848107,
-    "Position": 161,
-    "Title": "petal",
-    "Artist": "Ariana Grande",
+    "SongID": 1274814796,
+    "Position": 153,
+    "Title": "Peaches (feat. Daniel Caesar & Giveon)",
+    "Artist": "Justin Bieber, Daniel Caesar, GIVĒON",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 2114,
-    "Position": 191,
-    "Title": "After LIKE",
+    "SongID": 113457,
+    "Position": 154,
+    "Title": "What Do You Mean?",
+    "Artist": "Justin Bieber",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274845597,
+    "Position": 156,
+    "Title": "ICONIC BY MISTAKE",
+    "Artist": "LE SSERAFIM, ILLIT, KATSEYE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 5580,
+    "Position": 157,
+    "Title": "Next Level",
+    "Artist": "aespa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 131267,
+    "Position": 158,
+    "Title": "Cruel Summer",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848418,
+    "Position": 160,
+    "Title": "Love Options",
+    "Artist": "BESTie",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1291570,
+    "Position": 162,
+    "Title": "BANG BANG",
     "Artist": "IVE",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1224,
+    "Position": 163,
+    "Title": "thank u, next",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274801299,
+    "Position": 168,
+    "Title": "Queencard",
+    "Artist": "i-dle",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1295786,
+    "Position": 172,
+    "Title": "Majako Mallika (Tamil)",
+    "Artist": "Arun Kaundinya",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274799090,
+    "Position": 173,
+    "Title": "Stuck with U (with Justin Bieber)",
+    "Artist": "Ariana Grande, Justin Bieber",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848082,
+    "Position": 174,
+    "Title": "Bloody Paradise",
+    "Artist": "ENHYPEN",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1277887,
+    "Position": 176,
+    "Title": "Last Dance",
+    "Artist": "伍佰 & China Blue",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 9823,
+    "Position": 177,
+    "Title": "BANG BANG BANG",
+    "Artist": "BIGBANG",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272654,
+    "Position": 178,
+    "Title": "DAISIES",
+    "Artist": "Justin Bieber",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274846152,
+    "Position": 179,
+    "Title": "一個人",
+    "Artist": "A-Lin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 618625,
+    "Position": 181,
+    "Title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+    "Artist": "G-DRAGON",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272696,
+    "Position": 183,
+    "Title": "SPAGHETTI",
+    "Artist": "LE SSERAFIM, j-hope",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1287434,
+    "Position": 184,
+    "Title": "寂寞不痛",
+    "Artist": "A-Lin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274260,
+    "Position": 188,
+    "Title": "THIS IS FOR",
+    "Artist": "TWICE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 1274799087,
-    "Position": 194,
+    "Position": 191,
     "Title": "7 rings",
     "Artist": "Ariana Grande",
     "PlatformCode": "apple_music",
     "CountryCode": "tw",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274285,
+    "Position": 193,
+    "Title": "Blue Valentine",
+    "Artist": "NMIXX",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1250308,
+    "Position": 196,
+    "Title": "左轉燈 (1000 Times+1)",
+    "Artist": "Patrick Brasca",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274843798,
+    "Position": 199,
+    "Title": "SUGAR HONEY ICE TEA",
+    "Artist": "BABYMONSTER",
+    "PlatformCode": "apple_music",
+    "CountryCode": "tw",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   }
 ]

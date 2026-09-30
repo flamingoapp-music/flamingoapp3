@@ -1,42 +1,1802 @@
 [
   {
-    "SongID": 1274857291,
+    "SongID": 1274859099,
+    "Position": 1,
+    "Title": "Patient Zero",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858075,
+    "Position": 2,
+    "Title": "Danceteria Afterhours",
+    "Artist": "Madonna, Charli xcx",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858445,
+    "Position": 3,
+    "Title": "Silencio",
+    "Artist": "U2",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858449,
+    "Position": 4,
+    "Title": "Grandma Song",
+    "Artist": "Rex Orange County",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858450,
+    "Position": 5,
+    "Title": "Me Despido - Remix",
+    "Artist": "Luis Fonsi, Dalvin La Melodia",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849077,
+    "Position": 6,
+    "Title": "Osprech",
+    "Artist": "will1am lucien",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1261361,
+    "Position": 7,
+    "Title": "The Fate of Ophelia (Alone In My Tower Acoustic Version)",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274839364,
+    "Position": 8,
+    "Title": "hate that i made you love me",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850312,
+    "Position": 9,
+    "Title": "If It Aint Got That",
+    "Artist": "violet caedmon",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858451,
+    "Position": 10,
+    "Title": "Roses",
+    "Artist": "CHVRCHES",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858452,
+    "Position": 11,
+    "Title": "What More Could You Want",
+    "Artist": "Kaitlin Butts",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858453,
+    "Position": 12,
+    "Title": "Robbery 10",
+    "Artist": "Tee Grizzley",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850315,
+    "Position": 13,
+    "Title": "Thunder",
+    "Artist": "Pichaela",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274840400,
+    "Position": 14,
+    "Title": "For Yours",
+    "Artist": "PENELOPE DARTY",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849078,
+    "Position": 15,
+    "Title": "No Promise",
+    "Artist": "ateliss",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36771,
+    "Position": 16,
+    "Title": "Litlar stjörnur",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36780,
+    "Position": 17,
+    "Title": "Ljós",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 569749,
+    "Position": 18,
+    "Title": "Dvel ég í draumahöll (Dýrin í Hálsaskógi)",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36776,
+    "Position": 19,
+    "Title": "Óskasteinar",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36775,
+    "Position": 20,
+    "Title": "Sofðu unga ástin mín",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274801057,
+    "Position": 21,
+    "Title": "Lokaðu augum",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36785,
+    "Position": 22,
+    "Title": "Góða nótt",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274801056,
+    "Position": 23,
+    "Title": "Litla skott",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36786,
+    "Position": 24,
+    "Title": "Frost er úti fuglinn minn",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848762,
+    "Position": 25,
+    "Title": "Nicole Kidman",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36781,
+    "Position": 26,
+    "Title": "Bíum bíum bambaló",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36777,
+    "Position": 27,
+    "Title": "Sofa urtubörn",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274801054,
+    "Position": 28,
+    "Title": "Brátt mun birtan dofna",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274801058,
+    "Position": 29,
+    "Title": "Sólarlag",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36782,
+    "Position": 30,
+    "Title": "Ævintýralönd",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 49573,
+    "Position": 31,
+    "Title": "Sólskin",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850339,
+    "Position": 32,
+    "Title": "Remember",
+    "Artist": "Marbosse",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850314,
+    "Position": 33,
+    "Title": "sad l.a.",
+    "Artist": "Kai Ritius",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36788,
+    "Position": 34,
+    "Title": "Sofðu",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 49574,
+    "Position": 35,
+    "Title": "Nóttin læðist inn",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850310,
+    "Position": 36,
+    "Title": "Chaos Theory",
+    "Artist": "Layla Vespera",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 49575,
+    "Position": 37,
+    "Title": "Þú ert",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 36787,
+    "Position": 38,
+    "Title": "Bí bí og blaka",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274801055,
+    "Position": 39,
+    "Title": "Kúrðu hjá mér",
+    "Artist": "Hafdís Huld",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850316,
+    "Position": 40,
+    "Title": "Juicyy",
+    "Artist": "zayn kira",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274859100,
+    "Position": 41,
+    "Title": "Cleveland!",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274845596,
+    "Position": 42,
+    "Title": "stupid song",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850324,
+    "Position": 43,
+    "Title": "Whithyle",
+    "Artist": "Noa Colli",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274855508,
+    "Position": 44,
+    "Title": "Brother",
+    "Artist": "mauricio joshackson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850337,
+    "Position": 45,
+    "Title": "Stop!",
+    "Artist": "maren darksputili",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848163,
+    "Position": 46,
+    "Title": "Dead Fresh",
+    "Artist": "Lil Baby",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848107,
+    "Position": 47,
+    "Title": "petal",
+    "Artist": "Ariana Grande",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850321,
+    "Position": 48,
+    "Title": "Qeis",
+    "Artist": "Zachary Punoi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858454,
+    "Position": 49,
+    "Title": "Make Me Love You",
+    "Artist": "Nickelback",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274855504,
+    "Position": 50,
+    "Title": "lost with u",
+    "Artist": "Junior Brighe",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1243660,
+    "Position": 51,
+    "Title": "Loser",
+    "Artist": "Tame Impala",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273311,
+    "Position": 52,
+    "Title": "Choosin' Texas",
+    "Artist": "Ella Langley",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274835960,
+    "Position": 53,
+    "Title": "Janice STFU",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848083,
+    "Position": 54,
+    "Title": "BbY WOW",
+    "Artist": "KAROL G, Judeline, rusowsky",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850311,
+    "Position": 55,
+    "Title": "Dont You",
+    "Artist": "Kamari Larion",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850329,
+    "Position": 56,
+    "Title": "Again",
+    "Artist": "Binden",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1247695,
+    "Position": 57,
+    "Title": "Father Figure",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858455,
+    "Position": 58,
+    "Title": "Alma Mia",
+    "Artist": "Hermanos Gutiérrez",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272870,
+    "Position": 59,
+    "Title": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+    "Artist": "Taylor Swift, Sabrina Carpenter",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1247693,
+    "Position": 60,
+    "Title": "Elizabeth Taylor",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274851536,
+    "Position": 61,
+    "Title": "Ikigai",
+    "Artist": "REMI IMIN",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848093,
+    "Position": 62,
+    "Title": "Ain't In LA",
+    "Artist": "ADÉLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274859102,
+    "Position": 63,
+    "Title": "Pink Clouding",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850322,
+    "Position": 64,
+    "Title": "Bastissar",
+    "Artist": "Musa Opimin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850333,
+    "Position": 65,
+    "Title": "My Baby Girl",
+    "Artist": "Trenton Konte",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850340,
+    "Position": 66,
+    "Title": "Kilu",
+    "Artist": "Savannah Sorin",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 11272,
+    "Position": 67,
+    "Title": "Cinderella",
+    "Artist": "Mac Miller",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274851532,
+    "Position": 68,
+    "Title": "Piano",
+    "Artist": "Karmazy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858456,
+    "Position": 69,
+    "Title": "Ruin A Good Thing",
+    "Artist": "Warren Zeiders",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274800369,
     "Position": 70,
+    "Title": "Training Season",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 106,
+    "Position": 71,
+    "Title": "Perfect",
+    "Artist": "Ed Sheeran",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858457,
+    "Position": 72,
+    "Title": "Watch You Dance",
+    "Artist": "Leon Bridges",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850323,
+    "Position": 73,
+    "Title": "Love Is Chaos",
+    "Artist": "Maanay",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858458,
+    "Position": 74,
+    "Title": "Shattered Design",
+    "Artist": "Serrated Prayer",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850319,
+    "Position": 75,
+    "Title": "Sound Of The Wind",
+    "Artist": "Karmazy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858459,
+    "Position": 76,
+    "Title": "The Last Time",
+    "Artist": "Salecrust",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 13521,
+    "Position": 77,
+    "Title": "Good Luck, Babe!",
+    "Artist": "Chappell Roan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858460,
+    "Position": 78,
+    "Title": "Dead Wrong",
+    "Artist": "Sandra Ras",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848161,
+    "Position": 79,
+    "Title": "Been By Now",
+    "Artist": "Morgan Wallen",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274826508,
+    "Position": 80,
+    "Title": "BAD TIMES",
+    "Artist": "Imael Angel",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858461,
+    "Position": 81,
+    "Title": "Digital",
+    "Artist": "Leakpain",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858462,
+    "Position": 82,
+    "Title": "A Little More Like Love",
+    "Artist": "Poppy Bynes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274826814,
+    "Position": 83,
+    "Title": "Dream 1 (before the wind blows it all away) - Pt. 1",
+    "Artist": "Max Richter",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848079,
+    "Position": 84,
+    "Title": "Great Expectation",
+    "Artist": "SIENNA SPIRO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274829052,
+    "Position": 85,
+    "Title": "Empty Words",
+    "Artist": "Corey Kent",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272666,
+    "Position": 86,
+    "Title": "Man I Need",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848075,
+    "Position": 87,
+    "Title": "oh yeah?",
+    "Artist": "Steve Lacy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850325,
+    "Position": 90,
+    "Title": "7ven day",
+    "Artist": "Bethany Valeen",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272853,
+    "Position": 91,
+    "Title": "Rein Me In",
+    "Artist": "Sam Fender, Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858465,
+    "Position": 95,
+    "Title": "Rain",
+    "Artist": "Kokocool",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857287,
+    "Position": 96,
+    "Title": "Behavior",
+    "Artist": "Crywom",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850317,
+    "Position": 99,
+    "Title": "What You Wanted",
+    "Artist": "JAMIE HALSTON",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858467,
+    "Position": 100,
+    "Title": "Rest",
+    "Artist": "Salecrust",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1388,
+    "Position": 104,
+    "Title": "Fade Into You",
+    "Artist": "Mazzy Star",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858468,
+    "Position": 106,
+    "Title": "Granada",
+    "Artist": "José Carreras",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272382,
+    "Position": 107,
+    "Title": "A Couple Minutes",
+    "Artist": "Olivia Dean",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274840323,
+    "Position": 109,
+    "Title": "the cure",
+    "Artist": "Olivia Rodrigo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 544,
+    "Position": 110,
+    "Title": "Way Down We Go",
+    "Artist": "KALEO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858469,
+    "Position": 111,
+    "Title": "Temporary",
+    "Artist": "Kokocool",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 130782,
+    "Position": 113,
+    "Title": "Smells Like Teen Spirit",
+    "Artist": "Nirvana",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858470,
+    "Position": 114,
+    "Title": "moth-like stars - Pt. 3",
+    "Artist": "Max Richter, Ben Russell, Yuki Numata, Caleb Burhans, Clarice Jensen, Brian Snow",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858471,
+    "Position": 117,
+    "Title": "Torna a Surriento",
+    "Artist": "Luciano Pavarotti, Meat Loaf, Orchestra filarmonica di Torino, Marco Armiliato",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274851534,
+    "Position": 119,
+    "Title": "Your Silence is War",
+    "Artist": "Serrated Prayer",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274859101,
+    "Position": 120,
+    "Title": "Babylon",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857291,
+    "Position": 121,
     "Title": "We Let It Go",
     "Artist": "Sabocca",
     "PlatformCode": "apple_music",
     "CountryCode": "is",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 226953,
+    "SongID": 1274848707,
+    "Position": 122,
+    "Title": "Bass Persuades",
+    "Artist": "Miley Cyrus",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858472,
+    "Position": 123,
+    "Title": "More Understanding Than A Man",
+    "Artist": "Flore Benguigui & The Sensible Notes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858473,
+    "Position": 124,
+    "Title": "Shattered Fate",
+    "Artist": "Anjela Du",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858474,
+    "Position": 125,
+    "Title": "Satin confession",
+    "Artist": "CAAELA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272678,
+    "Position": 126,
+    "Title": "WHERE IS MY HUSBAND!",
+    "Artist": "RAYE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858475,
+    "Position": 128,
+    "Title": "Mountains",
+    "Artist": "Rutine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858476,
+    "Position": 129,
+    "Title": "End of the Day",
+    "Artist": "Lucirest",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272899,
+    "Position": 130,
+    "Title": "Midnight Sun",
+    "Artist": "Zara Larsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858477,
+    "Position": 131,
+    "Title": "Apes",
+    "Artist": "Pinkkido",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858478,
+    "Position": 133,
+    "Title": "Amor De Antes",
+    "Artist": "Grupo Firme, Herencia De Grandes",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858479,
+    "Position": 134,
+    "Title": "Singularity Drift",
+    "Artist": "Input Error",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858480,
+    "Position": 135,
+    "Title": "Broken Line",
+    "Artist": "natanyel",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274855518,
+    "Position": 136,
+    "Title": "Edge",
+    "Artist": "SAMELIA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 64,
+    "Position": 137,
+    "Title": "Sweater Weather",
+    "Artist": "The Neighbourhood",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858481,
+    "Position": 138,
+    "Title": "Thanks",
+    "Artist": "Salecrust",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274855507,
+    "Position": 139,
+    "Title": "Collision",
+    "Artist": "Marina Collins",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274800815,
+    "Position": 140,
+    "Title": "Frelsi",
+    "Artist": "Freysteinn G. Jónsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274826403,
+    "Position": 141,
+    "Title": "Þetta og þetta",
+    "Artist": "Freysteinn G. Jónsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1292032,
+    "Position": 142,
+    "Title": "Himinhvolf",
+    "Artist": "Freysteinn G. Jónsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274826401,
+    "Position": 143,
+    "Title": "Vögguvísan",
+    "Artist": "Freysteinn G. Jónsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274826399,
+    "Position": 144,
+    "Title": "Sik Sak",
+    "Artist": "Freysteinn G. Jónsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274826397,
+    "Position": 145,
+    "Title": "Ekið um",
+    "Artist": "Freysteinn G. Jónsson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274855503,
+    "Position": 146,
+    "Title": "Breeze",
+    "Artist": "Santie Motren",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274843745,
+    "Position": 147,
+    "Title": "bloodstream",
+    "Artist": "Alyssa Grace",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 15704,
+    "Position": 148,
+    "Title": "This Is Halloween",
+    "Artist": "The Citizens of Halloween",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858482,
+    "Position": 149,
+    "Title": "Phase Two",
+    "Artist": "RENDEIN",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 123054,
+    "Position": 150,
+    "Title": "Wonderwall - Remastered",
+    "Artist": "Oasis",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 155453,
+    "Position": 151,
+    "Title": "Vor í Vaglaskógi",
+    "Artist": "KALEO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857851,
+    "Position": 152,
+    "Title": "Við tvö",
+    "Artist": "Alaska1867",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858483,
+    "Position": 153,
+    "Title": "Funny",
+    "Artist": "Ingrid Michaelson",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1247692,
+    "Position": 154,
+    "Title": "Opalite",
+    "Artist": "Taylor Swift",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274838900,
+    "Position": 155,
+    "Title": "Movin' To The Sun",
+    "Artist": "HUGEL, Imael Angel, Ultra Naté",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1248611,
+    "Position": 156,
+    "Title": "Stateside + Zara Larsson",
+    "Artist": "PinkPantheress",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 153550,
     "Position": 157,
-    "Title": "Reyndu aftur",
-    "Artist": "Mannakorn",
+    "Title": "All The Pretty Girls",
+    "Artist": "KALEO",
     "PlatformCode": "apple_music",
     "CountryCode": "is",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 1274851535,
+    "SongID": 1274858484,
+    "Position": 158,
+    "Title": "Swimmig",
+    "Artist": "Salecrust",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 156349,
+    "Position": 159,
+    "Title": "Save Yourself",
+    "Artist": "KALEO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858485,
+    "Position": 160,
+    "Title": "End of Night",
+    "Artist": "O.B.V",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858486,
+    "Position": 161,
+    "Title": "Giant Leap",
+    "Artist": "Rutine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1037575,
+    "Position": 163,
+    "Title": "party 4 u",
+    "Artist": "Charli xcx",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858487,
+    "Position": 164,
+    "Title": "Let Me Go",
+    "Artist": "PERULLA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 139865,
+    "Position": 165,
+    "Title": "Feel",
+    "Artist": "Robbie Williams",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857850,
+    "Position": 166,
+    "Title": "Fyrirmynd",
+    "Artist": "Alaska1867",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 155885,
+    "Position": 167,
+    "Title": "No Good",
+    "Artist": "KALEO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 157201,
+    "Position": 168,
+    "Title": "Broken Bones",
+    "Artist": "KALEO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 547029,
+    "Position": 169,
+    "Title": "Someone You Loved (Arr. for Guitar)",
+    "Artist": "Lewis Capaldi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858488,
+    "Position": 170,
+    "Title": "Secrets I Have",
+    "Artist": "Sandra Ras",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 200,
+    "Position": 171,
+    "Title": "Flashing Lights",
+    "Artist": "Kanye West, Dwele",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858489,
+    "Position": 172,
+    "Title": "Inside",
+    "Artist": "Kokocool",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858490,
+    "Position": 173,
+    "Title": "Better Than Ever",
+    "Artist": "Desync Theory",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 155736,
+    "Position": 174,
+    "Title": "I Want More",
+    "Artist": "KALEO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274826976,
+    "Position": 175,
+    "Title": "Orbiter",
+    "Artist": "Noah Kahan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858491,
+    "Position": 176,
+    "Title": "Heavy",
+    "Artist": "Sandra Ras",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858492,
+    "Position": 177,
+    "Title": "Breeze",
+    "Artist": "Glitchino",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858493,
     "Position": 178,
-    "Title": "I Thought I Knew",
-    "Artist": "Sabocca",
+    "Title": "1+1+1",
+    "Artist": "Boys Noize, ZEP",
     "PlatformCode": "apple_music",
     "CountryCode": "is",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 276,
+    "SongID": 1125,
     "Position": 179,
-    "Title": "Mr. Brightside",
-    "Artist": "The Killers",
+    "Title": "Lose Yourself",
+    "Artist": "Eminem",
     "PlatformCode": "apple_music",
     "CountryCode": "is",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858494,
+    "Position": 180,
+    "Title": "Oath Reclaimed",
+    "Artist": "Vaultfeeder",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1262905,
+    "Position": 182,
+    "Title": "Inner Child Anthem",
+    "Artist": "Gehlektek",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858495,
+    "Position": 183,
+    "Title": "How It Feels",
+    "Artist": "Friction Bloom",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858496,
+    "Position": 184,
+    "Title": "Don’t Say Much",
+    "Artist": "Romena",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848776,
+    "Position": 185,
+    "Title": "SaWaDiKa",
+    "Artist": "LISA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 2479,
+    "Position": 186,
+    "Title": "Break My Heart",
+    "Artist": "Dua Lipa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858497,
+    "Position": 187,
+    "Title": "Whispering Pines",
+    "Artist": "KONO NOSSO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 600128,
+    "Position": 188,
+    "Title": "That’s So True",
+    "Artist": "Gracie Abrams",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 156483,
+    "Position": 189,
+    "Title": "Backbone",
+    "Artist": "KALEO",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858498,
+    "Position": 190,
+    "Title": "Last",
+    "Artist": "CAAELA",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858499,
+    "Position": 191,
+    "Title": "Nothing More",
+    "Artist": "Benjamin Howman",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858500,
+    "Position": 192,
+    "Title": "Slow Arms",
+    "Artist": "Tuneradio",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858120,
+    "Position": 193,
+    "Title": "Sunglasses",
+    "Artist": "Tinashe",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274817056,
+    "Position": 194,
+    "Title": "Reflektio - Rain",
+    "Artist": "STRATUS WAVES",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858501,
+    "Position": 195,
+    "Title": "Wasted Time",
+    "Artist": "April Sanders",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858502,
+    "Position": 196,
+    "Title": "Coming Back",
+    "Artist": "Natasha Slimak",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1246478,
+    "Position": 197,
+    "Title": "TIT FOR TAT",
+    "Artist": "Tate McRae",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858503,
+    "Position": 198,
+    "Title": "I Was Told",
+    "Artist": "Sandra Ras",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858504,
+    "Position": 199,
+    "Title": "Troublemaker",
+    "Artist": "Jason Mak",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274858505,
+    "Position": 200,
+    "Title": "Full Glass",
+    "Artist": "Leakpain",
+    "PlatformCode": "apple_music",
+    "CountryCode": "is",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   }
 ]

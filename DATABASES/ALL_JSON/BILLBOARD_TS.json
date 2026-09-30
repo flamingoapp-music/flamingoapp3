@@ -90,6 +90,15 @@
     "Genre": "new romantic, new wave, new wave pop, permanent wave, rock, sophisti-pop, synthpop"
   },
   {
+    "SongID": 142,
+    "Album": "The Eminem Show",
+    "Duration": "4:50",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+    "Popularity": 90,
+    "ReleaseDate": "2002-05-26",
+    "Genre": ""
+  },
+  {
     "SongID": 151,
     "Album": "AM",
     "Duration": "4:32",
@@ -141,6 +150,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
     "Popularity": 90,
     "ReleaseDate": "1987-07-21",
+    "Genre": ""
+  },
+  {
+    "SongID": 208,
+    "Album": "Parachutes",
+    "Duration": "3:47",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+    "Popularity": 92,
+    "ReleaseDate": "2000-07-10",
     "Genre": ""
   },
   {
@@ -954,6 +972,15 @@
     "Genre": "classic country pop, country, country dawn"
   },
   {
+    "SongID": 267317,
+    "Album": "Nevermind (Remastered)",
+    "Duration": "3:38",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+    "Popularity": 83,
+    "ReleaseDate": "1991-09-26",
+    "Genre": ""
+  },
+  {
     "SongID": 501300,
     "Album": "I Had Some Help",
     "Duration": "02:58",
@@ -979,6 +1006,15 @@
     "Popularity": 67,
     "ReleaseDate": "2024-08-09",
     "Genre": ""
+  },
+  {
+    "SongID": 530126,
+    "Album": "September (sped up + slowed)",
+    "Duration": "03:36",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730faf2fc17446651865ce2282",
+    "Popularity": 85,
+    "ReleaseDate": "1978-11-18",
+    "Genre": "disco, funk, jazz funk, motown, soul"
   },
   {
     "SongID": 539658,
@@ -2317,7 +2353,7 @@
     "Album": "Free Your Mind",
     "Duration": "3:21",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27338974737cba5770d9dba1cd6",
-    "Popularity": 73,
+    "Popularity": 83,
     "ReleaseDate": "2026-03-27",
     "Genre": ""
   },
@@ -2400,6 +2436,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273f0b351ae63719a5704699ef3",
     "Popularity": 41,
     "ReleaseDate": "2010-01-01",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274819699,
+    "Album": "Say So",
+    "Duration": "3:21",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d24e917c63917f2bc9f9a4cc",
+    "Popularity": 64,
+    "ReleaseDate": "2026-04-03",
     "Genre": ""
   },
   {
@@ -3249,6 +3294,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1274848164,
+    "Album": "onsra",
+    "Duration": "2:11",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c8212499461d2a1d1b034fa6",
+    "Popularity": 76,
+    "ReleaseDate": "2026-05-29",
+    "Genre": ""
+  },
+  {
     "SongID": 1274848171,
     "Album": "MATADORA",
     "Duration": "2:24",
@@ -3420,6 +3474,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1274849950,
+    "Album": "The Real Me",
+    "Duration": "2:29",
+    "CoverImage": "",
+    "Popularity": 79,
+    "ReleaseDate": "2026-08-06",
+    "Genre": ""
+  },
+  {
     "SongID": 1274849976,
     "Album": "MORNING DEW (DONK)",
     "Duration": "4:03",
@@ -3501,12 +3564,84 @@
     "Genre": ""
   },
   {
+    "SongID": 1274855130,
+    "Album": "Westside Whimsy",
+    "Duration": "3:21",
+    "CoverImage": "",
+    "Popularity": 72,
+    "ReleaseDate": "2026-09-11",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274855132,
+    "Album": "Westside Whimsy",
+    "Duration": "2:03",
+    "CoverImage": "",
+    "Popularity": 73,
+    "ReleaseDate": "2026-09-11",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274855133,
+    "Album": "Westside Whimsy",
+    "Duration": "3:27",
+    "CoverImage": "",
+    "Popularity": 72,
+    "ReleaseDate": "2026-09-11",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274855135,
+    "Album": "Westside Whimsy",
+    "Duration": "3:15",
+    "CoverImage": "",
+    "Popularity": 71,
+    "ReleaseDate": "2026-09-11",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274855136,
+    "Album": "Westside Whimsy",
+    "Duration": "1:06",
+    "CoverImage": "",
+    "Popularity": 71,
+    "ReleaseDate": "2026-09-11",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274855137,
+    "Album": "Westside Whimsy",
+    "Duration": "2:15",
+    "CoverImage": "",
+    "Popularity": 70,
+    "ReleaseDate": "2026-09-11",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274855138,
+    "Album": "Westside Whimsy",
+    "Duration": "1:43",
+    "CoverImage": "",
+    "Popularity": 69,
+    "ReleaseDate": "2026-09-11",
+    "Genre": ""
+  },
+  {
     "SongID": 1274857681,
     "Album": "Get To Drinkin'",
     "Duration": "2:48",
     "CoverImage": "",
     "Popularity": 72,
     "ReleaseDate": "2026-02-06",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274858883,
+    "Album": "WASHED",
+    "Duration": "4:04",
+    "CoverImage": "",
+    "Popularity": 76,
+    "ReleaseDate": "2025-09-19",
     "Genre": ""
   }
 ]

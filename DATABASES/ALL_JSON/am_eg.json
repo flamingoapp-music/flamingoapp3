@@ -1,52 +1,1622 @@
 [
   {
-    "SongID": 1274855311,
+    "SongID": 1274849316,
+    "Position": 1,
+    "Title": "Shoft Kalam",
+    "Artist": "Marwan Pablo, Lege-Cy, HatemBas",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848240,
+    "Position": 4,
+    "Title": "Wala Ash Wala Kan",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848576,
+    "Position": 6,
+    "Title": "Men Gheir Kalam",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857768,
+    "Position": 7,
+    "Title": "Supreme",
+    "Artist": "Afroto, حمو المرشدي, Coolpix",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848448,
+    "Position": 8,
+    "Title": "Garee2a Awy - A COLORS SHOW",
+    "Artist": "TUL8TE, COLORS",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857770,
+    "Position": 9,
+    "Title": "HASESS BIK",
+    "Artist": "Zaid Khaled, Nasser",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1247154,
+    "Position": 12,
+    "Title": "Kelma",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848982,
+    "Position": 13,
+    "Title": "EL BADLA WEL FOSTAN",
+    "Artist": "abulhawa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857769,
+    "Position": 14,
+    "Title": "AMARA",
+    "Artist": "Lege-Cy, POLYYY",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848244,
+    "Position": 15,
+    "Title": "Ana Fadel",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274842582,
+    "Position": 18,
+    "Title": "Nano",
+    "Artist": "TUL8TE, Saint Levant",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848242,
+    "Position": 19,
+    "Title": "يا حبيبنا | ريدبُل مزيكا صالونات",
+    "Artist": "Red Bull Sika, Hakim, Houda",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1288644,
+    "Position": 20,
+    "Title": "Seneen",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849100,
+    "Position": 21,
+    "Title": "Mot Leh",
+    "Artist": "Cairokee, Sary Hany",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849589,
+    "Position": 22,
+    "Title": "Nesena",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1241560,
+    "Position": 23,
+    "Title": "3alam Kadaba",
+    "Artist": "Lege-Cy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848247,
+    "Position": 25,
+    "Title": "Wlad ElHalal",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848251,
+    "Position": 27,
+    "Title": "Wahdy",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848248,
+    "Position": 28,
+    "Title": "Getlak",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849128,
+    "Position": 29,
+    "Title": "Enta Habeeby",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272663,
+    "Position": 30,
+    "Title": "Heseeny",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848259,
+    "Position": 31,
+    "Title": "Ha'ak Alaya",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848243,
+    "Position": 32,
+    "Title": "Lola El Banat",
+    "Artist": "Amr Diab, Orange",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 137255,
+    "Position": 34,
+    "Title": "M3a Nafsi",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848246,
+    "Position": 35,
+    "Title": "Tata Tata",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849584,
+    "Position": 36,
+    "Title": "Estanna,",
+    "Artist": "Tawsen, Fares Sokar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 603724,
+    "Position": 37,
+    "Title": "Tamly Maak",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 137270,
+    "Position": 38,
+    "Title": "Ragea",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273777,
+    "Position": 39,
+    "Title": "Narein",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848245,
+    "Position": 40,
+    "Title": "Merayt El Hob",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274845790,
     "Position": 42,
+    "Title": "لو تعرف",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849599,
+    "Position": 43,
+    "Title": "Mategy",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1243353,
+    "Position": 44,
+    "Title": "Teadar Tetkalem",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273768,
+    "Position": 46,
+    "Title": "بحكيلك عن الأيام",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273766,
+    "Position": 47,
+    "Title": "WALA MEEN",
+    "Artist": "ZIAD ZAZA, Ismail Nosrat, Lege-Cy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1235539,
+    "Position": 48,
+    "Title": "LEH",
+    "Artist": "Nasser",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 138455,
+    "Position": 49,
+    "Title": "Awel Kol Haga",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848263,
+    "Position": 52,
+    "Title": "Haneish",
+    "Artist": "TUL8TE, Elyanna",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274855311,
+    "Position": 53,
     "Title": "El Shai Ya Baba",
     "Artist": "Wegz",
     "PlatformCode": "apple_music",
     "CountryCode": "eg",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848808,
+    "Position": 54,
+    "Title": "Garee2a Awy",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849597,
+    "Position": 55,
+    "Title": "Ana Bakbr",
+    "Artist": "Cairokee, Sary Hany",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212425,
+    "Position": 56,
+    "Title": "البخت",
+    "Artist": "Wegz",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 533614,
+    "Position": 59,
+    "Title": "LAYALINA",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136965,
+    "Position": 60,
+    "Title": "Ana Mosh Anani",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1277980,
+    "Position": 61,
+    "Title": "Me Desconoces",
+    "Artist": "Lucky Brown",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273779,
+    "Position": 62,
+    "Title": "Shedeeny",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 608163,
-    "Position": 61,
+    "Position": 63,
     "Title": "Masadaat Etabelna",
     "Artist": "Ramy Sabry",
     "PlatformCode": "apple_music",
     "CountryCode": "eg",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136727,
+    "Position": 65,
+    "Title": "Basrah w Atooh",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 533607,
+    "Position": 67,
+    "Title": "ماتيجي اعدي عليكي",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849587,
+    "Position": 68,
+    "Title": "Msh Fare2ly",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 138536,
+    "Position": 69,
+    "Title": "Maak Alby",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1243660,
+    "Position": 71,
+    "Title": "Loser",
+    "Artist": "Tame Impala",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212453,
+    "Position": 72,
+    "Title": "هيجيلي موجوع",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136798,
+    "Position": 73,
+    "Title": "Hayaty Msh Tamam",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850113,
+    "Position": 74,
+    "Title": "Habeitek",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 603729,
+    "Position": 75,
+    "Title": "Amarain",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 1273730,
-    "Position": 83,
+    "Position": 76,
     "Title": "تروح لمين - من فيلم البحث عن منفذ لخروج السيد رامبو",
     "Artist": "Lege-Cy",
     "PlatformCode": "apple_music",
     "CountryCode": "eg",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
-    "SongID": 1274848762,
-    "Position": 177,
-    "Title": "Nicole Kidman",
-    "Artist": "ADÉLA",
+    "SongID": 212830,
+    "Position": 77,
+    "Title": "مرزمن",
+    "Artist": "Shehab",
     "PlatformCode": "apple_music",
     "CountryCode": "eg",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274798961,
+    "Position": 78,
+    "Title": "Allem Alby",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212966,
+    "Position": 79,
+    "Title": "Seket Leh",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 533606,
+    "Position": 80,
+    "Title": "حبيبي ليه",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136783,
+    "Position": 81,
+    "Title": "Ya Layaly",
+    "Artist": "Sherine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274843542,
+    "Position": 82,
+    "Title": "Fi Eih",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848255,
+    "Position": 83,
+    "Title": "Asef",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 533621,
+    "Position": 84,
+    "Title": "ليه بنخبي و مش بنقول",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136825,
+    "Position": 85,
+    "Title": "Ala Bali",
+    "Artist": "Sherine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136990,
+    "Position": 86,
+    "Title": "Esht Maak Hekayat",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273757,
+    "Position": 91,
+    "Title": "LAW NASYANY",
+    "Artist": "Lege-Cy, Ismail Nosrat",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274846474,
+    "Position": 92,
+    "Title": "انا مالي بيك",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850114,
+    "Position": 93,
+    "Title": "Fel Khetam",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848980,
+    "Position": 94,
+    "Title": "Eta'akhar Etabna",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 533613,
+    "Position": 95,
+    "Title": "بقيت وحيد",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212456,
+    "Position": 97,
+    "Title": "لما بيوحشني",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 600577,
+    "Position": 98,
+    "Title": "El Neyya",
+    "Artist": "Lege-Cy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136939,
+    "Position": 99,
+    "Title": "Roma",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849591,
+    "Position": 100,
+    "Title": "متحصن",
+    "Artist": "حمو الجلاد, الخال El khal",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273778,
+    "Position": 102,
+    "Title": "Habeeby Da",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848249,
+    "Position": 103,
+    "Title": "YALLY BEATOUNA",
+    "Artist": "ZIAD ZAZA, Amjad Jomaa, Ismail Nosrat, Sleiman Damien",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274844076,
+    "Position": 104,
+    "Title": "SEBY NAFSEK KHALES",
+    "Artist": "Lege-Cy, HatemBas",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136802,
+    "Position": 105,
+    "Title": "El Mabda2",
+    "Artist": "Marwan Pablo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1291824,
+    "Position": 106,
+    "Title": "Msh Awl Marra",
+    "Artist": "Lege-Cy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1269776,
+    "Position": 107,
+    "Title": "Emshy",
+    "Artist": "Tommyy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1281318,
+    "Position": 108,
+    "Title": "Sahran Belel",
+    "Artist": "Ahmed Bahaa & Lege-Cy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849130,
+    "Position": 109,
+    "Title": "MASLA7JIYA / مصلحجية",
+    "Artist": "Saint Levant",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848250,
+    "Position": 110,
+    "Title": "Gada3",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273785,
+    "Position": 111,
+    "Title": "El Ayam",
+    "Artist": "Wegz",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1277675,
+    "Position": 113,
+    "Title": "KHOSARA FEEK",
+    "Artist": "Nasser & Bashmohannad",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1284967,
+    "Position": 114,
+    "Title": "KARMA",
+    "Artist": "Marwan Pablo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212429,
+    "Position": 115,
+    "Title": "يمكن خير",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850116,
+    "Position": 116,
+    "Title": "Haseb Haseb",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136765,
+    "Position": 117,
+    "Title": "RACORE",
+    "Artist": "Marwan Pablo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136827,
+    "Position": 118,
+    "Title": "Mabalash",
+    "Artist": "Mohamed Hamaki",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273764,
+    "Position": 119,
+    "Title": "Btmanna Ansak",
+    "Artist": "Sherine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850115,
+    "Position": 120,
+    "Title": "Ana Maak",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274846476,
+    "Position": 121,
+    "Title": "Arrafha Beya",
+    "Artist": "Angham",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1164697,
+    "Position": 122,
+    "Title": "Kalam Ben2olo",
+    "Artist": "Nasser",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1003564,
+    "Position": 123,
+    "Title": "Nasser",
+    "Artist": "Nasser",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849594,
+    "Position": 124,
+    "Title": "El Alwan",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 600575,
+    "Position": 125,
+    "Title": "انا من غيرك",
+    "Artist": "Bahaa Sultan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136761,
+    "Position": 126,
+    "Title": "Tegy Ntrahn",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273798,
+    "Position": 127,
+    "Title": "Sebtely Alby",
+    "Artist": "Angham",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1285925,
+    "Position": 128,
+    "Title": "3ALAM TALET",
+    "Artist": "Nasser",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848981,
+    "Position": 129,
+    "Title": "Gheyabo Fara'",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274804844,
+    "Position": 131,
+    "Title": "Ba3eesh",
+    "Artist": "Tamer Hosny",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 138534,
+    "Position": 132,
+    "Title": "Qusad Einy",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136880,
+    "Position": 133,
+    "Title": "Mel Bedaya",
+    "Artist": "Mohamed Hamaki",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136860,
+    "Position": 134,
+    "Title": "Amaken El Sahar",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212766,
+    "Position": 136,
+    "Title": "El Waat El Daye3",
+    "Artist": "Lege-Cy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 12959,
+    "Position": 137,
+    "Title": "WILDFLOWER",
+    "Artist": "Billie Eilish",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273811,
+    "Position": 138,
+    "Title": "Etghayart",
+    "Artist": "Tommyy, Rally",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273728,
+    "Position": 139,
+    "Title": "Baba",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 137173,
+    "Position": 140,
+    "Title": "Betewhasheiny",
+    "Artist": "Wael Jassar",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273735,
+    "Position": 141,
+    "Title": "Qesm El Shakawy",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273727,
+    "Position": 142,
+    "Title": "Khatfoony",
+    "Artist": "Amr Diab, Orange, Jana Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 26760,
+    "Position": 143,
+    "Title": "Lovesong",
+    "Artist": "Adele",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136732,
+    "Position": 144,
+    "Title": "Ana Negm",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136753,
+    "Position": 145,
+    "Title": "LELLY YAH",
+    "Artist": "Marwan Pablo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1272689,
+    "Position": 146,
+    "Title": "El Hob Gany",
+    "Artist": "TUL8TE",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274805379,
+    "Position": 147,
+    "Title": "الغرام المستحيل",
+    "Artist": "Wael Kfoury",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1269782,
+    "Position": 148,
+    "Title": "Gait Ala Bali",
+    "Artist": "Amer Mounib",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274829829,
+    "Position": 150,
+    "Title": "Mahabetsh",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 972434,
+    "Position": 151,
+    "Title": "Makrehtosh",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1118676,
+    "Position": 152,
+    "Title": "بخاف من مسلسل سيد الناس",
+    "Artist": "Ahmed Saad",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136794,
+    "Position": 153,
+    "Title": "Kan Mawdo3",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274799003,
+    "Position": 154,
+    "Title": "Mesh Habibi Bas",
+    "Artist": "Angham",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136763,
+    "Position": 155,
+    "Title": "Ana Ghaltan",
+    "Artist": "Bahaa Sultan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1230908,
+    "Position": 156,
+    "Title": "Ya Helou",
+    "Artist": "Adam",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212507,
+    "Position": 157,
+    "Title": "عالعموم",
+    "Artist": "Shehab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212436,
+    "Position": 158,
+    "Title": "البوصلة ضاعت",
+    "Artist": "Marwan Moussa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212801,
+    "Position": 159,
+    "Title": "ستاموني",
+    "Artist": "Shehab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850117,
+    "Position": 160,
+    "Title": "Bahawel",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 137031,
+    "Position": 161,
+    "Title": "Makanak Fe Alby",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274826508,
+    "Position": 163,
+    "Title": "BAD TIMES",
+    "Artist": "Imael Angel",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136820,
+    "Position": 165,
+    "Title": "Matafetch",
+    "Artist": "Marwan Pablo",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 533782,
+    "Position": 166,
+    "Title": "Makamlnash",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136934,
+    "Position": 167,
+    "Title": "Zay Manty",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 619477,
+    "Position": 169,
+    "Title": "Maool",
+    "Artist": "Fadel Chaker",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274801877,
+    "Position": 171,
+    "Title": "Nazlet Seman",
+    "Artist": "Karim Osama, El Waili",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 212439,
+    "Position": 172,
+    "Title": "عفاريت الأسفلت",
+    "Artist": "Wegz",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274859099,
+    "Position": 173,
+    "Title": "Patient Zero",
+    "Artist": "Taylor Swi",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136768,
+    "Position": 174,
+    "Title": "James Dean",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136905,
+    "Position": 175,
+    "Title": "Sabry Aalil",
+    "Artist": "Sherine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274816993,
+    "Position": 176,
+    "Title": "2al Sa3aban 3aleh",
+    "Artist": "Sherine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274849592,
+    "Position": 177,
+    "Title": "7AQIBA",
+    "Artist": "Afroto",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136808,
+    "Position": 178,
+    "Title": "Ana Mosammem",
+    "Artist": "Bahaa Sultan",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 533707,
+    "Position": 179,
+    "Title": "تيجي نسيب",
+    "Artist": "Angham",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850121,
+    "Position": 181,
+    "Title": "Shoftni",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1273751,
+    "Position": 182,
+    "Title": "KALEMENY BELEL",
+    "Artist": "Marwan Moussa, Lege-Cy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274848260,
+    "Position": 183,
+    "Title": "Makany El Sah",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   },
   {
     "SongID": 1264653,
-    "Position": 195,
+    "Position": 184,
     "Title": "AGBHA",
     "Artist": "ZIAD ZAZA",
     "PlatformCode": "apple_music",
     "CountryCode": "eg",
-    "ChartDate": "2026-09-23",
-    "WeekFolder": "2026-W39"
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 533638,
+    "Position": 185,
+    "Title": "هو انت مين",
+    "Artist": "Angham",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274857774,
+    "Position": 186,
+    "Title": "Habiby El Awalany",
+    "Artist": "Ramy Sabry",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136773,
+    "Position": 187,
+    "Title": "Nefsy Ahbek",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 137067,
+    "Position": 188,
+    "Title": "Noaata Beida",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274850118,
+    "Position": 189,
+    "Title": "Wenty Ganby",
+    "Artist": "Amr Diab",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 972439,
+    "Position": 190,
+    "Title": "Ghebet El Habayeb",
+    "Artist": "Tamer Ashour",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1291260,
+    "Position": 191,
+    "Title": "Kan 3ala 3eny (Red Bull Mazzika Salonat)",
+    "Artist": "Lege-Cy",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274829647,
+    "Position": 193,
+    "Title": "Haga Mestakhabeya",
+    "Artist": "Mohamed Hamaki",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274835960,
+    "Position": 194,
+    "Title": "Janice STFU",
+    "Artist": "Drake",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 136738,
+    "Position": 197,
+    "Title": "Samurai",
+    "Artist": "Cairokee",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1274840210,
+    "Position": 198,
+    "Title": "Bahareya",
+    "Artist": "Mohamed Hamaki, Sherine",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
+  },
+  {
+    "SongID": 1019911,
+    "Position": 199,
+    "Title": "KALAMANTINA /  كلمنتينا",
+    "Artist": "Saint Levant & Marwan Moussa",
+    "PlatformCode": "apple_music",
+    "CountryCode": "eg",
+    "ChartDate": "2026-09-28",
+    "WeekFolder": "2026-W40"
   }
 ]
