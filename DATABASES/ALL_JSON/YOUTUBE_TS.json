@@ -31,7 +31,7 @@
     "Album": "Illuminate",
     "Duration": "3:07",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b",
-    "Popularity": 88,
+    "Popularity": 94,
     "ReleaseDate": "2017-04-20",
     "Genre": ""
   },
@@ -51,14 +51,14 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739a9b1cc067e4460da04adce2",
     "Popularity": 89,
     "ReleaseDate": "1990-09-24",
-    "Genre": ""
+    "Genre": "rock, hard rock, classic rock, rock and roll"
   },
   {
     "SongID": 435,
     "Album": "Don't Forget About Me, Demos",
     "Duration": "1:37",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-    "Popularity": 100,
+    "Popularity": 95,
     "ReleaseDate": "2018-10-16",
     "Genre": ""
   },
@@ -76,9 +76,9 @@
     "Album": "Pa las Baby's Y Belikeada",
     "Duration": "3:07",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe",
-    "Popularity": 83,
+    "Popularity": 86,
     "ReleaseDate": "2023-10-20",
-    "Genre": ""
+    "Genre": "corrido, corridos tumbados, corridos bélicos, música mexicana, sierreño, banda, sad sierreño, electro corridos"
   },
   {
     "SongID": 558,
@@ -139,7 +139,7 @@
     "Album": "Thriller",
     "Duration": "4:53",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "Popularity": 89,
+    "Popularity": 93,
     "ReleaseDate": "1982-11-30",
     "Genre": ""
   },
@@ -175,7 +175,7 @@
     "Album": "American Teen",
     "Duration": "3:22",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734ac041e0d889d3a2608210d5",
-    "Popularity": 85,
+    "Popularity": 87,
     "ReleaseDate": "2017-04-27",
     "Genre": ""
   },
@@ -209,9 +209,9 @@
   {
     "SongID": 1473,
     "Album": "After Hours",
-    "Duration": "03:35",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6",
-    "Popularity": 86,
+    "Duration": "3:35",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "Popularity": 89,
     "ReleaseDate": "2020-03-20",
     "Genre": ""
   },
@@ -231,14 +231,14 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27325d8b7c6feee0c8d6593d606",
     "Popularity": 73,
     "ReleaseDate": "2001-04-02",
-    "Genre": ""
+    "Genre": "industrial metal, metal, industrial rock, industrial"
   },
   {
     "SongID": 1593,
     "Album": "Lush Life",
-    "Duration": "03:21",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739e1683774b22648f4f178ed3",
-    "Popularity": 2,
+    "Duration": "3:21",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736eaa0691ac9d790b41d21a91",
+    "Popularity": 4,
     "ReleaseDate": "2015-06-09",
     "Genre": ""
   },
@@ -254,10 +254,10 @@
   {
     "SongID": 1811,
     "Album": "Whenever You Need Somebody",
-    "Duration": "03:33",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0",
-    "Popularity": 79,
-    "ReleaseDate": "1987-11-12",
+    "Duration": "3:33",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b27315ebbedaacef61af244262a8",
+    "Popularity": 80,
+    "ReleaseDate": "1987-11-16",
     "Genre": ""
   },
   {
@@ -274,16 +274,16 @@
     "Album": "Forajido EP 1",
     "Duration": "3:05",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273fc4d311ebf8c2ad873b5f83a",
-    "Popularity": 79,
+    "Popularity": 81,
     "ReleaseDate": "2022-05-27",
-    "Genre": ""
+    "Genre": "banda, ranchera, mariachi, norteño, música mexicana, grupera"
   },
   {
     "SongID": 1937,
     "Album": "XSCAPE",
     "Duration": "4:05",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
-    "Popularity": 85,
+    "Popularity": 90,
     "ReleaseDate": "2014-05-09",
     "Genre": ""
   },
@@ -301,9 +301,9 @@
     "Album": "Golden",
     "Duration": "3:54",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a676aa01533e6cf5c40b99b6",
-    "Popularity": 86,
+    "Popularity": 85,
     "ReleaseDate": "2017-07-21",
-    "Genre": ""
+    "Genre": "bachata, latin"
   },
   {
     "SongID": 2525,
@@ -313,6 +313,15 @@
     "Popularity": 67,
     "ReleaseDate": "2023-09-29",
     "Genre": "turkish pop"
+  },
+  {
+    "SongID": 3059,
+    "Album": "Moosetape",
+    "Duration": "04:30",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731d1cc2e40d533d7bcebf5dae",
+    "Popularity": 78,
+    "ReleaseDate": "2021-05-15",
+    "Genre": "desi hip hop, pakistani hip hop, punjabi hip hop, punjabi pop"
   },
   {
     "SongID": 3103,
@@ -382,9 +391,9 @@
     "Album": "$AD BOYZ 4 LIFE II",
     "Duration": "2:59",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273ef88ad49166e31598ff7d4d0",
-    "Popularity": 86,
+    "Popularity": 85,
     "ReleaseDate": "2023-10-05",
-    "Genre": ""
+    "Genre": "corridos tumbados, corrido, corridos bélicos, sad sierreño, sierreño, música mexicana, banda"
   },
   {
     "SongID": 4019,
@@ -400,9 +409,9 @@
     "Album": "Garage, Inc.",
     "Duration": "5:04",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737e1f85f69323acac962516c4",
-    "Popularity": 67,
+    "Popularity": 68,
     "ReleaseDate": "1998-11-24",
-    "Genre": ""
+    "Genre": "metal, thrash metal, rock, heavy metal, hard rock"
   },
   {
     "SongID": 4183,
@@ -428,8 +437,8 @@
     "Duration": "4:33",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273eec376776dc8377060f2be5c",
     "Popularity": 84,
-    "ReleaseDate": "2007-01-01",
-    "Genre": ""
+    "ReleaseDate": "2007-02-12",
+    "Genre": "r&b, rap, hip hop"
   },
   {
     "SongID": 4951,
@@ -463,9 +472,9 @@
     "Album": "Immortalized",
     "Duration": "4:08",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273d7bd0f8e4d2a399020b333e8",
-    "Popularity": 78,
+    "Popularity": 79,
     "ReleaseDate": "2015-08-14",
-    "Genre": ""
+    "Genre": "metal, nu metal, alternative metal, rap metal, hard rock"
   },
   {
     "SongID": 5590,
@@ -497,11 +506,11 @@
   {
     "SongID": 6172,
     "Album": "Timanttei",
-    "Duration": "03:29",
+    "Duration": "3:29",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2736f125321e2664adfd41613ac",
-    "Popularity": 73,
+    "Popularity": 49,
     "ReleaseDate": "2024-01-04",
-    "Genre": ""
+    "Genre": "finnish pop, finnish hip hop"
   },
   {
     "SongID": 7396,
@@ -528,16 +537,16 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731108fef87966d83948b6a037",
     "Popularity": 66,
     "ReleaseDate": "2022-04-29",
-    "Genre": ""
+    "Genre": "industrial metal, metal, industrial rock, industrial"
   },
   {
     "SongID": 8679,
     "Album": "Dangerous",
     "Duration": "4:00",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2735c4e130f344c151e4384e023",
-    "Popularity": 82,
+    "Popularity": 84,
     "ReleaseDate": "2015-11-06",
-    "Genre": ""
+    "Genre": "reggaeton, urbano latino"
   },
   {
     "SongID": 8974,
@@ -10449,6 +10458,15 @@
     "Genre": ""
   },
   {
+    "SongID": 1274813225,
+    "Album": "Shunno (From “MEMORIES ARE FOREVER”)",
+    "Duration": "4:52",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273413c4a33ad309e84ec6540f6",
+    "Popularity": 51,
+    "ReleaseDate": "2025-05-26",
+    "Genre": ""
+  },
+  {
     "SongID": 1274813254,
     "Album": "Mero Prayas",
     "Duration": "5:27",
@@ -16141,9 +16159,9 @@
     "Album": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
     "Duration": "3:54",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b62a952841dd3828c821eddc",
-    "Popularity": 85,
+    "Popularity": 83,
     "ReleaseDate": "2026-05-28",
-    "Genre": ""
+    "Genre": "brazilian funk, electro, trap funk, funk carioca, funk consciente"
   },
   {
     "SongID": 1274842125,
@@ -16879,9 +16897,9 @@
     "Album": "Картечница",
     "Duration": "3:21",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734dbf564b7a26c085783ee97d",
-    "Popularity": 44,
+    "Popularity": 39,
     "ReleaseDate": "2026-06-05",
-    "Genre": ""
+    "Genre": "folk pop"
   },
   {
     "SongID": 1274844009,
@@ -18040,27 +18058,27 @@
     "Album": "Скъсаняк",
     "Duration": "2:49",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273a2826aa6e54e4026820ae820",
-    "Popularity": 52,
+    "Popularity": 54,
     "ReleaseDate": "2026-06-12",
-    "Genre": ""
+    "Genre": "folk pop"
   },
   {
     "SongID": 1274845630,
     "Album": "Времето лекува",
     "Duration": "3:37",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732507176a38f737078bfb6523",
-    "Popularity": 51,
+    "Popularity": 49,
     "ReleaseDate": "2026-06-12",
-    "Genre": ""
+    "Genre": "folk pop"
   },
   {
     "SongID": 1274845631,
     "Album": "Розовите очила",
     "Duration": "3:11",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2738731c263e770a501e7ec88b1",
-    "Popularity": 44,
+    "Popularity": 46,
     "ReleaseDate": "2026-06-27",
-    "Genre": ""
+    "Genre": "folk pop, retro pop"
   },
   {
     "SongID": 1274845633,
@@ -18069,7 +18087,7 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b273bbd47a3b407e78b5ec451bb1",
     "Popularity": 50,
     "ReleaseDate": "2026-06-18",
-    "Genre": ""
+    "Genre": "folk pop"
   },
   {
     "SongID": 1274845644,
@@ -18346,9 +18364,9 @@
     "Album": "Low Fade",
     "Duration": "2:55",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737be686dc1febf2f2957c1fce",
-    "Popularity": 80,
+    "Popularity": 77,
     "ReleaseDate": "2026-06-21",
-    "Genre": ""
+    "Genre": "punjabi pop, punjabi hip hop, bhangra, desi hip hop, desi"
   },
   {
     "SongID": 1274845929,
@@ -18390,10 +18408,10 @@
     "SongID": 1274845954,
     "Album": "GOLDEN HOUR : Part.5",
     "Duration": "2:36",
-    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2734ebd68a063228fefd98a1cf2",
-    "Popularity": 78,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2737e77585ffef632e51313b3e0",
+    "Popularity": 85,
     "ReleaseDate": "2026-06-26",
-    "Genre": ""
+    "Genre": "k-pop, noise music"
   },
   {
     "SongID": 1274845958,
@@ -18589,16 +18607,16 @@
     "Album": "MATATA",
     "Duration": "2:13",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2730bf8192af327519ee888be32",
-    "Popularity": 60,
+    "Popularity": 56,
     "ReleaseDate": "2026-06-12",
-    "Genre": ""
+    "Genre": "rap ivoire, coupé décalé, ndombolo"
   },
   {
     "SongID": 1274846352,
     "Album": "Coming Home",
     "Duration": "3:28",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2732d7662c718593aa028c496cf",
-    "Popularity": 33,
+    "Popularity": 28,
     "ReleaseDate": "2026-03-31",
     "Genre": ""
   },
@@ -18760,9 +18778,9 @@
     "Album": "Hit Songs Malayalam",
     "Duration": "4:29",
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b27365518156512b1451b0da714f",
-    "Popularity": 66,
+    "Popularity": 65,
     "ReleaseDate": "2026-07-24",
-    "Genre": ""
+    "Genre": "malayalam hip hop, malayalam pop, mollywood, bollywood, hindi pop, desi, kannada pop, marathi pop"
   },
   {
     "SongID": 1274848073,
@@ -21669,6 +21687,15 @@
     "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739728a002dd890d366edf2658",
     "Popularity": 63,
     "ReleaseDate": "2026-08-28",
+    "Genre": ""
+  },
+  {
+    "SongID": 1274849740,
+    "Album": "Alabang",
+    "Duration": "4:35",
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2739d63d02008e91aea1e3f158a",
+    "Popularity": 67,
+    "ReleaseDate": "2026-08-16",
     "Genre": ""
   },
   {
@@ -29334,19 +29361,19 @@
     "SongID": 1274858205,
     "Album": "Thank You",
     "Duration": "3:44",
-    "CoverImage": "",
-    "Popularity": 62,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b2731546bf6026f75d24e1bf92d2",
+    "Popularity": 67,
     "ReleaseDate": "2026-09-20",
-    "Genre": ""
+    "Genre": "k-pop"
   },
   {
     "SongID": 1274858209,
     "Album": "Tutto Passa I",
     "Duration": "2:50",
-    "CoverImage": "",
-    "Popularity": 37,
+    "CoverImage": "https://i.scdn.co/image/ab67616d0000b273b0d74060c20d6cc9e6d6a007",
+    "Popularity": 50,
     "ReleaseDate": "2026-09-25",
-    "Genre": ""
+    "Genre": "portuguese hip hop, drill"
   },
   {
     "SongID": 1274858237,
