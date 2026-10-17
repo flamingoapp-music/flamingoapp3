@@ -128,6 +128,129 @@ document.addEventListener("DOMContentLoaded", function () {
             .filter(Boolean);
     }
 
+    // Load both catalogs: platform-specific rows can be incomplete.
+    async function fetchAllAvailable(urls, label) {
+        const results = await Promise.all(urls.map(async url => {
+            try {
+                const rows = await fetchJson(url);
+                return Array.isArray(rows) ? rows : [];
+            } catch (error) {
+                console.warn(`[Billboard] Optional ${label}: ${url}`, error.message);
+                return [];
+            }
+        }));
+        return results.flat();
+    }
+
+    function artistKey(value) {
+        return String(value || "")
+            .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+            .toLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
+    }
+
+    function artistURL(row) {
+        const url = String(row?.SpotifyURL || row?.Spotify_URL || "").trim();
+        return /^https:\/\/open\.spotify\.com\/artist\/[A-Za-z0-9]+(?:[/?#].*)?$/i.test(url)
+            ? url : null;
+    }
+
+    function buildArtistIndex(rows) {
+        const byID = new Map();
+        const byName = new Map();
+        for (const row of rows || []) {
+            if (!row) continue;
+            const id = String(row.ArtistID ?? "").trim();
+            const name = String(row.Artist || row.Name || "").trim();
+            if (!name) continue;
+            const key = artistKey(name);
+            const better = (old) => !old || (!artistURL(old) && !!artistURL(row));
+            if (id && better(byID.get(id))) byID.set(id, row);
+            if (key && better(byName.get(key))) byName.set(key, row);
+        }
+        return { byID, byName };
+    }
+
+    // Match known artist names before splitting punctuation. This preserves
+    // Tyler, The Creator and Earth, Wind & Fire, but splits Drake&Don Toliver.
+    function resolveBillboardArtists(rawText, rawIDs, index, structuredLinks) {
+        const text = String(rawText || "").trim();
+        if (!text) return [];
+        const ids = normalizeArtistIDs(rawIDs);
+        const byID = index.byID, byName = index.byName;
+        const norm = artistKey;
+        const isSep = (part) => /^(?:\s|,|&|\+|\/|\b(?:feat\.?|ft\.?|featuring|with|and|x)\b)+$/i.test(part);
+        const candidates = [...byName.values()]
+            .filter(a => artistURL(a))
+            .map(a => ({ row:a, name:String(a.Artist || a.Name || '').trim() }))
+            .filter(a => a.name)
+            .sort((a,b) => b.name.length - a.name.length);
+
+        function matchesAt(pos) {
+            const rest = text.slice(pos);
+            const matches = [];
+            for (const item of candidates) {
+                // A punctuation-insensitive comparison of a bounded prefix,
+                // while allowing spacing and accents to differ.
+                const chars = Array.from(rest);
+                const min = Math.max(1, item.name.length - 4);
+                const max = Math.min(chars.length, item.name.length + 8);
+                for (let len=min; len<=max; len++) {
+                    const part = chars.slice(0,len).join('');
+                    if (norm(part) !== norm(item.name)) continue;
+                    const next = rest.slice(part.length);
+                    if (next && !/^[\s,&+\/]/.test(next)
+                        && !/^X(?=[A-ZÀ-ÖØ-Þ])/u.test(next)
+                        && !/^(?:featuring|feat\.?|ft\.?|with|and)(?=[A-ZÀ-ÖØ-Þ]|\s|$)/i.test(next)) continue;
+                    matches.push({ length:part.length, row:item.row, name:part.trim() });
+                    break;
+                }
+            }
+            return matches;
+        }
+        const memo = new Map();
+        function solve(pos) {
+            if (memo.has(pos)) return memo.get(pos);
+            if (pos === text.length) return [];
+            const tail = text.slice(pos);
+            const sep = tail.match(/^(?:[\s,&+\/]+|X(?=[A-ZÀ-ÖØ-Þ])|(?:featuring|feat\.?|ft\.?|with|and)(?=[A-ZÀ-ÖØ-Þ]|\s|$)\s*)/i);
+            if (sep) {
+                const result = solve(pos + sep[0].length);
+                if (result) { memo.set(pos,result); return result; }
+            }
+            for (const match of matchesAt(pos)) {
+                const rest = solve(pos + match.length);
+                if (rest) {
+                    const result = [{name:match.name, url:artistURL(match.row), artistId:match.row.ArtistID}, ...rest];
+                    memo.set(pos,result);
+                    return result;
+                }
+            }
+            memo.set(pos,null);
+            return null;
+        }
+        const parsed = solve(0);
+        if (parsed?.length) return parsed;
+
+        // Structured links are only safe when their identities match the raw
+        // display; never assign links by array index alone.
+        if (Array.isArray(structuredLinks) && structuredLinks.length) {
+            const cleaned = structuredLinks.map(a => {
+                const name = String(a?.name || a?.Artist || '').trim();
+                const known = byID.get(String(a?.artistId ?? a?.ArtistID ?? '')) || byName.get(norm(name));
+                const verified = known && norm(known.Artist || known.Name) === norm(name) ? known : byName.get(norm(name));
+                return {name, url:artistURL(verified)};
+            }).filter(a => a.name);
+            if (cleaned.length && norm(cleaned.map(a=>a.name).join('')) === norm(text)) return cleaned;
+        }
+
+        // Conservative fallback: retain unrecognized raw artist text rather
+        // than invent a link or split a real band's name incorrectly.
+        const exact = byName.get(norm(text));
+        if (exact && artistURL(exact)) return [{name:text,url:artistURL(exact),artistId:exact.ArtistID}];
+        console.warn('[Billboard] Unresolved artist:', {text, ids});
+        return [{name:text,url:null}];
+    }
+
     function fallbackArtistLinks(artistText) {
         const name = String(artistText || "").trim();
 
@@ -207,10 +330,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     "SP",
                     false
                 ),
-                fetchFirstAvailable(
+                fetchAllAvailable(
                     supportFiles.artist,
-                    "ARTIST_FEATURES",
-                    false
+                    "ARTIST_FEATURES"
                 )
             ]);
 
@@ -223,8 +345,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const siMap = makeMap(siData, "SongID");
             const tsMap = makeMap(tsData, "SongID");
             const spMap = makeMap(spData, "SongID");
-            const artistMapByID =
-                makeMap(artistFeatures, "ArtistID");
+            const artistIndex = buildArtistIndex(artistFeatures);
 
             const merged = data.map((entry, index) => {
                 const id = String(entry?.SongID ?? "");
@@ -233,42 +354,21 @@ document.addEventListener("DOMContentLoaded", function () {
                 const sp = spMap.get(id) || {};
 
                 const title =
-                    si.Title ||
                     entry.Title ||
+                    si.Title ||
                     "Unknown Title";
 
                 const artistText =
-                    si.Artist ||
                     entry.Artist ||
+                    si.Artist ||
                     "Unknown Artist";
 
-                const artistIDs =
-                    normalizeArtistIDs(si.ArtistID);
-
-                const artistLinks = [];
-
-                artistIDs.forEach(aid => {
-                    const artistObj =
-                        artistMapByID.get(String(aid));
-
-                    if (!artistObj) {
-                        return;
-                    }
-
-                    artistLinks.push({
-                        name:
-                            artistObj.Artist ||
-                            artistText,
-                        url:
-                            artistObj.SpotifyURL ||
-                            null
-                    });
-                });
-
-                const finalArtistLinks =
-                    artistLinks.length > 0
-                        ? artistLinks
-                        : fallbackArtistLinks(artistText);
+                const finalArtistLinks = resolveBillboardArtists(
+                    artistText,
+                    entry.ArtistID || si.ArtistID,
+                    artistIndex,
+                    entry.ArtistLinks || si.ArtistLinks
+                );
 
                 return {
                     SongID: id,
@@ -278,14 +378,14 @@ document.addEventListener("DOMContentLoaded", function () {
                     Title: title,
                     ArtistNames: finalArtistLinks,
                     CoverImage:
-                        ts.CoverImage ||
                         entry.CoverImage ||
+                        ts.CoverImage ||
                         "images/default_cover.jpg",
                     SpotifyURL:
-                        sp.Spotify_URL ||
-                        sp.SpotifyURL ||
                         entry.Spotify_URL ||
                         entry.SpotifyURL ||
+                        sp.Spotify_URL ||
+                        sp.SpotifyURL ||
                         null
                 };
             });

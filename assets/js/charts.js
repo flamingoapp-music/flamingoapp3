@@ -85,6 +85,72 @@ document.addEventListener("DOMContentLoaded", function () {
 	}
 
 
+	// Artist resolver: prefer explicit per-song ArtistLinks, then longest known
+	// individual artist names. Never align ArtistID arrays by index.
+	function artistKey(value) {
+		return normalizeText(value).replace(/[^\p{L}\p{N}]/gu, "");
+	}
+	function validArtistURL(row) {
+		const url = firstNonEmpty(row?.SpotifyURL, row?.Spotify_URL);
+		return /^https:\/\/open\.spotify\.com\/artist\/[A-Za-z0-9]+(?:[/?#]|$)/.test(url) ? url : null;
+	}
+	function resolveArtistNames(displayText, structured, artistIDs, byID, byName) {
+		const text = firstNonEmpty(displayText);
+		const candidates = (artistIDs || []).map(id => byID[String(id)]).filter(Boolean);
+		const lookup = name => {
+			const key = artistKey(name);
+			const direct = candidates.find(a => artistKey(firstNonEmpty(a.Artist, a.Name)) === key && validArtistURL(a));
+			return direct || byName[key] || null;
+		};
+		// Structured links are authoritative only if they represent the visible
+		// contributor names; stale composite/duplicate metadata is ignored.
+		if (Array.isArray(structured) && structured.length) {
+			const parts = structured.map(item => ({
+				name: firstNonEmpty(item.Artist, item.name, item.Name),
+				id: firstNonEmpty(item.ArtistID, item.artistId),
+				url: firstNonEmpty(item.SpotifyURL, item.url)
+			})).filter(x => x.name);
+			const visible = artistKey(text);
+			if (parts.length && artistKey(parts.map(x => x.name).join('')) === visible) {
+				return parts.map(p => {
+					const row = byID[p.id] || lookup(p.name);
+					return {name: p.name, url: validArtistURL(row) || (/^https:\/\/open\.spotify\.com\/artist\//.test(p.url) ? p.url : null)};
+				});
+			}
+		}
+		// Longest-match segmentation: a comma inside 'Tyler, The Creator'
+		// is part of the artist, while the following comma separates Kali Uchis.
+		const known = Object.values(byName)
+			.filter(a => validArtistURL(a))
+			.map(a => firstNonEmpty(a.Artist, a.Name))
+			.filter(Boolean)
+			.sort((a,b) => b.length - a.length);
+		const names = [];
+		let remaining = text.trim();
+		let safety = 0;
+		while (remaining && safety++ < 40) {
+			let match = null;
+			for (const name of known) {
+				if (normalizeText(remaining.slice(0, name.length)) !== normalizeText(name)) continue;
+				const tail = remaining.slice(name.length);
+				if (tail && !/^(?:\s*,\s*|\s+&\s+|\s+and\s+|\s+feat\.?\s+|\s+ft\.?\s+)/i.test(tail)) continue;
+				match = {name: remaining.slice(0,name.length), tail};
+				break;
+			}
+			if (match) {
+				names.push(match.name);
+				remaining = match.tail.replace(/^(?:\s*,\s*|\s+&\s+|\s+and\s+|\s+feat\.?\s+|\s+ft\.?\s+)/i, '').trim();
+				continue;
+			}
+			const separator = remaining.match(/\s*,\s*|\s+&\s+|\s+and\s+/i);
+			if (!separator) {names.push(remaining); break;}
+			const part = remaining.slice(0,separator.index).trim();
+			if (part) names.push(part);
+			remaining = remaining.slice(separator.index + separator[0].length).trim();
+		}
+		return names.map(name => ({name, url: validArtistURL(lookup(name))}));
+	}
+
 	// ============================================================
 	// LOAD COUNTRY
 	// ============================================================
@@ -273,46 +339,20 @@ document.addEventListener("DOMContentLoaded", function () {
 				// -------------------------------------------------
 
 				for (const artist of artistFeatures || []) {
-
 					if (!artist) continue;
-
-
-					if (
-						artist.ArtistID !== null &&
-						artist.ArtistID !== undefined &&
-						artist.ArtistID !== ""
-					) {
-
-						artistMapByID[
-							String(artist.ArtistID)
-						] = artist;
-					}
-
-
-					const name =
-						firstNonEmpty(
-							artist.Artist,
-							artist.Name
-						);
-
-
-					if (name) {
-
-						const normalized =
-							normalizeText(name);
-
-						if (
-							normalized &&
-							!artistMapByName[normalized]
-						) {
-
-							artistMapByName[
-								normalized
-							] = artist;
-						}
+					const id = firstNonEmpty(artist.ArtistID);
+					if (id) artistMapByID[id] = artist;
+					const name = firstNonEmpty(artist.Artist, artist.Name);
+					const key = artistKey(name);
+					if (key && (!artistMapByName[key] || (!validArtistURL(artistMapByName[key]) && validArtistURL(artist)))) {
+						artistMapByName[key] = artist;
 					}
 				}
-
+				// A verified alias; never treat unrelated lookalike names as aliases.
+				if (artistMapByID["48811"]) {
+					artistMapByName[artistKey("HUNTRX")] = artistMapByID["48811"];
+					artistMapByName[artistKey("HUNTR/X")] = artistMapByID["48811"];
+				}
 
 				// =================================================
 				// BUILD SONG LIST
@@ -399,86 +439,13 @@ document.addEventListener("DOMContentLoaded", function () {
 					// Names come from chart JSON.
 					// =============================================
 
-					const artistNames =
-						finalArtist
-
-							.split(",")
-
-							.map(x => x.trim())
-
-							.filter(Boolean);
-
-
-					// =============================================
-					// ARTIST LINKS
-					// =============================================
-
-					const artistLinks =
-						artistNames.map(
-							(artistName, index) => {
-
-								let artistObj = null;
-
-
-								// ---------------------------------
-								// FIRST: ArtistID
-								// ---------------------------------
-
-								const artistID =
-									artistIDs[index];
-
-
-								if (
-									artistID &&
-									artistMapByID[
-										artistID
-									]
-								) {
-
-									artistObj =
-										artistMapByID[
-											artistID
-										];
-								}
-
-
-								// ---------------------------------
-								// SECOND: exact normalized name
-								// ---------------------------------
-
-								if (!artistObj) {
-
-									const normalized =
-										normalizeText(
-											artistName
-										);
-
-
-									artistObj =
-										artistMapByName[
-											normalized
-										] || null;
-								}
-
-
-								// ---------------------------------
-								// NAME ALWAYS SURVIVES
-								// ---------------------------------
-
-								return {
-
-									name:
-										artistName,
-
-									url:
-										firstNonEmpty(
-											artistObj?.SpotifyURL,
-											artistObj?.Spotify_URL
-										) || null
-								};
-							}
-						);
-
+					const artistLinks = resolveArtistNames(
+						finalArtist,
+						entry.ArtistLinks || siEntry.ArtistLinks || siEntry.ArtistNames,
+						artistIDs,
+						artistMapByID,
+						artistMapByName
+					);
 
 					// =============================================
 					// COVER

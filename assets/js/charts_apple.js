@@ -1,248 +1,729 @@
+
 document.addEventListener("DOMContentLoaded", function () {
-	const selectedPlatform = "appleMusic";
+    const selectedPlatform = "appleMusic";
 
-	const DEFAULT_COVER = "images/backgroundlogo.png";
+    const DEFAULT_COVER = "images/backgroundlogo.png";
 
-	const platformOptions = {
-		appleMusic: "DATABASES/ALL_JSON/am_"
-	};
+    const platformOptions = {
+        appleMusic: "DATABASES/ALL_JSON/am_"
+    };
 
-	const siTsFiles = {
-		appleMusic: {
-			si: "DATABASES/ALL_JSON/SI.json",
-			ts: "DATABASES/ALL_JSON/TS.json",
-			sp: "DATABASES/ALL_JSON/SP.json"
-		}
-	};
+    const siTsFiles = {
+        appleMusic: {
+            si: "DATABASES/ALL_JSON/SI.json",
+            ts: "DATABASES/ALL_JSON/TS.json",
+            sp: "DATABASES/ALL_JSON/SP.json"
+        }
+    };
 
-	const platformNameMap = {
-		appleMusic: "Apple Music"
-	};
+    const platformNameMap = {
+        appleMusic: "Apple Music"
+    };
 
-	const platformLogos = {
-		appleMusic: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
-	};
+    const platformLogos = {
+        appleMusic:
+            "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+    };
 
-	const { si, ts, sp } = siTsFiles[selectedPlatform];
+    const { si, ts, sp } = siTsFiles[selectedPlatform];
 
-	// 🔥 CONTROL SCROLL
-	let allSongs = [];
-	let visibleCount = 0;
-	const batchSize = 25;
-	let isLoading = false;
+    // ============================================================
+    // GLOBAL CONTROL
+    // ============================================================
 
-	function delay(ms) {
-		return new Promise(resolve => setTimeout(resolve, ms));
-	}
+    let allSongs = [];
+    let visibleCount = 0;
+    const batchSize = 25;
+    let isLoading = false;
+    let loadVersion = 0;
 
-	function loadCountryData(countryCode) {
-		const dataFile = `${platformOptions[selectedPlatform]}${countryCode}.json`;
+    // ============================================================
+    // HELPERS
+    // ============================================================
 
-		document.getElementById("countryName").textContent =
-			`${platformNameMap[selectedPlatform].toUpperCase()} ${countryCode.toUpperCase()}`;
-		document.getElementById("platformLogo").src = platformLogos[selectedPlatform];
-		document.getElementById("platformLogo").alt = platformNameMap[selectedPlatform];
+    function delay(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
 
-		const icon = document.getElementById("countryIcon");
-		if (countryCode.toLowerCase() === "us") {
-			icon.style.display = "none";
-		} else {
-			icon.src = `https://flagcdn.com/w40/${countryCode.toLowerCase()}.png`;
-			icon.style.display = "inline";
-		}
+    function firstNonEmpty(...values) {
+        for (const value of values) {
+            if (
+                value !== null &&
+                value !== undefined &&
+                String(value).trim() !== ""
+            ) {
+                return String(value).trim();
+            }
+        }
 
-		const fetches = [
-			fetch(dataFile).then(r => r.json()),
-			fetch(si).then(r => r.json()),
-			fetch(ts).then(r => r.json()),
-			fetch(sp).then(r => r.json()),
-			fetch("DATABASES/ALL_JSON/ARTIST_FEATURES.json").then(r => r.json())
-		];
+        return "";
+    }
 
-		Promise.all(fetches)
-			.then(([data, siData, tsData, spData, artistFeatures]) => {
+    function normalizeText(value) {
+        return String(value || "")
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .toLowerCase()
+            .replace(/\s+/g, " ")
+            .trim();
+    }
 
-				const spMap = Object.fromEntries(spData.map(d => [d.SongID, d.Spotify_URL]));
-				const siMap = Object.fromEntries(siData.map(d => [d.SongID, d]));
-				const tsMap = Object.fromEntries(tsData.map(d => [d.SongID, d]));
+    function getSongID(value) {
+        if (
+            value === null ||
+            value === undefined ||
+            value === ""
+        ) {
+            return "";
+        }
 
-				const artistMapByID = Object.fromEntries(
-					artistFeatures.map(a => [String(a.ArtistID), a])
-				);
+        return String(value).trim();
+    }
 
-				allSongs = data.map(entry => {
-					const id = entry.SongID;
+    async function fetchJSON(url) {
+        const response = await fetch(url, {
+            cache: "no-store"
+        });
 
-					const artistIDs = (siMap[id]?.ArtistID || "")
-						.split(",")
-						.map(x => x.trim())
-						.filter(Boolean);
+        if (!response.ok) {
+            throw new Error(
+                `Could not load ${url}: HTTP ${response.status}`
+            );
+        }
 
-					const artistLinks = [];
-					artistIDs.forEach(aid => {
-						const artistObj = artistMapByID[aid];
-						if (artistObj) {
-							artistLinks.push({
-								name: artistObj.Artist,
-								url: artistObj.SpotifyURL || null
-							});
-						}
-					});
+        return response.json();
+    }
 
-					const coverCandidate = tsMap[id]?.CoverImage;
-					const finalCover =
-						typeof coverCandidate === "string" && coverCandidate.trim() !== ""
-							? coverCandidate
-							: DEFAULT_COVER;
+    function splitArtistIDs(value) {
+        return String(value || "")
+            .split(",")
+            .map(id => id.trim())
+            .filter(Boolean);
+    }
 
-					return {
-						SongID: id,
-						Position: entry.Position,
-						Title: siMap[id]?.Title || "Unknown Title",
-						ArtistNames: artistLinks,
-						CoverImage: finalCover,
-						SpotifyURL: spMap[id] || null
-					};
-				}).sort((a, b) => a.Position - b.Position);
+    // Artist names are resolved against known individual artist records.
+    // Protect compound names (e.g. Earth, Wind & Fire) before splitting.
+    function artistKey(value) {
+        return normalizeText(value).replace(/[^\p{L}\p{N}]/gu, "");
+    }
 
-				const songList = document.getElementById("songList");
-				songList.innerHTML = "";
+    function splitArtistNames(value, artistMapByName, artistIDs, artistMapByID) {
+        const text = String(value || "").trim();
+        if (!text) return [];
 
-				visibleCount = 0;
+        // A composite artist record can be present in ARTIST_FEATURES.
+        // Do not let it swallow several separately identified collaborators.
+        const candidateRows = artistIDs.map(id => artistMapByID[id]).filter(Boolean);
+        const distinctCandidates = new Set(candidateRows.map(row => artistKey(row.Artist || row.Name)));
+        const isCollaboration = distinctCandidates.size > 1;
+        if (!isCollaboration && artistMapByName[artistKey(text)]) return [text];
 
-				loadMoreSongs(); // primera carga
-			})
-			.catch(err => {
-				console.error("Error loading data:", err);
-				document.getElementById("songList").innerHTML =
-					`<li>Error loading ${countryCode.toUpperCase()} data.</li>`;
-			});
-	}
+        const protectedNames = Object.values(artistMapByName)
+            .map(row => firstNonEmpty(row.Artist, row.Name))
+            .filter(name => name && /[,&]/.test(name))
+            .filter(name => !(isCollaboration && artistKey(name) === artistKey(text)))
+            .sort((a, b) => b.length - a.length);
 
-	async function loadMoreSongs() {
-		if (isLoading) return;
+        const tokens = [];
+        let masked = text;
+        for (const name of protectedNames) {
+            const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+            const pattern = new RegExp(`(^|[,\\s])(${escaped})(?=$|[,\\s]|\\s*&\\s*)`, "gi");
+            masked = masked.replace(pattern, (whole, prefix, found) => {
+                const token = `__ARTIST_${tokens.length}__`;
+                tokens.push(found);
+                return prefix + token;
+            });
+        }
+        return masked.split(/\s*,\s*|\s+&\s+/)
+            .map(part => part.replace(/__ARTIST_(\d+)__/g, (_, i) => tokens[Number(i)] || ""))
+            .map(part => part.trim()).filter(Boolean);
+    }
 
-		isLoading = true;
+    function resolveArtistLinks(rawText, artistIDs, artistMapByID, artistMapByName) {
+        const names = splitArtistNames(rawText, artistMapByName, artistIDs, artistMapByID);
+        const linked = [];
+        const used = new Set();
+        const idCandidates = artistIDs.map(id => artistMapByID[id]).filter(Boolean);
 
-		const nextBatch = allSongs.slice(visibleCount, visibleCount + batchSize);
+        for (const name of names) {
+            const key = artistKey(name);
+            // Never use a positional ID without verifying the artist identity.
+            let artist = idCandidates.find(row =>
+                artistKey(firstNonEmpty(row.Artist, row.Name)) === key
+            );
+            if (!artist) artist = artistMapByName[key] || null;
+            if (artist && used.has(String(artist.ArtistID))) artist = null;
+            if (artist) used.add(String(artist.ArtistID));
+            linked.push({
+                name: artist ? firstNonEmpty(artist.Artist, artist.Name, name) : name,
+                url: artist ? firstNonEmpty(artist.SpotifyURL, artist.Spotify_URL) || null : null,
+                artistId: artist?.ArtistID ?? null
+            });
+        }
+        return linked;
+    }
 
-		if (nextBatch.length === 0) {
-			isLoading = false;
-			return;
-		}
+    // ============================================================
+    // LOAD COUNTRY
+    // ============================================================
 
-		for (let song of nextBatch) {
-			appendSong(song);
-			await delay(5); // 🔥 efecto aparición suave
-		}
+    async function loadCountryData(countryCode) {
+        const currentVersion = ++loadVersion;
 
-		visibleCount += batchSize;
+        const dataFile =
+            `${platformOptions[selectedPlatform]}${countryCode}.json`;
 
-		isLoading = false;
+        const songList = document.getElementById("songList");
 
-		// 🔥 delay visual entre bloques (no bloquea scroll)
-		setTimeout(() => {}, 500);
-	}
+        allSongs = [];
+        visibleCount = 0;
+        isLoading = false;
 
-	function appendSong(song) {
-		const songList = document.getElementById("songList");
+        if (songList) {
+            songList.innerHTML = "";
+        }
 
-		const li = document.createElement("li");
+        // --------------------------------------------------------
+        // HEADER
+        // --------------------------------------------------------
 
-		const rank = document.createElement("div");
-		rank.className = "song-rank";
-		rank.textContent = `${song.Position}.`;
+        const countryName = document.getElementById("countryName");
 
-		const img = document.createElement("img");
-		img.src = song.CoverImage;
-		img.alt = `${song.Title} Cover`;
+        if (countryName) {
+            countryName.textContent =
+                `${platformNameMap[selectedPlatform].toUpperCase()} ${countryCode.toUpperCase()}`;
+        }
 
-		img.onerror = () => {
-			img.src = DEFAULT_COVER;
-		};
+        const platformLogo = document.getElementById("platformLogo");
 
-		const info = document.createElement("div");
-		info.className = "song-info-list";
+        if (platformLogo) {
+            platformLogo.src = platformLogos[selectedPlatform];
+            platformLogo.alt = platformNameMap[selectedPlatform];
+        }
 
-		const title = document.createElement("span");
-		title.className = "song-title";
-		title.textContent = song.Title;
+        const icon = document.getElementById("countryIcon");
 
-		const artistContainer = document.createElement("div");
-		artistContainer.className = "song-artist";
+        if (icon) {
+            const code = countryCode.toLowerCase();
 
-		song.ArtistNames.forEach((artistObj, index) => {
-			if (artistObj.url) {
-				const link = document.createElement("a");
-				link.href = artistObj.url;
-				link.textContent = artistObj.name;
-				link.target = "_blank";
-				link.rel = "noopener noreferrer";
+            if (code === "global") {
+                icon.style.display = "none";
+            } else {
+                icon.src = `https://flagcdn.com/w40/${code}.png`;
+                icon.style.display = "inline";
+            }
+        }
 
-				// ✅ ESTILO ORIGINAL CONSERVADO
-				link.style.color = "#3498db";
-				link.style.textDecoration = "underline";
+        console.log(`[APPLE MUSIC] Loading ${dataFile}`);
 
-				artistContainer.appendChild(link);
-			} else {
-				const span = document.createElement("span");
-				span.textContent = artistObj.name;
-				artistContainer.appendChild(span);
-			}
+        try {
+            // ====================================================
+            // LOAD JSON FILES
+            // ====================================================
 
-			if (index < song.ArtistNames.length - 1) {
-				artistContainer.appendChild(document.createTextNode(", "));
-			}
-		});
+            const [
+                data,
+                siData,
+                tsData,
+                spData,
+                artistFeatures
+            ] = await Promise.all([
+                fetchJSON(dataFile),
+                fetchJSON(si),
+                fetchJSON(ts),
+                fetchJSON(sp),
+                fetchJSON(
+                    "DATABASES/ALL_JSON/ARTIST_FEATURES.json"
+                )
+            ]);
 
-		info.appendChild(title);
-		info.appendChild(artistContainer);
+            if (currentVersion !== loadVersion) {
+                return;
+            }
 
-		li.appendChild(rank);
-		li.appendChild(img);
-		li.appendChild(info);
+            if (!Array.isArray(data)) {
+                throw new Error(
+                    `Invalid chart JSON: ${dataFile}`
+                );
+            }
 
-		li.addEventListener("click", () => {
-			document.querySelectorAll(".song-list li").forEach(el => el.classList.remove("selected"));
-			li.classList.add("selected");
-		});
+            // ====================================================
+            // CREATE LOOKUP MAPS
+            // ====================================================
 
-		if (song.SpotifyURL) {
-			img.style.cursor = "pointer";
-			img.addEventListener("click", () => {
-				const isSelected = li.classList.contains("selected");
+            const spMap = Object.create(null);
+            const siMap = Object.create(null);
+            const tsMap = Object.create(null);
+            const artistMapByID = Object.create(null);
+            const artistMapByName = Object.create(null);
 
-				if (!isSelected) {
-					document.querySelectorAll(".song-list li").forEach(el => el.classList.remove("selected"));
-					li.classList.add("selected");
-				} else {
-					window.open(song.SpotifyURL, "_blank");
-				}
-			});
-		}
+            // ----------------------------------------------------
+            // SPOTIFY LINKS
+            // ----------------------------------------------------
 
-		songList.appendChild(li);
-	}
+            for (const row of spData || []) {
+                const id = getSongID(row.SongID);
 
-	// 🔥 SCROLL INTELIGENTE (clave para no quedarse en 50)
-	window.addEventListener("scroll", () => {
-		const scrollTop = window.scrollY;
-		const windowHeight = window.innerHeight;
-		const docHeight = document.body.offsetHeight;
+                if (!id) continue;
 
-		if (scrollTop + windowHeight >= docHeight - 400) {
-			if (visibleCount < allSongs.length) {
-				loadMoreSongs();
-			}
-		}
-	});
+                spMap[id] = firstNonEmpty(
+                    row.Spotify_URL,
+                    row.SpotifyURL
+                );
+            }
 
-	const countrySelect = document.getElementById("countrySelect");
-	if (countrySelect) {
-		countrySelect.addEventListener("change", function () {
-			loadCountryData(this.value);
-		});
-	}
+            // ----------------------------------------------------
+            // SI
+            // ----------------------------------------------------
 
-	loadCountryData("us");
+            for (const row of siData || []) {
+                const id = getSongID(row.SongID);
+
+                if (!id) continue;
+
+                siMap[id] = row;
+            }
+
+            // ----------------------------------------------------
+            // TS
+            // ----------------------------------------------------
+
+            for (const row of tsData || []) {
+                const id = getSongID(row.SongID);
+
+                if (!id) continue;
+
+                tsMap[id] = row;
+            }
+
+            // ----------------------------------------------------
+            // ARTIST FEATURES
+            // ----------------------------------------------------
+
+            for (const artist of artistFeatures || []) {
+                if (!artist) continue;
+
+                if (
+                    artist.ArtistID !== null &&
+                    artist.ArtistID !== undefined &&
+                    artist.ArtistID !== ""
+                ) {
+                    artistMapByID[
+                        String(artist.ArtistID)
+                    ] = artist;
+                }
+
+                const name = firstNonEmpty(
+                    artist.Artist,
+                    artist.Name
+                );
+
+                if (name) {
+                    const normalized = artistKey(name);
+
+                    if (
+                        normalized &&
+                        !artistMapByName[normalized]
+                    ) {
+                        artistMapByName[normalized] = artist;
+                    }
+                }
+            }
+
+            // ====================================================
+            // BUILD SONG LIST
+            // ====================================================
+            //
+            // Chart JSON is the primary source for:
+            // Title, Artist and Position.
+            //
+            // SI / TS / SP provide fallback and enrichment.
+            //
+            // ArtistID is NOT required to display Artist.
+            // ====================================================
+
+            allSongs = data.map(entry => {
+                const id = getSongID(entry.SongID);
+                const siEntry = siMap[id] || {};
+
+                // ------------------------------------------------
+                // TITLE
+                // ------------------------------------------------
+
+                const finalTitle = firstNonEmpty(
+                    entry.Title,
+                    siEntry.Title,
+                    "Unknown Title"
+                );
+
+                // ------------------------------------------------
+                // ARTIST
+                // ------------------------------------------------
+
+                const finalArtist = firstNonEmpty(
+                    entry.Artist,
+                    siEntry.Artist,
+                    "Unknown Artist"
+                );
+
+                // ------------------------------------------------
+                // ARTIST IDs
+                // ------------------------------------------------
+
+                const artistIDs = splitArtistIDs(
+                    firstNonEmpty(
+                        entry.ArtistID,
+                        siEntry.ArtistID
+                    )
+                );
+
+                // ------------------------------------------------
+                // ARTIST NAMES
+                // ------------------------------------------------
+
+                const artistLinks = resolveArtistLinks(
+                    finalArtist, artistIDs, artistMapByID, artistMapByName
+                );
+
+                // ------------------------------------------------
+                // COVER
+                // ------------------------------------------------
+
+                const coverCandidate = firstNonEmpty(
+                    entry.CoverImage,
+                    tsMap[id]?.CoverImage
+                );
+
+                const finalCover =
+                    coverCandidate || DEFAULT_COVER;
+
+                // ------------------------------------------------
+                // SPOTIFY URL
+                // ------------------------------------------------
+
+                const spotifyURL = firstNonEmpty(
+                    entry.Spotify_URL,
+                    entry.SpotifyURL,
+                    spMap[id]
+                ) || null;
+
+                // ------------------------------------------------
+                // FINAL SONG
+                // ------------------------------------------------
+
+                return {
+                    SongID: id,
+                    Position: entry.Position,
+                    Title: finalTitle,
+                    Artist: finalArtist,
+                    ArtistNames: artistLinks,
+                    CoverImage: finalCover,
+                    SpotifyURL: spotifyURL
+                };
+            }).sort(
+                (a, b) =>
+                    (Number(a.Position) || 999999) -
+                    (Number(b.Position) || 999999)
+            );
+
+            // ====================================================
+            // DEBUG
+            // ====================================================
+
+            console.log(
+                `[APPLE MUSIC] ${allSongs.length} songs prepared`
+            );
+
+            const patientZero = allSongs.filter(
+                song =>
+                    normalizeText(song.Title) ===
+                    "patient zero"
+            );
+
+            if (patientZero.length > 0) {
+                console.table(
+                    patientZero.map(song => ({
+                        SongID: song.SongID,
+                        Position: song.Position,
+                        Title: song.Title,
+                        Artist: song.Artist
+                    }))
+                );
+            }
+
+            // ====================================================
+            // RESET
+            // ====================================================
+
+            if (songList) {
+                songList.innerHTML = "";
+            }
+
+            visibleCount = 0;
+            isLoading = false;
+
+            loadMoreSongs();
+
+        } catch (err) {
+            if (currentVersion !== loadVersion) {
+                return;
+            }
+
+            console.error("[APPLE MUSIC ERROR]", err);
+
+            if (songList) {
+                songList.textContent =
+                    `Error loading ${countryCode.toUpperCase()} data.`;
+            }
+        }
+    }
+
+    // ============================================================
+    // LOAD MORE
+    // ============================================================
+
+    async function loadMoreSongs() {
+        if (isLoading) return;
+
+        if (visibleCount >= allSongs.length) {
+            return;
+        }
+
+        isLoading = true;
+
+        const currentVersion = loadVersion;
+
+        const nextBatch = allSongs.slice(
+            visibleCount,
+            visibleCount + batchSize
+        );
+
+        for (const song of nextBatch) {
+            if (currentVersion !== loadVersion) {
+                return;
+            }
+
+            appendSong(song);
+            await delay(5);
+        }
+
+        if (currentVersion !== loadVersion) {
+            return;
+        }
+
+        visibleCount += nextBatch.length;
+
+        console.log(
+            `[APPLE MUSIC DISPLAY] ${visibleCount}/${allSongs.length}`
+        );
+
+        isLoading = false;
+
+        // Load another batch if the page is still short.
+        if (
+            visibleCount < allSongs.length &&
+            document.documentElement.scrollHeight <=
+                window.innerHeight + 400
+        ) {
+            loadMoreSongs();
+        }
+    }
+
+    // ============================================================
+    // APPEND SONG
+    // ============================================================
+
+    function appendSong(song) {
+        const songList = document.getElementById("songList");
+
+        if (!songList) return;
+
+        const li = document.createElement("li");
+
+        // --------------------------------------------------------
+        // RANK
+        // --------------------------------------------------------
+
+        const rank = document.createElement("div");
+        rank.className = "song-rank";
+        rank.textContent = `${song.Position}.`;
+
+        // --------------------------------------------------------
+        // COVER
+        // --------------------------------------------------------
+
+        const img = document.createElement("img");
+
+        img.src = song.CoverImage || DEFAULT_COVER;
+        img.alt = `${song.Title} Cover`;
+
+        img.onerror = () => {
+            img.onerror = null;
+            img.src = DEFAULT_COVER;
+        };
+
+        // --------------------------------------------------------
+        // INFO
+        // --------------------------------------------------------
+
+        const info = document.createElement("div");
+        info.className = "song-info-list";
+
+        // --------------------------------------------------------
+        // TITLE
+        // --------------------------------------------------------
+
+        const title = document.createElement("span");
+        title.className = "song-title";
+        title.textContent = song.Title || "Unknown Title";
+
+        // --------------------------------------------------------
+        // ARTIST
+        // --------------------------------------------------------
+
+        const artistContainer = document.createElement("div");
+        artistContainer.className = "song-artist";
+
+        if (
+            Array.isArray(song.ArtistNames) &&
+            song.ArtistNames.length > 0
+        ) {
+            song.ArtistNames.forEach((artistObj, index) => {
+                if (artistObj.url) {
+                    const link = document.createElement("a");
+
+                    link.href = artistObj.url;
+                    link.textContent = artistObj.name;
+                    link.target = "_blank";
+                    link.rel = "noopener noreferrer";
+
+                    // Preserve original styling.
+                    link.style.color = "#3498db";
+                    link.style.textDecoration = "underline";
+
+                    link.addEventListener("click", event => {
+                        event.stopPropagation();
+                    });
+
+                    artistContainer.appendChild(link);
+                } else {
+                    const span = document.createElement("span");
+                    span.textContent = artistObj.name;
+
+                    artistContainer.appendChild(span);
+                }
+
+                if (index < song.ArtistNames.length - 1) {
+                    artistContainer.appendChild(
+                        document.createTextNode(", ")
+                    );
+                }
+            });
+        } else {
+            artistContainer.textContent =
+                song.Artist || "Unknown Artist";
+        }
+
+        info.appendChild(title);
+        info.appendChild(artistContainer);
+
+        li.appendChild(rank);
+        li.appendChild(img);
+        li.appendChild(info);
+
+        // --------------------------------------------------------
+        // SELECT
+        // --------------------------------------------------------
+
+        li.addEventListener("click", () => {
+            document.querySelectorAll(".song-list li")
+                .forEach(el => {
+                    el.classList.remove("selected");
+                });
+
+            li.classList.add("selected");
+        });
+
+        // --------------------------------------------------------
+        // OPEN SPOTIFY
+        // --------------------------------------------------------
+
+        if (song.SpotifyURL) {
+            img.style.cursor = "pointer";
+
+            img.addEventListener("click", event => {
+                event.stopPropagation();
+
+                const isSelected =
+                    li.classList.contains("selected");
+
+                if (!isSelected) {
+                    document.querySelectorAll(".song-list li")
+                        .forEach(el => {
+                            el.classList.remove("selected");
+                        });
+
+                    li.classList.add("selected");
+                } else {
+                    window.open(
+                        song.SpotifyURL,
+                        "_blank",
+                        "noopener,noreferrer"
+                    );
+                }
+            });
+        }
+
+        songList.appendChild(li);
+    }
+
+    // ============================================================
+    // SCROLL
+    // ============================================================
+
+    window.addEventListener(
+        "scroll",
+        () => {
+            const scrollTop = window.scrollY;
+            const windowHeight = window.innerHeight;
+            const docHeight =
+                document.documentElement.scrollHeight;
+
+            if (
+                scrollTop + windowHeight >=
+                docHeight - 400
+            ) {
+                if (visibleCount < allSongs.length) {
+                    loadMoreSongs();
+                }
+            }
+        },
+        { passive: true }
+    );
+
+    // ============================================================
+    // COUNTRY SELECT
+    // ============================================================
+
+    const countrySelect =
+        document.getElementById("countrySelect");
+
+    if (countrySelect) {
+        countrySelect.addEventListener(
+            "change",
+            function () {
+                loadCountryData(this.value);
+            }
+        );
+    }
+
+    // ============================================================
+    // INITIAL LOAD
+    // ============================================================
+
+    const initialCountry =
+        countrySelect?.value || "global";
+
+    loadCountryData(initialCountry);
 });
