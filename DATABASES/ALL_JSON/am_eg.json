@@ -2924,7 +2924,7 @@
     "PlatformCode": "apple_music"
   },
   {
-    "SongID": null,
+    "SongID": 1277694,
     "Position": 173,
     "Title": "فين يوجعك",
     "Artist": "Ahmad Amer",
@@ -2934,8 +2934,8 @@
     "ChartDate": "2026-10-17",
     "WeekFolder": "2026-W42",
     "PositionChange": "+8",
-    "SongIDSource": "not_found",
-    "MatchConfidence": 0,
+    "SongIDSource": "spotify_api_title_artist",
+    "MatchConfidence": 98,
     "VersionType": "original",
     "IsRemix": 0,
     "PlatformCode": "apple_music"

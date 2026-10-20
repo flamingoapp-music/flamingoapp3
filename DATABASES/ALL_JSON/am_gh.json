@@ -1105,7 +1105,7 @@
     "PlatformCode": "apple_music"
   },
   {
-    "SongID": null,
+    "SongID": 1274861029,
     "Position": 66,
     "Title": "Biggest Nathaniel",
     "Artist": "Lasmid",
@@ -1115,8 +1115,8 @@
     "ChartDate": "2026-10-17",
     "WeekFolder": "2026-W42",
     "PositionChange": "+2",
-    "SongIDSource": "not_found",
-    "MatchConfidence": 0,
+    "SongIDSource": "spotify_api_title_artist",
+    "MatchConfidence": 100,
     "VersionType": "original",
     "IsRemix": 0,
     "PlatformCode": "apple_music"
